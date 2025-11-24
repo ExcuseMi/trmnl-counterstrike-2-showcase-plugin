@@ -1,0 +1,1 @@
+# trmnl-counterstrike-2-showcase-plugin
