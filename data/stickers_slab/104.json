@@ -1,9 +1,97 @@
 [
   {
-    "id": "sticker_slab-8125",
-    "name": "Sticker Slab | sh1ro | Shanghai 2024",
+    "id": "sticker_slab-6580",
+    "name": "Sticker Slab | qikert (Holo, Champion) | Rio 2022",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8125",
+    "def_index": "6580",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4870",
+        "name": "Rio 2022 Champions Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_fuhOvQ_cs-UHGiF0dF1uOBkXyC8mw5ptWzdz4r6c3_EbAMoC5ZwRuJbsUXsw4XvZbjqsQSIiI9GmH-o3Hkf5zErvbgNZ1YADg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | qikert (Holo, Champion) | Rio 2022",
+    "effect": "Holo",
+    "tournament": {
+      "id": 20,
+      "name": "IEM Rio 2022"
+    },
+    "team": {
+      "id": 109,
+      "tag": "OUT",
+      "geo": "RU",
+      "name": "Outsiders"
+    },
+    "player": {
+      "id": 166970562,
+      "name": "qikert",
+      "code": "qikert",
+      "dob": "1999-01-01",
+      "geo": "KZ"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/rio2022/sig_qikert_holo_champion_1355_37.f10534bc65ef7817eb4ed1dc619eb7bac0c956ca.png",
+    "original": {
+      "name": "rio2022_signature_qikert_32_holo",
+      "image_inventory": "econ/stickers/rio2022/sig_qikert_holo_champion_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6581",
+    "name": "Sticker Slab | qikert (Gold, Champion) | Rio 2022",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6581",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4870",
+        "name": "Rio 2022 Champions Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_fuhOvQ_cs-UHGiF0dF1uOBkXyC8mw5ptWzdz4r6c3_EbAMoC5ZwRuJbsUXsw4XvZbjqsQSIiI9GmH-o3Hkf5zErvbgNZ1YADg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | qikert (Gold, Champion) | Rio 2022",
+    "effect": "Gold",
+    "tournament": {
+      "id": 20,
+      "name": "IEM Rio 2022"
+    },
+    "team": {
+      "id": 109,
+      "tag": "OUT",
+      "geo": "RU",
+      "name": "Outsiders"
+    },
+    "player": {
+      "id": 166970562,
+      "name": "qikert",
+      "code": "qikert",
+      "dob": "1999-01-01",
+      "geo": "KZ"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/rio2022/sig_qikert_gold_champion_1355_37.75074573f29009d9e4f71e66d397b3094a617716.png",
+    "original": {
+      "name": "rio2022_signature_qikert_32_gold",
+      "image_inventory": "econ/stickers/rio2022/sig_qikert_gold_champion_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6582",
+    "name": "Sticker Slab | fame (Champion) | Rio 2022",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6582",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -11,43 +99,43 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4870",
+        "name": "Rio 2022 Champions Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_fuhOvQ_cs-UHGiF0dF1uOBkXyC8mw5ptWzdz4r6c3_EbAMoC5ZwRuJbsUXsw4XvZbjqsQSIiI9GmH-o3Hkf5zErvbgNZ1YADg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sh1ro | Shanghai 2024",
+    "market_hash_name": "Sticker Slab | fame (Champion) | Rio 2022",
     "effect": "Other",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 20,
+      "name": "IEM Rio 2022"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 109,
+      "tag": "OUT",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Outsiders"
     },
     "player": {
-      "id": 121219047,
-      "name": "sh1ro",
-      "code": "sh1ro",
-      "dob": "2001-07-15",
+      "id": 119848818,
+      "name": "fame",
+      "code": "fame",
+      "dob": "1970-01-01",
       "geo": "RU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_sh1ro_1355_37.79681a23a685a330ac02ccdbcf322e65a86f3063.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/rio2022/sig_fame_champion_1355_37.49dbfb095376e6c1bc447b04589e7162df2555ce.png",
     "original": {
-      "name": "sha2024_signature_sh1ro_2",
-      "image_inventory": "econ/stickers/sha2024/sig_sh1ro_1355_37"
+      "name": "rio2022_signature_fame_32",
+      "image_inventory": "econ/stickers/rio2022/sig_fame_champion_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8126",
-    "name": "Sticker Slab | sh1ro (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6583",
+    "name": "Sticker Slab | fame (Glitter, Champion) | Rio 2022",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8126",
+    "def_index": "6583",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -55,43 +143,43 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4870",
+        "name": "Rio 2022 Champions Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_fuhOvQ_cs-UHGiF0dF1uOBkXyC8mw5ptWzdz4r6c3_EbAMoC5ZwRuJbsUXsw4XvZbjqsQSIiI9GmH-o3Hkf5zErvbgNZ1YADg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sh1ro (Glitter) | Shanghai 2024",
+    "market_hash_name": "Sticker Slab | fame (Glitter, Champion) | Rio 2022",
     "effect": "Glitter",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 20,
+      "name": "IEM Rio 2022"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 109,
+      "tag": "OUT",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Outsiders"
     },
     "player": {
-      "id": 121219047,
-      "name": "sh1ro",
-      "code": "sh1ro",
-      "dob": "2001-07-15",
+      "id": 119848818,
+      "name": "fame",
+      "code": "fame",
+      "dob": "1970-01-01",
       "geo": "RU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_sh1ro_glitter_1355_37.7eade333bd455ca66338cd12b24f98caba8e173f.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/rio2022/sig_fame_glitter_champion_1355_37.d2bdcfc83faae97a11d7d1a38181a10804a89a14.png",
     "original": {
-      "name": "sha2024_signature_sh1ro_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_sh1ro_glitter_1355_37"
+      "name": "rio2022_signature_fame_32_glitter",
+      "image_inventory": "econ/stickers/rio2022/sig_fame_glitter_champion_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8127",
-    "name": "Sticker Slab | sh1ro (Holo) | Shanghai 2024",
+    "id": "sticker_slab-6584",
+    "name": "Sticker Slab | fame (Holo, Champion) | Rio 2022",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8127",
+    "def_index": "6584",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -99,43 +187,43 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4870",
+        "name": "Rio 2022 Champions Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_fuhOvQ_cs-UHGiF0dF1uOBkXyC8mw5ptWzdz4r6c3_EbAMoC5ZwRuJbsUXsw4XvZbjqsQSIiI9GmH-o3Hkf5zErvbgNZ1YADg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sh1ro (Holo) | Shanghai 2024",
+    "market_hash_name": "Sticker Slab | fame (Holo, Champion) | Rio 2022",
     "effect": "Holo",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 20,
+      "name": "IEM Rio 2022"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 109,
+      "tag": "OUT",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Outsiders"
     },
     "player": {
-      "id": 121219047,
-      "name": "sh1ro",
-      "code": "sh1ro",
-      "dob": "2001-07-15",
+      "id": 119848818,
+      "name": "fame",
+      "code": "fame",
+      "dob": "1970-01-01",
       "geo": "RU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_sh1ro_holo_1355_37.25a308a630a06815e183983f3e03ff8f585b7fb1.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/rio2022/sig_fame_holo_champion_1355_37.2dd294dad2b27a5d857fcea06059f59f16b0270c.png",
     "original": {
-      "name": "sha2024_signature_sh1ro_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_sh1ro_holo_1355_37"
+      "name": "rio2022_signature_fame_32_holo",
+      "image_inventory": "econ/stickers/rio2022/sig_fame_holo_champion_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8128",
-    "name": "Sticker Slab | sh1ro (Gold) | Shanghai 2024",
+    "id": "sticker_slab-6585",
+    "name": "Sticker Slab | fame (Gold, Champion) | Rio 2022",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8128",
+    "def_index": "6585",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -143,43 +231,43 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4870",
+        "name": "Rio 2022 Champions Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_fuhOvQ_cs-UHGiF0dF1uOBkXyC8mw5ptWzdz4r6c3_EbAMoC5ZwRuJbsUXsw4XvZbjqsQSIiI9GmH-o3Hkf5zErvbgNZ1YADg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sh1ro (Gold) | Shanghai 2024",
+    "market_hash_name": "Sticker Slab | fame (Gold, Champion) | Rio 2022",
     "effect": "Gold",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 20,
+      "name": "IEM Rio 2022"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 109,
+      "tag": "OUT",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Outsiders"
     },
     "player": {
-      "id": 121219047,
-      "name": "sh1ro",
-      "code": "sh1ro",
-      "dob": "2001-07-15",
+      "id": 119848818,
+      "name": "fame",
+      "code": "fame",
+      "dob": "1970-01-01",
       "geo": "RU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_sh1ro_gold_1355_37.f1faad33e399ff1995285a00547e75a16822a3cc.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/rio2022/sig_fame_gold_champion_1355_37.49bcb2e1c275aaac0a233e8301acdce8c364a802.png",
     "original": {
-      "name": "sha2024_signature_sh1ro_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_sh1ro_gold_1355_37"
+      "name": "rio2022_signature_fame_32_gold",
+      "image_inventory": "econ/stickers/rio2022/sig_fame_gold_champion_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8129",
-    "name": "Sticker Slab | zont1x | Shanghai 2024",
+    "id": "sticker_slab-6586",
+    "name": "Sticker Slab | 360 No Scope",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8129",
+    "def_index": "6586",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -187,175 +275,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | zont1x | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | 360 No Scope",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 1035615149,
-      "name": "zont1x",
-      "code": "zont1x",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_zont1x_1355_37.34101a5c9364497a2123671adaf67fbec545a5eb.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/360_no_scope_paper_1355_37.997dfaefbe98a70505376acae175eb6c52f0c75c.png",
     "original": {
-      "name": "sha2024_signature_zont1x_2",
-      "image_inventory": "econ/stickers/sha2024/sig_zont1x_1355_37"
+      "name": "community2022_360_no_scope_paper",
+      "image_inventory": "econ/stickers/community2022/360_no_scope_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8130",
-    "name": "Sticker Slab | zont1x (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6587",
+    "name": "Sticker Slab | Aim And Fire",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8130",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | zont1x (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 1035615149,
-      "name": "zont1x",
-      "code": "zont1x",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_zont1x_glitter_1355_37.6e924a0d08e6ef4bf703adadf3bf0da2b19b9027.png",
-    "original": {
-      "name": "sha2024_signature_zont1x_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_zont1x_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8131",
-    "name": "Sticker Slab | zont1x (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8131",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | zont1x (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 1035615149,
-      "name": "zont1x",
-      "code": "zont1x",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_zont1x_holo_1355_37.9106aa414f4876869e81a7bc56aee4496bfea8bf.png",
-    "original": {
-      "name": "sha2024_signature_zont1x_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_zont1x_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8132",
-    "name": "Sticker Slab | zont1x (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8132",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | zont1x (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 1035615149,
-      "name": "zont1x",
-      "code": "zont1x",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_zont1x_gold_1355_37.3ea307e0533a5fc5aa2201dcbd0720b2ce46ad98.png",
-    "original": {
-      "name": "sha2024_signature_zont1x_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_zont1x_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8133",
-    "name": "Sticker Slab | torzsi | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8133",
+    "def_index": "6587",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -363,175 +302,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | torzsi | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Aim And Fire",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 395473484,
-      "name": "torzsi",
-      "code": "torzsi",
-      "dob": "1970-01-01",
-      "geo": "HU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_torzsi_1355_37.55bf4a5691efe8cc84028196e78e4c373de25e62.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/aim_and_fire_paper_1355_37.f35f63d37d9080d679d31b6896298cb1b8bc0909.png",
     "original": {
-      "name": "sha2024_signature_torzsi_2",
-      "image_inventory": "econ/stickers/sha2024/sig_torzsi_1355_37"
+      "name": "community2022_aim_and_fire_paper",
+      "image_inventory": "econ/stickers/community2022/aim_and_fire_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8134",
-    "name": "Sticker Slab | torzsi (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6588",
+    "name": "Sticker Slab | Batter Up",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8134",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | torzsi (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 395473484,
-      "name": "torzsi",
-      "code": "torzsi",
-      "dob": "1970-01-01",
-      "geo": "HU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_torzsi_glitter_1355_37.3047ee69eae8ebeaf08c15152f6a959a75ec5e1e.png",
-    "original": {
-      "name": "sha2024_signature_torzsi_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_torzsi_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8135",
-    "name": "Sticker Slab | torzsi (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8135",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | torzsi (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 395473484,
-      "name": "torzsi",
-      "code": "torzsi",
-      "dob": "1970-01-01",
-      "geo": "HU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_torzsi_holo_1355_37.06d9b9d4ad05c0dd372e5d39e34c1d39a261c7b1.png",
-    "original": {
-      "name": "sha2024_signature_torzsi_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_torzsi_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8136",
-    "name": "Sticker Slab | torzsi (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8136",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | torzsi (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 395473484,
-      "name": "torzsi",
-      "code": "torzsi",
-      "dob": "1970-01-01",
-      "geo": "HU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_torzsi_gold_1355_37.71070947c666350fea900e44f7aa2851c93b19cd.png",
-    "original": {
-      "name": "sha2024_signature_torzsi_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_torzsi_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8137",
-    "name": "Sticker Slab | xertioN | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8137",
+    "def_index": "6588",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -539,175 +329,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | xertioN | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Batter Up",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 232908406,
-      "name": "xertioN",
-      "code": "xertion",
-      "dob": "1970-01-01",
-      "geo": "IL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_xertion_1355_37.6a6045f9605514cfe559f120f8b4ff91a419ca93.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/batter_up_paper_1355_37.3c922628fe8f358e2acd440d85c43ad1354ac7d0.png",
     "original": {
-      "name": "sha2024_signature_xertion_2",
-      "image_inventory": "econ/stickers/sha2024/sig_xertion_1355_37"
+      "name": "community2022_batter_up_paper",
+      "image_inventory": "econ/stickers/community2022/batter_up_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8138",
-    "name": "Sticker Slab | xertioN (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6589",
+    "name": "Sticker Slab | Sting Like A Butterfly",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8138",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | xertioN (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 232908406,
-      "name": "xertioN",
-      "code": "xertion",
-      "dob": "1970-01-01",
-      "geo": "IL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_xertion_glitter_1355_37.e0fb7f4cc2f80352edde9593dc02fb773672c67d.png",
-    "original": {
-      "name": "sha2024_signature_xertion_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_xertion_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8139",
-    "name": "Sticker Slab | xertioN (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8139",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | xertioN (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 232908406,
-      "name": "xertioN",
-      "code": "xertion",
-      "dob": "1970-01-01",
-      "geo": "IL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_xertion_holo_1355_37.a5e312be109c90beda43d44e5ab5711de28c0f6a.png",
-    "original": {
-      "name": "sha2024_signature_xertion_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_xertion_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8140",
-    "name": "Sticker Slab | xertioN (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8140",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | xertioN (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 232908406,
-      "name": "xertioN",
-      "code": "xertion",
-      "dob": "1970-01-01",
-      "geo": "IL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_xertion_gold_1355_37.d9383c7d8b1f578c9ffdcd8591fcf471c86c9530.png",
-    "original": {
-      "name": "sha2024_signature_xertion_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_xertion_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8141",
-    "name": "Sticker Slab | Brollan | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8141",
+    "def_index": "6589",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -715,175 +356,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Brollan | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Sting Like A Butterfly",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 178562747,
-      "name": "Brollan",
-      "code": "brollan",
-      "dob": "2002-06-17",
-      "geo": "SE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_brollan_1355_37.9b09bd66ea782fe647796b8ac83dc7d143b1db49.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/butterfly_sting_paper_1355_37.7b8723ee0ccaddf9da98c259c568c4ff70a28ddf.png",
     "original": {
-      "name": "sha2024_signature_brollan_2",
-      "image_inventory": "econ/stickers/sha2024/sig_brollan_1355_37"
+      "name": "community2022_butterfly_sting_paper",
+      "image_inventory": "econ/stickers/community2022/butterfly_sting_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8142",
-    "name": "Sticker Slab | Brollan (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6590",
+    "name": "Sticker Slab | Fireball",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8142",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Brollan (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 178562747,
-      "name": "Brollan",
-      "code": "brollan",
-      "dob": "2002-06-17",
-      "geo": "SE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_brollan_glitter_1355_37.0a0a9bc5774917ca6aa635cfaf66f53bbd2aa2e2.png",
-    "original": {
-      "name": "sha2024_signature_brollan_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_brollan_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8143",
-    "name": "Sticker Slab | Brollan (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8143",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Brollan (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 178562747,
-      "name": "Brollan",
-      "code": "brollan",
-      "dob": "2002-06-17",
-      "geo": "SE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_brollan_holo_1355_37.e4caffb804d500e9d45ac1a511e999c853de43ae.png",
-    "original": {
-      "name": "sha2024_signature_brollan_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_brollan_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8144",
-    "name": "Sticker Slab | Brollan (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8144",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Brollan (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 178562747,
-      "name": "Brollan",
-      "code": "brollan",
-      "dob": "2002-06-17",
-      "geo": "SE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_brollan_gold_1355_37.3c2bc55e5ecbad42d200301d31e946ef4bc36daf.png",
-    "original": {
-      "name": "sha2024_signature_brollan_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_brollan_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8145",
-    "name": "Sticker Slab | Jimpphat | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8145",
+    "def_index": "6590",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -891,175 +383,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Jimpphat | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Fireball",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 895109597,
-      "name": "Jimpphat",
-      "code": "jimpphat",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_jimpphat_1355_37.067fd21f0d50ee8c3a634591015fe93fbdeb7315.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/fireball_paper_1355_37.aeea6571987c16b76ddbfa6f91227a7d4e35ad6f.png",
     "original": {
-      "name": "sha2024_signature_jimpphat_2",
-      "image_inventory": "econ/stickers/sha2024/sig_jimpphat_1355_37"
+      "name": "community2022_fireball_paper",
+      "image_inventory": "econ/stickers/community2022/fireball_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8146",
-    "name": "Sticker Slab | Jimpphat (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6591",
+    "name": "Sticker Slab | Explosive Strength",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8146",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Jimpphat (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 895109597,
-      "name": "Jimpphat",
-      "code": "jimpphat",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_jimpphat_glitter_1355_37.8396c26f3ed1ee531d2828ef272f02794aa84246.png",
-    "original": {
-      "name": "sha2024_signature_jimpphat_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_jimpphat_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8147",
-    "name": "Sticker Slab | Jimpphat (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8147",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Jimpphat (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 895109597,
-      "name": "Jimpphat",
-      "code": "jimpphat",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_jimpphat_holo_1355_37.5c193a64c6eb634c09a360b6db3fa572a0f8cae9.png",
-    "original": {
-      "name": "sha2024_signature_jimpphat_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_jimpphat_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8148",
-    "name": "Sticker Slab | Jimpphat (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8148",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Jimpphat (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 895109597,
-      "name": "Jimpphat",
-      "code": "jimpphat",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_jimpphat_gold_1355_37.af50076ec5a5e47b4729269187f6bb38da574b72.png",
-    "original": {
-      "name": "sha2024_signature_jimpphat_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_jimpphat_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8149",
-    "name": "Sticker Slab | siuhy | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8149",
+    "def_index": "6591",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1067,175 +410,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | siuhy | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Explosive Strength",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 190407632,
-      "name": "siuhy",
-      "code": "siuhy",
-      "dob": "1970-01-01",
-      "geo": "PL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_siuhy_1355_37.587893cfdb5101d23c05c9f55b699ab3188cfad7.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dWkuAuoTxL4jKnn7ydV7varV7RsMPWBMTbDlLtJ47YnHHrkwE8m42SDn46vcirCbQB1CJJ5EbUKt0XswNO1P7yz4QXf340WxDK-0H2_W0JsaA",
     "original": {
-      "name": "sha2024_signature_siuhy_2",
-      "image_inventory": "econ/stickers/sha2024/sig_siuhy_1355_37"
+      "name": "community2022_noir_grenade_paper",
+      "image_inventory": "econ/stickers/community2022/noir_grenade_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8150",
-    "name": "Sticker Slab | siuhy (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6592",
+    "name": "Sticker Slab | Not A Bot",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8150",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | siuhy (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 190407632,
-      "name": "siuhy",
-      "code": "siuhy",
-      "dob": "1970-01-01",
-      "geo": "PL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_siuhy_glitter_1355_37.d6d073c78b1e757da22c07a7fab763219fd89918.png",
-    "original": {
-      "name": "sha2024_signature_siuhy_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_siuhy_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8151",
-    "name": "Sticker Slab | siuhy (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8151",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | siuhy (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 190407632,
-      "name": "siuhy",
-      "code": "siuhy",
-      "dob": "1970-01-01",
-      "geo": "PL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_siuhy_holo_1355_37.0814d296d61d052a77fbe85594bb90085f550019.png",
-    "original": {
-      "name": "sha2024_signature_siuhy_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_siuhy_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8152",
-    "name": "Sticker Slab | siuhy (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8152",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | siuhy (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 190407632,
-      "name": "siuhy",
-      "code": "siuhy",
-      "dob": "1970-01-01",
-      "geo": "PL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_siuhy_gold_1355_37.3891e1ec058dafee1556b09e0fb28dec24575334.png",
-    "original": {
-      "name": "sha2024_signature_siuhy_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_siuhy_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8153",
-    "name": "Sticker Slab | karrigan | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8153",
+    "def_index": "6592",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1243,175 +437,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | karrigan | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Not A Bot",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 29164525,
-      "name": "karrigan",
-      "code": "karrigan",
-      "dob": "1990-04-14",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_karrigan_1355_37.b4667bc4ac252b433ae9741d3d1df8391668e42e.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/not_a_bot_paper_1355_37.a757090ac8f731f7d9e4b69896a342c9e7c98155.png",
     "original": {
-      "name": "sha2024_signature_karrigan_2",
-      "image_inventory": "econ/stickers/sha2024/sig_karrigan_1355_37"
+      "name": "community2022_not_a_bot_paper",
+      "image_inventory": "econ/stickers/community2022/not_a_bot_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8154",
-    "name": "Sticker Slab | karrigan (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6593",
+    "name": "Sticker Slab | Knife's Edge",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8154",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | karrigan (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 29164525,
-      "name": "karrigan",
-      "code": "karrigan",
-      "dob": "1990-04-14",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_karrigan_glitter_1355_37.071f626d75b474757959ac38ff056c27c5c2fb18.png",
-    "original": {
-      "name": "sha2024_signature_karrigan_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_karrigan_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8155",
-    "name": "Sticker Slab | karrigan (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8155",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | karrigan (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 29164525,
-      "name": "karrigan",
-      "code": "karrigan",
-      "dob": "1990-04-14",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_karrigan_holo_1355_37.78981e3a537f489387b3a8a3677e081268cf13cf.png",
-    "original": {
-      "name": "sha2024_signature_karrigan_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_karrigan_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8156",
-    "name": "Sticker Slab | karrigan (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8156",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | karrigan (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 29164525,
-      "name": "karrigan",
-      "code": "karrigan",
-      "dob": "1990-04-14",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_karrigan_gold_1355_37.6fed203e26250c5cfbdbe792e63f85e60afb69c3.png",
-    "original": {
-      "name": "sha2024_signature_karrigan_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_karrigan_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8157",
-    "name": "Sticker Slab | rain | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8157",
+    "def_index": "6593",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1419,175 +464,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | rain | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Knife's Edge",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 37085479,
-      "name": "rain",
-      "code": "rain",
-      "dob": "1994-08-27",
-      "geo": "NO"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_rain_1355_37.eeb6ea7af52f4ba0c38436e622ad9ea106f1389e.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/pride_paper_1355_37.2192584d3e3489955391d90332316f502b133063.png",
     "original": {
-      "name": "sha2024_signature_rain_2",
-      "image_inventory": "econ/stickers/sha2024/sig_rain_1355_37"
+      "name": "community2022_pride_paper",
+      "image_inventory": "econ/stickers/community2022/pride_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8158",
-    "name": "Sticker Slab | rain (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6594",
+    "name": "Sticker Slab | Run T, Run",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8158",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | rain (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 37085479,
-      "name": "rain",
-      "code": "rain",
-      "dob": "1994-08-27",
-      "geo": "NO"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_rain_glitter_1355_37.5bba2cb68ed897be21e6aac2ce1848ae07783a31.png",
-    "original": {
-      "name": "sha2024_signature_rain_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_rain_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8159",
-    "name": "Sticker Slab | rain (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8159",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | rain (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 37085479,
-      "name": "rain",
-      "code": "rain",
-      "dob": "1994-08-27",
-      "geo": "NO"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_rain_holo_1355_37.26b062c8ee784c5bf677e3244793f57bff11e643.png",
-    "original": {
-      "name": "sha2024_signature_rain_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_rain_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8160",
-    "name": "Sticker Slab | rain (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8160",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | rain (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 37085479,
-      "name": "rain",
-      "code": "rain",
-      "dob": "1994-08-27",
-      "geo": "NO"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_rain_gold_1355_37.68c62fddb7a0568f407fa86e62612e7a11950c2c.png",
-    "original": {
-      "name": "sha2024_signature_rain_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_rain_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8161",
-    "name": "Sticker Slab | ropz | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8161",
+    "def_index": "6594",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1595,175 +491,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ropz | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Run T, Run",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 31006590,
-      "name": "ropz",
-      "code": "ropz",
-      "dob": "1999-12-22",
-      "geo": "EE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_ropz_1355_37.027cc49b23572345d340fa1a026458553c1cfae2.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/run_t_run_paper_1355_37.4105c9a243ec2bb833ad8ef67104c81d3c16e329.png",
     "original": {
-      "name": "sha2024_signature_ropz_2",
-      "image_inventory": "econ/stickers/sha2024/sig_ropz_1355_37"
+      "name": "community2022_run_t_run_paper",
+      "image_inventory": "econ/stickers/community2022/run_t_run_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8162",
-    "name": "Sticker Slab | ropz (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6595",
+    "name": "Sticker Slab | Spectators",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8162",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ropz (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 31006590,
-      "name": "ropz",
-      "code": "ropz",
-      "dob": "1999-12-22",
-      "geo": "EE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_ropz_glitter_1355_37.8726d55551f4024ddc23d3543e32e0f2a32f7175.png",
-    "original": {
-      "name": "sha2024_signature_ropz_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_ropz_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8163",
-    "name": "Sticker Slab | ropz (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8163",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ropz (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 31006590,
-      "name": "ropz",
-      "code": "ropz",
-      "dob": "1999-12-22",
-      "geo": "EE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_ropz_holo_1355_37.b5b8c19f2e70dc4e7e4d61c1e0a3b0e526ce2b00.png",
-    "original": {
-      "name": "sha2024_signature_ropz_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_ropz_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8164",
-    "name": "Sticker Slab | ropz (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8164",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ropz (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 31006590,
-      "name": "ropz",
-      "code": "ropz",
-      "dob": "1999-12-22",
-      "geo": "EE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_ropz_gold_1355_37.7b07558c8dcb796bfd24811a51fcb5bc0da88c72.png",
-    "original": {
-      "name": "sha2024_signature_ropz_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_ropz_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8165",
-    "name": "Sticker Slab | broky | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8165",
+    "def_index": "6595",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1771,175 +518,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | broky | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Spectators",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 241354762,
-      "name": "broky",
-      "code": "broky",
-      "dob": "2001-02-14",
-      "geo": "LV"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_broky_1355_37.d2866c1bef0256c6aa9967ae72b71b73e8b0bfe1.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dWkuAuoUg30nYLh6S1J_M2-abRoMs_CXTLF_r0h_uA_H3nmzEgksWnRydb_dXuWaA4mDZRzQuVZ4xO_xNGyZb7kswCKjIpbjXKplBuzM-Q",
     "original": {
-      "name": "sha2024_signature_broky_2",
-      "image_inventory": "econ/stickers/sha2024/sig_broky_1355_37"
+      "name": "community2022_spectators_paper",
+      "image_inventory": "econ/stickers/community2022/spectators_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8166",
-    "name": "Sticker Slab | broky (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6596",
+    "name": "Sticker Slab | Zap Cat",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8166",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | broky (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 241354762,
-      "name": "broky",
-      "code": "broky",
-      "dob": "2001-02-14",
-      "geo": "LV"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_broky_glitter_1355_37.2995c026fc76fc79681543bdc4135c29c47a1a98.png",
-    "original": {
-      "name": "sha2024_signature_broky_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_broky_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8167",
-    "name": "Sticker Slab | broky (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8167",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | broky (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 241354762,
-      "name": "broky",
-      "code": "broky",
-      "dob": "2001-02-14",
-      "geo": "LV"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_broky_holo_1355_37.c099e1efd4d13a160bf309b5cb423c32e17729bf.png",
-    "original": {
-      "name": "sha2024_signature_broky_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_broky_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8168",
-    "name": "Sticker Slab | broky (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8168",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | broky (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 241354762,
-      "name": "broky",
-      "code": "broky",
-      "dob": "2001-02-14",
-      "geo": "LV"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_broky_gold_1355_37.744cc9d896448bf4e67b528e02436fd28c8f29fe.png",
-    "original": {
-      "name": "sha2024_signature_broky_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_broky_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8169",
-    "name": "Sticker Slab | frozen | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8169",
+    "def_index": "6596",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1947,175 +545,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | frozen | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Zap Cat",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 108157034,
-      "name": "frozen",
-      "code": "frozen",
-      "dob": "2002-07-18",
-      "geo": "SK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_frozen_1355_37.0c0c9958b5ed7f223643d70f407b504202a13a40.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/thundercat_paper_1355_37.8df899f501134bbe8b0ea3e7ef871738e88e1e08.png",
     "original": {
-      "name": "sha2024_signature_frozen_2",
-      "image_inventory": "econ/stickers/sha2024/sig_frozen_1355_37"
+      "name": "community2022_thundercat_paper",
+      "image_inventory": "econ/stickers/community2022/thundercat_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8170",
-    "name": "Sticker Slab | frozen (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6597",
+    "name": "Sticker Slab | Well Played",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8170",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | frozen (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 108157034,
-      "name": "frozen",
-      "code": "frozen",
-      "dob": "2002-07-18",
-      "geo": "SK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_frozen_glitter_1355_37.65a6724b05df3f6eca435851b36cff964214b643.png",
-    "original": {
-      "name": "sha2024_signature_frozen_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_frozen_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8171",
-    "name": "Sticker Slab | frozen (Holo) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8171",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | frozen (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 108157034,
-      "name": "frozen",
-      "code": "frozen",
-      "dob": "2002-07-18",
-      "geo": "SK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_frozen_holo_1355_37.5bca75767ecfe15baa442b2aec9977679e39be28.png",
-    "original": {
-      "name": "sha2024_signature_frozen_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_frozen_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8172",
-    "name": "Sticker Slab | frozen (Gold) | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8172",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | frozen (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "player": {
-      "id": 108157034,
-      "name": "frozen",
-      "code": "frozen",
-      "dob": "2002-07-18",
-      "geo": "SK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_frozen_gold_1355_37.7290ec2fcd3b59e98cc4b01be60d846e99cbcfd0.png",
-    "original": {
-      "name": "sha2024_signature_frozen_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_frozen_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8173",
-    "name": "Sticker Slab | TeSeS | Shanghai 2024",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8173",
+    "def_index": "6597",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -2123,43 +572,26 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | TeSeS | Shanghai 2024",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Well Played",
     "effect": "Other",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
-    },
-    "player": {
-      "id": 36412550,
-      "name": "TeSeS",
-      "code": "teses",
-      "dob": "2000-12-12",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_teses_1355_37.1defbc027301dcbbe65186e7e41c3b666e403c3c.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/well_played_paper_1355_37.8b16069d67ec7d8da5a6326fa06c4b8343222126.png",
     "original": {
-      "name": "sha2024_signature_teses_2",
-      "image_inventory": "econ/stickers/sha2024/sig_teses_1355_37"
+      "name": "community2022_well_played_paper",
+      "image_inventory": "econ/stickers/community2022/well_played_paper_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8174",
-    "name": "Sticker Slab | TeSeS (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6598",
+    "name": "Sticker Slab | Cyber Chicken (Holo)",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8174",
+    "def_index": "6598",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -2167,43 +599,161 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | TeSeS (Glitter) | Shanghai 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
-    },
-    "player": {
-      "id": 36412550,
-      "name": "TeSeS",
-      "code": "teses",
-      "dob": "2000-12-12",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_teses_glitter_1355_37.a91cf03841cf7ce76846a61b0c2725b97c427953.png",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Cyber Chicken (Holo)",
+    "effect": "Holo",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/cyber_chicken_holo_1355_37.d5c5d138fdb03296c16d6187ffb7d57d4132cdde.png",
     "original": {
-      "name": "sha2024_signature_teses_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_teses_glitter_1355_37"
+      "name": "community2022_cyber_chicken_holo",
+      "image_inventory": "econ/stickers/community2022/cyber_chicken_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8175",
-    "name": "Sticker Slab | TeSeS (Holo) | Shanghai 2024",
+    "id": "sticker_slab-6599",
+    "name": "Sticker Slab | Mind Games (Holo)",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8175",
+    "def_index": "6599",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Mind Games (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dWkuAuoSBPOh5n17x1T6vOqV6xiLP-sXzTFlNEl5688TnHnwhx142_dmNmvJXqQP1JzDcFxRe8JtRK9lYfiZuPr4gCKjoxN02yg2TbfktIk",
+    "original": {
+      "name": "community2022_in_your_head_holo",
+      "image_inventory": "econ/stickers/community2022/in_your_head_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6600",
+    "name": "Sticker Slab | Infinite Triangle (Holo)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6600",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Infinite Triangle (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dWkuAuoSBP3l5jp6Sdk--CnaapqLPWsBmicztEn47Q8cHrk20tz5mrTz479J3jGPAUkXsBxE7EN5BO9kNW1Nrvn5g2Kio8Ryiz5h3hXrnE8hu1aYhw",
+    "original": {
+      "name": "community2022_infinite_triangle_holo",
+      "image_inventory": "econ/stickers/community2022/infinite_triangle_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6601",
+    "name": "Sticker Slab | Salty (Holo)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6601",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Salty (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dWkuAuoUhz9io_f9S1X4M3_O_E4H6PEQDXHmLx0tbhvSirnlEwk5m7Sytv7eCjFOlcjA8F2RrQIsBG-wNS0Zbv8p1uJPD1nu_Y",
+    "original": {
+      "name": "community2022_salty_holo",
+      "image_inventory": "econ/stickers/community2022/salty_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6602",
+    "name": "Sticker Slab | Snowfall (Glitter)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6602",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Snowfall (Glitter)",
+    "effect": "Glitter",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/snow_glitter_1355_37.7fec5fd15572926352bf31ca5a9c616a6c61b4b2.png",
+    "original": {
+      "name": "community2022_snow_glitter",
+      "image_inventory": "econ/stickers/community2022/snow_glitter_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6603",
+    "name": "Sticker Slab | Street Artist (Glitter)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6603",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Street Artist (Glitter)",
+    "effect": "Glitter",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/street_artist_glitter_1355_37.9d19bf1fdc09dc8abb39224e5710ca28bd86e9dd.png",
+    "original": {
+      "name": "community2022_street_artist_glitter",
+      "image_inventory": "econ/stickers/community2022/street_artist_glitter_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6604",
+    "name": "Sticker Slab | Hidden Hero (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6604",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -2211,87 +761,101 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | TeSeS (Holo) | Shanghai 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
-    },
-    "player": {
-      "id": 36412550,
-      "name": "TeSeS",
-      "code": "teses",
-      "dob": "2000-12-12",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_teses_holo_1355_37.da8abed0895abd4f600575d6393e9449c69f5e35.png",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Hidden Hero (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dWkuAuoTxT_lJff7i9U5Pe9V6JiKfysXzTFlNEl569sTHjmzR52tm3Ry4v9Iiiebw4pD5R0RLELtBLpmoDgYbuwtALdjN8X02yg2dZBf79h",
     "original": {
-      "name": "sha2024_signature_teses_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_teses_holo_1355_37"
+      "name": "community2022_ninja_smokes_foil",
+      "image_inventory": "econ/stickers/community2022/ninja_smokes_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8176",
-    "name": "Sticker Slab | TeSeS (Gold) | Shanghai 2024",
+    "id": "sticker_slab-6605",
+    "name": "Sticker Slab | Ethereal Gaze (Foil)",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8176",
+    "def_index": "6605",
     "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | TeSeS (Gold) | Shanghai 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
-    },
-    "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
-    },
-    "player": {
-      "id": 36412550,
-      "name": "TeSeS",
-      "code": "teses",
-      "dob": "2000-12-12",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_teses_gold_1355_37.a4306c8473b65aa55eb3b379714cc9d5b5782853.png",
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Ethereal Gaze (Foil)",
+    "effect": "Foil",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/old_eye_foil_1355_37.9ac668fecb0574b39fc8226fe7b5e715d5310c29.png",
     "original": {
-      "name": "sha2024_signature_teses_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_teses_gold_1355_37"
+      "name": "community2022_old_eye_foil",
+      "image_inventory": "econ/stickers/community2022/old_eye_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8177",
-    "name": "Sticker Slab | sjuush | Shanghai 2024",
+    "id": "sticker_slab-6606",
+    "name": "Sticker Slab | Peek Me (Foil)",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8177",
+    "def_index": "6606",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4879",
+        "name": "Espionage Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKXDfCk9F1sfF6WiW22x5z5W-DmIr9IC6QagAkXJR2Q-9Zs0W6xNLnMeq3tQKKjY9EzCv82ihXrnE8ooX0clM"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Peek Me (Foil)",
+    "effect": "Foil",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community2022/peek_foil_1355_37.2fee6ec1cdb4c6dd544153488070eedac5cc5982.png",
+    "original": {
+      "name": "community2022_peek_foil",
+      "image_inventory": "econ/stickers/community2022/peek_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6607",
+    "name": "Sticker Slab | Anubis (Gold)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6607",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/tournament_assets/de_anubis_gold_1355_37.4f1b1172fb87ee58dd4d907612a19bf680019fda.png",
+    "original": {
+      "name": "de_anubis_gold",
+      "image_inventory": "econ/stickers/tournament_assets/de_anubis_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6608",
+    "name": "Sticker Slab | Fnatic | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6608",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -2299,43 +863,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sjuush | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Fnatic | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
+      "id": 6,
+      "tag": "Fntc",
       "geo": "SE",
-      "name": "HEROIC"
+      "name": "Fnatic"
     },
-    "player": {
-      "id": 200443857,
-      "name": "sjuush",
-      "code": "sjuush",
-      "dob": "1999-01-03",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_sjuush_1355_37.0c6b6025aedcd1b4c0b0e217691f995d5818d5d1.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/fntc_1355_37.feb4b91619a4379013e1a4be8bc5d51866688c85.png",
     "original": {
-      "name": "sha2024_signature_sjuush_2",
-      "image_inventory": "econ/stickers/sha2024/sig_sjuush_1355_37"
+      "name": "paris2023_team_fntc",
+      "image_inventory": "econ/stickers/paris2023/fntc_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8178",
-    "name": "Sticker Slab | sjuush (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6609",
+    "name": "Sticker Slab | Fnatic (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8178",
+    "def_index": "6609",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -2343,43 +900,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sjuush (Glitter) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Fnatic (Glitter) | Paris 2023",
     "effect": "Glitter",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
+      "id": 6,
+      "tag": "Fntc",
       "geo": "SE",
-      "name": "HEROIC"
+      "name": "Fnatic"
     },
-    "player": {
-      "id": 200443857,
-      "name": "sjuush",
-      "code": "sjuush",
-      "dob": "1999-01-03",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_sjuush_glitter_1355_37.b92beebc0e12a68a07010e79002724f6ebae24ec.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/fntc_glitter_1355_37.eb7ade6886bd1d68157e01dce127a82ed40299b9.png",
     "original": {
-      "name": "sha2024_signature_sjuush_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_sjuush_glitter_1355_37"
+      "name": "paris2023_team_fntc_glitter",
+      "image_inventory": "econ/stickers/paris2023/fntc_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8179",
-    "name": "Sticker Slab | sjuush (Holo) | Shanghai 2024",
+    "id": "sticker_slab-6610",
+    "name": "Sticker Slab | Fnatic (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8179",
+    "def_index": "6610",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -2387,43 +937,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sjuush (Holo) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Fnatic (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
+      "id": 6,
+      "tag": "Fntc",
       "geo": "SE",
-      "name": "HEROIC"
+      "name": "Fnatic"
     },
-    "player": {
-      "id": 200443857,
-      "name": "sjuush",
-      "code": "sjuush",
-      "dob": "1999-01-03",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_sjuush_holo_1355_37.5de2185d363e31fbccd54e793beaa7a50c7bf41e.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/fntc_holo_1355_37.70741ef7262dc9aeacd9c8d2124e5dbcfcaecaec.png",
     "original": {
-      "name": "sha2024_signature_sjuush_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_sjuush_holo_1355_37"
+      "name": "paris2023_team_fntc_holo",
+      "image_inventory": "econ/stickers/paris2023/fntc_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8180",
-    "name": "Sticker Slab | sjuush (Gold) | Shanghai 2024",
+    "id": "sticker_slab-6611",
+    "name": "Sticker Slab | Fnatic (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8180",
+    "def_index": "6611",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -2431,43 +974,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sjuush (Gold) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Fnatic (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
+      "id": 6,
+      "tag": "Fntc",
       "geo": "SE",
-      "name": "HEROIC"
+      "name": "Fnatic"
     },
-    "player": {
-      "id": 200443857,
-      "name": "sjuush",
-      "code": "sjuush",
-      "dob": "1999-01-03",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_sjuush_gold_1355_37.b49060eab10f4d8a16cdd3fd898f02d336680172.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/fntc_gold_1355_37.7d9aedf6e63e251c94db760a1091bb346ce22600.png",
     "original": {
-      "name": "sha2024_signature_sjuush_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_sjuush_gold_1355_37"
+      "name": "paris2023_team_fntc_gold",
+      "image_inventory": "econ/stickers/paris2023/fntc_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8181",
-    "name": "Sticker Slab | kyxsan | Shanghai 2024",
+    "id": "sticker_slab-6612",
+    "name": "Sticker Slab | Natus Vincere | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8181",
+    "def_index": "6612",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -2475,43 +1011,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | kyxsan | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Natus Vincere | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
     },
-    "player": {
-      "id": 97016704,
-      "name": "kyxsan",
-      "code": "kyxsan",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_kyxsan_1355_37.73b582475378e5161ca20d45c6a881e9834939e4.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/navi_1355_37.777e2e1b12805a1aeedfbb4b8107e55d5523e458.png",
     "original": {
-      "name": "sha2024_signature_kyxsan_2",
-      "image_inventory": "econ/stickers/sha2024/sig_kyxsan_1355_37"
+      "name": "paris2023_team_navi",
+      "image_inventory": "econ/stickers/paris2023/navi_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8182",
-    "name": "Sticker Slab | kyxsan (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6613",
+    "name": "Sticker Slab | Natus Vincere (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8182",
+    "def_index": "6613",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -2519,43 +1048,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | kyxsan (Glitter) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Natus Vincere (Glitter) | Paris 2023",
     "effect": "Glitter",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
     },
-    "player": {
-      "id": 97016704,
-      "name": "kyxsan",
-      "code": "kyxsan",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_kyxsan_glitter_1355_37.b93451b8d2228e4a3ae76223645dacaa84dcb8aa.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/navi_glitter_1355_37.ffb571d558aaa4a167bfc56018f720601b270b57.png",
     "original": {
-      "name": "sha2024_signature_kyxsan_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_kyxsan_glitter_1355_37"
+      "name": "paris2023_team_navi_glitter",
+      "image_inventory": "econ/stickers/paris2023/navi_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8183",
-    "name": "Sticker Slab | kyxsan (Holo) | Shanghai 2024",
+    "id": "sticker_slab-6614",
+    "name": "Sticker Slab | Natus Vincere (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8183",
+    "def_index": "6614",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -2563,43 +1085,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | kyxsan (Holo) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Natus Vincere (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
     },
-    "player": {
-      "id": 97016704,
-      "name": "kyxsan",
-      "code": "kyxsan",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_kyxsan_holo_1355_37.56529e206d024f49a469d159a6480f9db31ed650.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/navi_holo_1355_37.33f5964d3442d71790b3f677e09b7a7a8782fce4.png",
     "original": {
-      "name": "sha2024_signature_kyxsan_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_kyxsan_holo_1355_37"
+      "name": "paris2023_team_navi_holo",
+      "image_inventory": "econ/stickers/paris2023/navi_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8184",
-    "name": "Sticker Slab | kyxsan (Gold) | Shanghai 2024",
+    "id": "sticker_slab-6615",
+    "name": "Sticker Slab | Natus Vincere (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8184",
+    "def_index": "6615",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -2607,43 +1122,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | kyxsan (Gold) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Natus Vincere (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
     },
-    "player": {
-      "id": 97016704,
-      "name": "kyxsan",
-      "code": "kyxsan",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_kyxsan_gold_1355_37.3f1e67b32b16d601bde5afa9007e116c635926e6.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/navi_gold_1355_37.ff678dd1d3fce2425677b73bcdfd30685c667eb2.png",
     "original": {
-      "name": "sha2024_signature_kyxsan_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_kyxsan_gold_1355_37"
+      "name": "paris2023_team_navi_gold",
+      "image_inventory": "econ/stickers/paris2023/navi_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8185",
-    "name": "Sticker Slab | NertZ | Shanghai 2024",
+    "id": "sticker_slab-6616",
+    "name": "Sticker Slab | FURIA | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8185",
+    "def_index": "6616",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -2651,43 +1159,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | NertZ | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | FURIA | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 85,
+      "tag": "FURI",
+      "geo": "US",
+      "name": "FURIA"
     },
-    "player": {
-      "id": 92860917,
-      "name": "NertZ",
-      "code": "nertz",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_nertz_1355_37.353f004e100661598f489fc92faabdbaf141be21.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy_0vufkyiy8PfrnUVvfP_OPM4c6GRXzTIkL135uIxSyvnkBt2tWqAzNeuci6ROwYkWMNxEPlK7EfAc6fbMg",
     "original": {
-      "name": "sha2024_signature_nertz_2",
-      "image_inventory": "econ/stickers/sha2024/sig_nertz_1355_37"
+      "name": "paris2023_team_furi",
+      "image_inventory": "econ/stickers/paris2023/furi_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8186",
-    "name": "Sticker Slab | NertZ (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6617",
+    "name": "Sticker Slab | FURIA (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8186",
+    "def_index": "6617",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -2695,43 +1196,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | NertZ (Glitter) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | FURIA (Glitter) | Paris 2023",
     "effect": "Glitter",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 85,
+      "tag": "FURI",
+      "geo": "US",
+      "name": "FURIA"
     },
-    "player": {
-      "id": 92860917,
-      "name": "NertZ",
-      "code": "nertz",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_nertz_glitter_1355_37.b3a2b4dea9dd8d240e519a057b4cf2e20de0a9cb.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/furi_glitter_1355_37.ffcb3c3206789464c59e3239e99a8fe8a0721135.png",
     "original": {
-      "name": "sha2024_signature_nertz_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_nertz_glitter_1355_37"
+      "name": "paris2023_team_furi_glitter",
+      "image_inventory": "econ/stickers/paris2023/furi_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8187",
-    "name": "Sticker Slab | NertZ (Holo) | Shanghai 2024",
+    "id": "sticker_slab-6618",
+    "name": "Sticker Slab | FURIA (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8187",
+    "def_index": "6618",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -2739,43 +1233,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | NertZ (Holo) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | FURIA (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 85,
+      "tag": "FURI",
+      "geo": "US",
+      "name": "FURIA"
     },
-    "player": {
-      "id": 92860917,
-      "name": "NertZ",
-      "code": "nertz",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_nertz_holo_1355_37.e6e149393c14cd742a9e26449c0963483445e855.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/furi_holo_1355_37.285b93716a022c280f667275c73358954a89b00a.png",
     "original": {
-      "name": "sha2024_signature_nertz_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_nertz_holo_1355_37"
+      "name": "paris2023_team_furi_holo",
+      "image_inventory": "econ/stickers/paris2023/furi_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8188",
-    "name": "Sticker Slab | NertZ (Gold) | Shanghai 2024",
+    "id": "sticker_slab-6619",
+    "name": "Sticker Slab | FURIA (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8188",
+    "def_index": "6619",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -2783,43 +1270,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | NertZ (Gold) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | FURIA (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 85,
+      "tag": "FURI",
+      "geo": "US",
+      "name": "FURIA"
     },
-    "player": {
-      "id": 92860917,
-      "name": "NertZ",
-      "code": "nertz",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_nertz_gold_1355_37.35f8a757513ac94e8d7177b22e4dfe46c9169e01.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/furi_gold_1355_37.d597dc3f6716c1bb295e1a2551c036cdf1111110.png",
     "original": {
-      "name": "sha2024_signature_nertz_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_nertz_gold_1355_37"
+      "name": "paris2023_team_furi_gold",
+      "image_inventory": "econ/stickers/paris2023/furi_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8189",
-    "name": "Sticker Slab | degster | Shanghai 2024",
+    "id": "sticker_slab-6620",
+    "name": "Sticker Slab | Vitality | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8189",
+    "def_index": "6620",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -2827,43 +1307,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | degster | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Vitality | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 89,
+      "tag": "VITA",
+      "geo": "FR",
+      "name": "Vitality"
     },
-    "player": {
-      "id": 839074394,
-      "name": "degster",
-      "code": "degster",
-      "dob": "2001-07-21",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_degster_1355_37.c262d33146d791cc0ea19a352c944d34c65b1ff1.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8ji403mfkyiy8PfrnUVt_P2afE4cKnCXmSVlLl147dsSnvglB4m5mjUzYuqdHzBb1QmW5VyE_lK7EeBhrc4qA",
     "original": {
-      "name": "sha2024_signature_degster_2",
-      "image_inventory": "econ/stickers/sha2024/sig_degster_1355_37"
+      "name": "paris2023_team_vita",
+      "image_inventory": "econ/stickers/paris2023/vita_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8190",
-    "name": "Sticker Slab | degster (Glitter) | Shanghai 2024",
+    "id": "sticker_slab-6621",
+    "name": "Sticker Slab | Vitality (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8190",
+    "def_index": "6621",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -2871,43 +1344,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | degster (Glitter) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Vitality (Glitter) | Paris 2023",
     "effect": "Glitter",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 89,
+      "tag": "VITA",
+      "geo": "FR",
+      "name": "Vitality"
     },
-    "player": {
-      "id": 839074394,
-      "name": "degster",
-      "code": "degster",
-      "dob": "2001-07-21",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_degster_glitter_1355_37.df92be7615c877b9a735082e24591878f565e6b6.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/vita_glitter_1355_37.ec5e96495ed738b8d1e5dd2d5bf4e8b1a97acc79.png",
     "original": {
-      "name": "sha2024_signature_degster_2_glitter",
-      "image_inventory": "econ/stickers/sha2024/sig_degster_glitter_1355_37"
+      "name": "paris2023_team_vita_glitter",
+      "image_inventory": "econ/stickers/paris2023/vita_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8191",
-    "name": "Sticker Slab | degster (Holo) | Shanghai 2024",
+    "id": "sticker_slab-6622",
+    "name": "Sticker Slab | Vitality (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8191",
+    "def_index": "6622",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -2915,43 +1381,36 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | degster (Holo) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Vitality (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 89,
+      "tag": "VITA",
+      "geo": "FR",
+      "name": "Vitality"
     },
-    "player": {
-      "id": 839074394,
-      "name": "degster",
-      "code": "degster",
-      "dob": "2001-07-21",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_degster_holo_1355_37.da5810b597d93f291e4aebd707b4d765edba5e3d.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/vita_holo_1355_37.f9082bc2e17328a3ce3a2200a6298ab07e14da2c.png",
     "original": {
-      "name": "sha2024_signature_degster_2_holo",
-      "image_inventory": "econ/stickers/sha2024/sig_degster_holo_1355_37"
+      "name": "paris2023_team_vita_holo",
+      "image_inventory": "econ/stickers/paris2023/vita_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8192",
-    "name": "Sticker Slab | degster (Gold) | Shanghai 2024",
+    "id": "sticker_slab-6623",
+    "name": "Sticker Slab | Vitality (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8192",
+    "def_index": "6623",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -2959,18 +1418,55 @@
     },
     "crates": [
       {
-        "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjYLp_ile_c2-aadmH-ObDzXAk7pJt_NmWjmMmRggtjOBicGpd3zFbQQlCMR5R-EOsxm7moLuP7_n4wWK2NgTyn_-hykf7Xk64elRT-N7rWMklBiQ"
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
       }
     ],
     "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | degster (Gold) | Shanghai 2024",
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Vitality (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 23,
-      "name": "Perfect World Shanghai 2024"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 89,
+      "tag": "VITA",
+      "geo": "FR",
+      "name": "Vitality"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/vita_gold_1355_37.b37e6f963b0e70e19e6519c3b1488d45fd28d527.png",
+    "original": {
+      "name": "paris2023_team_vita_gold",
+      "image_inventory": "econ/stickers/paris2023/vita_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6624",
+    "name": "Sticker Slab | Heroic | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6624",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Heroic | Paris 2023",
+    "effect": "Other",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
       "id": 95,
@@ -2978,17 +1474,594 @@
       "geo": "SE",
       "name": "HEROIC"
     },
-    "player": {
-      "id": 839074394,
-      "name": "degster",
-      "code": "degster",
-      "dob": "2001-07-21",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sha2024/sig_degster_gold_1355_37.6950c3fc71c49a1e3bbd1bfda5665f640565f24f.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/hero_1355_37.814c9a4032657cfea02f6c87825ef9f0bf29aaa3.png",
     "original": {
-      "name": "sha2024_signature_degster_2_gold",
-      "image_inventory": "econ/stickers/sha2024/sig_degster_gold_1355_37"
+      "name": "paris2023_team_hero",
+      "image_inventory": "econ/stickers/paris2023/hero_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6625",
+    "name": "Sticker Slab | Heroic (Glitter) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6625",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Heroic (Glitter) | Paris 2023",
+    "effect": "Glitter",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 95,
+      "tag": "HERO",
+      "geo": "SE",
+      "name": "HEROIC"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/hero_glitter_1355_37.f3bc779a376474cbd08d6dd4e27466f3822471e2.png",
+    "original": {
+      "name": "paris2023_team_hero_glitter",
+      "image_inventory": "econ/stickers/paris2023/hero_glitter_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6626",
+    "name": "Sticker Slab | Heroic (Holo) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6626",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Heroic (Holo) | Paris 2023",
+    "effect": "Holo",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 95,
+      "tag": "HERO",
+      "geo": "SE",
+      "name": "HEROIC"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/hero_holo_1355_37.5b5c63c1cdde997f7a9c31fc987df661d7da5ee2.png",
+    "original": {
+      "name": "paris2023_team_hero_holo",
+      "image_inventory": "econ/stickers/paris2023/hero_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6627",
+    "name": "Sticker Slab | Heroic (Gold) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6627",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Heroic (Gold) | Paris 2023",
+    "effect": "Gold",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 95,
+      "tag": "HERO",
+      "geo": "SE",
+      "name": "HEROIC"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/hero_gold_1355_37.d309e00387294caf3fde0773af3d21b0c16097c9.png",
+    "original": {
+      "name": "paris2023_team_hero_gold",
+      "image_inventory": "econ/stickers/paris2023/hero_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6628",
+    "name": "Sticker Slab | Bad News Eagles | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6628",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Bad News Eagles | Paris 2023",
+    "effect": "Other",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 114,
+      "tag": "BNE",
+      "geo": "XK",
+      "name": "Bad News Eagles"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/bne_1355_37.78c1b44ead7506e480c8f768cce9f24861d14d18.png",
+    "original": {
+      "name": "paris2023_team_bne",
+      "image_inventory": "econ/stickers/paris2023/bne_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6629",
+    "name": "Sticker Slab | Bad News Eagles (Glitter) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6629",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Bad News Eagles (Glitter) | Paris 2023",
+    "effect": "Glitter",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 114,
+      "tag": "BNE",
+      "geo": "XK",
+      "name": "Bad News Eagles"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/bne_glitter_1355_37.d09fa9ccee49d2b4ceab6b9aa7afa8d758ffe819.png",
+    "original": {
+      "name": "paris2023_team_bne_glitter",
+      "image_inventory": "econ/stickers/paris2023/bne_glitter_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6630",
+    "name": "Sticker Slab | Bad News Eagles (Holo) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6630",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Bad News Eagles (Holo) | Paris 2023",
+    "effect": "Holo",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 114,
+      "tag": "BNE",
+      "geo": "XK",
+      "name": "Bad News Eagles"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/bne_holo_1355_37.2f5614ad6f44f6cde3bab9fe1b9dd8c8465ac9fd.png",
+    "original": {
+      "name": "paris2023_team_bne_holo",
+      "image_inventory": "econ/stickers/paris2023/bne_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6631",
+    "name": "Sticker Slab | Bad News Eagles (Gold) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6631",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Bad News Eagles (Gold) | Paris 2023",
+    "effect": "Gold",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 114,
+      "tag": "BNE",
+      "geo": "XK",
+      "name": "Bad News Eagles"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/bne_gold_1355_37.ade2e2d793b684921a8a7e69cd4755d12c7e94d2.png",
+    "original": {
+      "name": "paris2023_team_bne_gold",
+      "image_inventory": "econ/stickers/paris2023/bne_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6632",
+    "name": "Sticker Slab | Into The Breach | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6632",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Into The Breach | Paris 2023",
+    "effect": "Other",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 118,
+      "tag": "ITB",
+      "name": "Into The Breach"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/itb_1355_37.5452622d39032952d9a3db4a1fd3d5a56ed2f7d7.png",
+    "original": {
+      "name": "paris2023_team_itb",
+      "image_inventory": "econ/stickers/paris2023/itb_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6633",
+    "name": "Sticker Slab | Into The Breach (Glitter) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6633",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Into The Breach (Glitter) | Paris 2023",
+    "effect": "Glitter",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 118,
+      "tag": "ITB",
+      "name": "Into The Breach"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/itb_glitter_1355_37.de59b7456b554fd765dde0804acefe04a767a33f.png",
+    "original": {
+      "name": "paris2023_team_itb_glitter",
+      "image_inventory": "econ/stickers/paris2023/itb_glitter_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6634",
+    "name": "Sticker Slab | Into The Breach (Holo) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6634",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Into The Breach (Holo) | Paris 2023",
+    "effect": "Holo",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 118,
+      "tag": "ITB",
+      "name": "Into The Breach"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/itb_holo_1355_37.d4f702a345dd07ccec6a71ed2f10dc6aa333a63e.png",
+    "original": {
+      "name": "paris2023_team_itb_holo",
+      "image_inventory": "econ/stickers/paris2023/itb_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6635",
+    "name": "Sticker Slab | Into The Breach (Gold) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6635",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Into The Breach (Gold) | Paris 2023",
+    "effect": "Gold",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 118,
+      "tag": "ITB",
+      "name": "Into The Breach"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/itb_gold_1355_37.c3231e4e52bb4c42d70897b907b5c1874f845a44.png",
+    "original": {
+      "name": "paris2023_team_itb_gold",
+      "image_inventory": "econ/stickers/paris2023/itb_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6636",
+    "name": "Sticker Slab | 9INE | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6636",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | 9INE | Paris 2023",
+    "effect": "Other",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 120,
+      "tag": "NEIN",
+      "name": "9INE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/nein_1355_37.fdea3c32167507ede03bd04cbe3a121e5f4fdfa3.png",
+    "original": {
+      "name": "paris2023_team_nein",
+      "image_inventory": "econ/stickers/paris2023/nein_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6637",
+    "name": "Sticker Slab | 9INE (Glitter) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6637",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | 9INE (Glitter) | Paris 2023",
+    "effect": "Glitter",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 120,
+      "tag": "NEIN",
+      "name": "9INE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/nein_glitter_1355_37.ce743472e7941cad26d3b5e26a9b5bff66251cdd.png",
+    "original": {
+      "name": "paris2023_team_nein_glitter",
+      "image_inventory": "econ/stickers/paris2023/nein_glitter_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6638",
+    "name": "Sticker Slab | 9INE (Holo) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6638",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | 9INE (Holo) | Paris 2023",
+    "effect": "Holo",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 120,
+      "tag": "NEIN",
+      "name": "9INE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/nein_holo_1355_37.44c7554c5a5dc6f184719697ba2bf0582ffdc9a2.png",
+    "original": {
+      "name": "paris2023_team_nein_holo",
+      "image_inventory": "econ/stickers/paris2023/nein_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6639",
+    "name": "Sticker Slab | 9INE (Gold) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6639",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4890",
+        "name": "Paris 2023 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | 9INE (Gold) | Paris 2023",
+    "effect": "Gold",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 120,
+      "tag": "NEIN",
+      "name": "9INE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/nein_gold_1355_37.8fa63b14949b921f964a84b936e0b47e4b4cf00c.png",
+    "original": {
+      "name": "paris2023_team_nein_gold",
+      "image_inventory": "econ/stickers/paris2023/nein_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-6640",
+    "name": "Sticker Slab | Ninjas in Pyjamas | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "6640",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4891",
+        "name": "Paris 2023 Challengers Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWSYwOJ6te9uSjug2x8isG7czNageS2VaAIoD8ZxRbYNsBa4x9XvZO7r4wyK395AmS782H5XrnE8Sh4_4i8"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas | Paris 2023",
+    "effect": "Other",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/nip_1355_37.b8a84a75a94e041e248acdd1533f5844bdf25b9e.png",
+    "original": {
+      "name": "paris2023_team_nip",
+      "image_inventory": "econ/stickers/paris2023/nip_1355_37"
     }
   }
 ]

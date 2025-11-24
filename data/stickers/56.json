@@ -1,9 +1,53 @@
 [
   {
-    "id": "sticker-3820",
-    "name": "Sticker | Ethan (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Ethan Arnold playing for NRG at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3820",
+    "id": "sticker-3125",
+    "name": "Sticker | coldzera | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Marcelo David playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3125",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | coldzera | London 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "player": {
+      "id": 79720871,
+      "name": "coldzera",
+      "code": "coldzera",
+      "dob": "1994-10-31",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh7-kpL6-DBaoaavPfY0I6TCDD6SlO0ktrY6HXG2wB9wtj7Uztj6cyjGOAQlXsRxF-IU8k7vo0QyYzA",
+    "original": {
+      "name": "london2018_signature_coldzera",
+      "image_inventory": "econ/stickers/london2018/sig_coldzera"
+    }
+  },
+  {
+    "id": "sticker-3126",
+    "name": "Sticker | coldzera (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Marcelo David playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3126",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -11,175 +55,307 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Ethan (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | coldzera (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 87,
-      "tag": "NRG",
-      "geo": "US",
-      "name": "NRG"
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
     },
     "player": {
-      "id": 169177802,
-      "name": "Ethan",
-      "code": "ethan",
-      "dob": "2000-03-02",
+      "id": 79720871,
+      "name": "coldzera",
+      "code": "coldzera",
+      "dob": "1994-10-31",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh7-kpL6-DBa0PShYagjJaLBXGXDxLshtLlrSy-wxRtysT7UyoqsJSmSZwAkXsAkReMMtRS9k8qnab2Ofbl9EQ",
+    "original": {
+      "name": "london2018_signature_coldzera_foil",
+      "image_inventory": "econ/stickers/london2018/sig_coldzera_foil"
+    }
+  },
+  {
+    "id": "sticker-3127",
+    "name": "Sticker | coldzera (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Marcelo David playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3127",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | coldzera (Gold) | London 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "player": {
+      "id": 79720871,
+      "name": "coldzera",
+      "code": "coldzera",
+      "dob": "1994-10-31",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh7-kpL6-DBa0PWhZKAjJqLKVjLJkLsvtOA5Gy22zU924G3RydeqeXqVaFIoDZYiEeBesxG6w8qnab1SPnr5MQ",
+    "original": {
+      "name": "london2018_signature_coldzera_gold",
+      "image_inventory": "econ/stickers/london2018/sig_coldzera_gold"
+    }
+  },
+  {
+    "id": "sticker-3128",
+    "name": "Sticker | FalleN | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Gabriel Toledo playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3128",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | FalleN | London 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "player": {
+      "id": 424467,
+      "name": "FalleN",
+      "code": "fallen",
+      "dob": "1991-05-30",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhvwkprl82wM7aT7a_E1cvWVCDLBwLx34LYwHHzrxUl2t2TWy9f6eSjFZ1R1WcdwW6dU5W62Pern",
+    "original": {
+      "name": "london2018_signature_fallen",
+      "image_inventory": "econ/stickers/london2018/sig_fallen"
+    }
+  },
+  {
+    "id": "sticker-3129",
+    "name": "Sticker | FalleN (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Gabriel Toledo playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3129",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | FalleN (Foil) | London 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "player": {
+      "id": 424467,
+      "name": "FalleN",
+      "code": "fallen",
+      "dob": "1991-05-30",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhvwkprl8x1d4PuiJv1rJPTBXDHHwLt15LRoTCq3k0tw6j_Tytj8dHmRP1V2DMd5QrYL5him0oqwwG4gBSE",
+    "original": {
+      "name": "london2018_signature_fallen_foil",
+      "image_inventory": "econ/stickers/london2018/sig_fallen_foil"
+    }
+  },
+  {
+    "id": "sticker-3130",
+    "name": "Sticker | FalleN (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Gabriel Toledo playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3130",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | FalleN (Gold) | London 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "player": {
+      "id": 424467,
+      "name": "FalleN",
+      "code": "fallen",
+      "dob": "1991-05-30",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhvwkprl8x1c4P6qJvJpJvXDXmXExbomtrJqSXjhkB905j_Rzt79eHOROwVzWJZ4E7IOukam0oqwWJiOiSQ",
+    "original": {
+      "name": "london2018_signature_fallen_gold",
+      "image_inventory": "econ/stickers/london2018/sig_fallen_gold"
+    }
+  },
+  {
+    "id": "sticker-3131",
+    "name": "Sticker | tarik | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Tarik Celik playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3131",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | tarik | London 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "player": {
+      "id": 18216247,
+      "name": "tarik",
+      "code": "tarik",
+      "dob": "1996-02-18",
       "geo": "US"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOm4Lo_Cxk6f2nZOpoIfbHVj_Jmb8js-A-SyjmwE4m5WvWwtf_eHqRZlR2ApN0E-9b5Ba8jJS5YEdvH3c4",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgnwjJ_rs3IM66eoO_A8JvTHV2GSmLwksbFqHXC3xEx_6mWByN2sdnKUPQ8oCcRuBbldwinbYMA",
     "original": {
-      "name": "katowice2019_signature_ethan_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_ethan_foil"
+      "name": "london2018_signature_tarik",
+      "image_inventory": "econ/stickers/london2018/sig_tarik"
     }
   },
   {
-    "id": "sticker-3821",
-    "name": "Sticker | Ethan (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Ethan Arnold playing for NRG at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3821",
+    "id": "sticker-3132",
+    "name": "Sticker | tarik (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Tarik Celik playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3132",
     "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Ethan (Gold) | Katowice 2019",
-    "effect": "Gold",
+    "market_hash_name": "Sticker | tarik (Foil) | London 2018",
+    "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 87,
-      "tag": "NRG",
-      "geo": "US",
-      "name": "NRG"
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
     },
     "player": {
-      "id": 169177802,
-      "name": "Ethan",
-      "code": "ethan",
-      "dob": "2000-03-02",
+      "id": 18216247,
+      "name": "tarik",
+      "code": "tarik",
+      "dob": "1996-02-18",
       "geo": "US"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOm4Lo_Cxk6P2ibOo7daGQCmPClb4nseI5SnGwxEVw4mTTz9j8IC2XbQR2XJd3ReNcuxjujJS5YOE-AFM3",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgnwjJ_rwiRU5v7gMfI6d6iXXTDBmesgtbU_Gn-ylkoj5WjRnNz6cS2RbQN0X8dyEOcD4w74zINU3RCAKg",
     "original": {
-      "name": "katowice2019_signature_ethan_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_ethan_gold"
+      "name": "london2018_signature_tarik_foil",
+      "image_inventory": "econ/stickers/london2018/sig_tarik_foil"
     }
   },
   {
-    "id": "sticker-3822",
-    "name": "Sticker | CeRq | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Tsvetelin Dimitrov playing for NRG at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3822",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | CeRq | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 87,
-      "tag": "NRG",
-      "geo": "US",
-      "name": "NRG"
-    },
-    "player": {
-      "id": 196088155,
-      "name": "CeRq",
-      "code": "cerq",
-      "dob": "1999-12-08",
-      "geo": "BG"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOnZPy7GwNtqD8OPFuJvLBWz-SluxytrQ4Tiu2k0t15mWBztuocijFbQIlD5d0W6dU5dV4Omwn",
-    "original": {
-      "name": "katowice2019_signature_cerq",
-      "image_inventory": "econ/stickers/katowice2019/sig_cerq"
-    }
-  },
-  {
-    "id": "sticker-3823",
-    "name": "Sticker | CeRq (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Tsvetelin Dimitrov playing for NRG at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3823",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | CeRq (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 87,
-      "tag": "NRG",
-      "geo": "US",
-      "name": "NRG"
-    },
-    "player": {
-      "id": 196088155,
-      "name": "CeRq",
-      "code": "cerq",
-      "dob": "1999-12-08",
-      "geo": "BG"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOnZPy7B1d4PuiJvA4dfORCGHFlr4k57c_GXCwlBt-tjvUn42td3qRbFB1DpV2QuNcs0Om0oqwgYph7m4",
-    "original": {
-      "name": "katowice2019_signature_cerq_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_cerq_foil"
-    }
-  },
-  {
-    "id": "sticker-3824",
-    "name": "Sticker | CeRq (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Tsvetelin Dimitrov playing for NRG at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3824",
+    "id": "sticker-3133",
+    "name": "Sticker | tarik (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Tarik Celik playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3133",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -187,835 +363,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | CeRq (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | tarik (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 87,
-      "tag": "NRG",
-      "geo": "US",
-      "name": "NRG"
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
     },
     "player": {
-      "id": 196088155,
-      "name": "CeRq",
-      "code": "cerq",
-      "dob": "1999-12-08",
-      "geo": "BG"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOnZPy7B1c4P6qJvE5cPLLVj6Uw-ohtrBvTnixxEkk522AmI2uIijEOwciC8F5Redc4xWm0oqwSaV5_aU",
-    "original": {
-      "name": "katowice2019_signature_cerq_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_cerq_gold"
-    }
-  },
-  {
-    "id": "sticker-3825",
-    "name": "Sticker | Gratisfaction | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Sean Kaiwai playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3825",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Gratisfaction | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 5543683,
-      "name": "Gratisfaction",
-      "code": "gratisfaction",
-      "dob": "1996-03-06",
-      "geo": "NZ"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOmYTh6StI6fOtfK1iLr6XDz6RwOgk5-dtTS-1x0kk6mXdn4ysdX3EbAEgWJMjFuAP4Ra5wYHvKaq8sOZX8n_9",
-    "original": {
-      "name": "katowice2019_signature_gratisfaction",
-      "image_inventory": "econ/stickers/katowice2019/sig_gratisfaction"
-    }
-  },
-  {
-    "id": "sticker-3826",
-    "name": "Sticker | Gratisfaction (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Sean Kaiwai playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3826",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Gratisfaction (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 5543683,
-      "name": "Gratisfaction",
-      "code": "gratisfaction",
-      "dob": "1996-03-06",
-      "geo": "NZ"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOmYTh6StI6fOtfK1iLs-VAW6cj-whsrUwTi_mkUl3sGTdm92gIinCPFQkXMRxE7ZfuhHsw9fiNOu34g3Ay9USxbZm2mU",
-    "original": {
-      "name": "katowice2019_signature_gratisfaction_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_gratisfaction_foil"
-    }
-  },
-  {
-    "id": "sticker-3827",
-    "name": "Sticker | Gratisfaction (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Sean Kaiwai playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3827",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Gratisfaction (Gold) | Katowice 2019",
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 5543683,
-      "name": "Gratisfaction",
-      "code": "gratisfaction",
-      "dob": "1996-03-06",
-      "geo": "NZ"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOmYTh6StI6fOtfK1iLs-UAWuUj7t15LI7SSrmlB5-6jvWz4z7cnnEOFInX8QmTOVZskLslt3jNLjrtgXAy9USOEpuN-8",
-    "original": {
-      "name": "katowice2019_signature_gratisfaction_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_gratisfaction_gold"
-    }
-  },
-  {
-    "id": "sticker-3828",
-    "name": "Sticker | jks | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Justin Savage playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3828",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | jks | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 16839456,
-      "name": "jks",
-      "code": "jks",
-      "dob": "1995-12-12",
-      "geo": "AU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOlJ3zsyBYtqGoO_RrcvSQXWOSlLp3tbRsSn21kBsm4D_Wm977InKUbVMlXJVuBbldlmi8bQM",
-    "original": {
-      "name": "katowice2019_signature_jks",
-      "image_inventory": "econ/stickers/katowice2019/sig_jks"
-    }
-  },
-  {
-    "id": "sticker-3829",
-    "name": "Sticker | jks (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Justin Savage playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3829",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | jks (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 16839456,
-      "name": "jks",
-      "code": "jks",
-      "dob": "1995-12-12",
-      "geo": "AU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOlJ3zwiRU5v7gMPU_dafBDDTAlroitrhoTCjmlkpw62-En4v9c33GbAAiXJdwEOUJtw74zINLPualEg",
-    "original": {
-      "name": "katowice2019_signature_jks_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_jks_foil"
-    }
-  },
-  {
-    "id": "sticker-3830",
-    "name": "Sticker | jks (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Justin Savage playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3830",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | jks (Gold) | Katowice 2019",
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 16839456,
-      "name": "jks",
-      "code": "jks",
-      "dob": "1995-12-12",
-      "geo": "AU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOlJ3zwiVU4_bgMfM5IaTEVzbHkbwmseM6TH-yzU4k5WnRmI2scinEa1MnCptwRu9Y4A74zIP9TEKOGg",
-    "original": {
-      "name": "katowice2019_signature_jks_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_jks_gold"
-    }
-  },
-  {
-    "id": "sticker-3831",
-    "name": "Sticker | AZR | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Aaron Ward playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3831",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | AZR | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 24832266,
-      "name": "AZR",
-      "code": "azr",
-      "dob": "1992-10-02",
-      "geo": "AU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOn4zysyBZufCoOKc-d6HHWWHGmL1w57Y4H3vrl05y4mTczYmgInyXawdxCJduBbld5xZJ3j4",
-    "original": {
-      "name": "katowice2019_signature_azr",
-      "image_inventory": "econ/stickers/katowice2019/sig_azr"
-    }
-  },
-  {
-    "id": "sticker-3832",
-    "name": "Sticker | AZR (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Aaron Ward playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3832",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | AZR (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 24832266,
-      "name": "AZR",
-      "code": "azr",
-      "dob": "1992-10-02",
-      "geo": "AU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOn4zywiRU5v7gOfA-I6LGVzHBw-xzteQxTCjjkU8hsm2Bzdb_dXqXOgQgC8B4Ru9f4A74zIOoWJgIdQ",
-    "original": {
-      "name": "katowice2019_signature_azr_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_azr_foil"
-    }
-  },
-  {
-    "id": "sticker-3833",
-    "name": "Sticker | AZR (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Aaron Ward playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3833",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | AZR (Gold) | Katowice 2019",
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 24832266,
-      "name": "AZR",
-      "code": "azr",
-      "dob": "1992-10-02",
-      "geo": "AU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOn4zywiVU4_bgbvA0JPWVWDCRkuolsrQ4G3nrlhl_tm6Azd2heHvDZwB2W8BzELZcsA74zIMHxbpYFw",
-    "original": {
-      "name": "katowice2019_signature_azr_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_azr_gold"
-    }
-  },
-  {
-    "id": "sticker-3834",
-    "name": "Sticker | jkaem | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Joakim Myrbostad playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3834",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | jkaem | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 42442914,
-      "name": "jkaem",
-      "code": "jkaem",
-      "dob": "1994-02-27",
-      "geo": "NO"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOlJ3h-C8V66b4MaI_ePOQCDXDl7xz5OI4TXHgxRty5DnTm9r4dCmVZlIgDZRyQflK7EdXD_wNhQ",
-    "original": {
-      "name": "katowice2019_signature_jkaem",
-      "image_inventory": "econ/stickers/katowice2019/sig_jkaem"
-    }
-  },
-  {
-    "id": "sticker-3835",
-    "name": "Sticker | jkaem (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Joakim Myrbostad playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3835",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | jkaem (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 42442914,
-      "name": "jkaem",
-      "code": "jkaem",
-      "dob": "1994-02-27",
-      "geo": "NO"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOlJ3h-C9k6f2nZOo_I_PDX2LCw7wi4ecwTXy2xxl24D_QytesInLEalAoXsZ2QORc5EG-jJS5YLVkvsyi",
-    "original": {
-      "name": "katowice2019_signature_jkaem_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_jkaem_foil"
-    }
-  },
-  {
-    "id": "sticker-3836",
-    "name": "Sticker | jkaem (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Joakim Myrbostad playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3836",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | jkaem (Gold) | Katowice 2019",
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 42442914,
-      "name": "jkaem",
-      "code": "jkaem",
-      "dob": "1994-02-27",
-      "geo": "NO"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOlJ3h-C9k6P2ibOpvePHBD2LHkrt0srM_GHvllEgi5jyHy9yrc3vEblUhXpoiR7RfskK4jJS5YCQiIpTL",
-    "original": {
-      "name": "katowice2019_signature_jkaem_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_jkaem_gold"
-    }
-  },
-  {
-    "id": "sticker-3837",
-    "name": "Sticker | Liazz | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player John Tregillgas playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3837",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Liazz | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 112055988,
-      "name": "Liazz",
-      "code": "liazz",
-      "dob": "1997-08-29",
-      "geo": "AU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOkp_h5zgVvqH6bKA4cafKXWSUlb0ltLI7Fi2xwU135GyEzNb6c3vCbgVzX5ojQvlK7EflS1yz8A",
-    "original": {
-      "name": "katowice2019_signature_liazz",
-      "image_inventory": "econ/stickers/katowice2019/sig_liazz"
-    }
-  },
-  {
-    "id": "sticker-3838",
-    "name": "Sticker | Liazz (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player John Tregillgas playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3838",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Liazz (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 112055988,
-      "name": "Liazz",
-      "code": "liazz",
-      "dob": "1997-08-29",
-      "geo": "AU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOkp_h5zhk6f2nZOpoJvLDDWPAlrwn5Lg6H3rhxkgm5juBztqrIH3DaFJ1CJN4Q-RbtBm8jJS5YPcmteM4",
-    "original": {
-      "name": "katowice2019_signature_liazz_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_liazz_foil"
-    }
-  },
-  {
-    "id": "sticker-3839",
-    "name": "Sticker | Liazz (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player John Tregillgas playing for Renegades at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3839",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Liazz (Gold) | Katowice 2019",
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "player": {
-      "id": 112055988,
-      "name": "Liazz",
-      "code": "liazz",
-      "dob": "1997-08-29",
-      "geo": "AU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOkp_h5zhk6P2ibOo5cKiVWj-SkbgmtOMwTn7jx0xy42iHyY6vdi2SZ1V0X8YhRO8J4xSwjJS5YJpbs3WH",
-    "original": {
-      "name": "katowice2019_signature_liazz_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_liazz_gold"
-    }
-  },
-  {
-    "id": "sticker-3840",
-    "name": "Sticker | nitr0 | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Nicholas Cannella playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3840",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | nitr0 | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
-    },
-    "player": {
-      "id": 35624002,
-      "name": "nitr0",
-      "code": "nitro",
-      "dob": "1995-08-16",
+      "id": 18216247,
+      "name": "tarik",
+      "code": "tarik",
+      "dob": "1996-02-18",
       "geo": "US"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOkJ_07y0VuqGobvU-c_KVXTGUwrkhsbY8HCi3x0ok5WiGyoz7eHmROwJxWZpzRvlK7EdKL6MAQg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgnwjJ_rwiVU4_bgOvI9dfOVXTXHwr4nsuM-HC21kUwksGjTztf9I3LCPwNxWJsmFO9c4Q74zIOdd1nrlQ",
     "original": {
-      "name": "katowice2019_signature_nitro",
-      "image_inventory": "econ/stickers/katowice2019/sig_nitro"
+      "name": "london2018_signature_tarik_gold",
+      "image_inventory": "econ/stickers/london2018/sig_tarik_gold"
     }
   },
   {
-    "id": "sticker-3841",
-    "name": "Sticker | nitr0 (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Nicholas Cannella playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3841",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | nitr0 (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
-    },
-    "player": {
-      "id": 35624002,
-      "name": "nitr0",
-      "code": "nitro",
-      "dob": "1995-08-16",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOkJ_07y1k6f2nZOo_JafAXj7HxO8htLExHXGwwEwmsTmDyNf9eS2ebA8oApQkFuIItBK9jJS5YCj_5xGN",
-    "original": {
-      "name": "katowice2019_signature_nitro_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_nitro_foil"
-    }
-  },
-  {
-    "id": "sticker-3842",
-    "name": "Sticker | nitr0 (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Nicholas Cannella playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3842",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | nitr0 (Gold) | Katowice 2019",
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
-    },
-    "player": {
-      "id": 35624002,
-      "name": "nitr0",
-      "code": "nitro",
-      "dob": "1995-08-16",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOkJ_07y1k6P2ibOpveaGWWT_JlOsh57QwFiq2wUp-5mXRyI3_eHOSOgYgD8chRORY4UTujJS5YPkmj0oS",
-    "original": {
-      "name": "katowice2019_signature_nitro_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_nitro_gold"
-    }
-  },
-  {
-    "id": "sticker-3843",
-    "name": "Sticker | Stewie2K | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Jacky Yip playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3843",
+    "id": "sticker-3134",
+    "name": "Sticker | Stewie2K | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Jacky Yip playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3134",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1023,24 +407,24 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Stewie2K | Katowice 2019",
+    "market_hash_name": "Sticker | Stewie2K | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
     },
     "player": {
       "id": 38738282,
@@ -1049,17 +433,17 @@
       "dob": "1998-01-07",
       "geo": "US"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjYLl6itevfngP_NrdqbCCz-Tkuoktbk4TSjnkE0msW_VnNyuJH-ebwJ0XJF2RLFfsw74zIO9uFjj3Q",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7lm4Hp-HBQoaH3OKY0cqmXXWWWlr51s-NrGSzlwk5z4WyBzo34eX6fOFAhW5dxELQU8k7vzFKfUZs",
     "original": {
-      "name": "katowice2019_signature_stewie2k",
-      "image_inventory": "econ/stickers/katowice2019/sig_stewie2k"
+      "name": "london2018_signature_stewie2k",
+      "image_inventory": "econ/stickers/london2018/sig_stewie2k"
     }
   },
   {
-    "id": "sticker-3844",
-    "name": "Sticker | Stewie2K (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Jacky Yip playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3844",
+    "id": "sticker-3135",
+    "name": "Sticker | Stewie2K (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Jacky Yip playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3135",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1067,24 +451,24 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Stewie2K (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | Stewie2K (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
     },
     "player": {
       "id": 38738282,
@@ -1093,17 +477,17 @@
       "dob": "1998-01-07",
       "geo": "US"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjYLl6itevfmRbqtkLL6QWTeSwLcl6bA8THHnlkoh5WvQmIurdnnCaVciD8ZxF7IO5hKxx9TgKaq8sO8IFgln",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7lm4Hp-HBQ0PShYagjcqHBDzbHxeou5OVoHCvgkRsk62jWzo2tdyiVOAcoWZEjFOYMt0G7w8qnab2n7IoSgg",
     "original": {
-      "name": "katowice2019_signature_stewie2k_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_stewie2k_foil"
+      "name": "london2018_signature_stewie2k_foil",
+      "image_inventory": "econ/stickers/london2018/sig_stewie2k_foil"
     }
   },
   {
-    "id": "sticker-3845",
-    "name": "Sticker | Stewie2K (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Jacky Yip playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3845",
+    "id": "sticker-3136",
+    "name": "Sticker | Stewie2K (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Jacky Yip playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3136",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1111,24 +495,24 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Stewie2K (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | Stewie2K (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
     },
     "player": {
       "id": 38738282,
@@ -1137,17 +521,17 @@
       "dob": "1998-01-07",
       "geo": "US"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjYLl6itevfmRb6thJL7CWj6Rme914LFrGCq2w05wtT_QnNipeXLBZwchDsZ5QO5fsUTqlYG2Kaq8sKYefAwp",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7lm4Hp-HBQ0PWhZKAjIvOQV2PBlushsuU7Tn_ikUglsD7WnN36dS3CbA4mDZp5E-UK5hDulsqnab0Ca5EWoA",
     "original": {
-      "name": "katowice2019_signature_stewie2k_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_stewie2k_gold"
+      "name": "london2018_signature_stewie2k_gold",
+      "image_inventory": "econ/stickers/london2018/sig_stewie2k_gold"
     }
   },
   {
-    "id": "sticker-3846",
-    "name": "Sticker | NAF | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Keith Markovic playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3846",
+    "id": "sticker-3137",
+    "name": "Sticker | fer | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Fernando Alvarenga playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3137",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1155,43 +539,43 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | NAF | Katowice 2019",
+    "market_hash_name": "Sticker | fer | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
     },
     "player": {
-      "id": 40885967,
-      "name": "NAF",
-      "code": "naf",
-      "dob": "1997-11-24",
-      "geo": "CA"
+      "id": 38921219,
+      "name": "fer",
+      "code": "fer",
+      "dob": "1991-10-30",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOkJfmsyZfvPf9PP07dvSQWzHHkb0k6bU8SS3jxUR1tWuEwov_eXzFZgZ1X8NuBbldwnPDXmo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhv0jNi4rXMNufP6aac0eaSWDDDAlOwk5rFqTijjlk0l4myDw4uvJCqROAVzFNIuEtgZO29k",
     "original": {
-      "name": "katowice2019_signature_naf",
-      "image_inventory": "econ/stickers/katowice2019/sig_naf"
+      "name": "london2018_signature_fer",
+      "image_inventory": "econ/stickers/london2018/sig_fer"
     }
   },
   {
-    "id": "sticker-3847",
-    "name": "Sticker | NAF (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Keith Markovic playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3847",
+    "id": "sticker-3138",
+    "name": "Sticker | fer (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Fernando Alvarenga playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3138",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1199,43 +583,43 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | NAF (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | fer (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
     },
     "player": {
-      "id": 40885967,
-      "name": "NAF",
-      "code": "naf",
-      "dob": "1997-11-24",
-      "geo": "CA"
+      "id": 38921219,
+      "name": "fer",
+      "code": "fer",
+      "dob": "1991-10-30",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOkJfmwiRU5v7gPfdsd6iXDGOUlOtz6LcwTSjqkxkhtmvRy4uucn3EaVJxWZNyE-4Dug74zINSIH1PZA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhv0jKnm8itXofeqO_Y0I6PHXDaVke8j4edsTC_rkE4lsW3XntmtJC6QZ1d0XsAmQu4U8k7v0EQet-I",
     "original": {
-      "name": "katowice2019_signature_naf_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_naf_foil"
+      "name": "london2018_signature_fer_foil",
+      "image_inventory": "econ/stickers/london2018/sig_fer_foil"
     }
   },
   {
-    "id": "sticker-3848",
-    "name": "Sticker | NAF (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Keith Markovic playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3848",
+    "id": "sticker-3139",
+    "name": "Sticker | fer (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Fernando Alvarenga playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3139",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1243,43 +627,43 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | NAF (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | fer (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
     },
     "player": {
-      "id": 40885967,
-      "name": "NAF",
-      "code": "naf",
-      "dob": "1997-11-24",
-      "geo": "CA"
+      "id": 38921219,
+      "name": "fer",
+      "code": "fer",
+      "dob": "1991-10-30",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOkJfmwiVU4_bgavNvd6fBWzLCw-1z4rQ_HSvlzU924zjXmdv8cH-WbFciDpYlTLUIuw74zIMwJyeC5Q",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhv0jKnn8i5fofOrO6Y9JfLHCjDFkegn4rE4G3Gww0935WmEm9qqc3OfbQYnCcZyEOQU8k7v9tQLdfw",
     "original": {
-      "name": "katowice2019_signature_naf_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_naf_gold"
+      "name": "london2018_signature_fer_gold",
+      "image_inventory": "econ/stickers/london2018/sig_fer_gold"
     }
   },
   {
-    "id": "sticker-3849",
-    "name": "Sticker | Twistzz | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Russel Van Dulken playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3849",
+    "id": "sticker-3140",
+    "name": "Sticker | Snax | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Janusz Pogorzelski playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3140",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1287,43 +671,43 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Twistzz | Katowice 2019",
+    "market_hash_name": "Sticker | Snax | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
     },
     "player": {
-      "id": 55989477,
-      "name": "Twistzz",
-      "code": "twistzz",
-      "dob": "1999-11-14",
-      "geo": "CA"
+      "id": 21875845,
+      "name": "Snax",
+      "code": "snax",
+      "dob": "1993-07-05",
+      "geo": "PL"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOioHp7jZB9bz4MKBrJfTCDT-VlrgltbVtSS_glEkm4W6GnN6rc3OUPwMkWJN4ReFbrFDmxe0mVFjK",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7_n46urnMOtvb3bv1vIqfCC2LJmOom5bNsHXqywE1z5zzXzNv7dXKQP1ImA4wwG7Cuu0Aaqg",
     "original": {
-      "name": "katowice2019_signature_twistzz",
-      "image_inventory": "econ/stickers/katowice2019/sig_twistzz"
+      "name": "london2018_signature_snax",
+      "image_inventory": "econ/stickers/london2018/sig_snax"
     }
   },
   {
-    "id": "sticker-3850",
-    "name": "Sticker | Twistzz (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Russel Van Dulken playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3850",
+    "id": "sticker-3141",
+    "name": "Sticker | Snax (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Janusz Pogorzelski playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3141",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1331,43 +715,43 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Twistzz (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | Snax (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
     },
     "player": {
-      "id": 55989477,
-      "name": "Twistzz",
-      "code": "twistzz",
-      "dob": "1999-11-14",
-      "geo": "CA"
+      "id": 21875845,
+      "name": "Snax",
+      "code": "snax",
+      "dob": "1993-07-05",
+      "geo": "PL"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOioHp7jZB9c2oZ61hbvPGVmPJl70n4udtGyuxzU5-4WWHy9_7IH_DagInWcR5QO4OsBK7lNz5d7S1CBn3eHE",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7_n47f-y1S47z2a6c6caeXXjHIl7km4bQ5GXvgxB4h4GWBzt2heXzGPQ9yCpNyFuIPrFDmxeylxjx0",
     "original": {
-      "name": "katowice2019_signature_twistzz_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_twistzz_foil"
+      "name": "london2018_signature_snax_foil",
+      "image_inventory": "econ/stickers/london2018/sig_snax_foil"
     }
   },
   {
-    "id": "sticker-3851",
-    "name": "Sticker | Twistzz (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Russel Van Dulken playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3851",
+    "id": "sticker-3142",
+    "name": "Sticker | Snax (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Janusz Pogorzelski playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3142",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1375,43 +759,43 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Twistzz (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | Snax (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
     },
     "player": {
-      "id": 55989477,
-      "name": "Twistzz",
-      "code": "twistzz",
-      "dob": "1999-11-14",
-      "geo": "CA"
+      "id": 21875845,
+      "name": "Snax",
+      "code": "snax",
+      "dob": "1993-07-05",
+      "geo": "PL"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOioHp7jZB9c2pZ6hpbqiWXWTGmbom6LJtHyjnlkh15GnWytaheC3FPQQgCcEhRO8KsUTtl4L5d7S1AvwYtuo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7_n47f-i1X67yvOfM6dKjCDT_Fleh0srRoTny2kU4hsm7XyImuIC_COwIgC8R0TO4LrFDmxV8xd9k-",
     "original": {
-      "name": "katowice2019_signature_twistzz_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_twistzz_gold"
+      "name": "london2018_signature_snax_gold",
+      "image_inventory": "econ/stickers/london2018/sig_snax_gold"
     }
   },
   {
-    "id": "sticker-3852",
-    "name": "Sticker | EliGE | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Jonathan Jablonowski playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3852",
+    "id": "sticker-3143",
+    "name": "Sticker | chrisJ | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Chris de Jong playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3143",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1419,43 +803,43 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | EliGE | Katowice 2019",
+    "market_hash_name": "Sticker | chrisJ | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
     },
     "player": {
-      "id": 106428011,
-      "name": "EliGE",
-      "code": "elige",
-      "dob": "1997-07-16",
-      "geo": "US"
+      "id": 28273376,
+      "name": "chrisJ",
+      "code": "chrisj",
+      "dob": "1990-05-25",
+      "geo": "NL"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOm5rp-icV6qCsPfw1JKiWCD7AmLoj6LVrGn_rxRh24G_Xntz8eX-WPAUmDcElRflK7EfSlY2gJg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh75jJ_z92xet6T9O6ZvcKKQV2TCmbZy5Lg4FiznwEV05mnSmYz_cS-QOwYlCMZ0W6dU5Uh3ulJk",
     "original": {
-      "name": "katowice2019_signature_elige",
-      "image_inventory": "econ/stickers/katowice2019/sig_elige"
+      "name": "london2018_signature_chrisj",
+      "image_inventory": "econ/stickers/london2018/sig_chrisj"
     }
   },
   {
-    "id": "sticker-3853",
-    "name": "Sticker | EliGE (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Jonathan Jablonowski playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3853",
+    "id": "sticker-3144",
+    "name": "Sticker | chrisJ (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Chris de Jong playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3144",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1463,43 +847,43 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | EliGE (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | chrisJ (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
     },
     "player": {
-      "id": 106428011,
-      "name": "EliGE",
-      "code": "elige",
-      "dob": "1997-07-16",
-      "geo": "US"
+      "id": 28273376,
+      "name": "chrisJ",
+      "code": "chrisj",
+      "dob": "1990-05-25",
+      "geo": "NL"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOm5rp-idk6f2nZOppdqfEWWbGw-t04rFvGCrgk0pxsDmAm9msJCiVPwInX8FyTONYsRa6jJS5YGOtecx7",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh75jJ_z9x1d4PuiJvU9d6nGVjKTk7sh6LZoSizkwB4htmXUztv_J36RaAcoCJMhE-IJ40am0oqwp-2M3zM",
     "original": {
-      "name": "katowice2019_signature_elige_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_elige_foil"
+      "name": "london2018_signature_chrisj_foil",
+      "image_inventory": "econ/stickers/london2018/sig_chrisj_foil"
     }
   },
   {
-    "id": "sticker-3854",
-    "name": "Sticker | EliGE (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Jonathan Jablonowski playing for Team Liquid at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3854",
+    "id": "sticker-3145",
+    "name": "Sticker | chrisJ (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Chris de Jong playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3145",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1507,43 +891,43 @@
     },
     "crates": [
       {
-        "id": "crate-4587",
-        "name": "Katowice 2019 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCW2khgpty7Lytqsci7BaQJ0C5MiEO8IuhGxkNLhYri271fc3oxHyiuv2ilKuC444PFCD_TlpFhABA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | EliGE (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | chrisJ (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
     },
     "player": {
-      "id": 106428011,
-      "name": "EliGE",
-      "code": "elige",
-      "dob": "1997-07-16",
-      "geo": "US"
+      "id": 28273376,
+      "name": "chrisJ",
+      "code": "chrisj",
+      "dob": "1990-05-25",
+      "geo": "NL"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOm5rp-idk6P2ibOpudqnLWT_Hxbp15eRrSSviwB5_4G7dnN6veXKXOwIjX8ZwQuULt0S4jJS5YMI7iSAe",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh75jJ_z9x1c4P6qJqJsefPEXz6UxLcms7U_Sn_ilxsmsj_Wnov6c3iUZwUlC8B0R7ZftRem0oqwcl1VgSc",
     "original": {
-      "name": "katowice2019_signature_elige_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_elige_gold"
+      "name": "london2018_signature_chrisj_gold",
+      "image_inventory": "econ/stickers/london2018/sig_chrisj_gold"
     }
   },
   {
-    "id": "sticker-3855",
-    "name": "Sticker | DavCost | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Vadim Vasilyev playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3855",
+    "id": "sticker-3146",
+    "name": "Sticker | ropz | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Robin Kool playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3146",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1551,43 +935,439 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | DavCost | Katowice 2019",
+    "market_hash_name": "Sticker | ropz | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 31006590,
+      "name": "ropz",
+      "code": "ropz",
+      "dob": "1999-12-22",
+      "geo": "EE"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg_-joyu_3tavvD_PqA1JKWXXmXJlLZ34bA_HyrgxhtwtWjRnt2pIH2WaAN2WYwwG7A45kxF5w",
+    "original": {
+      "name": "london2018_signature_ropz",
+      "image_inventory": "econ/stickers/london2018/sig_ropz"
+    }
+  },
+  {
+    "id": "sticker-3147",
+    "name": "Sticker | ropz (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Robin Kool playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3147",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | ropz (Foil) | London 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 31006590,
+      "name": "ropz",
+      "code": "ropz",
+      "dob": "1999-12-22",
+      "geo": "EE"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg_-jozf-y1S47ytOPY7dvKXDWTDxLlw5rdqTC_iwxl15mSGy9qpJSqVPA8gDpN0Re9frFDmxUZpY31d",
+    "original": {
+      "name": "london2018_signature_ropz_foil",
+      "image_inventory": "econ/stickers/london2018/sig_ropz_foil"
+    }
+  },
+  {
+    "id": "sticker-3148",
+    "name": "Sticker | ropz (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Robin Kool playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3148",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | ropz (Gold) | London 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 31006590,
+      "name": "ropz",
+      "code": "ropz",
+      "dob": "1999-12-22",
+      "geo": "EE"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg_-jozf-i1X67z_Ofc1dqHFCjDFmexz6Lc-GXrmlxh_t2nUzYr7J36Ragd0D8RzQOVbrFDmxTSkh6rL",
+    "original": {
+      "name": "london2018_signature_ropz_gold",
+      "image_inventory": "econ/stickers/london2018/sig_ropz_gold"
+    }
+  },
+  {
+    "id": "sticker-3149",
+    "name": "Sticker | suNny | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Miikka Kemppi playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3149",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | suNny | London 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 57405333,
+      "name": "suNny",
+      "code": "sunny",
+      "dob": "1994-08-24",
+      "geo": "FI"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7kkJj5s3tYtvCqafY_d6nAC2KVxbd0seI8H3y1k00ksWTSmY78c3qTawFzX5NuBbldIcn87Jo",
+    "original": {
+      "name": "london2018_signature_sunny",
+      "image_inventory": "econ/stickers/london2018/sig_sunny"
+    }
+  },
+  {
+    "id": "sticker-3150",
+    "name": "Sticker | suNny (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Miikka Kemppi playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3150",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | suNny (Foil) | London 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 57405333,
+      "name": "suNny",
+      "code": "sunny",
+      "dob": "1994-08-24",
+      "geo": "FI"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7kkJj5wiRU5v7gavY9JvOQDTfFwrojtuIxS3zqlx9z52yHzdz7eH2TPQBzD8ciQ-QO5A74zIOfMLpEpg",
+    "original": {
+      "name": "london2018_signature_sunny_foil",
+      "image_inventory": "econ/stickers/london2018/sig_sunny_foil"
+    }
+  },
+  {
+    "id": "sticker-3151",
+    "name": "Sticker | suNny (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Miikka Kemppi playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3151",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | suNny (Gold) | London 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 57405333,
+      "name": "suNny",
+      "code": "sunny",
+      "dob": "1994-08-24",
+      "geo": "FI"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7kkJj5wiVU4_bgO6VvcfOWVmGWwLZy5OBsTX23l04i5WrVyt77JymVbwN2CJslEbZYtQ74zIPUlHfUfg",
+    "original": {
+      "name": "london2018_signature_sunny_gold",
+      "image_inventory": "econ/stickers/london2018/sig_sunny_gold"
+    }
+  },
+  {
+    "id": "sticker-3152",
+    "name": "Sticker | oskar | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Tomas Stastny playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3152",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | oskar | London 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 171425088,
+      "name": "oskar",
+      "code": "oskar",
+      "dob": "1991-06-21",
+      "geo": "CZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhLilZfys3YIv6X4baA5d6PDWTbDkrslseUwGiuxwkt3sGmGyouocyiVbAEoX8NuBbldQN5NTTw",
+    "original": {
+      "name": "london2018_signature_oskar",
+      "image_inventory": "econ/stickers/london2018/sig_oskar"
+    }
+  },
+  {
+    "id": "sticker-3153",
+    "name": "Sticker | oskar (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Tomas Stastny playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3153",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | oskar (Foil) | London 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 171425088,
+      "name": "oskar",
+      "code": "oskar",
+      "dob": "1991-06-21",
+      "geo": "CZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhLilZfywiRU5v7gO6A7IqGQWWOUxLp3tLExS33rwx93sDzVy9qpJS6Vaw4hD5MmEOBctQ74zINx5xdIdw",
+    "original": {
+      "name": "london2018_signature_oskar_foil",
+      "image_inventory": "econ/stickers/london2018/sig_oskar_foil"
+    }
+  },
+  {
+    "id": "sticker-3154",
+    "name": "Sticker | oskar (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Tomas Stastny playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3154",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | oskar (Gold) | London 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 171425088,
+      "name": "oskar",
+      "code": "oskar",
+      "dob": "1991-06-21",
+      "geo": "CZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhLilZfywiVU4_bgO_Q1dqbGXWPDwuwn5OI-GSzhxBgj52nQzNj9eCmfZwd0CcdwQbZbsw74zINGS1OTtw",
+    "original": {
+      "name": "london2018_signature_oskar_gold",
+      "image_inventory": "econ/stickers/london2018/sig_oskar_gold"
+    }
+  },
+  {
+    "id": "sticker-3155",
+    "name": "Sticker | jmqa | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Savelii Bragin playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3155",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | jmqa | London 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 14,
+      "name": "2018 FACEIT London"
+    },
+    "team": {
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 20273529,
-      "name": "DavCost",
-      "code": "davcost",
-      "dob": "1996-05-18",
+      "id": 115223433,
+      "name": "jmqa",
+      "code": "jmqa",
+      "dob": "1997-04-17",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOmpf2_i1I-7z3O_w4IqDEWTLHwLtysec-GCuwzU9z5DvRntn7eCiWOgNyXJV0FLMIrFDmxZOCpuNm",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhf8j5eupHVduvb_bvA_d6jEDzeWlrkmtuM5HHvkzRl_5G3Qz476InuXalMpC4wwG7D1a1d1Iw",
     "original": {
-      "name": "katowice2019_signature_davcost",
-      "image_inventory": "econ/stickers/katowice2019/sig_davcost"
+      "name": "london2018_signature_jmqa",
+      "image_inventory": "econ/stickers/london2018/sig_jmqa"
     }
   },
   {
-    "id": "sticker-3856",
-    "name": "Sticker | DavCost (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Vadim Vasilyev playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3856",
+    "id": "sticker-3156",
+    "name": "Sticker | jmqa (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Savelii Bragin playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3156",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1595,43 +1375,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | DavCost (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | jmqa (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 20273529,
-      "name": "DavCost",
-      "code": "davcost",
-      "dob": "1996-05-18",
+      "id": 115223433,
+      "name": "jmqa",
+      "code": "jmqa",
+      "dob": "1997-04-17",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOmpf2_i1I-82oZ61hbvTEV2OVw78m5LZqSXGwwRwj62SAntyueXOTP1IlCZN1TecO4BGxxNf5d7S1N9W0hq8",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhf8j5ff-y1S47yrPvU-cfHLW2GUlL4h57I5HX3gw00lsWrWz9f8In2VaFdzCMAmRrJcrFDmxbo1K3zf",
     "original": {
-      "name": "katowice2019_signature_davcost_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_davcost_foil"
+      "name": "london2018_signature_jmqa_foil",
+      "image_inventory": "econ/stickers/london2018/sig_jmqa_foil"
     }
   },
   {
-    "id": "sticker-3857",
-    "name": "Sticker | DavCost (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Vadim Vasilyev playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3857",
+    "id": "sticker-3157",
+    "name": "Sticker | jmqa (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Savelii Bragin playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3157",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1639,43 +1419,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | DavCost (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | jmqa (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 20273529,
-      "name": "DavCost",
-      "code": "davcost",
-      "dob": "1996-05-18",
+      "id": 115223433,
+      "name": "jmqa",
+      "code": "jmqa",
+      "dob": "1997-04-17",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOmpf2_i1I-82pZ6hpbvXEWjTFk-wu4uc8GC3rzE1y4z7Rz42vIi3CPw4jD8N0R-cL4Re9ldz5d7S12Gtw6qM",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhf8j5ff-i1X67z5OqY9d6fKXDSUxLhztrYwTnHrxUt142iBmdn6eHmWbgMoDsN3E-NcrFDmxdLfw1cs",
     "original": {
-      "name": "katowice2019_signature_davcost_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_davcost_gold"
+      "name": "london2018_signature_jmqa_gold",
+      "image_inventory": "econ/stickers/london2018/sig_jmqa_gold"
     }
   },
   {
-    "id": "sticker-3858",
-    "name": "Sticker | COLDYY1 | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Pavlo Veklenko playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3858",
+    "id": "sticker-3158",
+    "name": "Sticker | Kvik | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Aurimas Kvakšys playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3158",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1683,43 +1463,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | COLDYY1 | Katowice 2019",
+    "market_hash_name": "Sticker | Kvik | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 34364443,
-      "name": "COLDYY1",
-      "code": "coldyy1",
-      "dob": "1992-04-08",
-      "geo": "UA"
+      "id": 40982505,
+      "name": "Kvik",
+      "code": "kvik",
+      "dob": "1995-11-18",
+      "geo": "LT"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOnZns-TtCvrz4MaFoIvbCWGbClOtw57c9Sy2xzBtx4G2By96hJyiSPwNyA5F2R7UDrFDmxSO_oTg8",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhbnl52u_HRat_aqafA9cfbBWDTAwLYjtbE_GC_gwhsk6zzRwtepJH3DZw4mWIwwG7AuEonGaw",
     "original": {
-      "name": "katowice2019_signature_coldyy1",
-      "image_inventory": "econ/stickers/katowice2019/sig_coldyy1"
+      "name": "london2018_signature_kvik",
+      "image_inventory": "econ/stickers/london2018/sig_kvik"
     }
   },
   {
-    "id": "sticker-3859",
-    "name": "Sticker | COLDYY1 (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Pavlo Veklenko playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3859",
+    "id": "sticker-3159",
+    "name": "Sticker | Kvik (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Aurimas Kvakšys playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3159",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1727,43 +1507,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | COLDYY1 (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | Kvik (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 34364443,
-      "name": "COLDYY1",
-      "code": "coldyy1",
-      "dob": "1992-04-08",
-      "geo": "UA"
+      "id": 40982505,
+      "name": "Kvik",
+      "code": "kvik",
+      "dob": "1995-11-18",
+      "geo": "LT"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOnZns-TtCvs2oZ61hbvaVXGaRkrwg4bY7SXy2w0l14GXWmNmvIHyQOgUpC8NzRu8PuhbqkIb5d7S1AxwV0eE",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhbnl53f-y1S47z4MKA1eKTEDTbElOp047I7S3Hql0hy6m2AydigeXuXOwYlDpJzE-5crFDmxS9yIqIj",
     "original": {
-      "name": "katowice2019_signature_coldyy1_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_coldyy1_foil"
+      "name": "london2018_signature_kvik_foil",
+      "image_inventory": "econ/stickers/london2018/sig_kvik_foil"
     }
   },
   {
-    "id": "sticker-3860",
-    "name": "Sticker | COLDYY1 (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Pavlo Veklenko playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3860",
+    "id": "sticker-3160",
+    "name": "Sticker | Kvik (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Aurimas Kvakšys playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3160",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1771,43 +1551,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | COLDYY1 (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | Kvik (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 34364443,
-      "name": "COLDYY1",
-      "code": "coldyy1",
-      "dob": "1992-04-08",
-      "geo": "UA"
+      "id": 40982505,
+      "name": "Kvik",
+      "code": "kvik",
+      "dob": "1995-11-18",
+      "geo": "LT"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOnZns-TtCvs2pZ6hpbqDLCj-Smb8u5rVqGnCylhgltTuBy42tcCjBalchC5oiQ-UJtBiwwYb5d7S13Evp6O0",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhbnl53f-i1X67z6bfw8dajLVzGSl7t35uRoHiu3x0x_t2zVydz9dniQOg4lDpN2TeJZrFDmxZFfe4uJ",
     "original": {
-      "name": "katowice2019_signature_coldyy1_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_coldyy1_gold"
+      "name": "london2018_signature_kvik_gold",
+      "image_inventory": "econ/stickers/london2018/sig_kvik_gold"
     }
   },
   {
-    "id": "sticker-3861",
-    "name": "Sticker | Dima | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Dmitriy Bandurka playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3861",
+    "id": "sticker-3161",
+    "name": "Sticker | balblna | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Grigorii Oleinik playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3161",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1815,43 +1595,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Dima | Katowice 2019",
+    "market_hash_name": "Sticker | balblna | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 51718767,
-      "name": "Dima",
-      "code": "dima",
-      "dob": "1995-01-27",
+      "id": 50204800,
+      "name": "balblna",
+      "code": "balblna",
+      "dob": "1996-01-15",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOmp_t_GwC66usavE9cPOSWjWVl7l34bdrF33mwEtz5jnTz9qudX2SPQYjCMR0W6dU5VZkVkIw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh_wkpTs8yMV7af5a6FsefPEWjKWlb8mseBsGyzmkU1-4j_TnI2geHKXbAFxWMRzQ_lK7EeIjjMdtw",
     "original": {
-      "name": "katowice2019_signature_dima",
-      "image_inventory": "econ/stickers/katowice2019/sig_dima"
+      "name": "london2018_signature_balblna",
+      "image_inventory": "econ/stickers/london2018/sig_balblna"
     }
   },
   {
-    "id": "sticker-3862",
-    "name": "Sticker | Dima (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Dmitriy Bandurka playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3862",
+    "id": "sticker-3162",
+    "name": "Sticker | balblna (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Grigorii Oleinik playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3162",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1859,43 +1639,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Dima (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | balblna (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 51718767,
-      "name": "Dima",
-      "code": "dima",
-      "dob": "1995-01-27",
+      "id": 50204800,
+      "name": "balblna",
+      "code": "balblna",
+      "dob": "1996-01-15",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOmp_t_B1d4PuiJvA6cqHLCzSTwLlztLFsHHzjkE0k6j7dmd-rc3uRbAJ0W8Z1E-Rf4EOm0oqw0DT44F4",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh_wkpTs8yNk6f2nZOpvJPPHDzLDmLwl4bM-TnrikxgmsW7Xwo6teX_EbAUkXJNyRe8OthO8jJS5YPkd-Ps2",
     "original": {
-      "name": "katowice2019_signature_dima_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_dima_foil"
+      "name": "london2018_signature_balblna_foil",
+      "image_inventory": "econ/stickers/london2018/sig_balblna_foil"
     }
   },
   {
-    "id": "sticker-3863",
-    "name": "Sticker | Dima (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Dmitriy Bandurka playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3863",
+    "id": "sticker-3163",
+    "name": "Sticker | balblna (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Grigorii Oleinik playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3163",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1903,43 +1683,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Dima (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | balblna (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 51718767,
-      "name": "Dima",
-      "code": "dima",
-      "dob": "1995-01-27",
+      "id": 50204800,
+      "name": "balblna",
+      "code": "balblna",
+      "dob": "1996-01-15",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOmp_t_B1c4P6qJqFvI_XDCjbJlOgu4rY4Fn22xEpw5jnXz9yhIi6ePQEgDpd0TeMP4ESm0oqw_Atw3cc",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh_wkpTs8yNk6P2ibOo6JaDBDTHHl71z6bI_HX-2x0hy5W7dytaqJy3GOgIjCMBwFrEJ5hi8jJS5YKAxU0PJ",
     "original": {
-      "name": "katowice2019_signature_dima_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_dima_gold"
+      "name": "london2018_signature_balblna_gold",
+      "image_inventory": "econ/stickers/london2018/sig_balblna_gold"
     }
   },
   {
-    "id": "sticker-3864",
-    "name": "Sticker | sdy | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Viktor Orudzhev playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3864",
+    "id": "sticker-3164",
+    "name": "Sticker | waterfaLLZ | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Nikita Matveev playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3164",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1947,43 +1727,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | sdy | Katowice 2019",
+    "market_hash_name": "Sticker | waterfaLLZ | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 80311472,
-      "name": "sdy",
-      "code": "sdy",
-      "dob": "1997-03-14",
-      "geo": "UA"
+      "id": 12720124,
+      "name": "waterfaLLZ",
+      "code": "waterfallz",
+      "dob": "1995-06-18",
+      "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjZL5s3QNtqH2MaE5daSRXDGUkLZ1teVsGnHhwhglsWnXzon9JS7CZgEiXsduBbldMIQZ9No",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgrwipPy-yNX4-jgaaY6ePXLXj_Gw7kk6bEwFyy3xUUk4znSmNb6cynDbwQgWZUjRORZsQ74zIM76l_G2Q",
     "original": {
-      "name": "katowice2019_signature_sdy",
-      "image_inventory": "econ/stickers/katowice2019/sig_sdy"
+      "name": "london2018_signature_waterfallz",
+      "image_inventory": "econ/stickers/london2018/sig_waterfallz"
     }
   },
   {
-    "id": "sticker-3865",
-    "name": "Sticker | sdy (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Viktor Orudzhev playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3865",
+    "id": "sticker-3165",
+    "name": "Sticker | waterfaLLZ (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Nikita Matveev playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3165",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1991,43 +1771,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | sdy (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | waterfaLLZ (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 80311472,
-      "name": "sdy",
-      "code": "sdy",
-      "dob": "1997-03-14",
-      "geo": "UA"
+      "id": 12720124,
+      "name": "waterfaLLZ",
+      "code": "waterfallz",
+      "dob": "1995-06-18",
+      "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjZL5wiRU5v7gP_Q-c_TLWzDDkb0m6LlrGCy2xkkh5mXUy4uhcSqSOwZ2DJQlQOdfug74zIPA6pxu8w",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgrwipPy-yNX4-iRbqtkLL7HXj-Vk793tLQ_Fnrgl0x34zyAm42pJ3mXOwMpW8dxQbYD4Ubql9DmKaq8sPvpIrpn",
     "original": {
-      "name": "katowice2019_signature_sdy_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_sdy_foil"
+      "name": "london2018_signature_waterfallz_foil",
+      "image_inventory": "econ/stickers/london2018/sig_waterfallz_foil"
     }
   },
   {
-    "id": "sticker-3866",
-    "name": "Sticker | sdy (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Viktor Orudzhev playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3866",
+    "id": "sticker-3166",
+    "name": "Sticker | waterfaLLZ (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Nikita Matveev playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3166",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -2035,43 +1815,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | sdy (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | waterfaLLZ (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 80311472,
-      "name": "sdy",
-      "code": "sdy",
-      "dob": "1997-03-14",
-      "geo": "UA"
+      "id": 12720124,
+      "name": "waterfaLLZ",
+      "code": "waterfallz",
+      "dob": "1995-06-18",
+      "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjZL5wiVU4_bgOvNrI_PDWzfEmO0ltLJoHnnnkxh362SByYmqIn_Bbw8iCcZ3EOELuw74zINjOmw48g",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgrwipPy-yNX4-iRb6thJL6XDzSUkrsj5Oc_TC_mkUVx4G7Xm934IHKXa1JyDpt1QuYP4Rm4w9XlKaq8sO6u74n2",
     "original": {
-      "name": "katowice2019_signature_sdy_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_sdy_gold"
+      "name": "london2018_signature_waterfallz_gold",
+      "image_inventory": "econ/stickers/london2018/sig_waterfallz_gold"
     }
   },
   {
-    "id": "sticker-3867",
-    "name": "Sticker | S0tF1k | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Dmitrii Forostianko playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3867",
+    "id": "sticker-3167",
+    "name": "Sticker | Boombl4 | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Kirill Mikhailov playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3167",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -2079,43 +1859,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | S0tF1k | Katowice 2019",
+    "market_hash_name": "Sticker | Boombl4 | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 174857712,
-      "name": "S0tF1k",
-      "code": "s0tf1k",
-      "dob": "1994-09-29",
+      "id": 185941338,
+      "name": "Boombl4",
+      "code": "boombl4",
+      "dob": "1998-12-20",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjcb0-3NQoaT6a6VoIqPLWjCWkbsi4rNtS3zgx0h14GnTytavJ3rFaAUpA8R3TeQU8k7vVJie6BE",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh_-kZvi8XYVvaCvOvRodqSWXTDJwL535OA_Hijmlxwm4W-DnN6odXOXOwN1Cpt2TflK7EfXNM0lxA",
     "original": {
-      "name": "katowice2019_signature_s0tf1k",
-      "image_inventory": "econ/stickers/katowice2019/sig_s0tf1k"
+      "name": "london2018_signature_boombl4",
+      "image_inventory": "econ/stickers/london2018/sig_boombl4"
     }
   },
   {
-    "id": "sticker-3868",
-    "name": "Sticker | S0tF1k (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Dmitrii Forostianko playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3868",
+    "id": "sticker-3168",
+    "name": "Sticker | Boombl4 (Foil) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Kirill Mikhailov playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3168",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -2123,43 +1903,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | S0tF1k (Foil) | Katowice 2019",
+    "market_hash_name": "Sticker | Boombl4 (Foil) | London 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 174857712,
-      "name": "S0tF1k",
-      "code": "s0tf1k",
-      "dob": "1994-09-29",
+      "id": 185941338,
+      "name": "Boombl4",
+      "code": "boombl4",
+      "dob": "1998-12-20",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjcb0-3NQ0PShYagjIfaXXTHGlbYv47A6HSjlw0RxtT7cnNqtdHzGbAAnWJp4FO4Ou0K9m8qnab33XrIXCw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh_-kZvi8XZk6f2nZOo5I_bACDXFmbh0tec4TSrhkBl-52zQnNz4d3iValNzCsYlQbQNsxW7jJS5YATVVrhl",
     "original": {
-      "name": "katowice2019_signature_s0tf1k_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_s0tf1k_foil"
+      "name": "london2018_signature_boombl4_foil",
+      "image_inventory": "econ/stickers/london2018/sig_boombl4_foil"
     }
   },
   {
-    "id": "sticker-3869",
-    "name": "Sticker | S0tF1k (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Dmitrii Forostianko playing for Team Spirit at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3869",
+    "id": "sticker-3169",
+    "name": "Sticker | Boombl4 (Gold) | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Kirill Mikhailov playing for Winstrike Team at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3169",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -2167,43 +1947,43 @@
     },
     "crates": [
       {
-        "id": "crate-4589",
-        "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq8mwkivTmAiJy3c3KVaw4kApchReAC4EPtl9ayZOu04FeLgoxHySSrji1Nvyo45LsFWb1lpPMO73jTiA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | S0tF1k (Gold) | Katowice 2019",
+    "market_hash_name": "Sticker | Boombl4 (Gold) | London 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 81,
-      "tag": "SPIR",
+      "id": 83,
+      "tag": "WINS",
       "geo": "RU",
-      "name": "Team Spirit"
+      "name": "Winstrike Team"
     },
     "player": {
-      "id": 174857712,
-      "name": "S0tF1k",
-      "code": "s0tf1k",
-      "dob": "1994-09-29",
+      "id": 185941338,
+      "name": "Boombl4",
+      "code": "boombl4",
+      "dob": "1998-12-20",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjcb0-3NQ0PWhZKAjdvLBWGLFkL91s-dqGX-2wE1z52nQnIv8dX2RaQUjXsNxReQIt0G5kMqnab3BETj9Ag",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh_-kZvi8XZk6P2ibOo9JvLHWjCTxOgi6LA9HH6xlB524mnXz474eX-eO1UoCsMlFrEL4RDtjJS5YG8lTmxH",
     "original": {
-      "name": "katowice2019_signature_s0tf1k_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_s0tf1k_gold"
+      "name": "london2018_signature_boombl4_gold",
+      "image_inventory": "econ/stickers/london2018/sig_boombl4_gold"
     }
   },
   {
-    "id": "sticker-3870",
-    "name": "Sticker | Summer | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Cai Yulun playing for Tyloo at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3870",
+    "id": "sticker-3170",
+    "name": "Sticker | kennyS | London 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Kenny Schrub playing for G2 Esports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "3170",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -2211,256 +1991,36 @@
     },
     "crates": [
       {
-        "id": "crate-4588",
-        "name": "Katowice 2019 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq7lBErtjOCn53qb37FagcmXpB3TOMDuhK-lNHmNOzn4ATd3ohAmST_jC5L73k-4L0DVKc7uvqAmYi2foA"
+        "id": "crate-4536",
+        "name": "London 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Summer | Katowice 2019",
+    "market_hash_name": "Sticker | kennyS | London 2018",
     "effect": "Other",
     "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
+      "id": 14,
+      "name": "2018 FACEIT London"
     },
     "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
     },
     "player": {
-      "id": 52964519,
-      "name": "Summer",
-      "code": "summer",
-      "dob": "1997-05-16",
-      "geo": "CN"
+      "id": 64640068,
+      "name": "kennyS",
+      "code": "kennys",
+      "dob": "1995-05-19",
+      "geo": "FR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjYPt8CdJoaqoMP00dvHCWz_CmbsltbhvTC21kxwm6zvcntmsdn3GP1ckWZUhRrQU8k7vrNI8VGQ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhb0kJj57mwDuqP8PqVvdKaVWzfBkbkhtbc4SnHkwEt1sTjWyN2udijFbAcpC5ojW6dU5ZOFZA3h",
     "original": {
-      "name": "katowice2019_signature_summer",
-      "image_inventory": "econ/stickers/katowice2019/sig_summer"
-    }
-  },
-  {
-    "id": "sticker-3871",
-    "name": "Sticker | Summer (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Cai Yulun playing for Tyloo at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3871",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4588",
-        "name": "Katowice 2019 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq7lBErtjOCn53qb37FagcmXpB3TOMDuhK-lNHmNOzn4ATd3ohAmST_jC5L73k-4L0DVKc7uvqAmYi2foA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Summer (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "player": {
-      "id": 52964519,
-      "name": "Summer",
-      "code": "summer",
-      "dob": "1997-05-16",
-      "geo": "CN"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjYPt8CdJ0PShYagjcqbBWjaVxbcu6OVvFn_kzUkhtWvVzYqtIHLEZ1V2WZt4ROJe4xS7m8qnab3Libx_kw",
-    "original": {
-      "name": "katowice2019_signature_summer_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_summer_foil"
-    }
-  },
-  {
-    "id": "sticker-3872",
-    "name": "Sticker | Summer (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Cai Yulun playing for Tyloo at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3872",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4588",
-        "name": "Katowice 2019 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq7lBErtjOCn53qb37FagcmXpB3TOMDuhK-lNHmNOzn4ATd3ohAmST_jC5L73k-4L0DVKc7uvqAmYi2foA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Summer (Gold) | Katowice 2019",
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "player": {
-      "id": 52964519,
-      "name": "Summer",
-      "code": "summer",
-      "dob": "1997-05-16",
-      "geo": "CN"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjYPt8CdJ0PWhZKAjJPXKXGLBkex1tOA4HCrkxh8m4j7dyN6tInOSZ1UpWMAmEeYCsha9lcqnab2o_FX9WA",
-    "original": {
-      "name": "katowice2019_signature_summer_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_summer_gold"
-    }
-  },
-  {
-    "id": "sticker-3873",
-    "name": "Sticker | somebody | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Haowen Xu playing for Tyloo at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3873",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4588",
-        "name": "Katowice 2019 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq7lBErtjOCn53qb37FagcmXpB3TOMDuhK-lNHmNOzn4ATd3ohAmST_jC5L73k-4L0DVKc7uvqAmYi2foA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | somebody | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "player": {
-      "id": 85131873,
-      "name": "somebody",
-      "code": "somebody",
-      "dob": "1995-07-03",
-      "geo": "CN"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjZnt-CBU6-vga_A1dqGWDWPCkuov6LU7THuww0gi5z6BnIyoJS2WZ1AoXpJyQ-df5w74zIPGOA1lyg",
-    "original": {
-      "name": "katowice2019_signature_somebody",
-      "image_inventory": "econ/stickers/katowice2019/sig_somebody"
-    }
-  },
-  {
-    "id": "sticker-3874",
-    "name": "Sticker | somebody (Foil) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Haowen Xu playing for Tyloo at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3874",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4588",
-        "name": "Katowice 2019 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq7lBErtjOCn53qb37FagcmXpB3TOMDuhK-lNHmNOzn4ATd3ohAmST_jC5L73k-4L0DVKc7uvqAmYi2foA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | somebody (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "player": {
-      "id": 85131873,
-      "name": "somebody",
-      "code": "somebody",
-      "dob": "1995-07-03",
-      "geo": "CN"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjZnt-CBU6-uRbqtkLL6RDWTDk7dzsuI5S3GxkRgjsjvVzoqrci3DOgMjWcZ1ELYLtRa5lYezKaq8sBeIYhQL",
-    "original": {
-      "name": "katowice2019_signature_somebody_foil",
-      "image_inventory": "econ/stickers/katowice2019/sig_somebody_foil"
-    }
-  },
-  {
-    "id": "sticker-3875",
-    "name": "Sticker | somebody (Gold) | Katowice 2019",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Haowen Xu playing for Tyloo at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3875",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4588",
-        "name": "Katowice 2019 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_ulkv_R5cCq7lBErtjOCn53qb37FagcmXpB3TOMDuhK-lNHmNOzn4ATd3ohAmST_jC5L73k-4L0DVKc7uvqAmYi2foA"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | somebody (Gold) | Katowice 2019",
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "player": {
-      "id": 85131873,
-      "name": "somebody",
-      "code": "somebody",
-      "dob": "1995-07-03",
-      "geo": "CN"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb0SBrOjZnt-CBU6-uRb6thJL7KCj_Ek7cg4rc5Fi-2xktz6jzWy46pI37GZ1IpC8YmEOYLtBe8moXuKaq8sJ6QZNgc",
-    "original": {
-      "name": "katowice2019_signature_somebody_gold",
-      "image_inventory": "econ/stickers/katowice2019/sig_somebody_gold"
+      "name": "london2018_signature_kennys",
+      "image_inventory": "econ/stickers/london2018/sig_kennys"
     }
   }
 ]

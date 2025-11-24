@@ -1,31 +1,31 @@
 [
   {
-    "id": "skin-bb430e7deeba",
-    "name": "MP9 | Dark Age",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with metallic paints to look as though it has been inlaid with metals in a medieval motif.\\n\\n<i>I could kill her paramour... perhaps that would buy you some time with Valeria - A Father's Love Part 2</i>",
+    "id": "skin-87e3087a80d2",
+    "name": "★ Talon Knife | Boreal Forest",
+    "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
     "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
+      "id": "weapon_knife_widowmaker",
+      "weapon_id": 523,
+      "name": "Talon Knife"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
     },
     "pattern": {
-      "id": "am_metal_inlay",
-      "name": "Dark Age"
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
     },
-    "min_float": 0,
-    "max_float": 0.22,
+    "min_float": 0.06,
+    "max_float": 0.8,
     "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
     },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "329",
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "77",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -38,96 +38,1929 @@
       {
         "id": "SFUI_InvTooltip_Wear_Amount_2",
         "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+      },
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMW-J_uh5ouR6Wxaxmg8isjG6lob-KT-JZgUhDZVwRe4P5xm-mtfiZOnkswTc2YtEnC36jC4bunk94e4HVvAsrLqX0V8QiPlhEA",
+    "original": {
+      "name": "weapon_knife_widowmaker"
+    }
+  },
+  {
+    "id": "skin-0ab3baba1e98",
+    "name": "★ Talon Knife | Crimson Web",
+    "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_widowmaker",
+      "weapon_id": 523,
+      "name": "Talon Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "12",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+      },
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMW-J_vlzsvJWQyC0nQlp5zzcw9qoIHuRZgV2A8EhF-IDtRC6l9PjN-zk4VHW2dhCyC-qjCtJ6TErvbjqnV9ukg",
+    "original": {
+      "name": "weapon_knife_widowmaker"
+    }
+  },
+  {
+    "id": "skin-fe4a0f2cc9a7",
+    "name": "★ Talon Knife | Ultraviolet",
+    "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_widowmaker",
+      "weapon_id": 523,
+      "name": "Talon Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "98",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4598",
+        "name": "Prisma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+      },
+      {
+        "id": "crate-4695",
+        "name": "Prisma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMXSf_v5jovFlSha_nBovp3PTzIuudXLGbVMkWJd0ELEPsEa6wNa0PunktASMj44QzSr2hiwcuHxt_a9cBqbhUpOe",
+    "original": {
+      "name": "weapon_knife_widowmaker"
+    }
+  },
+  {
+    "id": "skin-fdfc0c183378",
+    "name": "★ Talon Knife | Scorched",
+    "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_widowmaker",
+      "weapon_id": 523,
+      "name": "Talon Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "175",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+      },
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMXSA_up3oPFlSha_nBovp3ODydepeCqeOwBxC5NwQ-NZ5BDswIKxP7y04wzdgt9NzC_33XlBuChr_a9cBq0veVHG",
+    "original": {
+      "name": "weapon_knife_widowmaker"
+    }
+  },
+  {
+    "id": "skin-6183e4ae1805",
+    "name": "★ Talon Knife | Safari Mesh",
+    "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+    "weapon": {
+      "id": "weapon_knife_widowmaker",
+      "weapon_id": 523,
+      "name": "Talon Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_mesh_tan",
+      "name": "Safari Mesh"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "72",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+      },
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMXSA_uNzo-lWWyi9qhEutDWR1ImueHmRbwFzCJF5RO8OtRXpkNyzM-rn51aP2YpEyS73ii5Auits6u0cEf1yj0RX76A",
+    "original": {
+      "name": "weapon_knife_widowmaker"
+    }
+  },
+  {
+    "id": "skin-dc96e35a7226",
+    "name": "★ Talon Knife | Night Stripe",
+    "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_widowmaker",
+      "weapon_id": 523,
+      "name": "Talon Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "735",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+      },
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMXSA_uB_t-l9XD2hnA0ijDGMnYftby3GOA4pX8EiReRYtkbtkIXkY-y05FeIg4NCyi79ji4d6Hw65-0CAqU7uvqAN4w4WLQ",
+    "original": {
+      "name": "weapon_knife_widowmaker"
+    }
+  },
+  {
+    "id": "skin-fdd9b192d93a",
+    "name": "★ Talon Knife | Urban Masked",
+    "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_widowmaker",
+      "weapon_id": 523,
+      "name": "Talon Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "143",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+      },
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMXSA_vp3oORWWjuxlBMYvzSCkpu3Ii2TbwEjCZpzTOUIskawlYCxN7nisg2I2olAmyqrhy4duC5i67wKB71lpPPq3A_5rQ",
+    "original": {
+      "name": "weapon_knife_widowmaker"
+    }
+  },
+  {
+    "id": "skin-0ca39d6a9fe2",
+    "name": "M249 | Aztec",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. Excavated from Aztec ruins, parts of this M249 have rusted and been covered in moss.\\n\\n<i>Never trust a rope bridge</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "aq_m249_aztec",
+      "name": "Aztec"
+    },
+    "min_float": 0,
+    "max_float": 0.75,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "902",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
       }
     ],
     "collections": [
       {
-        "id": "collection-set-cobblestone",
-        "name": "The Cobblestone Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
+        "id": "collection-set-community-24",
+        "name": "The CS20 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_24_png.png"
       }
     ],
     "crates": [
       {
-        "id": "crate-4027",
-        "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2taqZhJb7GCmXDwLp057U8SSiwkxt1tz_Sw46qJC6RZgcpXJJwQrVf5xe7lIfnKaq8sA1qTP9C"
-      },
-      {
-        "id": "crate-4036",
-        "name": "DreamHack 2014 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2taqZhJb7AWWPFwrZy5rY4THq2xEV2tjzcwtutIi-fbwInX5Z1QbZfsBjtkILuKaq8sCWS9maH"
-      },
-      {
-        "id": "crate-4084",
-        "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvwux0vOQnF3_mxRx34zjdztf9dH-QPAcnCZJ3Q7MP4UTtlNzvNb-x4wHaithGzDK-0H0u36KbMw"
-      },
-      {
-        "id": "crate-4134",
-        "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iTw-x6ta8_HXjgzUl05ziHm4r7dy7FOlUkXsYmRe4MthfqxN2zNu3h7gfXi49N02yg2UbpOSb2"
-      },
-      {
-        "id": "crate-4179",
-        "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtuIvKfCynBxOp16bZtSXu1w0hy62rWnIz4IijDO1MhD8MmFrIOsBWwk4ezY7ix-UWA3MFLe-ZR"
-      },
-      {
-        "id": "crate-4228",
-        "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsDWWSzes44-JvGi-2zUQi5DiBm4z4cSrEOAUhDsB2QrRe5hGwwdbuZrnl7wCKjpUFk3tWzbEgYA"
-      },
-      {
-        "id": "crate-4276",
-        "name": "Cologne 2016 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-QDGWcxKBzsuBqGX3gwxly6mjRz4qhd3LBbw8jX8MiF-JYtRC8xNLlY-jlsQbelcsbmrqh8sbQ"
-      },
-      {
-        "id": "crate-4346",
-        "name": "Atlanta 2017 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-QDGWcxKAm4eNsHy_lkxhx52XSytmsIyiQaVcoXJJzR-4IskPrk93lY-nh4w2KlcsbmtkBg_k4"
-      },
-      {
-        "id": "crate-4398",
-        "name": "Krakow 2017 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_ORDGuVj7h0s7Q5GHvgxB5062XTztmuIHKVZlQjDJEhReUDthi7xoWxMerk4VDAy9UScHnfGeo"
-      },
-      {
-        "id": "crate-4465",
-        "name": "Boston 2018 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_ORDGuVj-gi57M5TXzqx0pwsj_UzIv4dHufOAEmApZ1E-8P5BXsxIHnY-O2sQPAy9USiW38NTw"
+        "id": "crate-4669",
+        "name": "CS20 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3YVvfD9aqVveKaQDDKSl7134bg_HH3hlBty6z7Vn9v6eXmeZgBxWJd0EflK7Efs4hZiKQ"
       }
     ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k4ve6aahSKf6fD36vzedxuPUnG3uwxxkk6jnWmdqsJy-UbFV0DZV4FLRctUXqwIWyNb_r5Qbdg4lGzzK-0H2q-xqNvQ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiNK0P_8PP1SIeqHC2SvzedxuPUnTirnwEslsT6Gzd2sJHLCOlUpWJohE-MMsxW6l9GxPuy24AyL398QnjK-0H18Ww4Zdw",
     "original": {
-      "name": "weapon_mp9"
+      "name": "weapon_m249"
     }
   },
   {
-    "id": "skin-f9bef4ddaca3",
-    "name": "MP9 | Music Box",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A gold damask pattern has been applied.\\n\\n<i>Fight of fancy</i>",
+    "id": "skin-3f7f4a9702ef",
+    "name": "M249 | Magma",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has copper plated parts that have been masked in a magma pattern and given a red patina using sodium chloride and high heat.  Unmasked areas have subsequently been darkened via oxidization using liver of sulfur.\\n\\n<i>A burning rate of fire</i>",
     "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
     },
     "pattern": {
-      "id": "am_mirage_flowers_metalic",
-      "name": "Music Box"
+      "id": "aq_obsidian",
+      "name": "Magma"
     },
     "min_float": 0,
-    "max_float": 0.55,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "266",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-1",
+        "name": "The Winter Offensive Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_1_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiNK0P2se61pKfGdMWuZxuZi_rNrTC-wl0gh5WXXmIqpIyiSbVIoXJckEO9eukTrx4XkMbjh51bYjIJbjXKp9iAER2c",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-4c1d61428041",
+    "name": "M249 | Deep Relief",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. A sand-colored top layer gives way to darker greens the deeper you go. This is a custom paint job you can feel.\\n\\n<i>How many bullets to get to the center?</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_m249_deep_relief",
+      "name": "Deep Relief"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "983",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-27",
+        "name": "The Operation Broken Fang Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_27_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3UVu6P-MPQ0dKbCVzLGx7wgtbM6S3jhw0V25m-EnNj7JS7GaQ4nD8QiRflK7EfH0YGFHg"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SJPWWHliCxOJ_tedWQyC0nQlp5DzUzIyqcnyQOAckWJckQu8KuhnpkdPgNu-0tgTYio5Eny2shnsd7TErvbi9QVp9bQ",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-302f05527562",
+    "name": "M249 | Downtown",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been tagged with blue and pink arrows pointing in every direction.\\n\\n<i>A different kind of spray pattern</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_m249_downvote",
+      "name": "Downtown"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1148",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-31",
+        "name": "The Recoil Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_31_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnMVu6b-avA-JqSSCjSWwuhz47U9TCzlxh9yt2WGnNqgIi-fbgUkWMNxFPlK7EdIJF6a2Q"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SJP-EAHGf1etJvOhuRz39wUh-5GuGz4mrJHuSbg4jWJp1FLINsRCxwdDuZezm7leK3d5GmSr_jTQJsHj3YwoNRA",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-eed9c3fe4b9d",
+    "name": "M249 | Submerged",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been custom painted using teal-colored desert camouflage and environments as inspiration.\\n\\n<i>\\\"WE'VE BEEN SET UP! THEY'RE EVERYWHERE!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_m249_scarab",
+      "name": "Submerged"
+    },
+    "min_float": 0.02,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1242",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-anubis",
+        "name": "The Anubis Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_anubis_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4882",
+        "name": "Anubis Collection Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15EzlSA7OjYLv7ydL_f2jZ-o7daKQCzeWkugh4OcwHXjmwkh-4jzXw4uqJHiROARzX8AjFuUN5Ba8jJS5YMSRiKqp"
+      },
+      {
+        "id": "crate-4895",
+        "name": "Paris 2023 Anubis Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSIf6GDG6Dj-t047Q_GXrrwBlz5W2Bnt6scHvCblAhDpUkTOEDuhO4m4LiZe3i5gTAy9USL1dHC6A"
+      },
+      {
+        "id": "crate-4928",
+        "name": "Copenhagen 2024 Anubis Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6VjNfKaHSmUkLd36bkxHSrqxBsmtT6EzIn6cCjDOw4nX8F1FOJc4xLsk4HuN-uz-UWA3HCx5SQN"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iRz_t0ufInTXHizBh26m7Ryt_7dy2WP1clC5YjELQMtkTpxoHnNeyx4gLbjo5NyDK-0H3Lvu_stA"
+      },
+      {
+        "id": "crate-5122",
+        "name": "Austin 2025 Anubis Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iRz_t0ufInTHvlkR8k42_cnI3_dC3EagJyWMByTOcC50awlYXhM-jq4FGP2ogQyDK-0H3Nl39_xA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SM_OSHGaS_uJ_t-l9AXmyxkt0t2yDyYurci6TPQcgCcckTOMLsxCwk9PiM7i041Tago1FnH7gznQeMmXICmk",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-4c2aae5b0b8d",
+    "name": "M249 | System Lock",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been custom painted with a sci-fi design.\\n\\n<i>Coverfire never looked so good</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_m249_sektor",
+      "name": "System Lock"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "401",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-6",
+        "name": "The Chroma Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_6_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SM_WYGmiC_uJ_t-l9AXzhzEt25Wjcn4n4dHKebgMlCMB2RO5b40S-x9TnN-KztFDf3ohDzirgznQedTUXMuU",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-fc1505f10422",
+    "name": "M249 | Spectre",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been painted in a sleek and contemporary manner.\\n\\n<i>The Phoenix civil war is about to begin</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_m249_spectre",
+      "name": "Spectre"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "547",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-12",
+        "name": "The Chroma 3 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_12_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SM-CWDXOCxNF6ueZhW2fqwklx4j_Wyd_6J3yeOlcoXMclQuQI4xbrw4fmNrziswLX2IhHziqrkGoXuVEVHa_j",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-c6f056b9dbbc",
+    "name": "M249 | O.S.I.P.R.",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. This M249 has been custom painted in gunmetal grey and finished with a Combine logo.\\n\\n<i>Overwatch Standard Issue Pulse Rifle</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "gs_m249_combine",
+      "name": "O.S.I.P.R."
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1042",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-28",
+        "name": "The Snakebite Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_28_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3oVvvT4bfI4dvTLCGTCmLl16ec7TX_mk08k42iHwtqscy-WPVUmCZJ4R_lK7Ed8Q6OYtw"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiVI0P_8PP1SI_-eDG6exNF6ueZhW2fhwB53smmAzIr_cy2fa1N0D5J0E-Je4BG_lt22N-63sQLYid0UxCytkGoXuS8jTKqZ",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-fe2ecdf6f921",
+    "name": "M249 | Nebula Crusader",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been custom painted to look like a classic arcade cabinet.\\n\\n<i>You can use it, but you better put up a quarter first</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "gs_m249_nebula_crusader",
+      "name": "Nebula Crusader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "496",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-9",
+        "name": "The Shadow Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_9_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4138",
+        "name": "Shadow Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fpGxet6H-O_Q6dfXCDzfJl7ci6bZoG3zjx0xz4ziEztj8IiiRa1QkWZdwW6dU5RegDbP-"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiVI0P_8PP1SLvWRG2uR_u1kpfJoSyyhqhEutDWR1Ir_JSiXOgciDJN4RucCsRW8w4KyZu_q5FeLjN4RnCmt33lP7nxv5-wcEf1yLX15hXE",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-af475732c9cd",
+    "name": "M249 | Warbird",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. Originally blue with a yellow heat shield, age and use have taken their toll on its appearance.\\n\\n<i>This old bird deserves a rest</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "gs_m249_warbird_veteran",
+      "name": "Warbird"
+    },
+    "min_float": 0.05,
+    "max_float": 0.65,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "900",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-23",
+        "name": "The Shattered Web Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_23_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3EVvKD6MKU_cKPKXWHFxLkls7FsSnDqwUl_sWTczoqheHifbwMmD5F1RvlK7Ec_KL6Q_A"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiVI0P_8PP1SN_GBDG6CxdFgtfVsXSi9qhEutDWR1NqpdymUbgcgDcRwEeUO5xa7kIGzMOjgsQzejNoRni6ohyJL6ytv4-4cEf1yirMa72w",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-4b8b1ad9100f",
+    "name": "M249 | Spectrogram",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been custom painted using a green and blue halftone pattern.\\n\\n<i>This one's off the charts</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "ht_peaks_rainbow",
+      "name": "Spectrogram"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "875",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-graphic-design",
+        "name": "The Graphic Design Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipP0OKraa9-H-KSB2mSzvlJvOhuRz39kxsj5WXUz4urInmWblIgCZVxTbJfthXsmoDuM-m05QPeiIJAyiuvjjQJsHhX7l6_wQ",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-385ca2cb6f3c",
+    "name": "M249 | Blizzard Marbleized",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been painted in a marbleized pattern.",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_blizzard",
+      "name": "Blizzard Marbleized"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "75",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-office",
+        "name": "The Office Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_office_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC0PCiYb53IeKXMWuZxuZi_rIwF3DmzBx14WTTwtisIH6fOAYmWJImReMC5xm-koGxM-yw4wKIj9lbjXKpzG9Fj_8",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-735df44a0719",
+    "name": "M249 | Jungle DDPAT",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_ddpat_jungle_bravo",
+      "name": "Jungle DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "202",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-ii",
+        "name": "The Alpha Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bravo_ii_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC0PaqeKV5H_qGAGCcxNF0ouB_QBa_nBovp3PXmNqqICqWbwB2ApMiQeFYsEXqmoDiZem37lTfit4WmS3623lB6itr_a9cBmG97jrI",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-7dfb8d58c579",
+    "name": "M249 | Shipping Forecast",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been painted with a hydrographic in a zodiac motif.\\n\\n<i>Who knows what the future holds</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_zodiac3",
+      "name": "Shipping Forecast"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "452",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-gods-and-monsters",
+        "name": "The Gods and Monsters Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_gods_and_monsters.c66f30b18e90e05e6a727c5cda23912ffe49ffaf.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC0OihbK1sI6OsAm6Xyfo4s7c4Gnvmx0l0tWjSzoyoeC7BPwUgDsAiQ-cMsROwloG2Y-rr4wfe3pUFk3scMmqwFg",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-bfdabc8fd9fa",
+    "name": "M249 | Sage Camo",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. A green and grey hydrographic pattern has been applied.\\n\\n<i>\\\"We weren't sure if we were the ambushers... or the ambushees\\\"</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hyo_jungle_desat",
+      "name": "Sage Camo"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1298",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-neutral",
+        "name": "The Boreal Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC4M2kfapqLPWsCmKDwPpJvOhuRz39lkUisWTSmIz7I3uValQjXMEmE-AO4Ea9k9HvZLy27g2P3otEnnj8iDQJsHjxYKi7jg",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-c7c133807ad6",
+    "name": "M249 | Hypnosis",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been custom painted with an eye catching black and blue hypnotic design.\\n\\n<i>\\\"Focus on the sound of my voice\\\"</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "m249_hypnosis",
+      "name": "Hypnosis"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "120",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-34",
+        "name": "The Gallery Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-7003",
+        "name": "Gallery Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnYVuPD5baE6IfTFCmSRme0j5eU5SXrjkRwmt2rWnoqhdnjEPQQiDpRxTflK7EePRV2-Kg"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wi8Ju6uRYL19Lv-AB3SvzedxuPUnTny1wkgm5znWyon4dC2TPFRxX8AmROcLthW8kdTgMrm051fcjIsQzTK-0H3IfNSRpg",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-7c123868ae50",
+    "name": "M249 | Jungle",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has individual parts spray-painted solid colors in a jungle color scheme.",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "so_jungle",
+      "name": "Jungle"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "151",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-stmarc",
+        "name": "The St. Marc Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0Pi7ZqNhJc-fB2CY1aB3tbI4S3ngl04ktj7XnNb7InvCOgAlC5Z4Q7ID4RHqlNDgZOPj4Qzdlcsbmsfre7St",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-ee71937714b6",
+    "name": "M249 | Impact Drill",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has individual parts spray-painted solid colors in a blue and orange color scheme.\\n\\n<i>The great equalizer</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "so_keycolors",
+      "name": "Impact Drill"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "472",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-chopshop",
+        "name": "The Chop Shop Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0PmrcadiLP-BHVicyOl-pK9rS3jlxBhztznQmNmrIn-VbFcmW5ZyReZe5hi9m4e1MO7j4w2Mg91A02yg2QZ4bFj3",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-61f4c5cf38a6",
+    "name": "M249 | Emerald Poison Dart",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been painted using a hydrographic inspired by a poison dart frog.\\n\\n<i>Conservation is not a priority</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_m249_frog_original",
+      "name": "Emerald Poison Dart"
+    },
+    "min_float": 0,
+    "max_float": 0.45,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "648",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-16",
+        "name": "The Spectrum Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_16_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0P_8PP1SJuKcCVif0-dxue9oQxa_nBovp3PRzNb8JX2VO1IpDsclRrEPtxXtxNSxYuuw4QHai9gWyCT2j3gYuHlt_a9cBlcR8wa2",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-3b11b1a4314b",
+    "name": "M249 | Gator Mesh",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been spray-painted freehand using mesh fabric as a stencil.",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_mesh_python",
+      "name": "Gator Mesh"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "243",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-safehouse",
+        "name": "The Safehouse Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_safehouse_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4006",
+        "name": "DreamHack 2013 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
+      },
+      {
+        "id": "crate-4013",
+        "name": "EMS One 2014 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0P-re6xSMOmHBmie_uJ_t-l9ASrkwxxwtWrUyY79I3yUaA5xWcd2RO4C4BO6l4HkZbnj7lSM2YtDzC3gznQeaJe5pgI",
+    "original": {
+      "name": "weapon_m249"
+    }
+  },
+  {
+    "id": "skin-a67615da8679",
+    "name": "M249 | Humidor",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been spray-painted with a brown and purple vine and flower pattern.\\n\\n<i>\\\"What are they keeping in there?\\\"</i>",
+    "weapon": {
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_moro_carving_burnt",
+      "name": "Humidor"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
     "rarity": {
       "id": "rarity_rare_weapon",
       "name": "Mil-Spec Grade",
@@ -135,7 +1968,7 @@
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "820",
+    "paint_index": "827",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -208,320 +2041,42 @@
       }
     ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k4vu8aaNoH_afAXCV0_1JveR9TiW6liIrujqNjsGtcCmeOw8gAptyFLVb4BaxmtGyML_n5QXW2owUm3j5hi4dvHlr57sET-N7rSSys4ef",
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0P-heqtSI_GBGG6extF0pfNnWxa_nBovp3OGnomhc3-ROFInDJclReQOtkS_xNO0MLuwtVCL3Y9DxSqr3y9Lunxq_a9cBnmfuyfW",
     "original": {
-      "name": "weapon_mp9"
+      "name": "weapon_m249"
     }
   },
   {
-    "id": "skin-6e2ddbfa3638",
-    "name": "MP9 | Bioleak",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. Varying shades of green create the illusion of a chemical spill.\\n\\n<i>BEWARE DIRECT EXPOSURE</i>",
+    "id": "skin-9397611af549",
+    "name": "M249 | Midnight Palm",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been spray-painted with black palm fronds over a gray and purple camo.\\n\\n<i>\\\"The sign says closed!\\\"</i>",
     "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
     },
     "pattern": {
-      "id": "am_mp9_bioleak",
-      "name": "Bioleak"
+      "id": "sp_palm_night",
+      "name": "Midnight Palm"
     },
     "min_float": 0,
     "max_float": 0.5,
     "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "549",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-12",
-        "name": "The Chroma 3 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_12_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4233",
-        "name": "Chroma 3 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k4uL3V6ZkL_yWD2yvzedxuPUnHSi3xhgm4GSGm4mpcnyTbVQjWcZ5EeIL50LultzgNbvmtAPf3oJByDK-0H0NB5p7wQ",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-e1e7a9cee96e",
-    "name": "MP9 | Ruby Poison Dart",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with red and purple metallic paints over a black base coat.\\n\\n<i>Who says diamonds are a girl's best friend?</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "am_mp9_nitrogen",
-      "name": "Ruby Poison Dart"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "482",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-8",
-        "name": "The Falchion Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_8_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4091",
-        "name": "Falchion Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fpWwI7Pb-P6Y5dvPEDGSSlrsh57U8HHHiwx5yt2-Dwo7_JSnCOw8oCJF0W6dU5dgrLNA1"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k4uL3V6pkNOKcCWKe_uJ_t-l9AXzhkEsm527Xy9r_JynEP1IiWJZ3FOYP4xTqmtznNO-34VCKiYJExSjgznQeVzj6siQ",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-895e721a640e",
-    "name": "MP9 | Stained Glass",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted to resemble blue and red stained glass.\\n\\n<i>You break it, you buy it</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "am_stained_glass",
-      "name": "Stained Glass"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "867",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-canals",
-        "name": "The Canals Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k_OavYapoJM-UAmaD0tF6ueZhW2ewkUxysDjUz42hdS6XagQjXMZxELQC5BS4koGxYevm4QKLgt8Wzy36kGoXuTMoqxid",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-65b73b6b9f0a",
-    "name": "MP9 | Rose Iron",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been hand painted with a rose and thorn motif in metallic paints of different colors.\\n\\n<i>Beware its many thorns</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "am_thorny_rose_mp9",
-      "name": "Rose Iron"
-    },
-    "min_float": 0,
-    "max_float": 0.3,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "262",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-1",
-        "name": "The Winter Offensive Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_1_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4009",
-        "name": "Winter Offensive Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k-_qheqp0H-KcHWKvzP4vj-1gSCGn20h0423Wn9qoJH6QOwNxXpRxQOQLtEHumtTvP-i05wyMjN5Hz3qtiy1XrnE8Sl7QOgI",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-e716148d4001",
-    "name": "MP9 | Hot Rod",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with a chrome base coat and candied in transparent red anodized effect paint.\\n\\n<i>Automatic. Systematic. Hydromatic.</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "an_red",
-      "name": "Hot Rod"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "33",
+    "paint_index": "933",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -530,1462 +2085,85 @@
       {
         "id": "SFUI_InvTooltip_Wear_Amount_1",
         "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
       }
     ],
     "collections": [
       {
-        "id": "collection-set-mirage",
-        "name": "The Mirage Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_png.png"
+        "id": "collection-set-dust-2-2021",
+        "name": "The 2021 Dust 2 Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
       }
     ],
     "crates": [
       {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
+        "id": "crate-4811",
+        "name": "Stockholm 2021 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_SGHXPCj-gg4-M4Sn-wxR9x4j6HmN-gcC_CPVIhCMB2QOZZthTqm9TuMujm5Q3Ay9USPT9sqvk"
       },
       {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
+        "id": "crate-4837",
+        "name": "Antwerp 2022 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-XG3SEk6Al5OI7Ti3kkxgh5jyDwtivcSiWPA4iC8EjR-4L4BLpx9a2Yruz4wOPlcsbmmhLqoY-"
       },
       {
-        "id": "crate-4024",
-        "name": "ESL One Cologne 2014 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2jYbZsJ_XdV2XBlehyteM4HXi1lk124W3UydugdyiROwEoXMRxE-AIsxK5kdG1ZfSiuVL9KRVRdw"
+        "id": "crate-4862",
+        "name": "Rio 2022 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6B4M-TBQGHFkrpw5-BqF3qyxk8isGncy9j8InrBPwIoAsF1QecN4BC9lIbgM-P8p1uJqWKKNS0"
       },
       {
-        "id": "crate-4033",
-        "name": "DreamHack 2014 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2jYbZsJ_XdCDCWxbontuA-Gi_gzEVw5mTQwtb6dSqTbA8oC8F2QuEDsRe7moLkN_SiuVLrQkv3xg"
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iU1P1i4q9oTSvrxUR0t2XQwt-oeXjEOAN1AptzF-UC50W-xoLjNb7r4gXa3ohC02yg2bIwV8Dw"
       },
       {
-        "id": "crate-4081",
-        "name": "ESL One Katowice 2015 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvzOdkseZsAXqwxEt_5W7SnN34cH6XOw8lWJIiFuACtETrkdLjNujqtgPcjN9AmS3gznQeEFP9n20"
+        "id": "crate-5123",
+        "name": "Austin 2025 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iU1P1i4q9tTnnklkwk6zyGn437In-UZlQlAsQhR-dZ4RixlNDhNO3q41CIjooW02yg2fk_M8Eg"
       },
       {
-        "id": "crate-4132",
-        "name": "ESL One Cologne 2015 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1idyPx3t-QnTC3lxk4k52_UwtavJ3qRa1ciD5V1R-cO5hnsl4LuN-Lm7gyPgopNnDK-0H0AmNuWng"
-      },
-      {
-        "id": "crate-4177",
-        "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtgKeKSCWLelexy5LlvSXjqwk5352SEnNmsJ36TbQ9zW5YkRe9Z5hm5xIblZeqx7hue1dxO7GJJCg"
-      },
-      {
-        "id": "crate-4226",
-        "name": "MLG Columbus 2016 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsA26CwOlz_uNrTXuxzUki5TnUzougJXyRbQIkDZckFLMOuhLpxoXkMuPl4FCP2ohbjXKpAQ1eHv4"
-      },
-      {
-        "id": "crate-4275",
-        "name": "Cologne 2016 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-eB3WRxus44rNoG37jxRh04G2HyYn7InyWaAdzC8B5TbQLsUHtx9yyY7-w5VePiJUFk3tIqaFIzQ"
-      },
-      {
-        "id": "crate-4345",
-        "name": "Atlanta 2017 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-eB3WRxus4tbU-G3q3zBwhtWyEmdivInPFOgMnWZB0QucM50KxwIbgMeLmsgCL2JUFk3s3nspkuw"
-      },
-      {
-        "id": "crate-4397",
-        "name": "Krakow 2017 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_2aHGaXxKB1tbg5HH_nxE5zsW7TzI2peS7EaAN2CpJ0TbVbsRLukdHjZuLrsQXZlcsbmlwpRn79"
-      },
-      {
-        "id": "crate-4464",
-        "name": "Boston 2018 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_2aHGaXxKAl5eI6Sn3rwB93tWTQz9qocC_GPQMlXpQmQbYCsxfpl9OyZum2tVDblcsbmhcGw3AW"
-      },
-      {
-        "id": "crate-4541",
-        "name": "London 2018 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_2aHGaXxKAm4LhtFnnik0Qm4W3RytiqJS_DO1cnC5NzFOIPtRftxNG2NOzisVbZlcsbmjApZVCi"
-      },
-      {
-        "id": "crate-4591",
-        "name": "Katowice 2019 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsA26CwOlz_uAxTXvqwxl05j7QntyvcimRa1UmX8dzTLFfu0LqkYLvYb-wslTc34hbjXKpsgcPS04"
-      },
-      {
-        "id": "crate-4661",
-        "name": "Berlin 2019 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_2aHGaXxKAn4OI5Hnqywkki4T7WzoyrIn6WPVInC5pzTe4N4BHukYLuN-3ntQfflcsbmlnJCBZK"
+        "id": "crate-5222",
+        "name": "Budapest 2025 Dust II Souvenir Package",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
       }
     ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_Cxk_feqV6hkJ_iHQD7Cl7ou5rlsGyi2wBgh4WyDytmqcC6fbQAhC8chEeZZtRLrw4LlNLz8p1uJeM3XA-E",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OKvZKlSLvmUBnOvzedxuPUnS3Cxlx8ksW7Um9mtc3KTOwAlCJF4FO4PskO9wd3jZLjn4wSN2I1HzDK-0H3u05_o_Q",
     "original": {
-      "name": "weapon_mp9"
+      "name": "weapon_m249"
     }
   },
   {
-    "id": "skin-cbffebebb7f3",
-    "name": "MP9 | Black Sand",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted with a tan and black military camo pattern.\\n\\n<i>\\\"End their campaign before it begins\\\"</i>",
+    "id": "skin-524093d4fd9e",
+    "name": "M249 | Contrast Spray",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been spray-painted freehand with short, thick lines in contrasting colors.\\n\\n<i>Perfect for the insurgent on the go</i>",
     "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
     },
     "pattern": {
-      "id": "cu_mp9_black_sand",
-      "name": "Black Sand"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "697",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-19",
-        "name": "The Clutch Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_19_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4471",
-        "name": "Clutch Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHsVtqr8a_dsdKTAWDWVxLgjsrAwHSvgwEQk4m-ByYuqIC2eO1VyD5QiR_lK7EcxQQPYQA"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6ZhIfOYMXSRz-pJvOhuRz39xxsj5GWDn9z6d3rCOFV1CJpwTO4IsEG8x4WzPr6xtlTZ2YlEzX-vhzQJsHjCKAg7iw",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-70901934962c",
-    "name": "MP9 | Dart",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted using a striped hydrographic arranged in a chevron pattern.\\n\\n<i>Throw enough downfield and you're bound to hit the bullseye eventually</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_chevron",
-      "name": "Dart"
-    },
-    "min_float": 0,
-    "max_float": 0.46,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "386",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-5",
-        "name": "The Vanguard Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_5_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4029",
-        "name": "Operation Vanguard Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6dlJeaBAWmvzedxuPUnH3_lkRgmtmrVmNn6dC_COFUlWJZwF-df4xW8ktK2N-234QfX2IlMzjK-0H1cH54WRg",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-f982be094874",
-    "name": "MP9 | Deadly Poison",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted with dynamic, angular shapes and a stylized spider.\\n\\n<i>It's not the first bite that kills you, it's the 29 that come after</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_deadly_poison",
-      "name": "Deadly Poison"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "403",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-6",
-        "name": "The Chroma Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_6_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4061",
-        "name": "Chroma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6BoIfSfF1iAzudlv-9WQyC0nQlpsm3Vy9f4eXvEPwcoCcNyQOBY5EWxwN3gNru0tFGK2d5Mny__iS8c5zErvbjRwweEJA",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-6d14d557c648",
-    "name": "MP9 | Food Chain",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. This brightly colored MP9 has been custom painted with a monster food chain.\\n\\n<i>Eat or be eaten</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_food_chain",
-      "name": "Food Chain"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1037",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-28",
-        "name": "The Snakebite Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_28_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4747",
-        "name": "Snakebite Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3oVvvT4bfI4dvTLCGTCmLl16ec7TX_mk08k42iHwtqscy-WPVUmCZJ4R_lK7Ed8Q6OYtw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6JiL_SsDW-RyOBJvOhuRz39xB5-sGrTnt2tdymVOFApD8dxQLUCuxWxldLkNezjtVDd2t8Uyy_7izQJsHisCKzN8w",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-679351fdbe47",
-    "name": "MP9 | Goo",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted to resemble a tarlike goo obscuring a grey base.\\n\\n<i>Covered in spite</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_goo",
-      "name": "Goo"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "679",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-18",
-        "name": "The Spectrum 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_18_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4403",
-        "name": "Spectrum 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6NiL8-fB2CY1aAv5LYwSn23xE4l5GrXn9aqIH-SZlMiD8MjEbYK4UW_x9TmM-Lh4FHYlcsbmqGCM0DC",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-97024f744394",
-    "name": "MP9 | Hydra",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A custom paint job referencing Operation Hydra, CS:GO's 8th Operation, has been applied.\\n\\n<i>Worth the wait</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_hydra",
-      "name": "Hydra"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "910",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-24",
-        "name": "The CS20 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_24_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4669",
-        "name": "CS20 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3YVvfD9aqVveKaQDDKSl7134bg_HH3hlBty6z7Vn9v6eXmeZgBxWJd0EflK7Efs4hZiKQ"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6x0JOKSMWuZxuZi_rQ9H363xU5_4GrWnIr8IHqfbwBxA5R2QuZZshm6kdO2Mum35Q3ajoJbjXKp1xQlWoY",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-b85595a826a7",
-    "name": "MP9 | Wild Lily",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A custom paint job of a blue lily has been hand painted over a purple base.\\n\\n<i>Stop and smell the cordite</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_island_floral",
-      "name": "Wild Lily"
-    },
-    "min_float": 0,
-    "max_float": 0.7,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "734",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-stmarc",
-        "name": "The St. Marc Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V61-LPGdCliWzeFkse1WQyC0nQlp4WuHz4mpcCrDZ1QhCcR5FrUJtkK9lNPuYezh4gDf2ItNxCr8iypJujErvbjAJv0dlg",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-9836cfa060f6",
-    "name": "MP9 | Latte Rush",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted to resemble the \\\"Latte\\\" drum found on Train's B site.\\n\\n<i>Start your morning right</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_latte",
-      "name": "Latte Rush"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "1211",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-train-2025",
-        "name": "The Train 2025 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-5126",
-        "name": "Austin 2025 Train Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iE0-9_vq9sHS3qlkUl62TTw9z8dC6TPAV2DMEmFuVcsxPuwd3jNePh4VCLiItB02yg2VepJYOn"
-      },
-      {
-        "id": "crate-5225",
-        "name": "Budapest 2025 Train Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6hsNOSWMWuZxuZi_rdrGCyxxER252ncw9arJC-QOAcmXsF2ROAP4RbrlNOzNbzq5VDb2YJbjXKpzLFi2t8",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-f07fb63926b7",
-    "name": "MP9 | Airlock",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted white and given a stark red magazine.\\n\\n<i>Perfect for shooting toasters</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_narcis",
-      "name": "Airlock"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "609",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-gamma-2",
-        "name": "The Gamma 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gamma_2_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4281",
-        "name": "Gamma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6psMvOaHVicyOl-pK8xGXq2xE536m7dnI2vdS6WagZ2CMFyFrNcsBjuw4G1Ne23tQGN3olH02yg2ZxyeudA",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-2f564d56b7ff",
-    "name": "MP9 | Featherweight",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted in black and white to appear porous, which saves weight for the weapon holder.\\n\\n<i>A good marksman doesn't blame their tools</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_superlight",
-      "name": "Featherweight"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1225",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_32_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4880",
-        "name": "Revolution Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnAVvfb6aqduc_TFVjTCxbx05OU4S3jilE9w4DzRnImtIy2Sa1JzDJEhRPlK7EcO4U8gfA"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V7d4MPWBAm6XyfpJvOhuRz39wB9x6jncwtyvd3jBPw8gCJFwR7YItRW8kNK0P--27wLe391NzCyq3zQJsHiOu4WQDA",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-9b785997e60c",
-    "name": "MP9 | Capillary",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>857 bpm</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_mp9_vein",
-      "name": "Capillary"
-    },
-    "min_float": 0,
-    "max_float": 0.7,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "715",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-20",
-        "name": "The Horizon Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_20_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V7JoKf6sAm6Xyfo457c6SXDrw0VxsmmAzor6IimePwApApYkQLFY5ES9lYCzZO7j7lTZiZUFk3t71H43DQ",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-209298d0eb05",
-    "name": "MP9 | Arctic Tri-Tone",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. This custom paint job features white and blue color blocking and is finished with a matching camouflage.\\n\\n<i>Frigid finality</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "gs_arctic_mp9",
-      "name": "Arctic Tri-Tone"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "331",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f-jFk7uCtfK1uH_2DV1icyOl-pK86HHrrwE5ztWSGydv_eCifOAF2DMB5Fu5etEK9lt3hMuLh5gWPitgX02yg2dKG9WA-",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-53d8377fc006",
-    "name": "MP9 | Modest Threat",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been hand painted with an orange and black design.\\n\\n<i>Be the last 01 standing</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "gs_mp9_colony01",
-      "name": "Modest Threat"
-    },
-    "min_float": 0,
-    "max_float": 0.75,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "804",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-21",
-        "name": "The Danger Zone Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_21_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f-jFk4uL3V6diLP-dFzfB_uJ_t-l9AXGylx4ktmqAydmrInvBOAByWcN1EOUOtxe8mtS2P-vl4FaLioJMz3ngznQehlZuXhE",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-feae180c4968",
-    "name": "MP9 | Starlight Protector",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. This custom paint job features a unicorn with a rainbow mane atop a white base. It has been finished with gold accents.\\n\\n<i>May the deity protect you, should the deity select you</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "gs_mp9_starlight",
-      "name": "Starlight Protector"
-    },
-    "min_float": 0,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1134",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-30",
-        "name": "The Dreams & Nightmares Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_30_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f-jFk4uL3V7d5IeKfB2CY1dF6ueZhW2flkUtztz_SzYypJSqRalUhDJNwQO4PsBXtx9HkN-K37w3bgohGmHn3kGoXuZ3lRdvF",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-53f83414cf17",
-    "name": "MP9 | Buff Blue",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been spray-painted with a worn, blue pattern.\\n\\n<i>That's gonna leave a mark!</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "ht_blue_edges",
-      "name": "Buff Blue"
-    },
-    "min_float": 0,
-    "max_float": 0.7,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1278",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-timed-drops-cool",
-        "name": "The Ascent Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9TZk7f67bZtoJPeWHVicyOl-pK84TnrhlEwjtWvQzoqvciiWaAIoA5okQ7ZYsBHpxNDkNbzh5QDbjolC02yg2XGzrD7d",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-8d8dc6609ae2",
-    "name": "MP9 | Multi-Terrain",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A green and brown multi-terrain camo pattern has been applied.\\n\\n<i>It's an early piece, but it still holds up - Imogen, Arms Dealer In Training</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_mtp",
-      "name": "Multi-Terrain"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1330",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-timed-drops-warm",
-        "name": "The Radiant Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9Ttk4ua-V6hkJ_iHQGTDlLsktrNrG3q1zB515GSEm9ahInyRawMgWcN5F-MC4RS5w4HjNuL8p1uJJfiZdX4",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-f93016c04c3b",
-    "name": "MP9 | Setting Sun",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with a hydrographic pattern of nuclear hazards symbols.",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_nuclear_pattern2_mp9",
-      "name": "Setting Sun"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "368",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-cache",
-        "name": "The Cache Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4026",
-        "name": "ESL One Cologne 2014 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2taadlJb7AWTOTwLhw6Lk9HijlwB5262TVnIyvJ3mTOARxCpp0FuIIsUXpm4LvKaq8sPTeGzME"
-      },
-      {
-        "id": "crate-4035",
-        "name": "DreamHack 2014 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2taadlJb7CVzbImL0g6bFqGi-3zR5z4m2Bm4mgcniXaQd1A8QmEOUI4Ba9l4HjKaq8sAL7emp8"
-      },
-      {
-        "id": "crate-4083",
-        "name": "ESL One Katowice 2015 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvwu91uOQnSnq3wR4msm7RyIyveHqTbFUgXMB1TLQLs0K5wIG2N-PjsQCM2I9BzDK-0H1by-7mfw"
-      },
-      {
-        "id": "crate-4136",
-        "name": "ESL One Cologne 2015 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iTwO1-ta9qFiq2lEQj426Gytb4eHmUawQkCZV5FuENshbukdziNrmxtALbi98T02yg2ZvtbtKo"
-      },
-      {
-        "id": "crate-4181",
-        "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtuIfObCynDw-gh6LYxGyjrkUsl52SHm939cC-eaw8hDcByELNesxa_x4LiMO2z-UWA3LPI9PnM"
-      },
-      {
-        "id": "crate-4230",
-        "name": "MLG Columbus 2016 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsDWaTyes4trFvHSrml013tT6Ewt2teX3GPwZ0WcEmTbUJ4RK6ktSzZezj7wfWgpUFk3tvzWKpPw"
-      },
-      {
-        "id": "crate-4278",
-        "name": "Cologne 2016 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-QD2SYxKAg4rI6SXC1lkh1sj6DytasdymVbVJzDsBxQ-9cukS-k9WzPrux71bZlcsbmhZVpERH"
-      },
-      {
-        "id": "crate-4348",
-        "name": "Atlanta 2017 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-QD2SYxKAgteI_HSvjzE90tm7Wztj_IC7BZg8hXpIhFrFcsBjpx9fgZeux5lSLlcsbmomGOWpb"
-      },
-      {
-        "id": "crate-4400",
-        "name": "Krakow 2017 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_OSDW-Vj-oktbg-Ti22zURxsmnXm4v7I3zBbwApCJIjEbJYu0PtldXlP-vi5QfAy9USAyhRW9o"
-      },
-      {
-        "id": "crate-4467",
-        "name": "Boston 2018 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_OSDW-Vj7t04-dsTijhw0l062yHmNr8JC-fOAYmWMR4FO9e5BXtxNKzMuPh5gbAy9USzSLZmlM"
-      },
-      {
-        "id": "crate-4544",
-        "name": "London 2018 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_OSDW-Vj-t1suVtGXCwzUh34m-Dn9n_cXLFZgUkApZ1QuVc4US8kdTuPurn4ATAy9USZV4vkGA"
-      },
-      {
-        "id": "crate-4594",
-        "name": "Katowice 2019 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsDWaTyes4trU8Hy21whl3tznSzdqscC-VOw5xDpV1TeAJtRa4kd3mPr6x7wDWiZUFk3sPJWbqoA"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9Ttk4eetZKFsMs-DD3OExPx44t5kX3CMmRQguynLyIqvdXiVbFN2CZMhQLRZ4RbumtXhPrji4gzfio5MyCr4in4a7nk_4PFCD_TmMRwm0Q",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-f3da90fedb74",
-    "name": "MP9 | Green Plaid",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with a hydrographic in a taupe and blue-green plaid pattern.\\n\\n<i>It's not a bagpipe, but it plays a song before every funeral</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_plaid2",
-      "name": "Green Plaid"
-    },
-    "min_float": 0,
-    "max_float": 0.58,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "366",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-baggage",
-        "name": "The Baggage Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_baggage_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9Ttk__6vYaA_H_yaCW-Ej7outuQ8GHrjwkwl52zVno2peXqVbwYoX8N3ReFcsUK7l9PiPuzitgLAy9US-C_U3wM",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-2fe73aeaa65b",
-    "name": "MP9 | Slide",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A hydrographic pattern of orange and brown streaks has been applied.\\n\\n<i>Who needs mud guards?</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_splatter3",
-      "name": "Slide"
+      "id": "sp_spray",
+      "name": "Contrast Spray"
     },
     "min_float": 0.06,
     "max_float": 0.8,
@@ -1996,410 +2174,7 @@
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "755",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-inferno-2",
-        "name": "The 2018 Inferno Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_inferno_2_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4540",
-        "name": "London 2018 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_mdCGKCz-E44LZtTS_mwE9xt2XSm42hd33DPwNxXJd3Q-8I5EbrxoKzMuPh4QePjpUFk3uQG3tvkw"
-      },
-      {
-        "id": "crate-4590",
-        "name": "Katowice 2019 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsB2mWxPx4v69tGivkkUgk5GqHm9j6J3_CaVApCJt2E-8MuxPtl4exZr_m5VPcjY9B02yg2SOGx-2Z"
-      },
-      {
-        "id": "crate-4660",
-        "name": "Berlin 2019 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_mdCGKCz-E44LFoHXzqxk9_5W3SyturcnmVPVcnWcAjQLFfsxbqkIDjNuzgsQDbiJUFk3uBV19lLA"
-      },
-      {
-        "id": "crate-4809",
-        "name": "Stockholm 2021 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_mdCGKCz-E4tOM-GH7jlBhxtz-Hz9yveC6fbQYhX8MlRO4Os0bqw4LkM-i07gHfiJUFk3ucTvvj4w"
-      },
-      {
-        "id": "crate-4835",
-        "name": "Antwerp 2022 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-aAGGV0-B5_uNrTi-ywxkk5W7TzI2scimSbFB1CMd1QOcPsha7wdezNeiz7lHb3oNbjXKpZMl3KNA"
-      },
-      {
-        "id": "crate-4860",
-        "name": "Rio 2022 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV61jJvWBAGjembol5rc9GyvqxEQjtTnSmNqpdnyRawElD8NyFuFeuxS_w4XnM-mwsxue1dyMXtmjQw"
-      },
-      {
-        "id": "crate-4893",
-        "name": "Paris 2023 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSKf6VC3WezqAgsrhsFyixwE4m52jUytysI3vBbQ51DJImQ-NbtxO5w9LjY-Lh5ADclcsbmj4tCmqX"
-      },
-      {
-        "id": "crate-4926",
-        "name": "Copenhagen 2024 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV61jJvWBAGjekL9wsudvHHnhzUkm4W2Az96vcX6UZ1N1X5RwROIKsELuwIDuN7y04xue1dxm9sz2hg"
-      },
-      {
-        "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iZz-hzou9mAS3ql0ght2SHn9z6JXKQPQIlXpImF7ZfukTqk4GzM7_n4laK399GyijgznQeCDcguis"
-      },
-      {
-        "id": "crate-5120",
-        "name": "Austin 2025 Inferno Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iZz-hzou9mAXixxUl3t2uAnIysdC2Ub1IoD8dxReAK40Ptl4K2MLzi5VPW3tlGzH_gznQeA9NN0rg"
-      },
-      {
-        "id": "crate-5219",
-        "name": "Budapest 2025 Inferno Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9Ttk_OKiabB5JeLAMWuZxuZi_rg6TXrhxk9y5WmGn9etdy3BblVxCMd4Re8LskWwwde1MOq35gfX34lbjXKpcIaNgDA",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-e400418cedad",
-    "name": "MP9 | Cobalt Paisley",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A blue paisley pattern has been applied.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hye_blue_paisley",
-      "name": "Cobalt Paisley"
-    },
-    "min_float": 0,
-    "max_float": 0.65,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1258",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-timed-drops-cool",
-        "name": "The Ascent Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9Tte0PCifaFSMPGaHWuV2NF6ueZhW2ewwhwmtmmDmdz_eH-RaQZ1CcB3E-BcukKwmoXlNerk5wHY3tkRmX74kGoXuZ6yLkO1",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-5254ad7ed93d",
-    "name": "MP9 | Shredded",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A multicolored tiger camo pattern has been applied.\\n\\n<i>Endangered no more</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hye_pink_tiger",
-      "name": "Shredded"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1310",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-timed-drops-warm",
-        "name": "The Radiant Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9Tte0OKnZq9SNPmUC3WvzedxuPUnGCiyxB4ksDzdz4qpeS-UZ1clXsBwTOFc5BO_kdPlNOnl5wOL2IJGyzK-0H3-TFWDqQ",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-038541568496",
-    "name": "MP9 | Nexus",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted in silver, black, and blue with contemporary designs inlaid in the silver paint.\\n\\n<i>A personal, yet understated touch</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "mp9_nexus",
-      "name": "Nexus"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1193",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-35",
-        "name": "The Fever Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-7007",
-        "name": "Fever Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frncVtqv7MPE8JaHHCj_Dl-wk4-NtFirikURy4jiGwo2udHqVaAEjDZp3EflK7EeSMnMs4w"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-fb7ae83c1e81",
-    "name": "MP9 | Broken Record",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "mp9_vinyl",
-      "name": "Broken Record"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1341",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-36",
-        "name": "The Genesis Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-5176",
-        "name": "Sealed Genesis Terminal",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnRk7P6he6FpbqWXCzSVkL4h6bExTHuwx0wk6mjUmdn_Iy2TbAUkCZslQu8CtBTrkNz5d7S1oNprwEg"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0OSnZr1hH_yaCW-Ej78gs7M_Hy-xxUUi4WWHyd6tJ33EOAAkXsckE-4M5Baxw9O2ZOO3sgzAy9USMhZdDpQ",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-65e7edddd8b7",
-    "name": "MP9 | Storm",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has individual parts spray-painted solid colors in a stormy color scheme.\\n\\n<i>It will be waiting for you at the monorail</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "so_stormfront",
-      "name": "Storm"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "100",
+    "paint_index": "22",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2522,101 +2297,34 @@
       }
     ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7i1k_OaheqlrMv-dGlicyOl-pK8_S3zjxRh_5mmGn9epIymQPQBxDpQlFuUJ5xa6kt2yZLjkswLY2ooT02yg2WH9Y1dp",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OG-eqV0H_yaCW-Ej-shsbBtS3q2wkUitWzUz9b_c3vEZ1UhD5R4F-QL40a8m4HuZbnitlfAy9USVV6qaxA",
     "original": {
-      "name": "weapon_mp9"
+      "name": "weapon_m249"
     }
   },
   {
-    "id": "skin-34b6af4ce537",
-    "name": "MP9 | Bulldozer",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has individual parts spray-painted solid colors in a production line yellow color scheme.\\n\\n<i>This bone crusher is a devastator</i>",
+    "id": "skin-927dacf99b7b",
+    "name": "M249 | Predator",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been spray-painted in a zebra stripe pattern.",
     "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
+      "id": "weapon_m249",
+      "weapon_id": 14,
+      "name": "M249"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
     },
     "pattern": {
-      "id": "so_yellow",
-      "name": "Bulldozer"
+      "id": "sp_zebracam",
+      "name": "Predator"
     },
     "min_float": 0.06,
     "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "39",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-assault",
-        "name": "The Assault Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_assault_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7i1k9veiZKt6H_yaCW-Ej-tztbQ5Hy2wxklw5TiDnt_4eC_GOFR1XJdzQ-AMskXswNbvNuvq4wPAy9USwXKj73o",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-8aaf995160d8",
-    "name": "MP9 | Pine",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted solid green.\\n\\n<i>Get in on the ground floor</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "soe_alpine_green",
-      "name": "Pine"
-    },
-    "min_float": 0,
-    "max_float": 0.7,
     "rarity": {
       "id": "rarity_common_weapon",
       "name": "Consumer Grade",
@@ -2624,7 +2332,7 @@
     },
     "stattrak": false,
     "souvenir": false,
-    "paint_index": "1301",
+    "paint_index": "170",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2649,38 +2357,38 @@
     ],
     "collections": [
       {
-        "id": "collection-set-timed-drops-neutral",
-        "name": "The Boreal Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+        "id": "collection-set-op10-t",
+        "name": "The Havoc Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
       }
     ],
     "crates": [],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7i1e0POieK1jJc-UHGKVz9F6ueZhW2fixUtwtm6Hy9urd33CbQUhDsFzF7RetxS_ldzgY7ywsVbdidkWyi6tkGoXuWJp7z88",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OirarZsI_GeMWuZxuZi_rM9H3nkk01-6mSAzon_d3vBZw4lXsB0TOQD4RftwdXmY7-3tlffioNbjXKpMr9foB4",
     "original": {
-      "name": "weapon_mp9"
+      "name": "weapon_m249"
     }
   },
   {
-    "id": "skin-348f142a19ac",
-    "name": "MP9 | Old Roots",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been spray-painted with a vine and flower pattern in various shades of green.\\n\\n<i>Established, seasoned, weathered—you can just say \\\"old\\\"</i>",
+    "id": "skin-810cb4b6d950",
+    "name": "M4A4 | Mainframe",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A black and white circuit board pattern has been applied.\\n\\n<i>At the heart of it all</i>",
     "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
     },
     "pattern": {
-      "id": "sp_moro_carving_yellow",
-      "name": "Old Roots"
+      "id": "am_circuitboard_silver",
+      "name": "Mainframe"
     },
     "min_float": 0,
     "max_float": 0.5,
@@ -2691,7 +2399,7 @@
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "931",
+    "paint_index": "780",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2716,478 +2424,172 @@
     ],
     "collections": [
       {
-        "id": "collection-set-dust-2-2021",
-        "name": "The 2021 Dust 2 Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
+        "id": "collection-set-nuke-2",
+        "name": "The 2018 Nuke Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_nuke_2_png.png"
       }
     ],
     "crates": [
       {
-        "id": "crate-4811",
-        "name": "Stockholm 2021 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_SGHXPCj-gg4-M4Sn-wxR9x4j6HmN-gcC_CPVIhCMB2QOZZthTqm9TuMujm5Q3Ay9USPT9sqvk"
+        "id": "crate-4546",
+        "name": "London 2018 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_6GBWLewrt35LI8GHnlk0om42_Wn92vInmQPQJyDpYlFrMPtha_w9K2N-3n5hue1dz59svyCw"
       },
       {
-        "id": "crate-4837",
-        "name": "Antwerp 2022 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-XG3SEk6Al5OI7Ti3kkxgh5jyDwtivcSiWPA4iC8EjR-4L4BLpx9a2Yruz4wOPlcsbmmhLqoY-"
+        "id": "crate-4596",
+        "name": "Katowice 2019 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsAHKbxKAn4eBsTC3mlk53tWqDnNv4di6SaAUjX5NxFuZcuxLrldDkMbzl5QbWlcsbmtmiS4Eu"
       },
       {
-        "id": "crate-4862",
-        "name": "Rio 2022 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6B4M-TBQGHFkrpw5-BqF3qyxk8isGncy9j8InrBPwIoAsF1QecN4BC9lIbgM-P8p1uJqWKKNS0"
+        "id": "crate-4665",
+        "name": "Berlin 2019 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_6GBWLexbt1s-NsH3DgkU1-sWnSnt2pcXzCPQAhCcZxReMJ5kXqx4eyNOjrtRue1dxZghH5iQ"
       },
       {
-        "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iU1P1i4q9oTSvrxUR0t2XQwt-oeXjEOAN1AptzF-UC50W-xoLjNb7r4gXa3ohC02yg2bIwV8Dw"
+        "id": "crate-4814",
+        "name": "Stockholm 2021 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_6GBWLekOhz4rVtSy2ylxhysWvSmNurJSiQZlB1A8N0F-cP4ELrw9HmNeOxshue1dwR-YfRbg"
       },
       {
-        "id": "crate-5123",
-        "name": "Austin 2025 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iU1P1i4q9tTnnklkwk6zyGn437In-UZlQlAsQhR-dZ4RixlNDhNO3q41CIjooW02yg2fk_M8Eg"
+        "id": "crate-4840",
+        "name": "Antwerp 2022 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-dG2yVj7oi4rhtSXiwkRwk5W_VzI2rdniTbVUhWJBxTeBe5kS5lYfmYe3h4lfAy9USZI7vLEE"
       },
       {
-        "id": "crate-5222",
-        "name": "Budapest 2025 Dust II Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
+        "id": "crate-4865",
+        "name": "Rio 2022 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6p4K_XdWTCVmO0m6bQ7THzlwx8i52WHnIqrcy-Wa1B1C8RxTLEO4Rm_l4XlNfSiuVKkZ-_svg"
+      },
+      {
+        "id": "crate-4898",
+        "name": "Paris 2023 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSLuWYCymRlbYgsuI8HX7rlhhxt2_Umdj9JXLGagcnDpIhE-MD5xe8wdXiMOjk-UWA3JoAHXbP"
+      },
+      {
+        "id": "crate-4931",
+        "name": "Copenhagen 2024 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6p4K_XdXmHElrogtLkxGXHgl0lw62-EyIyhcyiTZwUlXJV1TeUP40HpxNG0PvSiuVK0aQmXQA"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1ie1OVz_rA6H3-2kUQltTvRn46qeHmUbw92X5B0FLFe4xW6lYfjPrzjsQDYiINbjXKpXYSSkrU"
+      },
+      {
+        "id": "crate-5125",
+        "name": "Austin 2025 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1ie1OVz_rY9S37kwh8h52_Qy92qcnmTOA8lDZNxQLQDsRe6mtW0ZezmtFPX2NpbjXKpvhIYpf8"
+      },
+      {
+        "id": "crate-5224",
+        "name": "Budapest 2025 Nuke Souvenir Package",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
       }
     ],
     "team": {
       "id": "counter-terrorists",
       "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7jJk4v28Z5tuIeKFB2mX_vdzvO1mWBa_nBovp3PUmI6vdi-VOgInDpFxQOIKuhW8lNC1Puqw41fajIJCnCv9j3tIuixt_a9cBudlkiY3",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-76f666003f14",
-    "name": "MP9 | Dry Season",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. This memento from Gwalior has been spray-painted using ripped tape strips and perforated metal as stencils.\\n\\n<i>Don't worry...business is about to pick up - Booth, Arms Dealer</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "sp_tape_dots_bravo",
-      "name": "Dry Season"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "199",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-bravo-ii",
-        "name": "The Alpha Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bravo_ii_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7jJk-_O-bZtpL-SAMWWCwPh5j-1gSCGn20Ql42XQyo2sJ3qSOgNxCscjEeJYtRPtkNfhMuPgsgPcgoJAyH36iiNXrnE8I0B0oz0",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-2ed9e1f9de26",
-    "name": "MP9 | Orange Peel",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "sp_tape_orange",
-      "name": "Orange Peel"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_uncommon_weapon",
-      "name": "Industrial Grade",
-      "color": "#5e98d9"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "141",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-safehouse",
-        "name": "The Safehouse Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_safehouse_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7jJk-_O-bZtiMvGdCWKvzedxuPUnGXnkzUwj5WnQzt2scXKSb1ciD8ZwEORb5xW_m9XiYe7gtAPXg4kQyTK-0H0u1pUr8A",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-dfd5859c02ae",
-    "name": "MP9 | Sand Dashed",
-    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been spray-painted using short pieces of tape as stencils.",
-    "weapon": {
-      "id": "weapon_mp9",
-      "weapon_id": 34,
-      "name": "MP9"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "sp_tape_short_sand",
-      "name": "Sand Dashed"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "148",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-dust-2",
-        "name": "The Dust 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
-      },
-      {
-        "id": "crate-4022",
-        "name": "ESL One Cologne 2014 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2qfbd5cr6XCD-VkroktrVoHi2wlBhx5mXXz4r8d3yVbQ5zAsF3RuYD5hO9kdXhKaq8sLHIAjYS"
-      },
-      {
-        "id": "crate-4031",
-        "name": "DreamHack 2014 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2qfbd5cr7CDTTIkLsg4-A-Fii3wU8k4TjUyov4dniWbVAmWJt3R-MI5xm_xta0Kaq8sO_IzfuM"
-      },
-      {
-        "id": "crate-4079",
-        "name": "ESL One Katowice 2015 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvxftlpLMnSS23wE504Grcm4mgJ3OfPAMlDpRxRLZZ5EK4lIfjPu3j4ATegtlGnzK-0H3UToJFDg"
-      },
-      {
-        "id": "crate-4131",
-        "name": "ESL One Cologne 2015 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iU1P1i4q9sTC2ylER05j7QnomsJHiQag4nApJwRu8DsULqloKxYrnl7wyP3t9G02yg2YmRsS6G"
-      },
-      {
-        "id": "crate-4176",
-        "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtpNeOHXCmUk7935rI_GXDlx010627Xztf8dC7Cagd1W8dwQuUJsUa-koa2NOLj-UWA3M6kNEKU"
-      },
-      {
-        "id": "crate-4225",
-        "name": "MLG Columbus 2016 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsCnKD1bw4s-c7FyrmlkR05W3dytmgeHKSbg9xDMMkFrIL4RC6wILkN-7g5leIg5UFk3uYze73pw"
-      },
-      {
-        "id": "crate-4274",
-        "name": "Cologne 2016 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-XG3SEk6B34uA_THmxkx92sTiBmNmrIirFaAQmX8BxTbEJ4UHqw4DuPri24gCNlcsbmh_qWnC9"
-      },
-      {
-        "id": "crate-4344",
-        "name": "Atlanta 2017 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-XG3SEk6Au4ec5HS3rw0p052qHn4mhJHjFbQckAsByROVc4xS8m4LmZbvj5ACNlcsbmgzIAi55"
-      },
-      {
-        "id": "crate-4542",
-        "name": "London 2018 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_SGHXPCj79ysbYwHi23k093tzvRy9isIi_GP1N0WZMjQeJZsxe8w4fnYbjitQTAy9USfZHe1a8"
-      },
-      {
-        "id": "crate-4592",
-        "name": "Katowice 2019 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsCnKD1bw45rA7GnHrk0hx42TXno79d3zCaVNzApBzReJet0W_lYazNLjj5gLfiZUFk3vpn6VvvA"
-      },
-      {
-        "id": "crate-4662",
-        "name": "Berlin 2019 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_SGHXPCj7oj47Y4HyiwkUhy5j6Gzt2qcXrBPVBzA5Z4FOJY5hW7xNTvZeixsgDAy9USl0sSteY"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7jJk-_O-bZt-KP-BGliDwOByj-1gSCGn20kl5TjVwt-sJC6XOFAmDpUiQecOthTsm9PkYuix5wWP3opHyCr9hy9XrnE8MNQOT0E",
-    "original": {
-      "name": "weapon_mp9"
-    }
-  },
-  {
-    "id": "skin-488cec5dc95c",
-    "name": "Negev | Army Sheen",
-    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been covered in a metallic foil stamped with a camouflage pattern.\\n\\n<i>Remember your training</i>",
-    "weapon": {
-      "id": "weapon_negev",
-      "weapon_id": 28,
-      "name": "Negev"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_heavy",
-      "name": "Heavy"
-    },
-    "pattern": {
-      "id": "am_army_shine",
-      "name": "Army Sheen"
-    },
-    "min_float": 0,
-    "max_float": 0.3,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "298",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-bank",
-        "name": "The Bank Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bank_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1a4s2veql0H-ObB2mV_uJ_t-l9AXrikxgk6z-EyYytcHLGbAclC8EhE-QJthjplN2yZO3gtVbcjIsXzSzgznQeWdeDBGI",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiNW0PGneqd4KeSRAWaCxdFlue1_SjuMmRQguynLmIyoI3KROlcgX5RxQrQMt0O6lIfkPuPi5AKKi9pEzX773XsYuHlj4_FCD_Ts_y5QsA",
     "original": {
-      "name": "weapon_negev"
+      "name": "weapon_m4a1"
     }
   },
   {
-    "id": "skin-fd5699e808a0",
-    "name": "Negev | Man-o'-war",
-    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been given a base coat of blue metallic paint then hand-painted with metallic gold swirls and accents.\\n\\n<i>Turn some heads before you take them off</i>",
+    "id": "skin-695797b5acd6",
+    "name": "M4A4 | Daybreak",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been painted with a sunrise in metallic paints.\\n\\n<i>The sun rises on the just and unjust alike</i>",
     "weapon": {
-      "id": "weapon_negev",
-      "weapon_id": 28,
-      "name": "Negev"
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_heavy",
-      "name": "Heavy"
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
     },
     "pattern": {
-      "id": "am_negev_glory",
-      "name": "Man-o'-war"
+      "id": "am_kimono_sunrise",
+      "name": "Daybreak"
     },
-    "min_float": 0.1,
-    "max_float": 0.2,
+    "min_float": 0,
+    "max_float": 0.6,
     "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "471",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-kimono",
+        "name": "The Rising Sun Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiNW0PmnZatjL8-AG2mCyP1zj-1gSCGn2xgl5mjRzd2qeXmeO1coDZpxEeUJsxnrwYaxY7-w4wTb2NpGz3762yxXrnE8iKAzA8Q",
+    "original": {
+      "name": "weapon_m4a1"
+    }
+  },
+  {
+    "id": "skin-db764e1bb74b",
+    "name": "M4A4 | Bullet Rain",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom-painted with a graphic of clouds raining bullets.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_bullet_rain_m4a1",
+      "name": "Bullet Rain"
+    },
+    "min_float": 0.02,
+    "max_float": 0.46,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
     },
     "stattrak": true,
     "souvenir": false,
-    "paint_index": "432",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-7",
-        "name": "The Chroma 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_7_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4089",
-        "name": "Chroma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1a4s2gbaNoNs-UAmiC2NF6ueZhW2fikBh352vQyt-sI3mRbQ8lDJpxTLVfuxC5k4W0MLvm5VfeithHnij5kGoXuSdORNFb",
-    "original": {
-      "name": "weapon_negev"
-    }
-  },
-  {
-    "id": "skin-0eafc66d4417",
-    "name": "Negev | Anodized Navy",
-    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
-    "weapon": {
-      "id": "weapon_negev",
-      "weapon_id": 28,
-      "name": "Negev"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_heavy",
-      "name": "Heavy"
-    },
-    "pattern": {
-      "id": "an_navy",
-      "name": "Anodized Navy"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "28",
+    "paint_index": "155",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -3196,24 +2598,109 @@
       {
         "id": "SFUI_InvTooltip_Wear_Amount_1",
         "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
       }
     ],
     "collections": [
       {
-        "id": "collection-set-assault",
-        "name": "The Assault Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_assault_png.png"
+        "id": "collection-set-esports-iii",
+        "name": "The eSports 2014 Summer Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_esports_iii_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      }
+    ],
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0PC7ZKhoNM-BD26e_uMisbBWQyC0nQlp4GmGydioIH3DPFMjDMd2QrQO5hDtkNK2Ne_htAXd3d0Uyiiriysb5zErvbh6fsb98Q",
+    "original": {
+      "name": "weapon_m4a1"
+    }
+  },
+  {
+    "id": "skin-bb64064419aa",
+    "name": "M4A4 | Global Offensive",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a blue, yellow, and grey camoflauge.\\n\\n<i>\\\"We'll make first contact in Harz, Germany at 17:25 GMT+1...\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_csgo_camo",
+      "name": "Global Offensive"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "993",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ct",
+        "name": "The Control Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
       }
     ],
     "crates": [],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
     },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1a4c2gabJ0H_yaCW-Ej7cu4rJrSXzikUh04G2Em9yteS-SagAkDsQlEOMP4RexldKzM7ix4lPAy9USZWBsgPo",
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0PG9b6tSI_GeAVicyOl-pK89HijjkU534mTRw478IirEOgUhXpshQrMK4xW9x4biYrvnsgDd3ohA02yg2Z7zUK8D",
     "original": {
-      "name": "weapon_negev"
+      "name": "weapon_m4a1"
     }
   }
 ]

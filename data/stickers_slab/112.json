@@ -1,40 +1,9 @@
 [
   {
-    "id": "sticker_slab-8680",
-    "name": "Sticker Slab | Legacy (Holo) | Austin 2025",
+    "id": "sticker_slab-7052",
+    "name": "Sticker Slab | Woro2k (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8680",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5119",
-        "name": "Austin 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-5nWyy9kRg1oHOBzon6ciqfaQRxXMRwRrZY4xm8wNPmN-2w7gPa3o5NzX76jykc5iht_a9cBn7eB-5Y"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Legacy (Holo) | Austin 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/lgcy_holo_1355_37.8f38aec832375bdb04153cec576b6d9eaece18ae.png",
-    "original": {
-      "name": "aus2025_team_lgcy_holo",
-      "image_inventory": "econ/stickers/aus2025/lgcy_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8681",
-    "name": "Sticker Slab | Legacy (Gold) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8681",
+    "def_index": "7052",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -42,30 +11,42 @@
     },
     "crates": [
       {
-        "id": "crate-5119",
-        "name": "Austin 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-5nWyy9kRg1oHOBzon6ciqfaQRxXMRwRrZY4xm8wNPmN-2w7gPa3o5NzX76jykc5iht_a9cBn7eB-5Y"
+        "id": "crate-4901",
+        "name": "Paris 2023 Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JhTiW_kBMgti-W1NypdnKRPQMiCMQjFrELt0Ltld3iNu625QePjtoWxCj_h35K63tvsL0cEf1yg7EGlt4"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Legacy (Gold) | Austin 2025",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Woro2k (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/lgcy_gold_1355_37.46127ee3915633181d5ecd5db335a71bdf07cf7e.png",
+    "team": {
+      "id": 119,
+      "tag": "MONT",
+      "name": "Monte"
+    },
+    "player": {
+      "id": 1015186932,
+      "name": "Woro2k",
+      "code": "woro2k",
+      "dob": "1970-01-01",
+      "geo": "WORLD"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_woro2k_gold_1355_37.da5dbf93f8eacb60a7cf1e5e026c569662b2315d.png",
     "original": {
-      "name": "aus2025_team_lgcy_gold",
-      "image_inventory": "econ/stickers/aus2025/lgcy_gold_1355_37"
+      "name": "paris2023_signature_woro2k_1_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_woro2k_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8682",
-    "name": "Sticker Slab | BLAST.tv | Austin 2025",
+    "id": "sticker_slab-7053",
+    "name": "Sticker Slab | EliGE | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8682",
+    "def_index": "7053",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -73,40 +54,43 @@
     },
     "crates": [
       {
-        "id": "crate-5117",
-        "name": "Austin 2025 Legends Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJvORuSie3hlN1sDjSz4r8c3mXZlAkWZEmQbNesRG6lN3uZriw4w2Pi44QmX2tiytA8G81tB5pi67Y"
-      },
-      {
-        "id": "crate-5118",
-        "name": "Austin 2025 Challengers Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-loQyW2mxoioS7Ly9-pcCiebFd2C5NyRbFZtES4mtfhYe634FeKj4tGniiviS1OuChqsfFCD_Tcz9djFA"
-      },
-      {
-        "id": "crate-5119",
-        "name": "Austin 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-5nWyy9kRg1oHOBzon6ciqfaQRxXMRwRrZY4xm8wNPmN-2w7gPa3o5NzX76jykc5iht_a9cBn7eB-5Y"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
-    "type": "Event",
-    "market_hash_name": "Sticker Slab | BLAST.tv | Austin 2025",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | EliGE | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/blst_1355_37.7db1f67245dcf9d63e18e36940b1351d7dd9ec87.png",
+    "team": {
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
+    },
+    "player": {
+      "id": 106428011,
+      "name": "EliGE",
+      "code": "elige",
+      "dob": "1997-07-16",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_elige_1355_37.555987d2683f87607242dcee1220ef900652c905.png",
     "original": {
-      "name": "aus2025_team_blst",
-      "image_inventory": "econ/stickers/aus2025/blst_1355_37"
+      "name": "paris2023_signature_elige_4",
+      "image_inventory": "econ/stickers/paris2023/sig_elige_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8683",
-    "name": "Sticker Slab | BLAST.tv (Foil) | Austin 2025",
+    "id": "sticker_slab-7054",
+    "name": "Sticker Slab | EliGE (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8683",
+    "def_index": "7054",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -114,40 +98,43 @@
     },
     "crates": [
       {
-        "id": "crate-5117",
-        "name": "Austin 2025 Legends Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJvORuSie3hlN1sDjSz4r8c3mXZlAkWZEmQbNesRG6lN3uZriw4w2Pi44QmX2tiytA8G81tB5pi67Y"
-      },
-      {
-        "id": "crate-5118",
-        "name": "Austin 2025 Challengers Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-loQyW2mxoioS7Ly9-pcCiebFd2C5NyRbFZtES4mtfhYe634FeKj4tGniiviS1OuChqsfFCD_Tcz9djFA"
-      },
-      {
-        "id": "crate-5119",
-        "name": "Austin 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-5nWyy9kRg1oHOBzon6ciqfaQRxXMRwRrZY4xm8wNPmN-2w7gPa3o5NzX76jykc5iht_a9cBn7eB-5Y"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
-    "type": "Event",
-    "market_hash_name": "Sticker Slab | BLAST.tv (Foil) | Austin 2025",
-    "effect": "Foil",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | EliGE (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/blst_foil_1355_37.928ed59a1dd3b7499de1fd1e679cd79a340e7b17.png",
+    "team": {
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
+    },
+    "player": {
+      "id": 106428011,
+      "name": "EliGE",
+      "code": "elige",
+      "dob": "1997-07-16",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_elige_glitter_1355_37.9cf2cd0b203f094304dedaac38eb18eee52c751a.png",
     "original": {
-      "name": "aus2025_team_blst_foil",
-      "image_inventory": "econ/stickers/aus2025/blst_foil_1355_37"
+      "name": "paris2023_signature_elige_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_elige_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8684",
-    "name": "Sticker Slab | BLAST.tv (Holo) | Austin 2025",
+    "id": "sticker_slab-7055",
+    "name": "Sticker Slab | EliGE (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8684",
+    "def_index": "7055",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -155,40 +142,43 @@
     },
     "crates": [
       {
-        "id": "crate-5117",
-        "name": "Austin 2025 Legends Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJvORuSie3hlN1sDjSz4r8c3mXZlAkWZEmQbNesRG6lN3uZriw4w2Pi44QmX2tiytA8G81tB5pi67Y"
-      },
-      {
-        "id": "crate-5118",
-        "name": "Austin 2025 Challengers Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-loQyW2mxoioS7Ly9-pcCiebFd2C5NyRbFZtES4mtfhYe634FeKj4tGniiviS1OuChqsfFCD_Tcz9djFA"
-      },
-      {
-        "id": "crate-5119",
-        "name": "Austin 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-5nWyy9kRg1oHOBzon6ciqfaQRxXMRwRrZY4xm8wNPmN-2w7gPa3o5NzX76jykc5iht_a9cBn7eB-5Y"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
-    "type": "Event",
-    "market_hash_name": "Sticker Slab | BLAST.tv (Holo) | Austin 2025",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | EliGE (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/blst_holo_1355_37.c6e42f9031bab74f41db3478888f5f9fe8ea2535.png",
+    "team": {
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
+    },
+    "player": {
+      "id": 106428011,
+      "name": "EliGE",
+      "code": "elige",
+      "dob": "1997-07-16",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_elige_holo_1355_37.e764cd7ee6538d10bdb4293c05b2cf4fbdec942c.png",
     "original": {
-      "name": "aus2025_team_blst_holo",
-      "image_inventory": "econ/stickers/aus2025/blst_holo_1355_37"
+      "name": "paris2023_signature_elige_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_elige_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8685",
-    "name": "Sticker Slab | BLAST.tv (Gold) | Austin 2025",
+    "id": "sticker_slab-7056",
+    "name": "Sticker Slab | EliGE (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8685",
+    "def_index": "7056",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -196,40 +186,43 @@
     },
     "crates": [
       {
-        "id": "crate-5117",
-        "name": "Austin 2025 Legends Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJvORuSie3hlN1sDjSz4r8c3mXZlAkWZEmQbNesRG6lN3uZriw4w2Pi44QmX2tiytA8G81tB5pi67Y"
-      },
-      {
-        "id": "crate-5118",
-        "name": "Austin 2025 Challengers Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-loQyW2mxoioS7Ly9-pcCiebFd2C5NyRbFZtES4mtfhYe634FeKj4tGniiviS1OuChqsfFCD_Tcz9djFA"
-      },
-      {
-        "id": "crate-5119",
-        "name": "Austin 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJs-5nWyy9kRg1oHOBzon6ciqfaQRxXMRwRrZY4xm8wNPmN-2w7gPa3o5NzX76jykc5iht_a9cBn7eB-5Y"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
-    "type": "Event",
-    "market_hash_name": "Sticker Slab | BLAST.tv (Gold) | Austin 2025",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | EliGE (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/blst_gold_1355_37.8db0fd278b79fea23c8c623160fea065f59cf28f.png",
+    "team": {
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
+    },
+    "player": {
+      "id": 106428011,
+      "name": "EliGE",
+      "code": "elige",
+      "dob": "1997-07-16",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_elige_gold_1355_37.d93e64c54ee7d44ec1d62ff81619d14e3493d5e8.png",
     "original": {
-      "name": "aus2025_team_blst_gold",
-      "image_inventory": "econ/stickers/aus2025/blst_gold_1355_37"
+      "name": "paris2023_signature_elige_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_elige_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8719",
-    "name": "Sticker Slab | apEX | Austin 2025",
+    "id": "sticker_slab-7057",
+    "name": "Sticker Slab | NAF | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8719",
+    "def_index": "7057",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -237,43 +230,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | apEX | Austin 2025",
+    "market_hash_name": "Sticker Slab | NAF | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 29478439,
-      "name": "apEX",
-      "code": "apex",
-      "dob": "1993-02-22",
-      "geo": "FR"
+      "id": 40885967,
+      "name": "NAF",
+      "code": "naf",
+      "dob": "1997-11-24",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_apex_1355_37.a0cd6b952a1e44138620f364ca7d0ddcea67e142.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_naf_1355_37.379c4640de4f5ff220086992b2c0ee898ef9cd7b.png",
     "original": {
-      "name": "aus2025_signature_apex_2",
-      "image_inventory": "econ/stickers/aus2025/sig_apex_1355_37"
+      "name": "paris2023_signature_naf_4",
+      "image_inventory": "econ/stickers/paris2023/sig_naf_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8720",
-    "name": "Sticker Slab | apEX (Foil) | Austin 2025",
+    "id": "sticker_slab-7058",
+    "name": "Sticker Slab | NAF (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8720",
+    "def_index": "7058",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -281,43 +274,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | apEX (Foil) | Austin 2025",
-    "effect": "Foil",
+    "market_hash_name": "Sticker Slab | NAF (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 29478439,
-      "name": "apEX",
-      "code": "apex",
-      "dob": "1993-02-22",
-      "geo": "FR"
+      "id": 40885967,
+      "name": "NAF",
+      "code": "naf",
+      "dob": "1997-11-24",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_apex_foil_1355_37.d2fd4172888ea339b4e59087135f3253a9d89c75.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_naf_glitter_1355_37.6b21feb5c195923773b6acbfee42d983f184ba9c.png",
     "original": {
-      "name": "aus2025_signature_apex_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_apex_foil_1355_37"
+      "name": "paris2023_signature_naf_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_naf_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8721",
-    "name": "Sticker Slab | apEX (Holo) | Austin 2025",
+    "id": "sticker_slab-7059",
+    "name": "Sticker Slab | NAF (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8721",
+    "def_index": "7059",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -325,43 +318,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | apEX (Holo) | Austin 2025",
+    "market_hash_name": "Sticker Slab | NAF (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 29478439,
-      "name": "apEX",
-      "code": "apex",
-      "dob": "1993-02-22",
-      "geo": "FR"
+      "id": 40885967,
+      "name": "NAF",
+      "code": "naf",
+      "dob": "1997-11-24",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_apex_holo_1355_37.0135dabb2d050ca2cfe800c61f02bd4e8838cfe3.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_naf_holo_1355_37.1f9e5e9377b9bb02678ef91e3c12d219b7f3f17c.png",
     "original": {
-      "name": "aus2025_signature_apex_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_apex_holo_1355_37"
+      "name": "paris2023_signature_naf_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_naf_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8722",
-    "name": "Sticker Slab | apEX (Gold) | Austin 2025",
+    "id": "sticker_slab-7060",
+    "name": "Sticker Slab | NAF (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8722",
+    "def_index": "7060",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -369,43 +362,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | apEX (Gold) | Austin 2025",
+    "market_hash_name": "Sticker Slab | NAF (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 29478439,
-      "name": "apEX",
-      "code": "apex",
-      "dob": "1993-02-22",
-      "geo": "FR"
+      "id": 40885967,
+      "name": "NAF",
+      "code": "naf",
+      "dob": "1997-11-24",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_apex_gold_1355_37.cd56776dcc3f6031d226d90fd3897574c5410af5.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_naf_gold_1355_37.4034e0282baf244c9ad1f00bb93fb3600b9cb409.png",
     "original": {
-      "name": "aus2025_signature_apex_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_apex_gold_1355_37"
+      "name": "paris2023_signature_naf_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_naf_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8723",
-    "name": "Sticker Slab | ZywOo | Austin 2025",
+    "id": "sticker_slab-7061",
+    "name": "Sticker Slab | nitr0 | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8723",
+    "def_index": "7061",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -413,43 +406,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ZywOo | Austin 2025",
+    "market_hash_name": "Sticker Slab | nitr0 | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 153400465,
-      "name": "ZywOo",
-      "code": "zywoo",
-      "dob": "2000-11-09",
-      "geo": "FR"
+      "id": 35624002,
+      "name": "nitr0",
+      "code": "nitro",
+      "dob": "1995-08-16",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_zywoo_1355_37.664893a86ebaf2a0cb31f0f9c0c247987f88393f.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_nitro_1355_37.3669af6f5cf110dd7c0ea38ba4a2f5a22dafb618.png",
     "original": {
-      "name": "aus2025_signature_zywoo_2",
-      "image_inventory": "econ/stickers/aus2025/sig_zywoo_1355_37"
+      "name": "paris2023_signature_nitro_4",
+      "image_inventory": "econ/stickers/paris2023/sig_nitro_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8724",
-    "name": "Sticker Slab | ZywOo (Foil) | Austin 2025",
+    "id": "sticker_slab-7062",
+    "name": "Sticker Slab | nitr0 (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8724",
+    "def_index": "7062",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -457,43 +450,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ZywOo (Foil) | Austin 2025",
-    "effect": "Foil",
+    "market_hash_name": "Sticker Slab | nitr0 (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 153400465,
-      "name": "ZywOo",
-      "code": "zywoo",
-      "dob": "2000-11-09",
-      "geo": "FR"
+      "id": 35624002,
+      "name": "nitr0",
+      "code": "nitro",
+      "dob": "1995-08-16",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_zywoo_foil_1355_37.a552ddee9615aa3102a17840ed1dd7aa6357269f.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_nitro_glitter_1355_37.49c49b4d125e6f1b78880b144febb9bcdb7ad7b7.png",
     "original": {
-      "name": "aus2025_signature_zywoo_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_zywoo_foil_1355_37"
+      "name": "paris2023_signature_nitro_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_nitro_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8725",
-    "name": "Sticker Slab | ZywOo (Holo) | Austin 2025",
+    "id": "sticker_slab-7063",
+    "name": "Sticker Slab | nitr0 (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8725",
+    "def_index": "7063",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -501,43 +494,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ZywOo (Holo) | Austin 2025",
+    "market_hash_name": "Sticker Slab | nitr0 (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 153400465,
-      "name": "ZywOo",
-      "code": "zywoo",
-      "dob": "2000-11-09",
-      "geo": "FR"
+      "id": 35624002,
+      "name": "nitr0",
+      "code": "nitro",
+      "dob": "1995-08-16",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_zywoo_holo_1355_37.edc110e07be6aa8cea941dc22799dd413853a49f.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_nitro_holo_1355_37.d384a753405a2dc10dfd2b90730405b21a19acf4.png",
     "original": {
-      "name": "aus2025_signature_zywoo_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_zywoo_holo_1355_37"
+      "name": "paris2023_signature_nitro_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_nitro_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8726",
-    "name": "Sticker Slab | ZywOo (Gold) | Austin 2025",
+    "id": "sticker_slab-7064",
+    "name": "Sticker Slab | nitr0 (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8726",
+    "def_index": "7064",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -545,43 +538,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ZywOo (Gold) | Austin 2025",
+    "market_hash_name": "Sticker Slab | nitr0 (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 153400465,
-      "name": "ZywOo",
-      "code": "zywoo",
-      "dob": "2000-11-09",
-      "geo": "FR"
+      "id": 35624002,
+      "name": "nitr0",
+      "code": "nitro",
+      "dob": "1995-08-16",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_zywoo_gold_1355_37.3fced7c5931f9d58a5fcde383d67d383c3089b3a.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_nitro_gold_1355_37.a3009d5ed5ed1c1e1d805ee7435edf688113416d.png",
     "original": {
-      "name": "aus2025_signature_zywoo_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_zywoo_gold_1355_37"
+      "name": "paris2023_signature_nitro_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_nitro_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8727",
-    "name": "Sticker Slab | FlameZ | Austin 2025",
+    "id": "sticker_slab-7065",
+    "name": "Sticker Slab | oSee | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8727",
+    "def_index": "7065",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -589,43 +582,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | FlameZ | Austin 2025",
+    "market_hash_name": "Sticker Slab | oSee | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 18569432,
-      "name": "FlameZ",
-      "code": "flamez",
-      "dob": "1970-01-01",
-      "geo": "IL"
+      "id": 87206806,
+      "name": "oSee",
+      "code": "osee",
+      "dob": "1999-05-31",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_flamez_1355_37.22d256dfce57addacbf3222817cf17c9c776dbb3.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_osee_1355_37.65f4f006c102963c8af70f091a0f9c2d4c57e715.png",
     "original": {
-      "name": "aus2025_signature_flamez_2",
-      "image_inventory": "econ/stickers/aus2025/sig_flamez_1355_37"
+      "name": "paris2023_signature_osee_4",
+      "image_inventory": "econ/stickers/paris2023/sig_osee_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8728",
-    "name": "Sticker Slab | FlameZ (Foil) | Austin 2025",
+    "id": "sticker_slab-7066",
+    "name": "Sticker Slab | oSee (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8728",
+    "def_index": "7066",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -633,43 +626,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | FlameZ (Foil) | Austin 2025",
-    "effect": "Foil",
+    "market_hash_name": "Sticker Slab | oSee (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 18569432,
-      "name": "FlameZ",
-      "code": "flamez",
-      "dob": "1970-01-01",
-      "geo": "IL"
+      "id": 87206806,
+      "name": "oSee",
+      "code": "osee",
+      "dob": "1999-05-31",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_flamez_foil_1355_37.26c9aa073728eccdcd955ab59cb596496d032205.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_osee_glitter_1355_37.37bf3f021206fd87e754c34d7a52a88bbf4058a1.png",
     "original": {
-      "name": "aus2025_signature_flamez_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_flamez_foil_1355_37"
+      "name": "paris2023_signature_osee_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_osee_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8729",
-    "name": "Sticker Slab | FlameZ (Holo) | Austin 2025",
+    "id": "sticker_slab-7067",
+    "name": "Sticker Slab | oSee (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8729",
+    "def_index": "7067",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -677,43 +670,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | FlameZ (Holo) | Austin 2025",
+    "market_hash_name": "Sticker Slab | oSee (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 18569432,
-      "name": "FlameZ",
-      "code": "flamez",
-      "dob": "1970-01-01",
-      "geo": "IL"
+      "id": 87206806,
+      "name": "oSee",
+      "code": "osee",
+      "dob": "1999-05-31",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_flamez_holo_1355_37.56efe6f2410da2a2d3abac17ed70d59c9adc9b12.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_osee_holo_1355_37.f451b6104f520f76f5fc305b3105f7b137af6d60.png",
     "original": {
-      "name": "aus2025_signature_flamez_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_flamez_holo_1355_37"
+      "name": "paris2023_signature_osee_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_osee_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8730",
-    "name": "Sticker Slab | FlameZ (Gold) | Austin 2025",
+    "id": "sticker_slab-7068",
+    "name": "Sticker Slab | oSee (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8730",
+    "def_index": "7068",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -721,43 +714,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | FlameZ (Gold) | Austin 2025",
+    "market_hash_name": "Sticker Slab | oSee (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 18569432,
-      "name": "FlameZ",
-      "code": "flamez",
-      "dob": "1970-01-01",
-      "geo": "IL"
+      "id": 87206806,
+      "name": "oSee",
+      "code": "osee",
+      "dob": "1999-05-31",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_flamez_gold_1355_37.207b81ac710ac0627c5d21cf015602d70ab9ab61.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_osee_gold_1355_37.d3fb8b2766f684807a8f9de2887b70222073125e.png",
     "original": {
-      "name": "aus2025_signature_flamez_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_flamez_gold_1355_37"
+      "name": "paris2023_signature_osee_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_osee_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8731",
-    "name": "Sticker Slab | mezii | Austin 2025",
+    "id": "sticker_slab-7069",
+    "name": "Sticker Slab | YEKINDAR | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8731",
+    "def_index": "7069",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -765,43 +758,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | mezii | Austin 2025",
+    "market_hash_name": "Sticker Slab | YEKINDAR | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 12874964,
-      "name": "mezii",
-      "code": "mezii",
-      "dob": "1970-01-01",
-      "geo": "GB"
+      "id": 174136197,
+      "name": "YEKINDAR",
+      "code": "yekindar",
+      "dob": "1999-10-04",
+      "geo": "LV"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_mezii_1355_37.ad6c67f981586cde032fe427aaeb8d42401fee8c.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_yekindar_1355_37.0b7f220dc925459a84c6b295b49dbc4ac4788367.png",
     "original": {
-      "name": "aus2025_signature_mezii_2",
-      "image_inventory": "econ/stickers/aus2025/sig_mezii_1355_37"
+      "name": "paris2023_signature_yekindar_4",
+      "image_inventory": "econ/stickers/paris2023/sig_yekindar_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8732",
-    "name": "Sticker Slab | mezii (Foil) | Austin 2025",
+    "id": "sticker_slab-7070",
+    "name": "Sticker Slab | YEKINDAR (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8732",
+    "def_index": "7070",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -809,43 +802,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | mezii (Foil) | Austin 2025",
-    "effect": "Foil",
+    "market_hash_name": "Sticker Slab | YEKINDAR (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 12874964,
-      "name": "mezii",
-      "code": "mezii",
-      "dob": "1970-01-01",
-      "geo": "GB"
+      "id": 174136197,
+      "name": "YEKINDAR",
+      "code": "yekindar",
+      "dob": "1999-10-04",
+      "geo": "LV"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_mezii_foil_1355_37.0e4b3980f10ddd26b099def09b802470a54daad6.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_yekindar_glitter_1355_37.252ec9cf519a54723377bb4f971b50bd14f3122e.png",
     "original": {
-      "name": "aus2025_signature_mezii_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_mezii_foil_1355_37"
+      "name": "paris2023_signature_yekindar_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_yekindar_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8733",
-    "name": "Sticker Slab | mezii (Holo) | Austin 2025",
+    "id": "sticker_slab-7071",
+    "name": "Sticker Slab | YEKINDAR (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8733",
+    "def_index": "7071",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -853,43 +846,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | mezii (Holo) | Austin 2025",
+    "market_hash_name": "Sticker Slab | YEKINDAR (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 12874964,
-      "name": "mezii",
-      "code": "mezii",
-      "dob": "1970-01-01",
-      "geo": "GB"
+      "id": 174136197,
+      "name": "YEKINDAR",
+      "code": "yekindar",
+      "dob": "1999-10-04",
+      "geo": "LV"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_mezii_holo_1355_37.92434cf6e06c8fac3242b06595c3951822e614d1.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_yekindar_holo_1355_37.78b82d30fc24cd11c62eaed18c8159b73274b7a6.png",
     "original": {
-      "name": "aus2025_signature_mezii_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_mezii_holo_1355_37"
+      "name": "paris2023_signature_yekindar_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_yekindar_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8734",
-    "name": "Sticker Slab | mezii (Gold) | Austin 2025",
+    "id": "sticker_slab-7072",
+    "name": "Sticker Slab | YEKINDAR (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8734",
+    "def_index": "7072",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -897,43 +890,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | mezii (Gold) | Austin 2025",
+    "market_hash_name": "Sticker Slab | YEKINDAR (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 12874964,
-      "name": "mezii",
-      "code": "mezii",
-      "dob": "1970-01-01",
-      "geo": "GB"
+      "id": 174136197,
+      "name": "YEKINDAR",
+      "code": "yekindar",
+      "dob": "1999-10-04",
+      "geo": "LV"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_mezii_gold_1355_37.e956a856f2ef45eb71c2379b7b7e4033103fe932.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_yekindar_gold_1355_37.9198945e6656f8389aa730a2a458e373b29c5ece.png",
     "original": {
-      "name": "aus2025_signature_mezii_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_mezii_gold_1355_37"
+      "name": "paris2023_signature_yekindar_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_yekindar_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8735",
-    "name": "Sticker Slab | ropz | Austin 2025",
+    "id": "sticker_slab-7073",
+    "name": "Sticker Slab | broky | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8735",
+    "def_index": "7073",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -941,24 +934,552 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ropz | Austin 2025",
+    "market_hash_name": "Sticker Slab | broky | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 241354762,
+      "name": "broky",
+      "code": "broky",
+      "dob": "2001-02-14",
+      "geo": "LV"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_broky_1355_37.1f9835056f00d03be10621938a2f4862e589919f.png",
+    "original": {
+      "name": "paris2023_signature_broky_4",
+      "image_inventory": "econ/stickers/paris2023/sig_broky_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7074",
+    "name": "Sticker Slab | broky (Glitter) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7074",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | broky (Glitter) | Paris 2023",
+    "effect": "Glitter",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 241354762,
+      "name": "broky",
+      "code": "broky",
+      "dob": "2001-02-14",
+      "geo": "LV"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_broky_glitter_1355_37.d47ac1be642e8dbe0c1f571e38b9acb19bbef850.png",
+    "original": {
+      "name": "paris2023_signature_broky_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_broky_glitter_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7075",
+    "name": "Sticker Slab | broky (Holo) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7075",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | broky (Holo) | Paris 2023",
+    "effect": "Holo",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 241354762,
+      "name": "broky",
+      "code": "broky",
+      "dob": "2001-02-14",
+      "geo": "LV"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_broky_holo_1355_37.2c7d86503fda6125dbdbd82490151e8dca1c2516.png",
+    "original": {
+      "name": "paris2023_signature_broky_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_broky_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7076",
+    "name": "Sticker Slab | broky (Gold) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7076",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | broky (Gold) | Paris 2023",
+    "effect": "Gold",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 241354762,
+      "name": "broky",
+      "code": "broky",
+      "dob": "2001-02-14",
+      "geo": "LV"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_broky_gold_1355_37.19554dd479c43cf5532bda40770e17da534e503a.png",
+    "original": {
+      "name": "paris2023_signature_broky_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_broky_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7077",
+    "name": "Sticker Slab | karrigan | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7077",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | karrigan | Paris 2023",
+    "effect": "Other",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 29164525,
+      "name": "karrigan",
+      "code": "karrigan",
+      "dob": "1990-04-14",
+      "geo": "DK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_karrigan_1355_37.3cf0fb767073cfe8926b5ffc2e2b8d968920c37c.png",
+    "original": {
+      "name": "paris2023_signature_karrigan_4",
+      "image_inventory": "econ/stickers/paris2023/sig_karrigan_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7078",
+    "name": "Sticker Slab | karrigan (Glitter) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7078",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | karrigan (Glitter) | Paris 2023",
+    "effect": "Glitter",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 29164525,
+      "name": "karrigan",
+      "code": "karrigan",
+      "dob": "1990-04-14",
+      "geo": "DK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_karrigan_glitter_1355_37.fd77a06e3a2db2836907e455da4e9a067a541396.png",
+    "original": {
+      "name": "paris2023_signature_karrigan_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_karrigan_glitter_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7079",
+    "name": "Sticker Slab | karrigan (Holo) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7079",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | karrigan (Holo) | Paris 2023",
+    "effect": "Holo",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 29164525,
+      "name": "karrigan",
+      "code": "karrigan",
+      "dob": "1990-04-14",
+      "geo": "DK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_karrigan_holo_1355_37.8d882e0d04649d8a759f8349c3fc51f92b5691cd.png",
+    "original": {
+      "name": "paris2023_signature_karrigan_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_karrigan_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7080",
+    "name": "Sticker Slab | karrigan (Gold) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7080",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | karrigan (Gold) | Paris 2023",
+    "effect": "Gold",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 29164525,
+      "name": "karrigan",
+      "code": "karrigan",
+      "dob": "1990-04-14",
+      "geo": "DK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_karrigan_gold_1355_37.c869e6b1e6f7b913d3fa5a188dae76e3faa6491c.png",
+    "original": {
+      "name": "paris2023_signature_karrigan_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_karrigan_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7081",
+    "name": "Sticker Slab | rain | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7081",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | rain | Paris 2023",
+    "effect": "Other",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 37085479,
+      "name": "rain",
+      "code": "rain",
+      "dob": "1994-08-27",
+      "geo": "NO"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_rain_1355_37.dc82ffe3169ea576cc4a1d0bb51f0f9633968c20.png",
+    "original": {
+      "name": "paris2023_signature_rain_4",
+      "image_inventory": "econ/stickers/paris2023/sig_rain_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7082",
+    "name": "Sticker Slab | rain (Glitter) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7082",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | rain (Glitter) | Paris 2023",
+    "effect": "Glitter",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 37085479,
+      "name": "rain",
+      "code": "rain",
+      "dob": "1994-08-27",
+      "geo": "NO"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_rain_glitter_1355_37.49267a8ae0b5ff04f72ef8f9fc8588d3c01d6396.png",
+    "original": {
+      "name": "paris2023_signature_rain_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_rain_glitter_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7083",
+    "name": "Sticker Slab | rain (Holo) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7083",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | rain (Holo) | Paris 2023",
+    "effect": "Holo",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 37085479,
+      "name": "rain",
+      "code": "rain",
+      "dob": "1994-08-27",
+      "geo": "NO"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_rain_holo_1355_37.5c8d96fe04a9c510ea03472da438d923f2617234.png",
+    "original": {
+      "name": "paris2023_signature_rain_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_rain_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7084",
+    "name": "Sticker Slab | rain (Gold) | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7084",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | rain (Gold) | Paris 2023",
+    "effect": "Gold",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 37085479,
+      "name": "rain",
+      "code": "rain",
+      "dob": "1994-08-27",
+      "geo": "NO"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_rain_gold_1355_37.b5736e7ff8dcddd785b3c2fc5f909bd08238f88b.png",
+    "original": {
+      "name": "paris2023_signature_rain_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_rain_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-7085",
+    "name": "Sticker Slab | ropz | Paris 2023",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "7085",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | ropz | Paris 2023",
+    "effect": "Other",
+    "tournament": {
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
     },
     "player": {
       "id": 31006590,
@@ -967,17 +1488,17 @@
       "dob": "1999-12-22",
       "geo": "EE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_ropz_1355_37.2c7fb6c919adf583012edc0dafa396313a0bf1fd.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_ropz_1355_37.24c6122ab2c5dfe0f845102a1ec51597fd2cca94.png",
     "original": {
-      "name": "aus2025_signature_ropz_2",
-      "image_inventory": "econ/stickers/aus2025/sig_ropz_1355_37"
+      "name": "paris2023_signature_ropz_4",
+      "image_inventory": "econ/stickers/paris2023/sig_ropz_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8736",
-    "name": "Sticker Slab | ropz (Foil) | Austin 2025",
+    "id": "sticker_slab-7086",
+    "name": "Sticker Slab | ropz (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8736",
+    "def_index": "7086",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -985,24 +1506,24 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ropz (Foil) | Austin 2025",
-    "effect": "Foil",
+    "market_hash_name": "Sticker Slab | ropz (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
     },
     "player": {
       "id": 31006590,
@@ -1011,17 +1532,17 @@
       "dob": "1999-12-22",
       "geo": "EE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_ropz_foil_1355_37.549f7214f52c1ed1ccb4073ea2e37eee3bdbb796.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_ropz_glitter_1355_37.1f790fd0e195be03fafd5a6a72258a81f7202276.png",
     "original": {
-      "name": "aus2025_signature_ropz_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_ropz_foil_1355_37"
+      "name": "paris2023_signature_ropz_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_ropz_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8737",
-    "name": "Sticker Slab | ropz (Holo) | Austin 2025",
+    "id": "sticker_slab-7087",
+    "name": "Sticker Slab | ropz (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8737",
+    "def_index": "7087",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1029,24 +1550,24 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ropz (Holo) | Austin 2025",
+    "market_hash_name": "Sticker Slab | ropz (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
     },
     "player": {
       "id": 31006590,
@@ -1055,17 +1576,17 @@
       "dob": "1999-12-22",
       "geo": "EE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_ropz_holo_1355_37.104e3b2009bbde9f64edb807a9592dcd21b24fc3.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_ropz_holo_1355_37.ec774527ed71ec5f23356f9a8b7981440930dd2f.png",
     "original": {
-      "name": "aus2025_signature_ropz_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_ropz_holo_1355_37"
+      "name": "paris2023_signature_ropz_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_ropz_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8738",
-    "name": "Sticker Slab | ropz (Gold) | Austin 2025",
+    "id": "sticker_slab-7088",
+    "name": "Sticker Slab | ropz (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8738",
+    "def_index": "7088",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1073,24 +1594,24 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | ropz (Gold) | Austin 2025",
+    "market_hash_name": "Sticker Slab | ropz (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 89,
-      "tag": "VITA",
-      "geo": "FR",
-      "name": "Vitality"
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
     },
     "player": {
       "id": 31006590,
@@ -1099,17 +1620,17 @@
       "dob": "1999-12-22",
       "geo": "EE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_ropz_gold_1355_37.89a1ad1129610767bc0adcbf22f0da4087ea7b66.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_ropz_gold_1355_37.aa39e0566a66f1331bab373a84871d585fc25a93.png",
     "original": {
-      "name": "aus2025_signature_ropz_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_ropz_gold_1355_37"
+      "name": "paris2023_signature_ropz_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_ropz_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8739",
-    "name": "Sticker Slab | torzsi | Austin 2025",
+    "id": "sticker_slab-7089",
+    "name": "Sticker Slab | Twistzz | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8739",
+    "def_index": "7089",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1117,43 +1638,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | torzsi | Austin 2025",
+    "market_hash_name": "Sticker Slab | Twistzz | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
+      "id": 61,
+      "tag": "FAZE",
       "geo": "EU",
-      "name": "MOUZ"
+      "name": "FaZe Clan"
     },
     "player": {
-      "id": 395473484,
-      "name": "torzsi",
-      "code": "torzsi",
-      "dob": "1970-01-01",
-      "geo": "HU"
+      "id": 55989477,
+      "name": "Twistzz",
+      "code": "twistzz",
+      "dob": "1999-11-14",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_torzsi_1355_37.cbf11fa329ccd642e07969630b7e9d94c4211bd0.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jn417YVQr4jYL65x0KvKf7V_c6bvSXW2bHmeon5bg9GCuykUV3sm3TzImhdHvBOw8mD5pxQrNesELqltL5d7S1sHz_Prw",
     "original": {
-      "name": "aus2025_signature_torzsi_2",
-      "image_inventory": "econ/stickers/aus2025/sig_torzsi_1355_37"
+      "name": "paris2023_signature_twistzz_4",
+      "image_inventory": "econ/stickers/paris2023/sig_twistzz_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8740",
-    "name": "Sticker Slab | torzsi (Foil) | Austin 2025",
+    "id": "sticker_slab-7090",
+    "name": "Sticker Slab | Twistzz (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8740",
+    "def_index": "7090",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1161,43 +1682,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | torzsi (Foil) | Austin 2025",
-    "effect": "Foil",
+    "market_hash_name": "Sticker Slab | Twistzz (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
+      "id": 61,
+      "tag": "FAZE",
       "geo": "EU",
-      "name": "MOUZ"
+      "name": "FaZe Clan"
     },
     "player": {
-      "id": 395473484,
-      "name": "torzsi",
-      "code": "torzsi",
-      "dob": "1970-01-01",
-      "geo": "HU"
+      "id": 55989477,
+      "name": "Twistzz",
+      "code": "twistzz",
+      "dob": "1999-11-14",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_torzsi_foil_1355_37.c58c87ca61438504f49375ef39b47d35b036e16d.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_twistzz_glitter_1355_37.eda2bbc5101efa5c01810784992a899d350a8db4.png",
     "original": {
-      "name": "aus2025_signature_torzsi_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_torzsi_foil_1355_37"
+      "name": "paris2023_signature_twistzz_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_twistzz_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8741",
-    "name": "Sticker Slab | torzsi (Holo) | Austin 2025",
+    "id": "sticker_slab-7091",
+    "name": "Sticker Slab | Twistzz (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8741",
+    "def_index": "7091",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1205,43 +1726,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | torzsi (Holo) | Austin 2025",
+    "market_hash_name": "Sticker Slab | Twistzz (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
+      "id": 61,
+      "tag": "FAZE",
       "geo": "EU",
-      "name": "MOUZ"
+      "name": "FaZe Clan"
     },
     "player": {
-      "id": 395473484,
-      "name": "torzsi",
-      "code": "torzsi",
-      "dob": "1970-01-01",
-      "geo": "HU"
+      "id": 55989477,
+      "name": "Twistzz",
+      "code": "twistzz",
+      "dob": "1999-11-14",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_torzsi_holo_1355_37.108282db91bd129340f4f8dfe06b40538759e008.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_twistzz_holo_1355_37.9ff8ca6220f2e909c317cecfc1cc7597b303efb5.png",
     "original": {
-      "name": "aus2025_signature_torzsi_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_torzsi_holo_1355_37"
+      "name": "paris2023_signature_twistzz_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_twistzz_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8742",
-    "name": "Sticker Slab | torzsi (Gold) | Austin 2025",
+    "id": "sticker_slab-7092",
+    "name": "Sticker Slab | Twistzz (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8742",
+    "def_index": "7092",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1249,43 +1770,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | torzsi (Gold) | Austin 2025",
+    "market_hash_name": "Sticker Slab | Twistzz (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
+      "id": 61,
+      "tag": "FAZE",
       "geo": "EU",
-      "name": "MOUZ"
+      "name": "FaZe Clan"
     },
     "player": {
-      "id": 395473484,
-      "name": "torzsi",
-      "code": "torzsi",
-      "dob": "1970-01-01",
-      "geo": "HU"
+      "id": 55989477,
+      "name": "Twistzz",
+      "code": "twistzz",
+      "dob": "1999-11-14",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_torzsi_gold_1355_37.d6ade907ae33f01de3db9ce23db729530cc7e032.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_twistzz_gold_1355_37.b0e5fb175cf04a5e1fc6e8707890d568ba707c44.png",
     "original": {
-      "name": "aus2025_signature_torzsi_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_torzsi_gold_1355_37"
+      "name": "paris2023_signature_twistzz_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_twistzz_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8743",
-    "name": "Sticker Slab | Jimpphat | Austin 2025",
+    "id": "sticker_slab-7093",
+    "name": "Sticker Slab | Dycha | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8743",
+    "def_index": "7093",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1293,43 +1814,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Jimpphat | Austin 2025",
+    "market_hash_name": "Sticker Slab | Dycha | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 895109597,
-      "name": "Jimpphat",
-      "code": "jimpphat",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
+      "id": 81151265,
+      "name": "Dycha",
+      "code": "dycha",
+      "dob": "1997-08-11",
+      "geo": "PL"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_jimpphat_1355_37.feec947f65c7de28aa6c1547b7572c7281db00da.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_dycha_1355_37.542c754593e84e5eb4dbb90ecbd751eedd824770.png",
     "original": {
-      "name": "aus2025_signature_jimpphat_2",
-      "image_inventory": "econ/stickers/aus2025/sig_jimpphat_1355_37"
+      "name": "paris2023_signature_dycha_4",
+      "image_inventory": "econ/stickers/paris2023/sig_dycha_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8744",
-    "name": "Sticker Slab | Jimpphat (Foil) | Austin 2025",
+    "id": "sticker_slab-7094",
+    "name": "Sticker Slab | Dycha (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8744",
+    "def_index": "7094",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1337,43 +1858,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Jimpphat (Foil) | Austin 2025",
-    "effect": "Foil",
+    "market_hash_name": "Sticker Slab | Dycha (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 895109597,
-      "name": "Jimpphat",
-      "code": "jimpphat",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
+      "id": 81151265,
+      "name": "Dycha",
+      "code": "dycha",
+      "dob": "1997-08-11",
+      "geo": "PL"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_jimpphat_foil_1355_37.03ba669c9ae496e91b508a7f829a9d002ef1fed3.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_dycha_glitter_1355_37.179eb5e0dd6d1bdb499371bdec77601b688629b0.png",
     "original": {
-      "name": "aus2025_signature_jimpphat_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_jimpphat_foil_1355_37"
+      "name": "paris2023_signature_dycha_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_dycha_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8745",
-    "name": "Sticker Slab | Jimpphat (Holo) | Austin 2025",
+    "id": "sticker_slab-7095",
+    "name": "Sticker Slab | Dycha (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8745",
+    "def_index": "7095",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1381,43 +1902,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Jimpphat (Holo) | Austin 2025",
+    "market_hash_name": "Sticker Slab | Dycha (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 895109597,
-      "name": "Jimpphat",
-      "code": "jimpphat",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
+      "id": 81151265,
+      "name": "Dycha",
+      "code": "dycha",
+      "dob": "1997-08-11",
+      "geo": "PL"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_jimpphat_holo_1355_37.0864b4880e0f394c54288c463f740df9d24be4ab.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_dycha_holo_1355_37.6df32ad2e06a6c4dd98849a15f21a668e731d345.png",
     "original": {
-      "name": "aus2025_signature_jimpphat_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_jimpphat_holo_1355_37"
+      "name": "paris2023_signature_dycha_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_dycha_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8746",
-    "name": "Sticker Slab | Jimpphat (Gold) | Austin 2025",
+    "id": "sticker_slab-7096",
+    "name": "Sticker Slab | Dycha (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8746",
+    "def_index": "7096",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1425,43 +1946,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Jimpphat (Gold) | Austin 2025",
+    "market_hash_name": "Sticker Slab | Dycha (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 895109597,
-      "name": "Jimpphat",
-      "code": "jimpphat",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
+      "id": 81151265,
+      "name": "Dycha",
+      "code": "dycha",
+      "dob": "1997-08-11",
+      "geo": "PL"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_jimpphat_gold_1355_37.48c7d164ff335554dbba04207ad27d61279a6858.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_dycha_gold_1355_37.f2b8be09a3663c4e457e7a386ef36a65c6931f5d.png",
     "original": {
-      "name": "aus2025_signature_jimpphat_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_jimpphat_gold_1355_37"
+      "name": "paris2023_signature_dycha_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_dycha_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8747",
-    "name": "Sticker Slab | Brollan | Austin 2025",
+    "id": "sticker_slab-7097",
+    "name": "Sticker Slab | maden | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8747",
+    "def_index": "7097",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1469,43 +1990,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Brollan | Austin 2025",
+    "market_hash_name": "Sticker Slab | maden | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 178562747,
-      "name": "Brollan",
-      "code": "brollan",
-      "dob": "2002-06-17",
-      "geo": "SE"
+      "id": 205186299,
+      "name": "maden",
+      "code": "maden",
+      "dob": "1998-11-12",
+      "geo": "ME"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_brollan_1355_37.24bc19fe972a380cb86727e151796ee62f4b5abb.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_maden_1355_37.45bce71936f9750c7201e1e657fb66fd8700184f.png",
     "original": {
-      "name": "aus2025_signature_brollan_2",
-      "image_inventory": "econ/stickers/aus2025/sig_brollan_1355_37"
+      "name": "paris2023_signature_maden_4",
+      "image_inventory": "econ/stickers/paris2023/sig_maden_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8748",
-    "name": "Sticker Slab | Brollan (Foil) | Austin 2025",
+    "id": "sticker_slab-7098",
+    "name": "Sticker Slab | maden (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8748",
+    "def_index": "7098",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1513,43 +2034,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Brollan (Foil) | Austin 2025",
-    "effect": "Foil",
+    "market_hash_name": "Sticker Slab | maden (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 178562747,
-      "name": "Brollan",
-      "code": "brollan",
-      "dob": "2002-06-17",
-      "geo": "SE"
+      "id": 205186299,
+      "name": "maden",
+      "code": "maden",
+      "dob": "1998-11-12",
+      "geo": "ME"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_brollan_foil_1355_37.2a215c727b4f9d431096fcc0558c3b4e778f376c.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_maden_glitter_1355_37.be9526110836a353481ebb0f1ca7dd150c56d568.png",
     "original": {
-      "name": "aus2025_signature_brollan_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_brollan_foil_1355_37"
+      "name": "paris2023_signature_maden_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_maden_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8749",
-    "name": "Sticker Slab | Brollan (Holo) | Austin 2025",
+    "id": "sticker_slab-7099",
+    "name": "Sticker Slab | maden (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8749",
+    "def_index": "7099",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1557,43 +2078,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Brollan (Holo) | Austin 2025",
+    "market_hash_name": "Sticker Slab | maden (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 178562747,
-      "name": "Brollan",
-      "code": "brollan",
-      "dob": "2002-06-17",
-      "geo": "SE"
+      "id": 205186299,
+      "name": "maden",
+      "code": "maden",
+      "dob": "1998-11-12",
+      "geo": "ME"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_brollan_holo_1355_37.8cb958c08f1b6d0aebccb57512387003a2ef8c42.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_maden_holo_1355_37.3e0842b88157decb76fcdf7170962788b3101ab5.png",
     "original": {
-      "name": "aus2025_signature_brollan_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_brollan_holo_1355_37"
+      "name": "paris2023_signature_maden_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_maden_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8750",
-    "name": "Sticker Slab | Brollan (Gold) | Austin 2025",
+    "id": "sticker_slab-7100",
+    "name": "Sticker Slab | maden (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8750",
+    "def_index": "7100",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1601,43 +2122,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Brollan (Gold) | Austin 2025",
+    "market_hash_name": "Sticker Slab | maden (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 178562747,
-      "name": "Brollan",
-      "code": "brollan",
-      "dob": "2002-06-17",
-      "geo": "SE"
+      "id": 205186299,
+      "name": "maden",
+      "code": "maden",
+      "dob": "1998-11-12",
+      "geo": "ME"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_brollan_gold_1355_37.9b08ad36ce9a630adbb64af21a6cc688c8ea563a.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_maden_gold_1355_37.d367ef987c165c83ff7d03c99973d94f8e9986af.png",
     "original": {
-      "name": "aus2025_signature_brollan_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_brollan_gold_1355_37"
+      "name": "paris2023_signature_maden_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_maden_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8751",
-    "name": "Sticker Slab | Spinx | Austin 2025",
+    "id": "sticker_slab-7101",
+    "name": "Sticker Slab | NertZ | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8751",
+    "def_index": "7101",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1645,43 +2166,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Spinx | Austin 2025",
+    "market_hash_name": "Sticker Slab | NertZ | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 103070679,
-      "name": "Spinx",
-      "code": "spinx",
-      "dob": "2000-09-13",
-      "geo": "IL"
+      "id": 92860917,
+      "name": "NertZ",
+      "code": "nertz",
+      "dob": "1970-01-01",
+      "geo": "WORLD"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_spinx_1355_37.e472fcf39d9b1cebc8840fdd6a0761117ef2f1b5.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_nertz_1355_37.f0367e14ca9e3d9ca03bceada5a5fc3bebc30bc5.png",
     "original": {
-      "name": "aus2025_signature_spinx_2",
-      "image_inventory": "econ/stickers/aus2025/sig_spinx_1355_37"
+      "name": "paris2023_signature_nertz_4",
+      "image_inventory": "econ/stickers/paris2023/sig_nertz_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8752",
-    "name": "Sticker Slab | Spinx (Foil) | Austin 2025",
+    "id": "sticker_slab-7102",
+    "name": "Sticker Slab | NertZ (Glitter) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8752",
+    "def_index": "7102",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1689,43 +2210,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Spinx (Foil) | Austin 2025",
-    "effect": "Foil",
+    "market_hash_name": "Sticker Slab | NertZ (Glitter) | Paris 2023",
+    "effect": "Glitter",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 103070679,
-      "name": "Spinx",
-      "code": "spinx",
-      "dob": "2000-09-13",
-      "geo": "IL"
+      "id": 92860917,
+      "name": "NertZ",
+      "code": "nertz",
+      "dob": "1970-01-01",
+      "geo": "WORLD"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_spinx_foil_1355_37.2390e95e761a107e41e93cdc7182bc2a22164ca0.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_nertz_glitter_1355_37.42c06e2bdcddbed28141679d6fad72c8617f4cab.png",
     "original": {
-      "name": "aus2025_signature_spinx_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_spinx_foil_1355_37"
+      "name": "paris2023_signature_nertz_4_glitter",
+      "image_inventory": "econ/stickers/paris2023/sig_nertz_glitter_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8753",
-    "name": "Sticker Slab | Spinx (Holo) | Austin 2025",
+    "id": "sticker_slab-7103",
+    "name": "Sticker Slab | NertZ (Holo) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8753",
+    "def_index": "7103",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1733,43 +2254,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Spinx (Holo) | Austin 2025",
+    "market_hash_name": "Sticker Slab | NertZ (Holo) | Paris 2023",
     "effect": "Holo",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 103070679,
-      "name": "Spinx",
-      "code": "spinx",
-      "dob": "2000-09-13",
-      "geo": "IL"
+      "id": 92860917,
+      "name": "NertZ",
+      "code": "nertz",
+      "dob": "1970-01-01",
+      "geo": "WORLD"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_spinx_holo_1355_37.db25b6b69b4c5db4a17fa7bd5c457a64432e2fe7.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_nertz_holo_1355_37.4922d0f9e6442812793d497b5ebe704c3a123ea2.png",
     "original": {
-      "name": "aus2025_signature_spinx_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_spinx_holo_1355_37"
+      "name": "paris2023_signature_nertz_4_holo",
+      "image_inventory": "econ/stickers/paris2023/sig_nertz_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8754",
-    "name": "Sticker Slab | Spinx (Gold) | Austin 2025",
+    "id": "sticker_slab-7104",
+    "name": "Sticker Slab | NertZ (Gold) | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8754",
+    "def_index": "7104",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1777,43 +2298,43 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Spinx (Gold) | Austin 2025",
+    "market_hash_name": "Sticker Slab | NertZ (Gold) | Paris 2023",
     "effect": "Gold",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 103070679,
-      "name": "Spinx",
-      "code": "spinx",
-      "dob": "2000-09-13",
-      "geo": "IL"
+      "id": 92860917,
+      "name": "NertZ",
+      "code": "nertz",
+      "dob": "1970-01-01",
+      "geo": "WORLD"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_spinx_gold_1355_37.341759b0cfc9e151e1bc4f1333912219c640348a.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_nertz_gold_1355_37.0d2a042cd18235209c5251317b8e831e4ad8ef7f.png",
     "original": {
-      "name": "aus2025_signature_spinx_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_spinx_gold_1355_37"
+      "name": "paris2023_signature_nertz_4_gold",
+      "image_inventory": "econ/stickers/paris2023/sig_nertz_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-8755",
-    "name": "Sticker Slab | xertioN | Austin 2025",
+    "id": "sticker_slab-7105",
+    "name": "Sticker Slab | Snappi | Paris 2023",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8755",
+    "def_index": "7105",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1821,1091 +2342,36 @@
     },
     "crates": [
       {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
+        "id": "crate-4902",
+        "name": "Paris 2023 Contenders Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWCCzvtmj-JmQT22mxkioS7Lm9yvIi_BbVB2WMB1E-IL4xW5kNGyPu_qsVPYiN1HxCyriCwf7ys5sPFCD_TXdwVgyQ"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | xertioN | Austin 2025",
+    "market_hash_name": "Sticker Slab | Snappi | Paris 2023",
     "effect": "Other",
     "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
+      "id": 21,
+      "name": "BLAST.tv Paris 2023"
     },
     "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
     },
     "player": {
-      "id": 232908406,
-      "name": "xertioN",
-      "code": "xertion",
-      "dob": "1970-01-01",
-      "geo": "IL"
+      "id": 29157337,
+      "name": "Snappi",
+      "code": "snappi",
+      "dob": "1990-06-09",
+      "geo": "DK"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_xertion_1355_37.0d29bb99bb77f85196e8f7e5d4f8dcba05a380b0.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/paris2023/sig_snappi_1355_37.5ae498619aa994d0955e0386d976a3307546ef74.png",
     "original": {
-      "name": "aus2025_signature_xertion_2",
-      "image_inventory": "econ/stickers/aus2025/sig_xertion_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8756",
-    "name": "Sticker Slab | xertioN (Foil) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8756",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | xertioN (Foil) | Austin 2025",
-    "effect": "Foil",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 232908406,
-      "name": "xertioN",
-      "code": "xertion",
-      "dob": "1970-01-01",
-      "geo": "IL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_xertion_foil_1355_37.dc1bc6587b507bef09c49a73e30fd35a6808d810.png",
-    "original": {
-      "name": "aus2025_signature_xertion_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_xertion_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8757",
-    "name": "Sticker Slab | xertioN (Holo) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8757",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | xertioN (Holo) | Austin 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 232908406,
-      "name": "xertioN",
-      "code": "xertion",
-      "dob": "1970-01-01",
-      "geo": "IL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_xertion_holo_1355_37.cec06ade0c628c84f0a34f52e3da468a0f77c1e5.png",
-    "original": {
-      "name": "aus2025_signature_xertion_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_xertion_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8758",
-    "name": "Sticker Slab | xertioN (Gold) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8758",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | xertioN (Gold) | Austin 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 106,
-      "tag": "MOUZ",
-      "geo": "EU",
-      "name": "MOUZ"
-    },
-    "player": {
-      "id": 232908406,
-      "name": "xertioN",
-      "code": "xertion",
-      "dob": "1970-01-01",
-      "geo": "IL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_xertion_gold_1355_37.d5a7fffc5dc8e73fef879ae437ed26a33c7179cc.png",
-    "original": {
-      "name": "aus2025_signature_xertion_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_xertion_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8759",
-    "name": "Sticker Slab | chopper | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8759",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | chopper | Austin 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 85633136,
-      "name": "chopper",
-      "code": "chopper",
-      "dob": "1997-02-04",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_chopper_1355_37.d7d07c6f5b8610e8f12cedeb18d0e077a4907aab.png",
-    "original": {
-      "name": "aus2025_signature_chopper_2",
-      "image_inventory": "econ/stickers/aus2025/sig_chopper_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8760",
-    "name": "Sticker Slab | chopper (Foil) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8760",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | chopper (Foil) | Austin 2025",
-    "effect": "Foil",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 85633136,
-      "name": "chopper",
-      "code": "chopper",
-      "dob": "1997-02-04",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_chopper_foil_1355_37.6527fddc91f83b24884a979704dd57e5dd7080db.png",
-    "original": {
-      "name": "aus2025_signature_chopper_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_chopper_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8761",
-    "name": "Sticker Slab | chopper (Holo) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8761",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | chopper (Holo) | Austin 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 85633136,
-      "name": "chopper",
-      "code": "chopper",
-      "dob": "1997-02-04",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_chopper_holo_1355_37.4930b9eec95ca030116491c9005d43b73e7856b6.png",
-    "original": {
-      "name": "aus2025_signature_chopper_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_chopper_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8762",
-    "name": "Sticker Slab | chopper (Gold) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8762",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | chopper (Gold) | Austin 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 85633136,
-      "name": "chopper",
-      "code": "chopper",
-      "dob": "1997-02-04",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_chopper_gold_1355_37.729916544db377b9ace40c321b9c49bd31ae777d.png",
-    "original": {
-      "name": "aus2025_signature_chopper_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_chopper_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8763",
-    "name": "Sticker Slab | magixx | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8763",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | magixx | Austin 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 868554,
-      "name": "magixx",
-      "code": "magixx",
-      "dob": "2003-06-03",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_magixx_1355_37.deb7316c7570237124b5889a13f196ef252ef635.png",
-    "original": {
-      "name": "aus2025_signature_magixx_2",
-      "image_inventory": "econ/stickers/aus2025/sig_magixx_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8764",
-    "name": "Sticker Slab | magixx (Foil) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8764",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | magixx (Foil) | Austin 2025",
-    "effect": "Foil",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 868554,
-      "name": "magixx",
-      "code": "magixx",
-      "dob": "2003-06-03",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_magixx_foil_1355_37.21a5c79a0c3586eb174290a1aeafe4eaf6a46c17.png",
-    "original": {
-      "name": "aus2025_signature_magixx_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_magixx_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8765",
-    "name": "Sticker Slab | magixx (Holo) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8765",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | magixx (Holo) | Austin 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 868554,
-      "name": "magixx",
-      "code": "magixx",
-      "dob": "2003-06-03",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_magixx_holo_1355_37.33c50908857d3e5d5d7051ba78a59dbf0c4ce0cf.png",
-    "original": {
-      "name": "aus2025_signature_magixx_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_magixx_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8766",
-    "name": "Sticker Slab | magixx (Gold) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8766",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | magixx (Gold) | Austin 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 868554,
-      "name": "magixx",
-      "code": "magixx",
-      "dob": "2003-06-03",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_magixx_gold_1355_37.33e9c046caaac3ac25bdeb303031436609fe8d8f.png",
-    "original": {
-      "name": "aus2025_signature_magixx_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_magixx_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8767",
-    "name": "Sticker Slab | donk | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8767",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | donk | Austin 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 425999755,
-      "name": "donk",
-      "code": "donk",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_donk_1355_37.54ea54a71d9256d848397ae3bce710560a66877d.png",
-    "original": {
-      "name": "aus2025_signature_donk_2",
-      "image_inventory": "econ/stickers/aus2025/sig_donk_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8768",
-    "name": "Sticker Slab | donk (Foil) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8768",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | donk (Foil) | Austin 2025",
-    "effect": "Foil",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 425999755,
-      "name": "donk",
-      "code": "donk",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_donk_foil_1355_37.4b7e155d2fcfe0c7a557145d903fc52a996cf136.png",
-    "original": {
-      "name": "aus2025_signature_donk_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_donk_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8769",
-    "name": "Sticker Slab | donk (Holo) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8769",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | donk (Holo) | Austin 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 425999755,
-      "name": "donk",
-      "code": "donk",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_donk_holo_1355_37.db4dd4bd608e747e051ecbec3816098c85bee2c5.png",
-    "original": {
-      "name": "aus2025_signature_donk_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_donk_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8770",
-    "name": "Sticker Slab | donk (Gold) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8770",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | donk (Gold) | Austin 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 425999755,
-      "name": "donk",
-      "code": "donk",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_donk_gold_1355_37.b6e41edb8b323d2ed93735b8eeab49cfe3dd03a8.png",
-    "original": {
-      "name": "aus2025_signature_donk_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_donk_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8771",
-    "name": "Sticker Slab | sh1ro | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8771",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sh1ro | Austin 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 121219047,
-      "name": "sh1ro",
-      "code": "sh1ro",
-      "dob": "2001-07-15",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_sh1ro_1355_37.32eb515856cac0f0e9f412d4bd390e8a399849fc.png",
-    "original": {
-      "name": "aus2025_signature_sh1ro_2",
-      "image_inventory": "econ/stickers/aus2025/sig_sh1ro_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8772",
-    "name": "Sticker Slab | sh1ro (Foil) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8772",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sh1ro (Foil) | Austin 2025",
-    "effect": "Foil",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 121219047,
-      "name": "sh1ro",
-      "code": "sh1ro",
-      "dob": "2001-07-15",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_sh1ro_foil_1355_37.0eaa0fb530a62e0f53c8612b51a684bbc07212f0.png",
-    "original": {
-      "name": "aus2025_signature_sh1ro_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_sh1ro_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8773",
-    "name": "Sticker Slab | sh1ro (Holo) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8773",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sh1ro (Holo) | Austin 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 121219047,
-      "name": "sh1ro",
-      "code": "sh1ro",
-      "dob": "2001-07-15",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_sh1ro_holo_1355_37.eff220ea0a203e234e4cf26de27dd722075f4f1c.png",
-    "original": {
-      "name": "aus2025_signature_sh1ro_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_sh1ro_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8774",
-    "name": "Sticker Slab | sh1ro (Gold) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8774",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sh1ro (Gold) | Austin 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 121219047,
-      "name": "sh1ro",
-      "code": "sh1ro",
-      "dob": "2001-07-15",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_sh1ro_gold_1355_37.6eae624efb12410fbd17af3eff66d15468207a45.png",
-    "original": {
-      "name": "aus2025_signature_sh1ro_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_sh1ro_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8775",
-    "name": "Sticker Slab | zont1x | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8775",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | zont1x | Austin 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 1035615149,
-      "name": "zont1x",
-      "code": "zont1x",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_zont1x_1355_37.f5cfcc76f74dca18aab9718e7d13577bbed25bfe.png",
-    "original": {
-      "name": "aus2025_signature_zont1x_2",
-      "image_inventory": "econ/stickers/aus2025/sig_zont1x_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8776",
-    "name": "Sticker Slab | zont1x (Foil) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8776",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | zont1x (Foil) | Austin 2025",
-    "effect": "Foil",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 1035615149,
-      "name": "zont1x",
-      "code": "zont1x",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_zont1x_foil_1355_37.5f5213193c11c1bc5f9be60d720a82e81c44635c.png",
-    "original": {
-      "name": "aus2025_signature_zont1x_2_foil",
-      "image_inventory": "econ/stickers/aus2025/sig_zont1x_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8777",
-    "name": "Sticker Slab | zont1x (Holo) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8777",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | zont1x (Holo) | Austin 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 1035615149,
-      "name": "zont1x",
-      "code": "zont1x",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_zont1x_holo_1355_37.56357e0c3a4f06129bfd7104bc21a300531ecf0f.png",
-    "original": {
-      "name": "aus2025_signature_zont1x_2_holo",
-      "image_inventory": "econ/stickers/aus2025/sig_zont1x_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8778",
-    "name": "Sticker Slab | zont1x (Gold) | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8778",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | zont1x (Gold) | Austin 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "player": {
-      "id": 1035615149,
-      "name": "zont1x",
-      "code": "zont1x",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_zont1x_gold_1355_37.acb1ec4f2cddb96a7c0beb913bb52ecd93b1d738.png",
-    "original": {
-      "name": "aus2025_signature_zont1x_2_gold",
-      "image_inventory": "econ/stickers/aus2025/sig_zont1x_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-8779",
-    "name": "Sticker Slab | bLitz | Austin 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "8779",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5131",
-        "name": "Austin 2025 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | bLitz | Austin 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 24,
-      "name": "BLAST.tv Austin 2025"
-    },
-    "team": {
-      "id": 122,
-      "tag": "MNGZ",
-      "name": "The MongolZ"
-    },
-    "player": {
-      "id": 999558360,
-      "name": "bLitz",
-      "code": "blitz",
-      "dob": "2001-06-26",
-      "geo": "MN"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/sig_blitz_1355_37.cb8d8bcd7dc6d0ed06b7e57ad173baa9de9d756f.png",
-    "original": {
-      "name": "aus2025_signature_blitz_2",
-      "image_inventory": "econ/stickers/aus2025/sig_blitz_1355_37"
+      "name": "paris2023_signature_snappi_4",
+      "image_inventory": "econ/stickers/paris2023/sig_snappi_1355_37"
     }
   }
 ]

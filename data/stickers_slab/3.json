@@ -1,5 +1,1700 @@
 [
   {
+    "id": "sticker_slab-215",
+    "name": "Sticker Slab | Natus Vincere (Foil) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "215",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4030",
+        "name": "DreamHack 2014 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6_q5OvQ8dM_DXymUk70vtbFoSyi3wUt0tTvdztr7dH7BOgIoDJZ1QeRe4BXrktHvYrzk-UWA3KlVhG0-"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Natus Vincere (Foil) | DreamHack 2014",
+    "effect": "Foil",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/navi_foil_1355_37.8e3a30f9f74e6cb02189bc0354ee6584efdf9816.png",
+    "original": {
+      "name": "dhw2014_navi_foil",
+      "image_inventory": "econ/stickers/dhw2014/navi_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-219",
+    "name": "Sticker Slab | Team Dignitas | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "219",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team Dignitas | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 24,
+      "tag": "DIG",
+      "geo": "DK",
+      "name": "Team Dignitas"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM6pIinHtAI68I7z5FDzQA7Oz8W1qB0IuLz7O_BsJqDKWDKWkb4l5rBsG37kxhlzt2WDntv9eXqeaQ9yCZshE7UKrFDmxZ60CKFd",
+    "original": {
+      "name": "dhw2014_dignitas",
+      "image_inventory": "econ/stickers/dhw2014/dignitas_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-220",
+    "name": "Sticker Slab | Team Dignitas (Holo) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "220",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4030",
+        "name": "DreamHack 2014 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6_q5OvQ8dM_DXymUk70vtbFoSyi3wUt0tTvdztr7dH7BOgIoDJZ1QeRe4BXrktHvYrzk-UWA3KlVhG0-"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team Dignitas (Holo) | DreamHack 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 24,
+      "tag": "DIG",
+      "geo": "DK",
+      "name": "Team Dignitas"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/dignitas_holo_1355_37.6b2187c834bdc0bb8a5b0dc229e738b9982fb4c3.png",
+    "original": {
+      "name": "dhw2014_dignitas_holo",
+      "image_inventory": "econ/stickers/dhw2014/dignitas_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-221",
+    "name": "Sticker Slab | Team Dignitas (Foil) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "221",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4030",
+        "name": "DreamHack 2014 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6_q5OvQ8dM_DXymUk70vtbFoSyi3wUt0tTvdztr7dH7BOgIoDJZ1QeRe4BXrktHvYrzk-UWA3KlVhG0-"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team Dignitas (Foil) | DreamHack 2014",
+    "effect": "Foil",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 24,
+      "tag": "DIG",
+      "geo": "DK",
+      "name": "Team Dignitas"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM6pIinHtAI68I7z5FDzQA7OmJnp8R0KvKf7V_c6bqCSCjDHwrkg4bc9HXDkwBl162SEm9mhIy6RPFUmD5B2QeMDtkW6xtz5d7S1HB_8CVI",
+    "original": {
+      "name": "dhw2014_dignitas_foil",
+      "image_inventory": "econ/stickers/dhw2014/dignitas_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-222",
+    "name": "Sticker Slab | Bravado Gaming | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "222",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Bravado Gaming | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 40,
+      "tag": "BRAVG",
+      "geo": "ZA",
+      "name": "Bravado Gaming"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/bravadogaming_1355_37.c2398f1939ac88cf78d68d348f4b80cde49857ec.png",
+    "original": {
+      "name": "dhw2014_bravadogaming",
+      "image_inventory": "econ/stickers/dhw2014/bravadogaming_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-223",
+    "name": "Sticker Slab | ESC Gaming | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "223",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | ESC Gaming | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 42,
+      "tag": "ESC",
+      "geo": "PL",
+      "name": "ESC Gaming"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM6pIinHtAI68ZT37VjqSBP2ocezqHdkvKXgMfRrcaXKDDOTxLsl4rc-G3vjx0R-52qGmduvdnvBag5yD5UjQeAD5g74zIMr53iMLA",
+    "original": {
+      "name": "dhw2014_escgaming",
+      "image_inventory": "econ/stickers/dhw2014/escgaming_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-224",
+    "name": "Sticker Slab | HellRaisers | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "224",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | HellRaisers | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 25,
+      "tag": "HLR",
+      "geo": "EU",
+      "name": "HellRaisers"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/hellraisers_1355_37.7bab07c3e5778070dd9c97a9effaf0c3ccbc7086.png",
+    "original": {
+      "name": "dhw2014_hellraisers",
+      "image_inventory": "econ/stickers/dhw2014/hellraisers_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-225",
+    "name": "Sticker Slab | iBUYPOWER | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "225",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | iBUYPOWER | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 5,
+      "tag": "iBP",
+      "geo": "US",
+      "name": "iBUYPOWER"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM6pIinHtAI6_YXh80noVhjjocezqHdkvKXgMfI8JamXWjLAkbd05LVvFnG1xB9-tTvQztatc3mRbAUmDsAmTLVfsw74zIN3tXHXgw",
+    "original": {
+      "name": "dhw2014_ibuypower",
+      "image_inventory": "econ/stickers/dhw2014/ibuypower_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-226",
+    "name": "Sticker Slab | PENTA Sports | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "226",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | PENTA Sports | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 39,
+      "tag": "PENTA",
+      "geo": "DE",
+      "name": "PENTA Sports"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/pentasports_1355_37.e0412790ac38ccc5d6fefaabe05c570694da50cc.png",
+    "original": {
+      "name": "dhw2014_pentasports",
+      "image_inventory": "econ/stickers/dhw2014/pentasports_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-227",
+    "name": "Sticker Slab | Planetkey Dynamics | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "227",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Planetkey Dynamics | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 41,
+      "tag": "PKD",
+      "geo": "DE",
+      "name": "Planetkey Dynamics"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/planetkeydynamics_1355_37.29ba4bcced141aab1ba1fcdef22c377ec20d0755.png",
+    "original": {
+      "name": "dhw2014_planetkeydynamics",
+      "image_inventory": "econ/stickers/dhw2014/planetkeydynamics_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-228",
+    "name": "Sticker Slab | Team LDLC.com | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "228",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team LDLC.com | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 26,
+      "tag": "LDLC",
+      "geo": "FR",
+      "name": "Team LDLC.com"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM6pIinHtAI64IL151XjTR7Oz8W1qB0IuLz7afFvJfSSXTbIx7d14rRvSivrwxtysW6Bz9b6dX-XbAUkX5R1FLMIrFDmxYSg4IWB",
+    "original": {
+      "name": "dhw2014_teamldlc",
+      "image_inventory": "econ/stickers/dhw2014/teamldlc_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-229",
+    "name": "Sticker Slab | myXMG | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "229",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | myXMG | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 38,
+      "tag": "myXMG",
+      "geo": "DK",
+      "name": "myXMG"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/myxmg_1355_37.bd6a8368268daf9033f90cfc59a5a432fad986f6.png",
+    "original": {
+      "name": "dhw2014_myxmg",
+      "image_inventory": "econ/stickers/dhw2014/myxmg_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-230",
+    "name": "Sticker Slab | DreamHack Winter 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "230",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": "Sticker Slab | DreamHack Winter 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM6pIinHtAI68JXx61TvQB76iZ_u6SdJvaL_PJs8c6XGMTTHj7hw5Lk6Gy-2kEUlsGzSwt-oJSqXaVUnA5V4FONfsxbqwNexZb625wPAy9USBleyDko",
+    "original": {
+      "name": "dhw2014_dhw",
+      "image_inventory": "econ/stickers/dhw2014/dreamhackwinter2014_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-231",
+    "name": "Sticker Slab | DreamHack Winter 2014 (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "231",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4030",
+        "name": "DreamHack 2014 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6_q5OvQ8dM_DXymUk70vtbFoSyi3wUt0tTvdztr7dH7BOgIoDJZ1QeRe4BXrktHvYrzk-UWA3KlVhG0-"
+      }
+    ],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": "Sticker Slab | DreamHack Winter 2014 (Foil)",
+    "effect": "Foil",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/dreamhackwinter2014_foil_1355_37.7655c9621c80accbf96840fa69ee781e718df61a.png",
+    "original": {
+      "name": "dhw2014_dhw_foil",
+      "image_inventory": "econ/stickers/dhw2014/dreamhackwinter2014_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-233",
+    "name": "Sticker Slab | Copenhagen Wolves | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "233",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Copenhagen Wolves | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 10,
+      "tag": "CW",
+      "geo": "DK",
+      "name": "Copenhagen Wolves"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/copenhagenwolves_1355_37.282e4d29ced08edfcfa9882c43a9bffa30ee1704.png",
+    "original": {
+      "name": "dhw2014_copenhagenwolves",
+      "image_inventory": "econ/stickers/dhw2014/copenhagenwolves_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-237",
+    "name": "Sticker Slab | 3DMAX (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "237",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 28,
+      "tag": "3DM",
+      "geo": "FI",
+      "name": "3DMAX"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/3dmax_gold_1355_37.0a7aeca93e4ec177cffe809a7e300218e2eeefc5.png",
+    "original": {
+      "name": "dhw2014_3dmax_gold",
+      "image_inventory": "econ/stickers/dhw2014/3dmax_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-238",
+    "name": "Sticker Slab | Bravado Gaming (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "238",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 40,
+      "tag": "BRAVG",
+      "geo": "ZA",
+      "name": "Bravado Gaming"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/bravadogaming_gold_1355_37.c9ddc1deaeab06ce5c73fce46973a82006f02692.png",
+    "original": {
+      "name": "dhw2014_bravadogaming_gold",
+      "image_inventory": "econ/stickers/dhw2014/bravadogaming_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-239",
+    "name": "Sticker Slab | Cloud9 (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "239",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 33,
+      "tag": "C9",
+      "geo": "US",
+      "name": "Cloud9"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/cloud9_gold_1355_37.69e9a68d0cbaf5bc40563c7141a2ce2abbf5b7f7.png",
+    "original": {
+      "name": "dhw2014_cloud9_gold",
+      "image_inventory": "econ/stickers/dhw2014/cloud9_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-240",
+    "name": "Sticker Slab | Copenhagen Wolves (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "240",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 10,
+      "tag": "CW",
+      "geo": "DK",
+      "name": "Copenhagen Wolves"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/copenhagenwolves_gold_1355_37.f27298dbb7e8716ee4278c41b7b8213ea9dcc2e6.png",
+    "original": {
+      "name": "dhw2014_copenhagenwolves_gold",
+      "image_inventory": "econ/stickers/dhw2014/copenhagenwolves_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-241",
+    "name": "Sticker Slab | dAT team (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "241",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 34,
+      "tag": "dAT",
+      "geo": "CC",
+      "name": "dAT team"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/datteam_gold_1355_37.3b8545fc63b4eaa7ea5339a973f80b953081e9ed.png",
+    "original": {
+      "name": "dhw2014_datteam_gold",
+      "image_inventory": "econ/stickers/dhw2014/datteam_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-242",
+    "name": "Sticker Slab | Team Dignitas (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "242",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 24,
+      "tag": "DIG",
+      "geo": "DK",
+      "name": "Team Dignitas"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/dignitas_gold_1355_37.c844548279a509f8327d37d660de41a7cd5af733.png",
+    "original": {
+      "name": "dhw2014_dignitas_gold",
+      "image_inventory": "econ/stickers/dhw2014/dignitas_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-243",
+    "name": "Sticker Slab | ESC Gaming (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "243",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 42,
+      "tag": "ESC",
+      "geo": "PL",
+      "name": "ESC Gaming"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/escgaming_gold_1355_37.6c99c87957dff359368de47c1ab1d271701b61c5.png",
+    "original": {
+      "name": "dhw2014_escgaming_gold",
+      "image_inventory": "econ/stickers/dhw2014/escgaming_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-244",
+    "name": "Sticker Slab | Fnatic (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "244",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 6,
+      "tag": "Fntc",
+      "geo": "SE",
+      "name": "Fnatic"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/fnatic_gold_1355_37.077b44b7411b53a47edc50187f1ee9c27732a3e9.png",
+    "original": {
+      "name": "dhw2014_fnatic_gold",
+      "image_inventory": "econ/stickers/dhw2014/fnatic_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-245",
+    "name": "Sticker Slab | HellRaisers (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "245",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 25,
+      "tag": "HLR",
+      "geo": "EU",
+      "name": "HellRaisers"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/hellraisers_gold_1355_37.b66046fa7a223d40279f5cbbd88b4e346d1bdc61.png",
+    "original": {
+      "name": "dhw2014_hellraisers_gold",
+      "image_inventory": "econ/stickers/dhw2014/hellraisers_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-246",
+    "name": "Sticker Slab | iBUYPOWER (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "246",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 5,
+      "tag": "iBP",
+      "geo": "US",
+      "name": "iBUYPOWER"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/ibuypower_gold_1355_37.e5a36c5ddd41af79db97f8197231288b2b937d9a.png",
+    "original": {
+      "name": "dhw2014_ibuypower_gold",
+      "image_inventory": "econ/stickers/dhw2014/ibuypower_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-247",
+    "name": "Sticker Slab | London Conspiracy (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "247",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 36,
+      "tag": "LC",
+      "geo": "NO",
+      "name": "London Conspiracy"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/londonconspiracy_gold_1355_37.e4bb5e6e20b93f89320e8a12902cec7bd259c168.png",
+    "original": {
+      "name": "dhw2014_londonconspiracy_gold",
+      "image_inventory": "econ/stickers/dhw2014/londonconspiracy_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-248",
+    "name": "Sticker Slab | mousesports (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "248",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/mousesports_gold_1355_37.29df47e3c04222d1b89f03716d88574806b0b119.png",
+    "original": {
+      "name": "dhw2014_mousesports_gold",
+      "image_inventory": "econ/stickers/dhw2014/mousesports_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-249",
+    "name": "Sticker Slab | myXMG (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "249",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 38,
+      "tag": "myXMG",
+      "geo": "DK",
+      "name": "myXMG"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/myxmg_gold_1355_37.d221a4dd3a78717332863721508091f4b2416a17.png",
+    "original": {
+      "name": "dhw2014_myxmg_gold",
+      "image_inventory": "econ/stickers/dhw2014/myxmg_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-250",
+    "name": "Sticker Slab | Natus Vincere (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "250",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/navi_gold_1355_37.906e506747a1eaba324ad5467cdafed39370cf71.png",
+    "original": {
+      "name": "dhw2014_navi_gold",
+      "image_inventory": "econ/stickers/dhw2014/navi_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-251",
+    "name": "Sticker Slab | Ninjas in Pyjamas (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "251",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/ninjasinpyjamas_gold_1355_37.ee6bb90d7ae87afc1b9aa7ccd7906f1859dfde11.png",
+    "original": {
+      "name": "dhw2014_ninjasinpyjamas_gold",
+      "image_inventory": "econ/stickers/dhw2014/ninjasinpyjamas_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-252",
+    "name": "Sticker Slab | PENTA Sports (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "252",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 39,
+      "tag": "PENTA",
+      "geo": "DE",
+      "name": "PENTA Sports"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/pentasports_gold_1355_37.dad397fd5747e9afdfaa2601fcde7642c6c37a0d.png",
+    "original": {
+      "name": "dhw2014_pentasports_gold",
+      "image_inventory": "econ/stickers/dhw2014/pentasports_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-253",
+    "name": "Sticker Slab | Planetkey Dynamics (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "253",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 41,
+      "tag": "PKD",
+      "geo": "DE",
+      "name": "Planetkey Dynamics"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/planetkeydynamics_gold_1355_37.2ce54df38c621906ef6f1144a68ce2587bd384f9.png",
+    "original": {
+      "name": "dhw2014_planetkeydynamics_gold",
+      "image_inventory": "econ/stickers/dhw2014/planetkeydynamics_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-254",
+    "name": "Sticker Slab | Team LDLC.com (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "254",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 26,
+      "tag": "LDLC",
+      "geo": "FR",
+      "name": "Team LDLC.com"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/teamldlc_gold_1355_37.152af5cb841469d7657f15a70385c610de3a3e9c.png",
+    "original": {
+      "name": "dhw2014_teamldlc_gold",
+      "image_inventory": "econ/stickers/dhw2014/teamldlc_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-255",
+    "name": "Sticker Slab | Virtus.Pro (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "255",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 31,
+      "tag": "VP",
+      "geo": "PL",
+      "name": "Virtus.Pro"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/virtuspro_gold_1355_37.f15e4e66e7f8f68d85d3cb2253957d5f2279a6cf.png",
+    "original": {
+      "name": "dhw2014_virtuspro_gold",
+      "image_inventory": "econ/stickers/dhw2014/virtuspro_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-256",
+    "name": "Sticker Slab | Flipsid3 Tactics | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "256",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Flipsid3 Tactics | DreamHack 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 43,
+      "tag": "FLIP",
+      "geo": "CC",
+      "name": "Flipsid3 Tactics"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/flipsid3_1355_37.ac13b676315f74c05d380aa02b3dba0d0cb710b2.png",
+    "original": {
+      "name": "dhw2014_flipsid3",
+      "image_inventory": "econ/stickers/dhw2014/flipsid3_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-257",
+    "name": "Sticker Slab | Flipsid3 Tactics (Gold) | DreamHack 2014",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "257",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 5,
+      "name": "2014 DreamHack Winter"
+    },
+    "team": {
+      "id": 43,
+      "tag": "FLIP",
+      "geo": "CC",
+      "name": "Flipsid3 Tactics"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dhw2014/flipsid3_gold_1355_37.4bb80e2ba92995a6c371a204a6f34523ec0969f6.png",
+    "original": {
+      "name": "dhw2014_flipsid3_gold",
+      "image_inventory": "econ/stickers/dhw2014/flipsid3_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-258",
+    "name": "Sticker Slab | Blood Boiler",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "258",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Blood Boiler",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/blood_broiler_1355_37.62858e7ac04f04a6ca10ab4230b810e47283412a.png",
+    "original": {
+      "name": "blood_broiler",
+      "image_inventory": "econ/stickers/community02/blood_broiler_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-259",
+    "name": "Sticker Slab | Dinked",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "259",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Dinked",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/dinked_1355_37.656959df641474dd5149986993a7c8bb60dd9d51.png",
+    "original": {
+      "name": "dinked",
+      "image_inventory": "econ/stickers/community02/dinked_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-260",
+    "name": "Sticker Slab | Drug War Veteran",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "260",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Drug War Veteran",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dempV31VBrmn4T2-DZe_fOgV_U-daWsXTDekugns7loTHG2zUhx4TiHz9v_JXuRPAYmDsd2QuAL5xi8loa2Muvn7hue1dx7NjcQzw",
+    "original": {
+      "name": "drugwarveteran",
+      "image_inventory": "econ/stickers/community02/drugwarveteran_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-261",
+    "name": "Sticker Slab | Ho Ho Ho",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "261",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Ho Ho Ho",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dempVHoSRL5kamxrncO0KH5JvxrIaWXXz6SxL0g5rE7Hyznx0hz62vRztz_dCjGOA8nXJMjRrJbskGm0oqwKXK3mkU",
+    "original": {
+      "name": "hohoho",
+      "image_inventory": "econ/stickers/community02/hohoho_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-262",
+    "name": "Sticker Slab | Massive Pear",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "262",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Massive Pear",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/massivepear_1355_37.198364d9cc97186ad0676c26e51443fb290fa470.png",
+    "original": {
+      "name": "massivepear",
+      "image_inventory": "econ/stickers/community02/massivepear_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-263",
+    "name": "Sticker Slab | My Little Friend",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "263",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | My Little Friend",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/mylittlefriend_1355_37.00465f9e25c67dbcc2d260378e13ffc17ad521b7.png",
+    "original": {
+      "name": "mylittlefriend",
+      "image_inventory": "econ/stickers/community02/mylittlefriend_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-264",
+    "name": "Sticker Slab | Pandamonium",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "264",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Pandamonium",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/pandamonium_1355_37.f6a3295c7ce93b866792153ef6def03782c253c3.png",
+    "original": {
+      "name": "pandamonium",
+      "image_inventory": "econ/stickers/community02/pandamonium_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-265",
+    "name": "Sticker Slab | Piece Of Cake",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "265",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Piece Of Cake",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/pieceofcake_1355_37.f80f2968b00bc39cf6b0df762431d40209fa391a.png",
+    "original": {
+      "name": "pieceofcake",
+      "image_inventory": "econ/stickers/community02/pieceofcake_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-266",
+    "name": "Sticker Slab | SAS Chicken",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "266",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | SAS Chicken",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/saschicken_1355_37.9c8a396022b11819f00977b46d2bbd2cbc4b5cf1.png",
+    "original": {
+      "name": "saschicken",
+      "image_inventory": "econ/stickers/community02/saschicken_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-267",
+    "name": "Sticker Slab | Thug Life",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "267",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Thug Life",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/thuglife_1355_37.6a2a3b498901dccc5057ef3a09aad5882075e631.png",
+    "original": {
+      "name": "thuglife",
+      "image_inventory": "econ/stickers/community02/thuglife_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-268",
+    "name": "Sticker Slab | T-Rekt",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "268",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | T-Rekt",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/trekt_1355_37.efa974c2bd824717698c9dc850d000b80e7cef1e.png",
+    "original": {
+      "name": "trekt",
+      "image_inventory": "econ/stickers/community02/trekt_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-269",
+    "name": "Sticker Slab | Warowl",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "269",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Warowl",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/warowl_1355_37.144b06b8a53c3126e0c77dc5db9668c10d57adfc.png",
+    "original": {
+      "name": "warowl",
+      "image_inventory": "econ/stickers/community02/warowl_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-270",
+    "name": "Sticker Slab | Work For Ammo",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "270",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Work For Ammo",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/workforfood_1355_37.7a397465840e64039e70a8a9d7f7b0e9ab96079d.png",
+    "original": {
+      "name": "workforfood",
+      "image_inventory": "econ/stickers/community02/workforfood_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-271",
+    "name": "Sticker Slab | Phoenix (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "271",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Phoenix (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dempUnvThj_l47f-y1S483_O_E4H6PEQDORx7dzs7ZsFnvik01w5jjWyoutd3PGblQpWJAjTbJYt0O5l9OxYuL8p1uJ2KNfSxU",
+    "original": {
+      "name": "phoenix_foil",
+      "image_inventory": "econ/stickers/community02/phoenix_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-272",
+    "name": "Sticker Slab | Bomb Squad (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "272",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Bomb Squad (Foil)",
+    "effect": "Foil",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/bombsquad_foil_1355_37.def28d895a7a734b3fa8d8e338c26108bd8c5173.png",
+    "original": {
+      "name": "bombsquad_foil",
+      "image_inventory": "econ/stickers/community02/bombsquad_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-273",
+    "name": "Sticker Slab | Flickshot",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "273",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Flickshot",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dempV_rSB76jZ7v6R0KvKf7V_c6bqHGXjDCkOwh5Lk4HnrhzE525WzSwteveC-eaFJ2CMdyQLYIskG7mtb5d7S15ewNEoA",
+    "original": {
+      "name": "flickshot",
+      "image_inventory": "econ/stickers/community02/flickshot_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-274",
+    "name": "Sticker Slab | Headshot Guarantee",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "274",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Headshot Guarantee",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/headshot_guarantee_1355_37.fe7d6287c14db93843b38a863b89d37eaf266e8d.png",
+    "original": {
+      "name": "headshot_guarantee",
+      "image_inventory": "econ/stickers/community02/headshot_guarantee_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-275",
+    "name": "Sticker Slab | Eco Rush",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "275",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Eco Rush",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dempVzkTiLji4XownMIuqeRO_MjcPbCVjXAk-gh4OUwHnmxzER25Wjdztr9dS6SOFIpCpRzQudY5hbrlMqnab3r8l4MjQ",
+    "original": {
+      "name": "eco_rush",
+      "image_inventory": "econ/stickers/community02/eco_rush_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-276",
+    "name": "Sticker Slab | Just Trolling",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "276",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Just Trolling",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dempVPyUgnOioTv8S5S4fWROfc4dc_AWSmRwrgl5bI4HCjhl00it2TdmYupc3ieaVMpXpd0RuUJuxHpl9TmMu_j-UWA3C0jvjgq",
+    "original": {
+      "name": "just_trolling",
+      "image_inventory": "econ/stickers/community02/just_trolling_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-278",
+    "name": "Sticker Slab | Firestarter (Holo)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "278",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Firestarter (Holo)",
+    "effect": "Holo",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/firestarter_holo_1355_37.86561b0ea75848ca47e68954b1fc57bb1efd3fed.png",
+    "original": {
+      "name": "firestarter_holo",
+      "image_inventory": "econ/stickers/community02/firestarter_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-279",
+    "name": "Sticker Slab | Lucky Cat (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "279",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Lucky Cat (Foil)",
+    "effect": "Foil",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/lucky_cat_foil_1355_37.785fe60822801d7c00e7bc82937ab2b30e79078f.png",
+    "original": {
+      "name": "lucky_cat_foil",
+      "image_inventory": "econ/stickers/community02/lucky_cat_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-280",
+    "name": "Sticker Slab | Robo",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "280",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Robo",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/robot_head_1355_37.f59dcf046868d31bca4a888b0bee02272747a9d1.png",
+    "original": {
+      "name": "robot_head",
+      "image_inventory": "econ/stickers/community02/robot_head_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-281",
+    "name": "Sticker Slab | Witchcraft",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "281",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Witchcraft",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/witchcraft_1355_37.fdc26a9539088e0f37eb893b018a5d54ca6fe33d.png",
+    "original": {
+      "name": "witchcraft",
+      "image_inventory": "econ/stickers/community02/witchcraft_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-282",
+    "name": "Sticker Slab | Wanna Fight",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "282",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Wanna Fight",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/wanna_fight_1355_37.8b7391d259256b84a4af230d2e6ee81543b1b1d8.png",
+    "original": {
+      "name": "wanna_fight",
+      "image_inventory": "econ/stickers/community02/wanna_fight_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-283",
+    "name": "Sticker Slab | Hostage Rescue",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "283",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Hostage Rescue",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/hostage_rescue_1355_37.715246581c76ff01535f5363760198a387f464fd.png",
+    "original": {
+      "name": "hostage_rescue",
+      "image_inventory": "econ/stickers/community02/hostage_rescue_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-284",
+    "name": "Sticker Slab | Hamster Hawk",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "284",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Hamster Hawk",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dempVHmTA7lm4Tf9SNM5M3_O_E4H6PEQDbGlboh6OMxHSzqzB8i5jmGmd-odn3BO1QjW5NzQLNZ50O5kdfjNuj8p1uJJxCsA0s",
+    "original": {
+      "name": "hamster_hawk",
+      "image_inventory": "econ/stickers/community02/hamster_hawk_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-285",
+    "name": "Sticker Slab | Headless Chicken",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "285",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Headless Chicken",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/headless_chicken_1355_37.483a326aefea6139c8f8696b1d8b4611a70a2a0b.png",
+    "original": {
+      "name": "headless_chicken",
+      "image_inventory": "econ/stickers/community02/headless_chicken_1355_37"
+    }
+  },
+  {
     "id": "sticker_slab-286",
     "name": "Sticker Slab | 3DMAX | Katowice 2015",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -497,2215 +2192,6 @@
     "original": {
       "name": "eslkatowice2015_flipsid3",
       "image_inventory": "econ/stickers/eslkatowice2015/flipsid3_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-303",
-    "name": "Sticker Slab | Flipsid3 Tactics (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "303",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Flipsid3 Tactics (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 43,
-      "tag": "FLIP",
-      "geo": "CC",
-      "name": "Flipsid3 Tactics"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_holo_1355_37.6bfbf05e3c2271bba50f680f9f72ae0ee3da7ca4.png",
-    "original": {
-      "name": "eslkatowice2015_flipsid3_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/flipsid3_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-304",
-    "name": "Sticker Slab | Flipsid3 Tactics (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "304",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Flipsid3 Tactics (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 43,
-      "tag": "FLIP",
-      "geo": "CC",
-      "name": "Flipsid3 Tactics"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_foil_1355_37.ffe1d30b933273e43a3f1361f97aa1438a41381a.png",
-    "original": {
-      "name": "eslkatowice2015_flipsid3_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/flipsid3_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-305",
-    "name": "Sticker Slab | Flipsid3 Tactics (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "305",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 43,
-      "tag": "FLIP",
-      "geo": "CC",
-      "name": "Flipsid3 Tactics"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_gold_1355_37.70c181c57d5469bad48727cbf77caf28bbb2b5e7.png",
-    "original": {
-      "name": "eslkatowice2015_flipsid3_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/flipsid3_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-306",
-    "name": "Sticker Slab | Fnatic | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "306",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Fnatic | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 6,
-      "tag": "Fntc",
-      "geo": "SE",
-      "name": "Fnatic"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-yOXCW8Vli_YTxuAm2FFL3kJf09CFkvqH7PZs-d77GVzLCw7lz4eIxGH3il0gmtjjdy9mhIC2VPQMmWMB3TOcNthfqmtDkKaq8sDZRGjqm",
-    "original": {
-      "name": "eslkatowice2015_fnatic",
-      "image_inventory": "econ/stickers/eslkatowice2015/fnatic_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-307",
-    "name": "Sticker Slab | Fnatic (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "307",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Fnatic (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 6,
-      "tag": "Fntc",
-      "geo": "SE",
-      "name": "Fnatic"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/fnatic_holo_1355_37.835220f66b22e6f75f3e3e054120989603378c58.png",
-    "original": {
-      "name": "eslkatowice2015_fnatic_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/fnatic_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-308",
-    "name": "Sticker Slab | Fnatic (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "308",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Fnatic (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 6,
-      "tag": "Fntc",
-      "geo": "SE",
-      "name": "Fnatic"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/fnatic_foil_1355_37.55f04469880240ec4c1d5d69397dbbcd508a12a3.png",
-    "original": {
-      "name": "eslkatowice2015_fnatic_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/fnatic_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-309",
-    "name": "Sticker Slab | Fnatic (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "309",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 6,
-      "tag": "Fntc",
-      "geo": "SE",
-      "name": "Fnatic"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/fnatic_gold_1355_37.33cb27c0b17b7b4d4f18616d450004a59a134761.png",
-    "original": {
-      "name": "eslkatowice2015_fnatic_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/fnatic_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-310",
-    "name": "Sticker Slab | HellRaisers | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "310",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | HellRaisers | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 25,
-      "tag": "HLR",
-      "geo": "EU",
-      "name": "HellRaisers"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/hellraisers_1355_37.5458e53a2a3e23cd803a9e8371ea67ced3c37f4a.png",
-    "original": {
-      "name": "eslkatowice2015_hellraisers",
-      "image_inventory": "econ/stickers/eslkatowice2015/hellraisers_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-311",
-    "name": "Sticker Slab | HellRaisers (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "311",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | HellRaisers (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 25,
-      "tag": "HLR",
-      "geo": "EU",
-      "name": "HellRaisers"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/hellraisers_holo_1355_37.74c22f46c70f248ec0550030892f493a02a31e46.png",
-    "original": {
-      "name": "eslkatowice2015_hellraisers_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/hellraisers_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-312",
-    "name": "Sticker Slab | HellRaisers (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "312",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | HellRaisers (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 25,
-      "tag": "HLR",
-      "geo": "EU",
-      "name": "HellRaisers"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/hellraisers_foil_1355_37.dc4cacb6a258884412549bb54099bb5967dc80c1.png",
-    "original": {
-      "name": "eslkatowice2015_hellraisers_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/hellraisers_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-313",
-    "name": "Sticker Slab | HellRaisers (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "313",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 25,
-      "tag": "HLR",
-      "geo": "EU",
-      "name": "HellRaisers"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/hellraisers_gold_1355_37.bcc62432d6906185a7089a5de5893a6de5675c0a.png",
-    "original": {
-      "name": "eslkatowice2015_hellraisers_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/hellraisers_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-314",
-    "name": "Sticker Slab | Keyd Stars | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "314",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Keyd Stars | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 50,
-      "tag": "KEYD",
-      "geo": "BR",
-      "name": "Keyd Stars"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/keyd_1355_37.ca406ff807e6a97b790c05abfec62b9a78f703a0.png",
-    "original": {
-      "name": "eslkatowice2015_keyd",
-      "image_inventory": "econ/stickers/eslkatowice2015/keyd_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-315",
-    "name": "Sticker Slab | Keyd Stars (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "315",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Keyd Stars (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 50,
-      "tag": "KEYD",
-      "geo": "BR",
-      "name": "Keyd Stars"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/keyd_holo_1355_37.1f40afa9c1c4bb41dad7fbfa40e9115860b9cc21.png",
-    "original": {
-      "name": "eslkatowice2015_keyd_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/keyd_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-316",
-    "name": "Sticker Slab | Keyd Stars (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "316",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Keyd Stars (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 50,
-      "tag": "KEYD",
-      "geo": "BR",
-      "name": "Keyd Stars"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/keyd_foil_1355_37.8f91341533f5158500bb8cb23bfea85de4ec9fc6.png",
-    "original": {
-      "name": "eslkatowice2015_keyd_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/keyd_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-317",
-    "name": "Sticker Slab | Keyd Stars (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "317",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 50,
-      "tag": "KEYD",
-      "geo": "BR",
-      "name": "Keyd Stars"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/keyd_gold_1355_37.a902785c3ebb6736b68fc1b8d0b9baf985be9697.png",
-    "original": {
-      "name": "eslkatowice2015_keyd_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/keyd_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-318",
-    "name": "Sticker Slab | LGB eSports | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "318",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | LGB eSports | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 9,
-      "tag": "LGB",
-      "geo": "NO",
-      "name": "LGB eSports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/lgb_1355_37.972d40e53e10d0b9c7446bb625d1c1ec5c4e5f60.png",
-    "original": {
-      "name": "eslkatowice2015_lgb",
-      "image_inventory": "econ/stickers/eslkatowice2015/lgb_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-319",
-    "name": "Sticker Slab | LGB eSports (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "319",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | LGB eSports (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 9,
-      "tag": "LGB",
-      "geo": "NO",
-      "name": "LGB eSports"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-yOXCW8Vli_YTxuAm2FFL9mZTf9S1X4M3_O_E4H6PEQDWUmbgn4bdrTi2ywU0lsjndzN7_InnFa1coCMR3TO8CsxO6loWzYeP8p1uJcK5F_6g",
-    "original": {
-      "name": "eslkatowice2015_lgb_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/lgb_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-320",
-    "name": "Sticker Slab | LGB eSports (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "320",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | LGB eSports (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 9,
-      "tag": "LGB",
-      "geo": "NO",
-      "name": "LGB eSports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/lgb_foil_1355_37.6ae32817a062d914e9fcc2f56755f1f1a26ce41d.png",
-    "original": {
-      "name": "eslkatowice2015_lgb_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/lgb_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-321",
-    "name": "Sticker Slab | LGB eSports (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "321",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 9,
-      "tag": "LGB",
-      "geo": "NO",
-      "name": "LGB eSports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/lgb_gold_1355_37.64a3eccc6fb3855bf2f05fd19046679c292ff23f.png",
-    "original": {
-      "name": "eslkatowice2015_lgb_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/lgb_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-322",
-    "name": "Sticker Slab | Natus Vincere | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "322",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Natus Vincere | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/navi_1355_37.56a2ff7ea4d83939831bd33548d06276bf8071b1.png",
-    "original": {
-      "name": "eslkatowice2015_navi",
-      "image_inventory": "econ/stickers/eslkatowice2015/navi_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-323",
-    "name": "Sticker Slab | Natus Vincere (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "323",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Natus Vincere (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/navi_holo_1355_37.e3c84a810c42d8693e6d070ffefc09afeca3c05d.png",
-    "original": {
-      "name": "eslkatowice2015_navi_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/navi_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-324",
-    "name": "Sticker Slab | Natus Vincere (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "324",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Natus Vincere (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/navi_foil_1355_37.492e6547b6380a6eac9c1a82f4ef1e7cedb13fe1.png",
-    "original": {
-      "name": "eslkatowice2015_navi_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/navi_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-325",
-    "name": "Sticker Slab | Natus Vincere (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "325",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/navi_gold_1355_37.e6a4c243be4b2f917f0eb1289dc84319c0f91394.png",
-    "original": {
-      "name": "eslkatowice2015_navi_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/navi_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-326",
-    "name": "Sticker Slab | Ninjas in Pyjamas  | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "326",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas  | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 1,
-      "tag": "NiP",
-      "geo": "SE",
-      "name": "Ninjas in Pyjamas"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-yOXCW8Vli_YTxuAm2FFL_l5jq_DFS4eK3YqVgIeOsXzTFlNEl569rF3DixBsh6m3Vwtz7eX3FagEgWZt3Ru4PthWwk9DvNOPg5gTa2ItM02yg2Slbj5_O",
-    "original": {
-      "name": "eslkatowice2015_ninjasinpyjamas",
-      "image_inventory": "econ/stickers/eslkatowice2015/ninjasinpyjamas_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-327",
-    "name": "Sticker Slab | Ninjas in Pyjamas (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "327",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 1,
-      "tag": "NiP",
-      "geo": "SE",
-      "name": "Ninjas in Pyjamas"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/ninjasinpyjamas_holo_1355_37.66aad65353f9fdaaf8b91ebfc95a26da6085e759.png",
-    "original": {
-      "name": "eslkatowice2015_ninjasinpyjamas_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/ninjasinpyjamas_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-328",
-    "name": "Sticker Slab | Ninjas in Pyjamas (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "328",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 1,
-      "tag": "NiP",
-      "geo": "SE",
-      "name": "Ninjas in Pyjamas"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/ninjasinpyjamas_foil_1355_37.dd5eea76d4c3dfb874b904f3fa00e075b63e6cff.png",
-    "original": {
-      "name": "eslkatowice2015_ninjasinpyjamas_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/ninjasinpyjamas_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-329",
-    "name": "Sticker Slab | Ninjas in Pyjamas (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "329",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 1,
-      "tag": "NiP",
-      "geo": "SE",
-      "name": "Ninjas in Pyjamas"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/ninjasinpyjamas_gold_1355_37.8a75e45a9e75e62983f135fc35cabd2670f391cb.png",
-    "original": {
-      "name": "eslkatowice2015_ninjasinpyjamas_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/ninjasinpyjamas_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-330",
-    "name": "Sticker Slab | PENTA Sports  | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "330",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | PENTA Sports  | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 39,
-      "tag": "PENTA",
-      "geo": "DE",
-      "name": "PENTA Sports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_1355_37.d033e7ea93d65d4435b688f68957b5834c697169.png",
-    "original": {
-      "name": "eslkatowice2015_pentasports",
-      "image_inventory": "econ/stickers/eslkatowice2015/pentasports_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-331",
-    "name": "Sticker Slab | PENTA Sports (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "331",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | PENTA Sports (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 39,
-      "tag": "PENTA",
-      "geo": "DE",
-      "name": "PENTA Sports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_holo_1355_37.70a180cdd5fbc360aec1f6c4ff1dae5bcdc1185a.png",
-    "original": {
-      "name": "eslkatowice2015_pentasports_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/pentasports_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-332",
-    "name": "Sticker Slab | PENTA Sports (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "332",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | PENTA Sports (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 39,
-      "tag": "PENTA",
-      "geo": "DE",
-      "name": "PENTA Sports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_foil_1355_37.c550e3c389aca9dbe49b35b09f2d7090c01b8a7f.png",
-    "original": {
-      "name": "eslkatowice2015_pentasports_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/pentasports_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-333",
-    "name": "Sticker Slab | PENTA Sports (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "333",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 39,
-      "tag": "PENTA",
-      "geo": "DE",
-      "name": "PENTA Sports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_gold_1355_37.45c72c4673131838e551bcbafccd8ecfc5efc8c1.png",
-    "original": {
-      "name": "eslkatowice2015_pentasports_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/pentasports_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-334",
-    "name": "Sticker Slab | Team EnVyUs | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "334",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team EnVyUs | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 46,
-      "tag": "NV",
-      "geo": "FR",
-      "name": "Team EnVyUs"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_1355_37.9788ff6326818363f2ab395adc076731e8af210b.png",
-    "original": {
-      "name": "eslkatowice2015_teamenvyus",
-      "image_inventory": "econ/stickers/eslkatowice2015/teamenvyus_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-335",
-    "name": "Sticker Slab | Team EnVyUs (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "335",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team EnVyUs (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 46,
-      "tag": "NV",
-      "geo": "FR",
-      "name": "Team EnVyUs"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-yOXCW8Vli_YTxuAm2FFLlm5ft-CxN9ue9V6xiLP-sXzTFlNEl568xTiq3xx4j5mzTyd_7JHySbldyA5MjFrEP5Bm7kda0NL7r4FHfg4MX02yg2bNBr79A",
-    "original": {
-      "name": "eslkatowice2015_teamenvyus_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/teamenvyus_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-336",
-    "name": "Sticker Slab | Team EnVyUs (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "336",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team EnVyUs (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 46,
-      "tag": "NV",
-      "geo": "FR",
-      "name": "Team EnVyUs"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_foil_1355_37.3a87a72cd05cec62c2b17bdb42e6127bbc21501c.png",
-    "original": {
-      "name": "eslkatowice2015_teamenvyus_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/teamenvyus_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-337",
-    "name": "Sticker Slab | Team EnVyUs (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "337",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 46,
-      "tag": "NV",
-      "geo": "FR",
-      "name": "Team EnVyUs"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_gold_1355_37.1cc00c6524159cfed45149d8d542469d532ea678.png",
-    "original": {
-      "name": "eslkatowice2015_teamenvyus_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/teamenvyus_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-338",
-    "name": "Sticker Slab | TSM Kinguin | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "338",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | TSM Kinguin | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 51,
-      "tag": "TSM",
-      "geo": "DK",
-      "name": "TSM Kinguin"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_1355_37.03bc7aef0de64a1d46b7abf18642b595c476d613.png",
-    "original": {
-      "name": "eslkatowice2015_teamsolomid",
-      "image_inventory": "econ/stickers/eslkatowice2015/teamsolomid_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-339",
-    "name": "Sticker Slab | TSM Kinguin (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "339",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | TSM Kinguin (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 51,
-      "tag": "TSM",
-      "geo": "DK",
-      "name": "TSM Kinguin"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_holo_1355_37.22d8aea39dbea31dbb96b11f531fd52588c3e3b0.png",
-    "original": {
-      "name": "eslkatowice2015_teamsolomid_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/teamsolomid_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-340",
-    "name": "Sticker Slab | TSM Kinguin (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "340",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | TSM Kinguin (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 51,
-      "tag": "TSM",
-      "geo": "DK",
-      "name": "TSM Kinguin"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_foil_1355_37.95762a941f963b38e7354bc58f7728c73fc1c07e.png",
-    "original": {
-      "name": "eslkatowice2015_teamsolomid_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/teamsolomid_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-341",
-    "name": "Sticker Slab | TSM Kinguin (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "341",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 51,
-      "tag": "TSM",
-      "geo": "DK",
-      "name": "TSM Kinguin"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_gold_1355_37.c7fe8c4639d13dda7867a99037602c3bafbd96a8.png",
-    "original": {
-      "name": "eslkatowice2015_teamsolomid_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/teamsolomid_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-342",
-    "name": "Sticker Slab | Titan | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "342",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Titan | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 27,
-      "tag": "TIT",
-      "geo": "FR",
-      "name": "Titan"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-yOXCW8Vli_YTxuAm2FFLll4Lh8x0KvKf7V_c6bqGSCzLIlLgu4rQ_GXu1xE5z4TmAmNerJ3jDOlB2D5V5Q-9Ytxnum4D5d7S1PEdVJeo",
-    "original": {
-      "name": "eslkatowice2015_titan",
-      "image_inventory": "econ/stickers/eslkatowice2015/titan_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-343",
-    "name": "Sticker Slab | Titan (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "343",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Titan (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 27,
-      "tag": "TIT",
-      "geo": "FR",
-      "name": "Titan"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/titan_holo_1355_37.48c7baaea827d2ae5853dfaa7204199478ed9dce.png",
-    "original": {
-      "name": "eslkatowice2015_titan_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/titan_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-344",
-    "name": "Sticker Slab | Titan (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "344",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Titan (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 27,
-      "tag": "TIT",
-      "geo": "FR",
-      "name": "Titan"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/titan_foil_1355_37.418316b163899458121895ee1d23173a46a31891.png",
-    "original": {
-      "name": "eslkatowice2015_titan_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/titan_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-345",
-    "name": "Sticker Slab | Titan (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "345",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 27,
-      "tag": "TIT",
-      "geo": "FR",
-      "name": "Titan"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/titan_gold_1355_37.e0c4d7dbb68fa5c7d5f1c7a6c89f3b5ff9791b2f.png",
-    "original": {
-      "name": "eslkatowice2015_titan_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/titan_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-346",
-    "name": "Sticker Slab | Virtus.pro | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "346",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Virtus.pro | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 31,
-      "tag": "VP",
-      "geo": "PL",
-      "name": "Virtus.Pro"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-yOXCW8Vli_YTxuAm2FFLnl4T06DFL_f2ROfc4dc_AWSnClOwjtuVtHniylE4htjzRz9z4cXzDPA8nC5shQLYDtBW6w4azY7zr-UWA3Eqhts2y",
-    "original": {
-      "name": "eslkatowice2015_virtuspro",
-      "image_inventory": "econ/stickers/eslkatowice2015/virtuspro_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-347",
-    "name": "Sticker Slab | Virtus.pro (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "347",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Virtus.pro (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 31,
-      "tag": "VP",
-      "geo": "PL",
-      "name": "Virtus.Pro"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/virtuspro_holo_1355_37.212e6684e451df751ead816554d0cc7a7c82f00f.png",
-    "original": {
-      "name": "eslkatowice2015_virtuspro_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/virtuspro_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-348",
-    "name": "Sticker Slab | Virtus.pro (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "348",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4086",
-        "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E4AXywwk1y5DuHzouvJHmXPw8oW8FwQuRb50K9lobhY-Lm7gKKitlBzn3gznQe01AEOcg"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Virtus.pro (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 31,
-      "tag": "VP",
-      "geo": "PL",
-      "name": "Virtus.Pro"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/virtuspro_foil_1355_37.b0f184907aba2313132fe978a6a36ee9d59b68b8.png",
-    "original": {
-      "name": "eslkatowice2015_virtuspro_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/virtuspro_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-349",
-    "name": "Sticker Slab | Virtus.pro (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "349",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 31,
-      "tag": "VP",
-      "geo": "PL",
-      "name": "Virtus.Pro"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/virtuspro_gold_1355_37.8dd2a4fe5bd9dde8b8c07dac86b755e93fa737f4.png",
-    "original": {
-      "name": "eslkatowice2015_virtuspro_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/virtuspro_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-350",
-    "name": "Sticker Slab | Vox Eminor  | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "350",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Vox Eminor  | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 32,
-      "tag": "VE",
-      "geo": "AU",
-      "name": "Vox Eminor"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-yOXCW8Vli_YTxuAm2FFLnkY7l8CtV4OCROfc4dc_AWSmWl78k4OI9Gyq1xExwtWnRztqvcHqXPVIgXMNwF-9ct0TrkdC0MO3n-UWA3PN4DKpW",
-    "original": {
-      "name": "eslkatowice2015_voxeminor",
-      "image_inventory": "econ/stickers/eslkatowice2015/voxeminor_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-351",
-    "name": "Sticker Slab | Vox Eminor (Holo) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "351",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Vox Eminor (Holo) | Katowice 2015",
-    "effect": "Holo",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 32,
-      "tag": "VE",
-      "geo": "AU",
-      "name": "Vox Eminor"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_holo_1355_37.3ab668fcd1a5f6a5ef73fc53601915426198c2ae.png",
-    "original": {
-      "name": "eslkatowice2015_voxeminor_holo",
-      "image_inventory": "econ/stickers/eslkatowice2015/voxeminor_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-352",
-    "name": "Sticker Slab | Vox Eminor (Foil) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "352",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4087",
-        "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6uGiY6V5L-eaDWLCkb8jj7E7AX7lx0t25DjWw4mgJX2SagNzDpZ2R-RbsBe5ldyzMLvj7geI3oNCnn_gznQeMZjWuFY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Vox Eminor (Foil) | Katowice 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 32,
-      "tag": "VE",
-      "geo": "AU",
-      "name": "Vox Eminor"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_foil_1355_37.a9da387f04468955a666e2fdfa58593cbf8de50e.png",
-    "original": {
-      "name": "eslkatowice2015_voxeminor_foil",
-      "image_inventory": "econ/stickers/eslkatowice2015/voxeminor_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-353",
-    "name": "Sticker Slab | Vox Eminor (Gold) | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "353",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "team": {
-      "id": 32,
-      "tag": "VE",
-      "geo": "AU",
-      "name": "Vox Eminor"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_gold_1355_37.ef40667a59bd400afd9afb6a3cb2f667b4599edd.png",
-    "original": {
-      "name": "eslkatowice2015_voxeminor_gold",
-      "image_inventory": "econ/stickers/eslkatowice2015/voxeminor_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-354",
-    "name": "Sticker Slab | ESL One | Katowice 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "354",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Event",
-    "market_hash_name": "Sticker Slab | ESL One | Katowice 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 6,
-      "name": "2015 ESL One Katowice"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-yOXCW8Vli_YTxuAm2FFL0jZrf_B0KvKf7V_c6bqLHX2TBxbx05rE5TiqwlEpz4WjUmd6gci6UOA8nDpQhFuMDtRK5kdf5d7S11k343Xs",
-    "original": {
-      "name": "eslkatowice2015_esl_a",
-      "image_inventory": "econ/stickers/eslkatowice2015/esl_a_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-355",
-    "name": "Sticker Slab | Chabo",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "355",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Chabo",
-    "effect": "Other",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-vM26o5ldl55L47xbkSRTylZPuwnMIuqeRO_MjcKaQV2KUl710trc8Si23wBl15mzTytegcCrFbQZ2DJRyRuEDsRbsx8qnab0tv71MpA",
-    "original": {
-      "name": "enfu_chicken",
-      "image_inventory": "econ/stickers/enfu_capsule/chicken_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-356",
-    "name": "Sticker Slab | Bombsquad",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "356",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Bombsquad",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/enfu_bombsquad_1355_37.9c01e7786a7745b86225a54190d90379ce26025a.png",
-    "original": {
-      "name": "enfu_bombsquad",
-      "image_inventory": "econ/stickers/enfu_capsule/enfu_bombsquad_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-357",
-    "name": "Sticker Slab | Bombsquad (Foil)",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "357",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Bombsquad (Foil)",
-    "effect": "Foil",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-vM26o5ldl55L47xbiTxvkoZTv8CBI_uevbJtrL_mfMTbDlLtJ47YnGSq3xxt04WTRy478Iy_FZlInW8BwQ7FZt0a7lIGyZrzr5Q3Y2I9CyDK-0H0cFNI3tg",
-    "original": {
-      "name": "enfu_bombsquad_foil",
-      "image_inventory": "econ/stickers/enfu_capsule/enfu_bombsquad_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-358",
-    "name": "Sticker Slab | The Guru",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "358",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | The Guru",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/guru_1355_37.a4c71d5119c5f40a47151b8c416b8067960cbee0.png",
-    "original": {
-      "name": "enfu_guru",
-      "image_inventory": "econ/stickers/enfu_capsule/guru_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-359",
-    "name": "Sticker Slab | Silent Ninja",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "359",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Silent Ninja",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/ninja_1355_37.2e1737ed7d3733de34bbb0833bc94478950ce332.png",
-    "original": {
-      "name": "enfu_ninja",
-      "image_inventory": "econ/stickers/enfu_capsule/ninja_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-360",
-    "name": "Sticker Slab | Silent Ninja (Foil)",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "360",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Silent Ninja (Foil)",
-    "effect": "Foil",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/ninja_foil_1355_37.c4777f67bf657f7b846c5ca3de623adff8394a40.png",
-    "original": {
-      "name": "enfu_ninja_foil",
-      "image_inventory": "econ/stickers/enfu_capsule/ninja_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-361",
-    "name": "Sticker Slab | The Samurai",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "361",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | The Samurai",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/samurai_1355_37.803f39c5cc54bded0984f516d2aeba9490441c09.png",
-    "original": {
-      "name": "enfu_samurai",
-      "image_inventory": "econ/stickers/enfu_capsule/samurai_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-362",
-    "name": "Sticker Slab | Skull Lil Boney",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "362",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Skull Lil Boney",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/skullfulilboney_1355_37.fe220f33aee17656a760c4c03b044d7e6c3d38fd.png",
-    "original": {
-      "name": "enfu_skullfulilboney",
-      "image_inventory": "econ/stickers/enfu_capsule/skullfulilboney_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-363",
-    "name": "Sticker Slab | Skulltorgeist",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "363",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Skulltorgeist",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/skullfuskulltorgeist_1355_37.b55bc518da0c574422398af890a771b35cb33a56.png",
-    "original": {
-      "name": "enfu_skullfuskulltorgeist",
-      "image_inventory": "econ/stickers/enfu_capsule/skullfuskulltorgeist_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-364",
-    "name": "Sticker Slab | Skull Troop",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "364",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Skull Troop",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/skullfutrooop_1355_37.52ef4599a7d5ed81568e0f20933be27880290b17.png",
-    "original": {
-      "name": "enfu_skullfutrooop",
-      "image_inventory": "econ/stickers/enfu_capsule/skullfutrooop_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-365",
-    "name": "Sticker Slab | Salute!",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "365",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Salute!",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/soldier_1355_37.4b4498e765bcc9f9406f51f62470f186754a85f8.png",
-    "original": {
-      "name": "enfu_soldier",
-      "image_inventory": "econ/stickers/enfu_capsule/soldier_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-366",
-    "name": "Sticker Slab | The Spartan",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "366",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | The Spartan",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/spartan_1355_37.89887c17ae522cb2c8bf05e8cab27c1e894d1ae9.png",
-    "original": {
-      "name": "enfu_spartan",
-      "image_inventory": "econ/stickers/enfu_capsule/spartan_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-367",
-    "name": "Sticker Slab | Unicorn",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "367",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Unicorn",
-    "effect": "Other",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-vM26o5ldl55L47xbyTxTykYTuwnMIuqeRO_MjJaDEDTCWlr0j47k9GXnjzBh25W3Swt-pJXuQaVciCcN0R-cD4Be-xMqnab358oEEeg",
-    "original": {
-      "name": "enfu_unicorn",
-      "image_inventory": "econ/stickers/enfu_capsule/unicorn_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-368",
-    "name": "Sticker Slab | Unicorn (Holo)",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "368",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Unicorn (Holo)",
-    "effect": "Holo",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-vM26o5ldl55L47xbyTxTykYTuwipU4_2ROfc4dc_AWSmSlLwmtLE7F3zqxEtw5T-GnoqsI3iTZwJyApEiQOYI5BDsxICxY7m0-UWA3AXlyYtc",
-    "original": {
-      "name": "enfu_unicorn_holo",
-      "image_inventory": "econ/stickers/enfu_capsule/unicorn_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-369",
-    "name": "Sticker Slab | The Zombie",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "369",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4090",
-        "name": "Enfu Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk6vyofZtuIeCAG2uVj74k5uM9HXDnxh4ksGWGm42vdHrCPFVyWJQlRbZesRXuwNezMumxs1PAy9USfO4IHQ0"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | The Zombie",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/enfu_capsule/zombie_1355_37.b1fba62f43d5b4570756439aedb68f906d83520f.png",
-    "original": {
-      "name": "enfu_zombie",
-      "image_inventory": "econ/stickers/enfu_capsule/zombie_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-370",
-    "name": "Sticker Slab | Awp Country",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "370",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Awp Country",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/awp_country_1355_37.e126d993327ee13433e1177eae6a7acf991e07a0.png",
-    "original": {
-      "name": "awp_country",
-      "image_inventory": "econ/stickers/community02/awp_country_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-371",
-    "name": "Sticker Slab | Chi Bomb",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "371",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Chi Bomb",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community02/chi_bomb_1355_37.ed7a3dc81daf2372016d42223997a580007fabdf.png",
-    "original": {
-      "name": "chi_bomb",
-      "image_inventory": "econ/stickers/community02/chi_bomb_1355_37"
     }
   }
 ]

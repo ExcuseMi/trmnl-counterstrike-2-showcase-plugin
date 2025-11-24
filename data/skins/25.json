@@ -1,1730 +1,12 @@
 [
   {
-    "id": "skin-f73c2d8a6647",
-    "name": "★ Huntsman Knife | Gamma Doppler",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "id": "skin-657a59e6566b",
+    "name": "★ Karambit | Fade",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
     "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "am_gamma_doppler_phase2",
-      "name": "Gamma Doppler"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "570",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      },
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "phase": "Phase 2",
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cxTLN1F4TowiQ-MD5xe_moa1P-7ltA2IjIlNz3_7jiwd5yw44-YLB6Zzr6LWjQ6VL_RjttkcOtMw",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-fb71936725b6",
-    "name": "★ Huntsman Knife | Gamma Doppler",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "am_gamma_doppler_phase3",
-      "name": "Gamma Doppler"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "571",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      },
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "phase": "Phase 3",
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8chTLN1F4ToxwTLFe5EO5x4LhYuvi5w3eiIwRyi2qjXgYvyZj4ugCWKssr6XRhwiTL_RjthxPDqn6",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-7be9c42f587a",
-    "name": "★ Huntsman Knife | Gamma Doppler",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "am_gamma_doppler_phase4",
-      "name": "Gamma Doppler"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "572",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      },
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "phase": "Phase 4",
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8dRTLN1F4TowjF-ULthGxkdDhZuqw4A3diYwTyiX33S8f5yto4rkKUKsirqzTigySL_RjtsSe7bgM",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-618b9c495102",
-    "name": "★ Huntsman Knife | Marble Fade",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.\\n\\n<i>The blade is made of many colors, but soon it all looks red</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "am_marble_fade",
-      "name": "Marble Fade"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "413",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4351",
-        "name": "Spectrum Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
-      },
-      {
-        "id": "crate-4403",
-        "name": "Spectrum 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1idwPx0vORWSSi3kCIrujqNjsH8JXvCZgEiDZVwEeUK40W6ldaxZOnn7g3Zj4gUmySoi39A7SxqsrsET-N7rT4plPHN",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-37f576426c37",
-    "name": "★ Huntsman Knife | Freehand",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted black and purple, then decorated with a metallic marker.",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "am_marked_up_90",
-      "name": "Freehand"
-    },
-    "min_float": 0,
-    "max_float": 0.48,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "581",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      },
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1idwPx9teVWWjmMzE0YvzSCkpu3cC-Wald2A5tyFu9esxDpktO2Nrzq4wzaiYlGzXmo3SxIuHw65bsLU71lpPPkJkZySA",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-255b6eff4914",
-    "name": "★ Huntsman Knife | Doppler",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "am_ruby_marbleized",
-      "name": "Doppler"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "415",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4351",
-        "name": "Spectrum Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
-      },
-      {
-        "id": "crate-4403",
-        "name": "Spectrum 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
-      }
-    ],
-    "phase": "Ruby",
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iC1Oxvj-xoXSu_kBQ9tjm6lob-KT-JaAV1W8ZzEecL4RXtwYHkZry25lSMj95GxCj_3CMc6is5sb4GAPBx-rqX0V9XRKLfoA",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-cb96c4362f57",
-    "name": "★ Huntsman Knife | Doppler",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "am_sapphire_marbleized",
-      "name": "Doppler"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "416",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4351",
-        "name": "Spectrum Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
-      },
-      {
-        "id": "crate-4403",
-        "name": "Spectrum 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
-      }
-    ],
-    "phase": "Sapphire",
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iDwP5muOh7Sha-lA8lvziMgIr9HifOOV5kFMN5Qe8CshbrltLlNOqxsgLc2t8Uzyv9jSNLuC9r4-oEVfB2r_GFjg3fcepqRzB392E",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-2cab831d314a",
-    "name": "★ Huntsman Knife | Slaughter",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers<i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "am_zebra",
-      "name": "Slaughter"
-    },
-    "min_float": 0.01,
-    "max_float": 0.26,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "59",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iKxOxksd5lRi67gVN_42jTnourc3OSbA4iCJV5F7UCsEXpx93jYrnn7gfago4QyH6ri3tL8G81tAzA6RBm",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-243a437e4586",
-    "name": "★ Huntsman Knife | Tiger Tooth",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "an_tiger_orange",
-      "name": "Tiger Tooth"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "409",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4351",
-        "name": "Spectrum Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
-      },
-      {
-        "id": "crate-4403",
-        "name": "Spectrum 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SAFiEyOlzot5mXSi9khgYvzSCkpu3JHmWZwFzWZB1R-RbtxC_kofvMLzg51SLj41Nmyuqjyoc5nxi5ekLUr1lpPOee5ognQ",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-3def30b16491",
-    "name": "★ Huntsman Knife | Blue Steel",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "aq_blued",
-      "name": "Blue Steel"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "42",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SH1iSzftztN5lRi67gVN1tW3UzousdnrBbFB0WZt0QbVctEawxoGxN-ywtgGNjtgUySz-hiIa8G81tLF2CaOG",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-929cf4619d5d",
-    "name": "★ Huntsman Knife | Damascus Steel",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has some damascus steel parts.",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "aq_damascus_90",
-      "name": "Damascus Steel"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "411",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4351",
-        "name": "Spectrum Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
-      },
-      {
-        "id": "crate-4403",
-        "name": "Spectrum 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SH1iUwON3o-J8XBbqxSIrujqNjsGpIn_GbA8pA5J5Q7Jesxm5w9flZezi5FHXgo9Fzy_2iX8c7yhu47oCT-N7rcl4-qvl",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-705833a883f2",
-    "name": "★ Huntsman Knife | Stained",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "aq_forced",
-      "name": "Stained"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "43",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SH1iWzvx1teVWQyC0nQlpsjyHnIyvI3-UbgImApJxTLYJsUa9m4fkY7y25lbe3o8UzCn5j39BuzErvbgKxgW_zw",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-a4164e883655",
-    "name": "★ Huntsman Knife | Case Hardened",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "aq_oiled",
-      "name": "Case Hardened"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "44",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SH1ifyOJztN5lRi67gVN_4W-Byt-hIi2UbVV2W5p2Fu4PuxmxkdO0Zejj7wff3okWzCT3ji4f8G81tJdWCOsa",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-a074d7f6a461",
-    "name": "★ Huntsman Knife | Rust Coat",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "aq_steel_knife",
-      "name": "Rust Coat"
-    },
-    "min_float": 0.4,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "414",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4351",
-        "name": "Spectrum Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
-      },
-      {
-        "id": "crate-4403",
-        "name": "Spectrum 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SH1iD1etzvN5iQSC1kCIqtjmMj4K3cXiUbFd1ApZwQ-Bb5Ba5kYfjMu3hslSI2oNDyi6shy4bvy1i5-hWU71lpPPSsstkpw",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-687191040a39",
-    "name": "★ Huntsman Knife | Lore",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been custom painted with knotwork.",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "cu_huntsman_lore",
-      "name": "Lore"
-    },
-    "min_float": 0,
-    "max_float": 0.65,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1107",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      },
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-QG1iY1OBio-xoQRa_mg8ijDGMnYftb3qfPQZyWJtyFuNe4BG5ktDuY-ritleIid1Hynir3H9KvH055btRV6s7uvqAU_ahZxI",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-96f043f8ad7c",
-    "name": "★ Huntsman Knife | Ultraviolet",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "cu_purple_huntsman",
-      "name": "Ultraviolet"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "620",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4351",
-        "name": "Spectrum Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
-      },
-      {
-        "id": "crate-4403",
-        "name": "Spectrum 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-QG1iA1PxmvORWRzy9gQ4qsjO6lob-KT-JbFQlC5YhFrQN4xe4m4ezNL7g4QyLiItFyS772C5I7ilq6rpWUaYh-rqX0V82KISxGQ",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-a14dff866da7",
-    "name": "★ Huntsman Knife | Autotronic",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been anodized red and uses steel mesh to lighten the weight.",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "gs_huntsman_autotronic",
-      "name": "Autotronic"
-    },
-    "min_float": 0,
-    "max_float": 0.85,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1117",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      },
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-UHViY1OBio-xoQRaygAkopy-KlIb6HifOOV5kFMF1QrMNu0Puw4DvYbnk5Qfc2d5Azyv_3C1O7Hlq4ulRAvcn_qKBiFvfcepq3JPpPWw",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-6846773dc467",
-    "name": "★ Huntsman Knife | Black Laminate",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been stonewashed and given a black laminate handle.",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "gs_huntsman_black_laminate",
-      "name": "Black Laminate"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1112",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      },
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-UHViY1OBio-xoQRaxmRwkuAKJm4LwLyrTO2l8U8UoAfkJ5kTsmtfvNe7mswOL3YNByX_9338Y7ig44-cEV_Yk_PGBjgnCZeY7_9Bdc4dD_RHM",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-dc7691ba7cab",
-    "name": "★ Huntsman Knife | Forest DDPAT",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "hy_ddpat",
-      "name": "Forest DDPAT"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "5",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-bF1iUxf53pN5lRi67gVN-6mqBz4msIHnDPAd1X5YiQuBe5Ba5ltG2NOvj7wTcjo1Eyn79inwd8G81tJCD569m",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-5929154caa21",
-    "name": "★ Huntsman Knife | Boreal Forest",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "hy_forest_boreal",
-      "name": "Boreal Forest"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "77",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-bF1iWzvxzo_VWTSahkBwrjDGMnYftb3qRaFMmCpokE-YOsRW5xNbjY-ri7gTb2YpDz36o3XtL7H1psecLUfI7uvqAW2HsimI",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-5fcbfb31f1d1",
-    "name": "★ Huntsman Knife | Bright Water",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted using a blue camo hydrographic.\\n\\n<i>Ours is a world of intrigue...but sometimes camouflage is meant to be seen - Booth, Arms Dealer</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "hy_ocean_knife_90",
-      "name": "Bright Water"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "579",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      },
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-bF1ifwut3vt5iQSC1kCJ-4wKJk4jxNWWVOA4hA5MjQONbtRGwkYHlP77l5FaLj9gTxS76hn4avXo-t-tTV_Uk5OSJ2DtQY32N",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-50822c2f44f9",
-    "name": "★ Huntsman Knife | Crimson Web",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "hy_webs",
-      "name": "Crimson Web"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "12",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-bF1iHxOxlj-1gSCGn20V24znRw4v7JXPEaVUnW8AkQbUP5xW4wYKzMeu3sgPbio4WzXr_3HxXrnE84qvZFNo",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-cbcb5c1fdde0",
-    "name": "★ Huntsman Knife | Night",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "so_night",
-      "name": "Night"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "40",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-AAVieyOl-pN5lRi67gVMktj_XzNapIi6QPwYjCcd1FOIJsBPsm9TvM7-ztFfXjIgXnyX7jCxA8G81tHpNPllX",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-7e5068bb215f",
-    "name": "★ Huntsman Knife | Scorched",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "sp_dapple",
-      "name": "Scorched"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "175",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-AHliUwP5mvORWQyC0nQlp5GiDnIqseHPGalMnXJMhQ-cDtkPrm93jZe7l5wbb2YsTyy352CpP7TErvbiCPrzwVA",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-b9e171c17faf",
-    "name": "★ Huntsman Knife | Safari Mesh",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "sp_mesh_tan",
-      "name": "Safari Mesh"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "72",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-AHlidxP1-j_VoQRa_nBovp3OEzd7_dn_FOAVxCpp2QuQC4xW9kYaxNOLqtA3dgowWyyn7jnxAuCxj_a9cBvBQQTn3",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-47369b391184",
-    "name": "★ Huntsman Knife | Urban Masked",
-    "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
-    "weapon": {
-      "id": "weapon_knife_tactical",
-      "weapon_id": 509,
-      "name": "Huntsman Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "sp_tape_urban",
-      "name": "Urban Masked"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "143",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-AHliEwP5zj_R7TSi9qhEutDWR1Nb4IH_GZw8lW8QiRu4M40Htl9W0NeK3tQKLjt9Cm3j4iypO6309suYcEf1yAgdvvhk",
-    "original": {
-      "name": "weapon_knife_tactical"
-    }
-  },
-  {
-    "id": "skin-8512690f4f86",
-    "name": "★ Ursus Knife | Fade",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
-    "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -1757,14 +39,59 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKg0MSz_nUDvPb-OPFvdKTFDzbAkbp16bY5Gn6wkx9ysj7Xntf9IC6WZgA-Sswnnj45WXo"
       },
       {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHEV7KaobPdud6HEWjXGmbYl6LIwHn2ywhgh5GzXzdmsc3yRalAkD5R3FvlK7Ed7JoXDRQ"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKi0JS0pCZYvaCvOPI0eaHKWjGVmbovs7ZrHH_nl0oj5mXSzNqqdS7BaAc-SswnOWLoN2Y"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
       }
     ],
     "team": {
@@ -1772,19 +99,19 @@
       "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsIc-VD2OV_uJ_t-l9AXzml00i527XzouseH7GblAjX5N3R-NbuhLswYfjY-zj7laKjdkRyX_gznQeK-1-7hY",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SD1iWwOpzj-1gSCGn20tztm_UyIn_JHKUbgYlWMcmQ-ZcskSwldS0MOnntAfd3YlMzH35jntXrnE8SOGRGG8",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-2dae8bd09ad6",
-    "name": "★ Ursus Knife | Doppler",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "id": "skin-525ac56c082c",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -1817,14 +144,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "phase": "Black Pearl",
@@ -1833,19 +165,19 @@
       "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLc-RAmaTyv5zsfNlcCSyhx8rtjSfn4vGLSLANkI-C5IiRrQN5BaxktbgNOrksVOPj9gRnin-jS8fvX4_6-kAAqNx8vLQiRaBb-PCt4gg5w",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iSze91u_FsTju_qhAmoT-Jn4bjJC_4Ml93UtZuRLQPsBawkNfiMbnl5AKMiopCnin7iCJBv31j4rkBBKEg-6zUjV3GY6p9v8dpLWT3Fg",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-66da6dafaba1",
-    "name": "★ Ursus Knife | Doppler",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "id": "skin-a7465b45d267",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -1878,14 +210,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "phase": "Phase 1",
@@ -1894,19 +231,19 @@
       "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLc-XAXeAzetkj_FhTjq2xCIrujqNjsGrcnKTbgQjWZRyFuEL4EO4xoXuY-7n71bY2YtGxH35jSga6Cs4sboLT-N7rSrR5rr3",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4gKJk4jxNWXFb1cpDJR2FOFbsBTql9bjYbzq7gPZiN1MxH7_2ytNuCdpte1UB_Ui5OSJ2GbkVqni",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-ddf2f48f4dcc",
-    "name": "★ Ursus Knife | Doppler",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "id": "skin-e7fd9a1907bb",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -1939,14 +276,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "phase": "Phase 2",
@@ -1955,19 +297,19 @@
       "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLc-XAXeAzetkj_FhTjq2xyIrujqNjsH6dHORbFMiW5QlQ7EMtEK-m9fjZurh5QGMjdgXm3j43y1OuCY_57tUT-N7rRKbF8ni",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4QKJk4jxNWWXawUgA8dxRLEO40KwkobnMbnj5QKL348Qmy-sji5K7i466uxUUKQn5OSJ2KBZjkQR",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-be074cb41fae",
-    "name": "★ Ursus Knife | Doppler",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "id": "skin-1905a0ed952b",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2000,14 +342,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "phase": "Phase 3",
@@ -2016,19 +363,19 @@
       "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLc-XAXeAzetkj_FhTjq2xiIrujqNjsH8dSrDOgZxCsdwQbIKshHqlYa2Y-i35wzW2ItEn3mtjysdvS9s4ekET-N7rUzmvdlV",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4AKJk4jxNWWebgAlA8dwQLMOshmwm9y0Puni5Qba3ohEni-r33xA7X5o4uZTV6ch5OSJ2C8W7sST",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-a3e2b8da4519",
-    "name": "★ Ursus Knife | Doppler",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "id": "skin-d79f9a05870e",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2061,14 +408,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "phase": "Phase 4",
@@ -2077,19 +429,324 @@
       "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLc-XAXeAzetkj_FhTjq2wSIrujqNjsGvdiqQZ1clCJIhQLUCtkGxx4G1Ye7m7gSPjY5Nzn_6hipJv304t-hQT-N7rW2UnqIg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i5wKJk4jxNWXCaQQnA5B5Q-8O4xnpltazNri37gGPgtlDzin7iXhN6y44tb0GUaYg5OSJ2A0QBM1-",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-3c8d6d2066c5",
-    "name": "★ Ursus Knife | Marble Fade",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.\\n\\n<i>The blade is made of many colors, but soon it all looks red</i>",
+    "id": "skin-6bd8a366ec88",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_emerald_marbleized",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "568",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+      }
+    ],
+    "phase": "Emerald",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iVzOtkse1tcCSyhx8rtjSfn4vGLSLANkI-X8MjTLFYskTsw9bnZOuwsgSIj4sTniz-2i5A7yY6tbwGV6Nx-qGEjxaBb-MuPavopw",
+    "original": {
+      "name": "weapon_knife_karambit"
+    }
+  },
+  {
+    "id": "skin-832ba955af19",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase1",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "569",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+      }
+    ],
+    "phase": "Phase 1",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cBTLN1F4TowkROZctEXqxNO2Nevn4QzZ2I9Mz3r62C9L634_5uhTWKEh_fKD2w7HL_RjthCBcAWy",
+    "original": {
+      "name": "weapon_knife_karambit"
+    }
+  },
+  {
+    "id": "skin-39379db61b54",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase2",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "570",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+      }
+    ],
+    "phase": "Phase 2",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cxTLN1F4ToxzRbQMukK6k4HnZe3k4gPW34hFmCWrjCgd5yk55-1RBfB0rq2D2w7FL_RjtjtuH2jv",
+    "original": {
+      "name": "weapon_knife_karambit"
+    }
+  },
+  {
+    "id": "skin-589751627608",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase3",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "571",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+      }
+    ],
+    "phase": "Phase 3",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20kPb5PrrukmRB-Ml0mNbR_Y3mjQeLpxo7Oy3tIteQJwc7aAnW_VK3wu27g8DtvsjLzSdksnIk4izYlha-0x8ebrZnguveFwtRKpxn8A",
+    "original": {
+      "name": "weapon_knife_karambit"
+    }
+  },
+  {
+    "id": "skin-89b3819790c9",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase4",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "572",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+      }
+    ],
+    "phase": "Phase 4",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8dRTLN1F4ToxwQLNZ5xa-xNDuNu_ktgCN2YtNn36thypAuidrsb4BUqMj_qPfiwCTL_Rjtpd8Mt3S",
+    "original": {
+      "name": "weapon_knife_karambit"
+    }
+  },
+  {
+    "id": "skin-cc03bb38269b",
+    "name": "★ Karambit | Marble Fade",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.\\n\\n<i>The blade is made of many colors, but soon it all looks red</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2122,14 +779,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "team": {
@@ -2137,19 +799,91 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLc-eD3WSzetJtuBtSha_nBovp3OEw92gdH_DPFcnWMB2EO9f5EPsktzhNO_n5gCIjdhHxH3_hnwauiht_a9cBmW6TNz5",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1idwPx0vORWSSi3kCIrujqNjsGveH2RaVRxX5ohEe4Juhawm4fiM-ji4APf2YMXmSz_hyoduytv4uhWT-N7rfLHGBJ4",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-2a92b2339dd5",
-    "name": "★ Ursus Knife | Doppler",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "id": "skin-ab2a1f1254f9",
+    "name": "★ Karambit | Freehand",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted black and purple, then decorated with a metallic marker.",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_marked_up_fine",
+      "name": "Freehand"
+    },
+    "min_float": 0,
+    "max_float": 0.48,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "582",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1idwPx9teVWWjmMkxQptgKJk4jxNWXCOlJ2CZpyEeBbuxbrltXkMbzlsgTXit1NyST9hiJBu3ptsesLAPJ35OSJ2AmQpzvF",
+    "original": {
+      "name": "weapon_knife_karambit"
+    }
+  },
+  {
+    "id": "skin-e9fb2b0e49e8",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2182,14 +916,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "phase": "Ruby",
@@ -2198,19 +937,19 @@
       "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLc-BG2WJ_uN3ouNlSiCpkBkYvzSCkpu3I3-eOFJxCJJ0Re8PsELuxoW2ZOzlslPfj98QxSyqintBuCY66-hTVr1lpPOXbk3ZOw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iC1Oxvj-xoXSu_kBQ9tjm6lob-KT-JbgMoW8Z5Ee8Isha9k9K1YeLr7wXci4wQzyqsjCxBuytssrkLV6Ek-LqX0V8zRrFpiQ",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-76be2f7e3241",
-    "name": "★ Ursus Knife | Doppler",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "id": "skin-18a2a3a04055",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2243,14 +982,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "phase": "Sapphire",
@@ -2259,19 +1003,19 @@
       "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLc-AD3eAyedktd5kTjuxmRguqTiBpYPwJiPTcAB2DpUkRrYK50awk9LhZrjg4lPZ2I1Dzyr_3X8Y6n1j4roFUKcl_qPJz1aWr6Afqe0",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iDwP5muOh7Sha-lA8lvziMgIr9HifOOV5kFMRxFuEM5hi_xNXhMbmx5VCMjd9MyCv6jigc6n064ucLAvZ3_6bViV3fcepqpLtspE0",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-3bdc5f369061",
-    "name": "★ Ursus Knife | Slaughter",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers<i>",
+    "id": "skin-818be290cd5b",
+    "name": "★ Karambit | Slaughter",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers<i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2308,14 +1052,59 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKg0MSz_nUDvPb-OPFvdKTFDzbAkbp16bY5Gn6wkx9ysj7Xntf9IC6WZgA-Sswnnj45WXo"
       },
       {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHEV7KaobPdud6HEWjXGmbYl6LIwHn2ywhgh5GzXzdmsc3yRalAkD5R3FvlK7Ed7JoXDRQ"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKi0JS0pCZYvaCvOPI0eaHKWjGVmbovs7ZrHH_nl0oj5mXSzNqqdS7BaAc-SswnOWLoN2Y"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
       }
     ],
     "team": {
@@ -2323,19 +1112,19 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLc-JC2WCwNF6ueZhW2fhkU9wtTjWytepcHueblR2ApslReYM4xS6kYDlZrnjtAzb3dpBzi2skGoXufPjJEMh",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iKxOxksd5lRi67gVNx5GzQztqrdH-ea1AjApImFuEJ5EO5wYHmP-2w7gGLgowTz3r5jCwY8G81tFw9kDjw",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-4cb01f02c1e3",
-    "name": "★ Ursus Knife | Tiger Tooth",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
+    "id": "skin-672713e8a04e",
+    "name": "★ Karambit | Tiger Tooth",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2368,14 +1157,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "team": {
@@ -2383,19 +1177,19 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsLs-HB2CV09F5ouBnSCyMmRQguynLnNypeXqeZ1coC5tyE-9fuxbpw4e1Yuvj5Qza344TzyuqjyoY6n1v4fFCD_RAjV1-VA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SAFiEyOlzot5mXSi9khgYvzSCkpu3eC3BbwUmCcMlQbMD4xG_w9zkPu7gsQXe2YJFzHqqjixL5ylr4ukAWb1lpPNV9oeSnQ",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-2edd5b788f70",
-    "name": "★ Ursus Knife | Blue Steel",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
+    "id": "skin-648d6470a3f9",
+    "name": "★ Karambit | Blue Steel",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2440,14 +1234,59 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKg0MSz_nUDvPb-OPFvdKTFDzbAkbp16bY5Gn6wkx9ysj7Xntf9IC6WZgA-Sswnnj45WXo"
       },
       {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHEV7KaobPdud6HEWjXGmbYl6LIwHn2ywhgh5GzXzdmsc3yRalAkD5R3FvlK7Ed7JoXDRQ"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKi0JS0pCZYvaCvOPI0eaHKWjGVmbovs7ZrHH_nl0oj5mXSzNqqdS7BaAc-SswnOWLoN2Y"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
       }
     ],
     "team": {
@@ -2455,26 +1294,26 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsMc-RAnKVxdF6ueZhW2e1kx8ksTnVzdz9Jy7FawNyX8NzQLNc4xK4xIflYb7n7gbcjI1Fzi_3kGoXuVwKdqHm",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SH1iSzftztN5lRi67gVNw4D_WytioJX2WO1AmCpJ5Qu9Z4EK-wYLjMOzm4gKMjt9BnC732i9M8G81tP_ecAuH",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-3bf8105f2ed6",
-    "name": "★ Ursus Knife | Damascus Steel",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has some damascus steel parts.",
+    "id": "skin-d1da7a632cfe",
+    "name": "★ Karambit | Damascus Steel",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has some damascus steel parts.",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
       "name": "Knives"
     },
     "pattern": {
-      "id": "aq_damascus_prisma",
+      "id": "aq_damascus",
       "name": "Damascus Steel"
     },
     "min_float": 0,
@@ -2486,7 +1325,7 @@
     },
     "stattrak": true,
     "souvenir": false,
-    "paint_index": "857",
+    "paint_index": "410",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2512,14 +1351,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "team": {
@@ -2527,19 +1371,19 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsMc-XD2qR0u1jo955XSCgmBwYvzSCkpu3IHqeOwImXMFxEbULtUPqx9XmZO_iswTcg41Gzy743CxL7ntusLpTWb1lpPNKGasTBw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SH1iUwON3o-J8XBa_nBovp3PUmdetJHyUblInCZF5TeID40bum9znMeKwtleKi4pCyC-q2CofuCxq_a9cBl9itWvl",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-c8c6bbd54e07",
-    "name": "★ Ursus Knife | Stained",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+    "id": "skin-00ad6b64e94d",
+    "name": "★ Karambit | Stained",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2584,14 +1428,59 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKg0MSz_nUDvPb-OPFvdKTFDzbAkbp16bY5Gn6wkx9ysj7Xntf9IC6WZgA-Sswnnj45WXo"
       },
       {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHEV7KaobPdud6HEWjXGmbYl6LIwHn2ywhgh5GzXzdmsc3yRalAkD5R3FvlK7Ed7JoXDRQ"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKi0JS0pCZYvaCvOPI0eaHKWjGVmbovs7ZrHH_nl0oj5mXSzNqqdS7BaAc-SswnOWLoN2Y"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
       }
     ],
     "team": {
@@ -2599,19 +1488,19 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsMc-VAXWTxOpJvOhuRz39lBsk5m2Dz4mrdX6SZg92CsEhRrIO4USwmtHkZe3rsgTXjd9AniyrhjQJsHhzJIw6OA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SH1iWzvx1teVWQyC0nQlp5zmEyI6rcC7DZg8pXpRyQOMOsBG-xNaxZbzl4wPdit5Azij3239MvDErvbgAJOXq8Q",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-c4dedb8cac21",
-    "name": "★ Ursus Knife | Case Hardened",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "id": "skin-c187005d5542",
+    "name": "★ Karambit | Case Hardened",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2656,14 +1545,59 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKg0MSz_nUDvPb-OPFvdKTFDzbAkbp16bY5Gn6wkx9ysj7Xntf9IC6WZgA-Sswnnj45WXo"
       },
       {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHEV7KaobPdud6HEWjXGmbYl6LIwHn2ywhgh5GzXzdmsc3yRalAkD5R3FvlK7Ed7JoXDRQ"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKi0JS0pCZYvaCvOPI0eaHKWjGVmbovs7ZrHH_nl0oj5mXSzNqqdS7BaAc-SswnOWLoN2Y"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
       }
     ],
     "team": {
@@ -2671,19 +1605,19 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsMc-cB2uVxdF6ueZhW2fmxBx-427Xntr_c3rBaFIkDZAhRLVYtxXql9LjMe_itQKL2d0UzXmskGoXueV9R1qR",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SH1ifyOJztN5lRi67gVNz5DvUmdj4eXuWOFAhAsF4RLFc5BC4xtbuY7yx7wDbgo9CzSj2h3xK8G81tB_XeHWq",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-acadd809a81f",
-    "name": "★ Ursus Knife | Rust Coat",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+    "id": "skin-9d759b84ad90",
+    "name": "★ Karambit | Rust Coat",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2716,14 +1650,19 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
       },
       {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
       }
     ],
     "team": {
@@ -2731,19 +1670,235 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsMc-AGmKVzdF9vuhvSha-kBkupjDLy9-hcymePwV0XpN1E7MPshfrl9HkMO7q5QyI2Y9MnC353ClLvCdu5PFCD_SZq2fGzA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SH1iD1etzvN5iQSC1kCIqtjmMj4K3cC2TZgQgWJUjR7QIukK7lNO0Prjk41PXjdgXySj4iCJMvH5p4rlRUL1lpPMtop-Pnw",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-bbdcf11905dc",
-    "name": "★ Ursus Knife | Forest DDPAT",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "id": "skin-d23dde6eae59",
+    "name": "★ Karambit | Lore",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been custom painted with knotwork.",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "cu_karam_lore",
+      "name": "Lore"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "561",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-QG1ibwPx3vd5lQDu2qhEutDWR1IqrIHLCZlUmDJYlTLFb50HuwdyxPu2w4lCKjI5HniT2jS1PuCxj5e0cEf1y9ZCADXU",
+    "original": {
+      "name": "weapon_knife_karambit"
+    }
+  },
+  {
+    "id": "skin-e7fa76b05d6f",
+    "name": "★ Karambit | Black Laminate",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been stonewashed and given a black laminate handle.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "cu_karam_stonewash",
+      "name": "Black Laminate"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "566",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-QG1ibwPx3vd56Wya9kAomoDW6lob-KT-JbwIlWcYmQ-UM40LrldXkZO6wslONiN0UmCT52iIdui8-5LlUAqUn-LqX0V8xd7EU5Q",
+    "original": {
+      "name": "weapon_knife_karambit"
+    }
+  },
+  {
+    "id": "skin-3d2a30953c01",
+    "name": "★ Karambit | Autotronic",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been anodized red and uses steel mesh to lighten the weight.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "gs_karam_autotronic",
+      "name": "Autotronic"
+    },
+    "min_float": 0,
+    "max_float": 0.85,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "576",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-UHVibwPx3vd5oWj28gQ8ovTSGpYPwJiPTcAMkCJt3QuVY4xXrloHhP-nlsw2Ljo1NzS6ohitJvCc4sOcHAqInqKfJz1aWliaAF_M",
+    "original": {
+      "name": "weapon_knife_karambit"
+    }
+  },
+  {
+    "id": "skin-0b8c896de2ea",
+    "name": "★ Karambit | Forest DDPAT",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2788,14 +1943,59 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKg0MSz_nUDvPb-OPFvdKTFDzbAkbp16bY5Gn6wkx9ysj7Xntf9IC6WZgA-Sswnnj45WXo"
       },
       {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHEV7KaobPdud6HEWjXGmbYl6LIwHn2ywhgh5GzXzdmsc3yRalAkD5R3FvlK7Ed7JoXDRQ"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKi0JS0pCZYvaCvOPI0eaHKWjGVmbovs7ZrHH_nl0oj5mXSzNqqdS7BaAc-SswnOWLoN2Y"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
       }
     ],
     "team": {
@@ -2803,19 +2003,19 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tlOc-XCneR1dF6ueZhW2fqxU0ktmTTytugdi_CZ1ckDZYiRO8Muka-kYXiZuri4wTdjIJDyHr9kGoXuTEenuE-",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-bF1iUxf53pN5lRi67gVN25WuBmNqpeC-RbgdxCZAkRucN4xC8w4axY-O07wfW3YkTzCn6jC9N8G81tIWhen7s",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-4a69e16edbbb",
-    "name": "★ Ursus Knife | Boreal Forest",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "id": "skin-c73034f2d720",
+    "name": "★ Karambit | Boreal Forest",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
@@ -2860,14 +2060,59 @@
     "collections": [],
     "crates": [
       {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKg0MSz_nUDvPb-OPFvdKTFDzbAkbp16bY5Gn6wkx9ysj7Xntf9IC6WZgA-Sswnnj45WXo"
       },
       {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHEV7KaobPdud6HEWjXGmbYl6LIwHn2ywhgh5GzXzdmsc3yRalAkD5R3FvlK7Ed7JoXDRQ"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKi0JS0pCZYvaCvOPI0eaHKWjGVmbovs7ZrHH_nl0oj5mXSzNqqdS7BaAc-SswnOWLoN2Y"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
       }
     ],
     "team": {
@@ -2875,462 +2120,30 @@
       "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tlOc-VAXWV0vpJsu57Sii_qhEutDWR1I2uJS-QZ1IhCJB2TOcOt0PuwNPvM-3k4VSMi4sQzCysiSxP73xi6-0cEf1y17OWkH8",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-bF1iWzvxzo_VWTSahkBwrjDGMnYftbyifZgQlA8EhRrRfuhm7lIa2MerjtlaKi4NGnius3SMc6Slv574AUPA7uvqA0RoB8ZE",
     "original": {
-      "name": "weapon_knife_ursus"
+      "name": "weapon_knife_karambit"
     }
   },
   {
-    "id": "skin-8988fcc8f358",
-    "name": "★ Ursus Knife | Crimson Web",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "id": "skin-8e57ec28871d",
+    "name": "★ Karambit | Bright Water",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted using a blue camo hydrographic.",
     "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
     },
     "category": {
       "id": "sfui_invpanel_filter_melee",
       "name": "Knives"
     },
     "pattern": {
-      "id": "hy_webs",
-      "name": "Crimson Web"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "12",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
-      },
-      {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tlOc-EC2WD_uJ_t-l9ASzrwRt14WXTmNqrIy-eaAIoCpdyQuYJtxHuwNyyZe_m5wHb39lCmSTgznQedPIzvI4",
-    "original": {
-      "name": "weapon_knife_ursus"
-    }
-  },
-  {
-    "id": "skin-4fd4ab14137b",
-    "name": "★ Ursus Knife | Ultraviolet",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
-    "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "so_purple",
-      "name": "Ultraviolet"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "98",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
-      },
-      {
-        "id": "crate-4695",
-        "name": "Prisma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5t-L8-DG3WAzetJvOhuRz39k0Rw4jiHw4r4I3nEZ1UiWZJ3F7Jb4xPul9HnNejgtADWjNoUmC76iDQJsHhIUD-ATQ",
-    "original": {
-      "name": "weapon_knife_ursus"
-    }
-  },
-  {
-    "id": "skin-3ae7c170b0fd",
-    "name": "★ Ursus Knife | Scorched",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
-    "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "sp_dapple",
-      "name": "Scorched"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "175",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
-      },
-      {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5t-MM-XD3eAzetJvOhuRz39zUgjtTvQyYz8ci6TPARzCZtyELILuhbsltazMOm04AHXiYJMziytjjQJsHj5P22EGw",
-    "original": {
-      "name": "weapon_knife_ursus"
-    }
-  },
-  {
-    "id": "skin-8d75b8d5e231",
-    "name": "★ Ursus Knife | Safari Mesh",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
-    "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "sp_mesh_tan",
-      "name": "Safari Mesh"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "72",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
-      },
-      {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5t-MM-eC3SY_vp3vt5lRi67gVNzsW-Bn9-qIniRbgAhCMAkR-ZfsxPtmoDvPuzr7lHa3YhBzCr-3Xwf8G81tFy8vCpc",
-    "original": {
-      "name": "weapon_knife_ursus"
-    }
-  },
-  {
-    "id": "skin-eb7dc41fdeda",
-    "name": "★ Ursus Knife | Night Stripe",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
-    "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "sp_nightstripe",
-      "name": "Night Stripe"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "735",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
-      },
-      {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5t-MM-dB2CY1f1iouh5Sha_nBovp3Pdmd-qJ3rFZwclA5AlEbINsUS9ltbhM-6xtQHfit4UnC__hylB6Xpp_a9cBpOKr6LC",
-    "original": {
-      "name": "weapon_knife_ursus"
-    }
-  },
-  {
-    "id": "skin-69b29694ef39",
-    "name": "★ Ursus Knife | Urban Masked",
-    "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
-    "weapon": {
-      "id": "weapon_knife_ursus",
-      "weapon_id": 519,
-      "name": "Ursus Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "sp_tape_urban",
-      "name": "Urban Masked"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "143",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [],
-    "crates": [
-      {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
-      },
-      {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5t-MM-HD3eV_vtksuBncCW6khUz_W7Rw9ihcHqTaFUnDMYiEeEOtRe9kNXjM7vhswbZ3Y1BnCv6jSgbuix1o7FV-Na7K10",
-    "original": {
-      "name": "weapon_knife_ursus"
-    }
-  },
-  {
-    "id": "skin-b578d971da2a",
-    "name": "★ Talon Knife | Fade",
-    "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
-    "weapon": {
-      "id": "weapon_knife_widowmaker",
-      "weapon_id": 523,
-      "name": "Talon Knife"
-    },
-    "category": {
-      "id": "sfui_invpanel_filter_melee",
-      "name": "Knives"
-    },
-    "pattern": {
-      "id": "aa_fade",
-      "name": "Fade"
+      "id": "hy_ocean_knife",
+      "name": "Bright Water"
     },
     "min_float": 0,
-    "max_float": 0.08,
+    "max_float": 0.5,
     "rarity": {
       "id": "rarity_ancient_weapon",
       "name": "Covert",
@@ -3338,7 +2151,7 @@
     },
     "stattrak": true,
     "souvenir": false,
-    "paint_index": "38",
+    "paint_index": "578",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -3347,29 +2160,41 @@
       {
         "id": "SFUI_InvTooltip_Wear_Amount_1",
         "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
       }
     ],
     "collections": [],
     "crates": [
       {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
       },
       {
-        "id": "crate-4548",
-        "name": "Danger Zone Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
       }
     ],
     "team": {
       "id": "both",
       "name": "Both Teams"
     },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMWaR_uh3tORWQyC0nQlpsmXcnNaoeHuTZwUiWMZzRrVZsxm9x9ThNrzj4QCPjdhNmHj73S9KujErvbhX2ACGeQ",
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-bF1ifwut3vt5iQSC1kCIrujqNjsGteH6ebFR1XJp3E-MNtxK7lYbiM-rg5wLZgoNGyyX62Hsb7ixq5e9RT-N7reSUYiY6",
     "original": {
-      "name": "weapon_knife_widowmaker"
+      "name": "weapon_knife_karambit"
     }
   }
 ]

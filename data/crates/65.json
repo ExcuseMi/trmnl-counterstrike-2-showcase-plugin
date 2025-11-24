@@ -1,10 +1,725 @@
 [
   {
-    "id": "crate-5131",
-    "name": "Austin 2025 Legends Autograph Capsule",
-    "description": "This capsule contains a single Paper, Foil, Holo, or Gold sticker autographed by one of the Legends players at Austin 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "def_index": "5131",
-    "type": "Autograph Capsule",
+    "id": "crate-4880",
+    "name": "Revolution Case",
+    "description": null,
+    "def_index": "4880",
+    "type": "Case",
+    "first_sale_date": "2023-01-31",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "skin-e6a7543c4187",
+        "name": "MAG-7 | Insomnia",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1220",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiFO0P-vb_NSKf6AAWqeyO9JvOhuRz39wh4k4TzUnN_9cC6WO1J2DJdyROcI4BC9x9XmN-vj71eN34xAzC33hzQJsHiziLtbUA"
+      },
+      {
+        "id": "skin-2f564d56b7ff",
+        "name": "MP9 | Featherweight",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1225",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V7d4MPWBAm6XyfpJvOhuRz39wB9x6jncwtyvd3jBPw8gCJFwR7YItRW8kNK0P--27wLe391NzCyq3zQJsHiOu4WQDA"
+      },
+      {
+        "id": "skin-05d5c801f287",
+        "name": "SCAR-20 | Fragments",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1226",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk6OGRe6dsMs-VHGaXzOt4pPJWTSWylhYYvzSCkpu3dnmXbAZyX5pzQLQO4Ri_lIbgMOzktg2P3t8Uni32iHwc7i856r1UAL1lpPP6-FL_6g"
+      },
+      {
+        "id": "skin-db200bb3a1ef",
+        "name": "P250 | Re.built",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1230",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSMvWRG26c1dF6ueZhW2flkRh_sjjXmNb8cCnDPVUnW5ByQ-JZ5hG_xN3gZuPltAHegogWzH7-kGoXuSIylluX"
+      },
+      {
+        "id": "skin-d87f89df4191",
+        "name": "MP5-SD | Liquidation",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1231",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1Y-s2jePF-JM-CG26TytF6ufB8Ri2ygRQovQKJk4jxNWXBOgUmDsN5FrIM5xi4lIHgNe7q51Pdi4pGni-t2ntA5ids5LxRVPUj5OSJ2Kcl14st"
+      },
+      {
+        "id": "skin-79472cd37595",
+        "name": "SG 553 | Cyberforce",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1234",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QF2WV0-h5ouJscCW6khUz_Wjdntr6Iy6WbgEjA5MlRedctxG5kNKyNbi3sgTfi9oUnyj9234b5n51o7FVairOMAY"
+      },
+      {
+        "id": "skin-e5141cf036fa",
+        "name": "Tec-9 | Rebel",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1235",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wiFO0Oara_1SJuKWC2OfzNF6ueZhW2fgkU0k5GmBzIn6eHjBagBxDZMhReYN5hC5ldbgNb7jtFbfgt5Ey3_3kGoXuRiiuNrn"
+      },
+      {
+        "id": "skin-e4cd5a266934",
+        "name": "M4A1-S | Emphorosaur-S",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1223",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL9lj-dsSi26mxoYtS-AlJXgHifOOV5kFJt4F-8KukXtldyyMLjjtVOIjIsWzXj8iylJ5ig6tbsKV_ItqaaB3gHfcepq28_00F4"
+      },
+      {
+        "id": "skin-99526dbb85e6",
+        "name": "Glock-18 | Umbral Rabbit",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1227",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-eAWie_vx3suNgWxa_nBovp3PXyo76Ii_FPAQmDMYiTLYDthm_kdbmZry2slCLjoMQzC7_3y1J7nts_a9cBi_qumx0"
+      },
+      {
+        "id": "skin-7815c7fae965",
+        "name": "MAC-10 | Sakkaku",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1229",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-AD2ybwOVjj-xsSyCmmFMk5mnRzdeqdSnCPVN2DpV3QeELtELrlIbiPrzqsVOMjdlBnySvjH5O8G81tOTP5a5f"
+      },
+      {
+        "id": "skin-f1184959b60b",
+        "name": "R8 Revolver | Banana Cannon",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1232",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_eM-RD2mRz-9JvOhuRz39kU4msjzdmd6peXKTOFd2DcchEOEP40btlt3lN7iz5FbeiNpFzi_83zQJsHgWY2btRg"
+      },
+      {
+        "id": "skin-2e0afbc14204",
+        "name": "P90 | Neoqueen",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1233",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf-jFk_6v-V6poL-GGC2Ke_uJ_t-l9ASyyxhl04zuDn4muInOXPAF2W5shQOAMs0G7xNfkZOuwswbej4JDnyvgznQe6S6_YqA"
+      },
+      {
+        "id": "skin-d42f9ca97ef6",
+        "name": "AWP | Duality",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "1222",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf-jFk7uW-V6hkLfKcMXSewOVzj-1gSCGn20p_62-HnN7_cH-XblQjDZYhR-FZsETqmoXjYry2s1DX3d5AyyT62ipXrnE8bpg5yZk"
+      },
+      {
+        "id": "skin-f04de3b20f62",
+        "name": "UMP-45 | Wild Child",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "1236",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1Y-s27ZbRSI_yGGmSY_uV_s-pWQyC0nQlpt2iHmNyqd3KVOlB0D5YlTeZb5xjsx9PjZOjl4VCNgt1EnC77iSMf7jErvbhWyVIDbA"
+      },
+      {
+        "id": "skin-c36fdc469906",
+        "name": "P2000 | Wicked Sick",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "1224",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMWOVwuJ_vuRWQyC0nQlp4jnTyNqodHyXOlQkDZtzF-UN4BjukYeyZuLn5Qbaj4NEzy3_3ywd5zErvbh-3lU8Iw"
+      },
+      {
+        "id": "skin-1aba3ea9ecc5",
+        "name": "M4A4 | Temukau",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "1228",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF6ueZhW2ewlBtx5W6AmYv9JS6XaAV1CJEmTeUL4UTpxNzjZO3jtgaIjN9ExCuskGoXuRnyRhBA"
+      },
+      {
+        "id": "skin-1f95db2031e4",
+        "name": "AK-47 | Head Shot",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "1221",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlV6xoIfSsHW-f1dF-v-1mcCW6khUz_TzRnNigd3-SOg4lAsF1QOQN4xS4wdHnMu-0swaMjIxExSSoiyof6ih1o7FVGHIdVhw"
+      }
+    ],
+    "contains_rare": [
+      {
+        "id": "skin-7b51c8bd957b",
+        "name": "★ Driver Gloves | Imperial Plaid",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10042",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t9LPGaCliA1PxmvORWQyC0nQlp622AmN2tJHifa1UpA5J2F-4D4BG7kNW1Nby0sQTfiYlHmS_5iy5O6jErvbjsRnJWLQ"
+      },
+      {
+        "id": "skin-ead101bfb2c9",
+        "name": "★ Driver Gloves | King Snake",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10041",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t-LvGYC3SbyOBJp-lgWyyMmRQguynLmIqsJXuRPQ8iDJMhE-5ftEHpk9GyYr-z5wPfjINBnCr-iitP7y5u4vFCD_SXCcvruQ"
+      },
+      {
+        "id": "skin-5e8f5f1fecb1",
+        "name": "★ Driver Gloves | Racing Green",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10044",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t-NPmHDW-VxdFxouRsQRa0hxg-jDGMnYftb3KSbAByDsR3EbVbskW-mtzhMe_q5gaI2N9DyCr52yIb5i5t5e0HUPU7uvqAZ6BOvkA"
+      },
+      {
+        "id": "skin-56be8a3a2bb8",
+        "name": "★ Driver Gloves | Overtake",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10043",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t-NPmHDW-VxdF0vOBqRBa8hxwptDi6lob-KT-JPQAgXsR5RbII4xbuxNa1ZenjsgPd2o8Wyi_9jn4f7i9ptroEBKclrrqX0V8g9bmTbg"
+      },
+      {
+        "id": "skin-a4133c8cedcb",
+        "name": "★ Hand Wraps | Cobalt Skulls",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10053",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_uJzsfVhSjuqqhsmsS-MmbD7LT7CAUV7T84sBohS50H-28rkNOPl4QXc2doTyyz9hn9MuHtj4O5RVaMjrKHRhw2UY7c65sEAJ6ulU13QDytoq21v"
+      },
+      {
+        "id": "skin-438616f5a678",
+        "name": "★ Hand Wraps | Overprint",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10054",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_uJzsfVhSjuqqhsmsS-MmbD-JCTKO0JiU8EfF7tP53_gx4WhfvS3sQGM2oJGnCv8iCwd6nxq4u1RVaol_qyFhwDJN-E9tZkAdaujRUiLRlxR76SI82V2"
+      },
+      {
+        "id": "skin-51c5ce405526",
+        "name": "★ Hand Wraps | Arboreal",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10056",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_uJzsfVhSjuqqhsmsS-MmbD-My7CMGlzW88vKrpf5kn9z8rhMOiz4gzWi4gQn37-inwavylu5bsHWKYm-KGG2Q7IZOE84pVVIfmnU13QD5pQMiG2"
+      },
+      {
+        "id": "skin-03513562b183",
+        "name": "★ Hand Wraps | Duct Tape",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10055",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_uJzsfVhSjuqqhkysCmRm5_8HiPCP0BpFJt3F-MM4BG9lIKxNrnj5Qze3YhGn374iStIvCtv4e8LV6An-vWDhw3fcepq_-0ZM-k"
+      },
+      {
+        "id": "skin-e8fa9ecb2fbe",
+        "name": "★ Hydra Gloves | Case Hardened",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10060",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOlo_k7yNk6P6hfqF-H_KfAWiUyeFjvuVWRzC3hxwYsDyWn7DxIDnDO1h1Xv0sHLBS9g6xltCzNu60slOP2o9GyX_3jSJIuChv57kKV6olrvbUiVuTN-c_6JULOr_5Gjh5LNUm"
+      },
+      {
+        "id": "skin-76266354fa03",
+        "name": "★ Hydra Gloves | Emerald",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10057",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOlo_k7yNk6P6hfqF-H_KfAWiUyeFjvuVWRzC3hxwYsTGEmYTGJjnCO1hPVssnHaMU5EO7kN22Mb_k5QXZi4xGyyX73HtAv3pp5bwAVKR28qbRjAqSM7M-so5Deqit6LPZmg"
+      },
+      {
+        "id": "skin-fb73d424e4dd",
+        "name": "★ Hydra Gloves | Rattler",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10059",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOlo_k7yNk6P6hfqF-H_KfAWiUyeFjvuVWRzC3hxwYoDOEkYrqKiLJAVRiW9EzKrtT5Uj8jN22ZLizsgTbjYMUyX753y5JvXo-5OYLBaZx__KF2gjDZ-Y648RVJvi5DUPZdh1rBiQ"
+      },
+      {
+        "id": "skin-530add68f13a",
+        "name": "★ Hydra Gloves | Mangrove",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10058",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOlo_k7yNk6P6hfqF-H_KfAWiUyeFjvuVWRzC3hxwYtC-An4HGLS7GKl51SP0tEKRS3UL6w5ekWLa7sF2ald9Myir8jCJP7H1s6-gDAKEnr6DViQDJMuY06cIKLP-jRRnaXk0Iu698BNe031d_Mxw"
+      },
+      {
+        "id": "skin-509033032197",
+        "name": "★ Moto Gloves | POW!",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10049",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJs-lmTCaMlxIovgKNn47vOGWXPw4gWJJ3RucMtELqxtyyN7jmswTYjN9Gziutjn9O6X1v4ekEBfB35OSJ2GagYo_N"
+      },
+      {
+        "id": "skin-bfd054b9c87b",
+        "name": "★ Moto Gloves | Polygon",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10052",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJpPNgSDu6kSIlvyiApYPwJiPTcFQiCpN0ROJZsxC7lIfnN7mx5gXXjN9Gnin_jSpN7C44tu8GUfBw-_fJz1aWpBRY4hw"
+      },
+      {
+        "id": "skin-6bd9ed91c37e",
+        "name": "★ Moto Gloves | Turtle",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10050",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJsuB6RiqMkg8itjO6lZ34LyzCAV51W9Q5W-UNsBjrk9LnMOjl4FeIi4IQxH_9iy5Kvyk_6-8FB6stq_DXhlrDNb0joc5U8W-JG5M"
+      },
+      {
+        "id": "skin-27fbe222018d",
+        "name": "★ Moto Gloves | Transport",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10051",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJqeRlQyakqh4mvjK6lob-KT-JOgQiWZBzFLELsRbuldW0M-vi4FHWjolEzCT_3X8d6S865LwDVqQmrrqX0V9Ska0yxQ"
+      },
+      {
+        "id": "skin-560640de154c",
+        "name": "★ Specialist Gloves | Crimson Web",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10061",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJp-RrXBahkBkYvzSCkpu3d3qTZgcnDcFwTLVcukG7m9S0Prnm4VSPjdpNzS38jisc7H04t-pRUr1lpPOu2bY96g"
+      },
+      {
+        "id": "skin-3b7b8a6e12a6",
+        "name": "★ Specialist Gloves | Mogul",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10064",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJp-hnWyyhnRg_jDGMnYftby2XPQQkXpFzReYKtES7wNLjNu7i4QKP341FySz33y5M6XprsOdRBfI7uvqA-jyEjrY"
+      },
+      {
+        "id": "skin-25bbf8e641c1",
+        "name": "★ Specialist Gloves | Fade",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10063",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJtuBtSha_nBovp3PVw9isdC2UO1QiDcEkTecL4xe-lNW1Zrnm5wOKg91NyS6rh3hL7Clp_a9cBh-8WeM2"
+      },
+      {
+        "id": "skin-b6c2f9e4afaa",
+        "name": "★ Specialist Gloves | Buckshot",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10062",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJtu57Sjqnqh81vCqLpYPwJiPTcA9xC5AiReRc5EbtltfmYbjg5APX2ooUxCj8jy1I7ypjsesGA6Mn_qDJz1aWSGqTMq4"
+      },
+      {
+        "id": "skin-c1ae7186f829",
+        "name": "★ Sport Gloves | Vice",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10048",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_KfG2Kv0ed4u95lRi67gVNx42TTm4quJS6XPFIlC8RyRucM4EHsxtPiNrm3sQCMjI5NyS773Sgd8G81tGNy-r2Z"
+      },
+      {
+        "id": "skin-e2344261c5cb",
+        "name": "★ Sport Gloves | Amphibious",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10045",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H-CcB3Sfz9Fwou5ucCu_gBgYpDWMjorGLSLANkI-XpomRrZcukK-k4bkZriz51aIg4NAxCqqi3gd631qt-ZTWaBw-6SGihaBb-N5lychEw"
+      },
+      {
+        "id": "skin-b06ecb36172b",
+        "name": "★ Sport Gloves | Omega",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10047",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_KfD2Sb_vlzsuNgQS6MjBgrvzKSpYPwJiPTcA51DJNzFrMPukS4kNa1ZOvk4QOIj9kWyHr2iS0bunxi5LxQUPd286LJz1aW2B2aCLU"
+      },
+      {
+        "id": "skin-24bd5ece81d7",
+        "name": "★ Sport Gloves | Bronze Morph",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10046",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H-CcB3Sfz9Fwou5ucDu2kSIgoTiAlLD1KCzPKhggDMAkEeYDthSwltyzNOy2sVHX2I0WxH-oj3lM7C1isO8CUKp2-_fQkUifZmFE-QfI"
+      }
+    ],
+    "market_hash_name": "Revolution Case",
+    "rental": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnAVvfb6aqduc_TFVjTCxbx05OU4S3jilE9w4DzRnImtIy2Sa1JzDJEhRPlK7EcO4U8gfA",
+    "model_player": "models/props/crates/csgo_drop_crate_community_32.vmdl",
+    "loot_list": {
+      "name": "★ Gloves ★",
+      "footer": "or the Exceedingly Rare Gloves!",
+      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/default_rare_item_png.png"
+    },
+    "original": {
+      "item_name": "#CSGO_crate_community_32",
+      "image_inventory": "econ/weapon_cases/crate_community_32"
+    }
+  },
+  {
+    "id": "crate-4882",
+    "name": "Anubis Collection Package",
+    "description": null,
+    "def_index": "4882",
+    "type": null,
+    "first_sale_date": "2023/04/24",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "skin-e8e1c44874c0",
+        "name": "R8 Revolver | Inlay",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "1237",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_JeacAnGV09F3s-BnWyGmhiIloTKLgIrGLSLANkI-A5cjFOBc5ES_m921Ybux5gXeioMQzy2ojHlMuChi4bxQVfFzr6OEjRaBb-Nm3twhXg"
+      },
+      {
+        "id": "skin-eed9c3fe4b9d",
+        "name": "M249 | Submerged",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "1242",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SM_OSHGaS_uJ_t-l9AXmyxkt0t2yDyYurci6TPQcgCcckTOMLsxCwk9PiM7i041Tago1FnH7gznQeMmXICmk"
+      },
+      {
+        "id": "skin-e86e226e8ee3",
+        "name": "XM1014 | Hieroglyph",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "1254",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7OeRcKk8cKHHMXeYwPx3v-lWQyC0nQlpsj7UwoyveCqROwRyC5cjQO8N5kSxlNKzN-O24QGL345BnniriXxP6jErvbhMqiQO1A"
+      },
+      {
+        "id": "skin-7749a115c5c1",
+        "name": "MP7 | Sunbaked",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "1246",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf-jFk4uL5V7d5Mv-dC1icyOl-pK84S3C1lx9w6mndytn8JymTZ1QoC5AiR-AMukbqkoXvZu2x5VfW2o9F02yg2esX37bl"
+      },
+      {
+        "id": "skin-a169fd0b8b16",
+        "name": "AUG | Snake Pit",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "1249",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf9Ttk6-egbZt5MvGDMWuZxuZi_rg4S3rqwxgltjyEy9r_cH7GbFBxXpd2RbEPukLtxoXgNOLg7gXe2thbjXKpZivzOLA"
+      },
+      {
+        "id": "skin-41f71f1a5f50",
+        "name": "M4A1-S | Mud-Spec",
+        "rarity": {
+          "id": "rarity_uncommon_weapon",
+          "name": "Industrial Grade",
+          "color": "#5e98d9"
+        },
+        "paint_index": "1243",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_eAMWrEwL9lj-xgQzqjkB4YvzSCkpu3I3rGP1JxDJpwEbEJ40G6mtfjPuqx7wTf3d5AzHn5hy9AuH5p4u9QBb1lpPNjrdVvDA"
+      },
+      {
+        "id": "skin-9a0273275e44",
+        "name": "SSG 08 | Azure Glyph",
+        "rarity": {
+          "id": "rarity_uncommon_weapon",
+          "name": "Industrial Grade",
+          "color": "#5e98d9"
+        },
+        "paint_index": "1251",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1c_M29e6M9eM-SAHKSyP1JvOhuRz39xERwsT_Sn4r6eHmeOAAlCZBxFrEP4BbpxtyxYbji7g3dg4lAnH372jQJsHi7hX5I-w"
+      },
+      {
+        "id": "skin-808bfc3a4f41",
+        "name": "USP-S | Desert Tactical",
+        "rarity": {
+          "id": "rarity_uncommon_weapon",
+          "name": "Industrial Grade",
+          "color": "#5e98d9"
+        },
+        "paint_index": "1253",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSJ-OsG3SA0tFiseJ9RiqymSIksjCKpYPwJiPTcARxX5VzROcIuhLtl9HkMum25AbZ2YtDzCT5234b6Ho-67lRA6Bw_fDJz1aWLNvRpDs"
+      },
+      {
+        "id": "skin-eba9dcbab8fc",
+        "name": "MAC-10 | Echoing Sands",
+        "rarity": {
+          "id": "rarity_uncommon_weapon",
+          "name": "Industrial Grade",
+          "color": "#5e98d9"
+        },
+        "paint_index": "1244",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-ADWaCwOxJvOhuRz39xRlx5GmEyIn9cSjCOg52C8B0TLEOtxa_xNziMu3ktFOP2o1HznqqijQJsHgtnfG5bw"
+      },
+      {
+        "id": "skin-29609fc133b0",
+        "name": "Tec-9 | Mummy's Rot",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1252",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wiFO0Oara_1SLeWeA36vzedxuPUnS3_jlEUm5muAzd6qcXiRaw9yWZciRuQItUHpxNXnP--27lGL2d5CyzK-0H1vVdbZoA"
+      },
+      {
+        "id": "skin-80cb7aad6895",
+        "name": "AK-47 | Steel Delta",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1238",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiVI0POlPPNSM-SBAWmV_uJ_t-l9AXqyk0hy5GWEyduhdC2TPAEjDptzQbRf5EHrmoWyZu22sQLciokQyyzgznQesAEGx_A"
+      },
+      {
+        "id": "skin-05f333baf59c",
+        "name": "AWP | Black Nile",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1239",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf-jFk7uW-V7d5Mv-dC1icyOl-pK89Gyvhlhsit2-BwoyrICmWPQcmDpEkQOdeskOxwNKzN7vm4VeP2oMR02yg2Z2CmmVC"
+      },
+      {
+        "id": "skin-7c46ff3046d0",
+        "name": "MAG-7 | Copper Coated",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1245",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiVI0P-vb_NSJ_-cAmOvzedxuPUnHXDilhh1sGzQy4yscXPCbAcgXpNwE-UJuhjqkNW0Zrm05VDdjIoXyDK-0H3aMMdvcg"
+      },
+      {
+        "id": "skin-9967f102e7ca",
+        "name": "Glock-18 | Ramese's Reach",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1240",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-BD2qKxP1JvOhuRz39kUkk42TcztmuIHOVb1cpCcZ1EeBY5BLtkIDgNOqwtALXjI0Un3r4jDQJsHidobtL7w"
+      },
+      {
+        "id": "skin-0fbe9304a4d2",
+        "name": "Nova | Sobek's Bite",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1247",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwiVI0PyhfqVSM_-RC2yvzedxuPUnGX22wR9y5jvQz436IH_BPQ4nW8FwFuUDskO_lt3gMu_i71GNiNkWyjK-0H21VCFkHA"
+      },
+      {
+        "id": "skin-2c6b76cc25a1",
+        "name": "P90 | ScaraB Rush",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1250",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk_6v-V7duIeKSDFifx9FhufJtQCSMmRQguynLmYmrdCnGPAUkD5BxQuYC5hO8wdK0Y-_nsgbciNhMyn6v238cuy1jsPFCD_S-VwnSrw"
+      },
+      {
+        "id": "skin-3c42ea1dd98c",
+        "name": "FAMAS | Waters of Nephthys",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "1241",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1Y-s2oaalsM8-bAWuf_uF1teBncCW6khUz_W3WmYv_JSmSZgZ0WJRwEeRbtUS5kIKyZejmsQHciN5AxHj8intK6il1o7FV74niokA"
+      },
+      {
+        "id": "skin-d9c0a296a5e5",
+        "name": "P250 | Apep's Curse",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "1248",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSIeCWHlicyOl-pK87HCjkxR9ztj-Dzdv8di2TPFchDptyTbEIthTsl9znY77r5Qzc2YwR02yg2XoGglyv"
+      },
+      {
+        "id": "skin-bc3cce11bb11",
+        "name": "M4A4 | Eye of Horus",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "1255",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6afBSMvGsAm6Xyfo46eU5H3DnlxlytTyDwtr_JHmQZw4hC5R5RrRbtRO5xtCyZrzktgCI2ZUFk3sFC5kC3A"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Anubis Collection Package",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15EzlSA7OjYLv7ydL_f2jZ-o7daKQCzeWkugh4OcwHXjmwkh-4jzXw4uqJHiROARzX8AjFuUN5Ba8jJS5YMSRiKqp",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_set_anubis_storepromo",
+      "image_inventory": "econ/weapon_cases/crate_anubis_storepromo"
+    }
+  },
+  {
+    "id": "crate-4890",
+    "name": "Paris 2023 Legends Sticker Capsule",
+    "description": "This capsule contains a single Paris 2023 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4890",
+    "type": "Sticker Capsule",
     "first_sale_date": null,
     "rarity": {
       "id": "rarity_common",
@@ -13,1615 +728,1368 @@
     },
     "contains": [
       {
-        "id": "sticker-8719",
-        "name": "apEX | Austin 2025",
+        "id": "sticker-6608",
+        "name": "Fnatic | Paris 2023",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vj3RAW_zJC5_nsI6aP8OPQ0d6CSC2SRkO8v57U_TnDhxUxzt2nVmNmpJ33FbBhgVMWUNBPV6Q"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5E3kDxyozs-2r3RZ7qH7O_ZuJfTCXDfIwup3trc8HyjlxU4ism7Qzdf9dnyJLlh3Hg8gr9g"
       },
       {
-        "id": "sticker-8723",
-        "name": "ZywOo | Austin 2025",
+        "id": "sticker-6612",
+        "name": "Natus Vincere | Paris 2023",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UP-VhL-0MTh_nNY7aWtOfU4efHGV2XAx7Yn5-dtHS21whxz4GnWn9v_eCqQO1I-SswnuNJlORc"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j660_uD0mix8PmrXMKt_arPvRpdqTCVjPBkrghsbExSS_rx09_4WTWzI34JS-JLlh3RA3pEg4"
       },
       {
-        "id": "sticker-8727",
-        "name": "FlameZ | Austin 2025",
+        "id": "sticker-6616",
+        "name": "FURIA | Paris 2023",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1V_rQBD0hNjj-3cLv_erbaFrIajHDWbDkrcjtbQ_SS3hxUwl5GTVz9j8IijDPVN0FNIuElxPz6BT"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy_0vuDxipzZfmpHoMv_H2PaVvd6LHXjCSmbgl5uMwG3yyzBgksTjSmNiqdimJLlh3Rji5ims"
       },
       {
-        "id": "sticker-8731",
-        "name": "mezii | Austin 2025",
+        "id": "sticker-6620",
+        "name": "Vitality | Paris 2023",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTiWxT40JW1qXYI6ar3bqI6d_LACD7Gke8utbk9S3y2kE914GiGyN2tc33Baw4-Sswn1-uoBXI"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8ji403mD0r3zpOyqCcIu6GtMfxsdaKVCmTEkOwu4udsTHHnxx9_5zmEzI77IyqJLlh3wOZv9c8"
       },
       {
-        "id": "sticker-8735",
-        "name": "ropz | Austin 2025",
+        "id": "sticker-6624",
+        "name": "Heroic | Paris 2023",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UvoUQe_yMe3rnMPvvb6MaA5daHEXzHEmLcj4uBtF3iwkxhw4j_QytmrIi3DaxhgVMUJZnl0cA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j870voD073zsGw_noM7qD6PqJpeKnHXzKVxLwn5bA8THGykBtx4WrRm4v7dXyJLlh3GzDV1sA"
       },
       {
-        "id": "sticker-8739",
-        "name": "torzsi | Austin 2025",
+        "id": "sticker-6628",
+        "name": "Bad News Eagles | Paris 2023",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3oUwfil9jkrnFYt6v-PfQ_eabEWz7ImbZy4LI-GS3rxkt-sj7dnNn_dC-UbQB1FNIuEsLCu926"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25FypGEWhmsK2pCMJufT_PaY_dfHCD2LAxO9ysuVrSSziw0Qktm7Uwor8JWXXMFEMLtZu7w"
       },
       {
-        "id": "sticker-8743",
-        "name": "Jimpphat | Austin 2025",
+        "id": "sticker-6632",
+        "name": "Into The Breach | Paris 2023",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPuTA3hlpf0syRdvqT5P_JsJPPFWj-VxLYk6LVtHSyxxE91tT7UyI79In7DOlB0WcduBbldryktvX4"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j9_lupFB7zzcPkq3YD7ar_OfM-eaaWDT-Swrx0sbA6HHC1kBhw52XdmIn7dWXXMFGci_6WWQ"
       },
       {
-        "id": "sticker-8747",
-        "name": "Brollan | Austin 2025",
+        "id": "sticker-6636",
+        "name": "9INE | Paris 2023",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vv1ThH9n5iu_3YL7vH_avQ0I6LFXGTFlbZy4bE5HHq2lx9-5T6HzomgeSjCPwJ2CIwwG7AVnfA3Mw"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j671DpD03wm8Dk_HAKtvOtOvxudfTHDDTElOwksbZrHSqwxR8ksWvVztz4dH6JLlh39SjNTPk"
       },
       {
-        "id": "sticker-8751",
-        "name": "Spinx | Austin 2025",
+        "id": "sticker-6704",
+        "name": "BLAST.tv | Paris 2023",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Ur3SBPp0M65qXYN66T-PadvcaWSWTeWx-8lsrVsH3Dilk9y4m3Un4n_cXrGZwM-SswnlN6piBM"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzDxj1zcXhrXdZuvGrafQ8IqnDCjSRxbsvsbY4HizikRlw5T_dzd6vc3mJLlh3GW4i2nI"
       },
       {
-        "id": "sticker-8755",
-        "name": "xertioN | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UHiUwn4kZiu-3UDufCrMP06cfTHWDaTlL8j5ec9HHvqzBwltT_Qm9v9eCifOFIgD4wwG7ATqFQKGw"
-      },
-      {
-        "id": "sticker-8759",
-        "name": "chopper | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VrvTg3hm4SuqHoI7KT4OvY6JfORXDbJxOtw4LBqHiq2wkt34GjdmN6gJCmSbAEiWIwwG7CpElsB6w"
-      },
-      {
-        "id": "sticker-8763",
-        "name": "magixx | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmRhTphtjkpSZdv6H_MfBudaOWXz7BwrZytucxSSjmzUwi62vdzdj6cX6SOwJ1FNIuEicC7mSZ"
-      },
-      {
-        "id": "sticker-8767",
-        "name": "donk | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1V3oTxa_m5KyqXYN6_OoPP0-IqbAVz_DxL4m5LY6S3HjlBtzt2vWm934eS7COBhgVMVdA_y6rg"
-      },
-      {
-        "id": "sticker-8771",
-        "name": "sh1ro | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UrvEA_-0MGz_nda6aOrP_E_eKbBXT7JxO8n5uM9TXrmwh516mqGyYugdi7BblU-SswnN7vSils"
-      },
-      {
-        "id": "sticker-8775",
-        "name": "zont1x | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UPoTwmghti5_nVfuaatbKVuJqTLDWGUwOoi5edrSXu3wU0ksjjVzomuJX2RagJ2FNIuEgEQ0Trg"
-      },
-      {
-        "id": "sticker-8779",
-        "name": "bLitz | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VvrSAnr0JTirnJa66SqbaU_IaHLWGWVmb8l6Lk9HX3nwEx24DzVz46sIC2eOFQ-Sswn3smHoPc"
-      },
-      {
-        "id": "sticker-8783",
-        "name": "Techno4K | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3iQhX_kcLrs3YD66WsOvY1dfHKXT7Emegl4LgxF3_rlkpz4G7Qntf4dH7GagN2CZJuBbldUfXTKpg"
-      },
-      {
-        "id": "sticker-8787",
-        "name": "Senzu | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UriTwfk0M7lpSZdu_GoMPZvJvHCXzOTxLZytOQxGX3rl0QismrdnI2od3-RaVc-Sswn4L1aOAg"
-      },
-      {
-        "id": "sticker-8791",
-        "name": "910 | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1QC2EVP0x8-3riAJ7faqOaI4I6HFC2KUwLom4OA9Hi22xU9x5GrUzN_9dH-ecEZ-XRpSfGKD"
-      },
-      {
-        "id": "sticker-8795",
-        "name": "mzinho | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VT9SBP5kdjh_HMIvaSqPPM5cqbFWWXIkeom4rZsTnjnk0omsTvUzYmqeCqVbQFxFNIuEvHtOvsq"
-      },
-      {
-        "id": "sticker-8799",
-        "name": "MAJ3R | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmS07j0MOxqXBZvPCoOPI_d_bFWjXFmLxz6ec8H3CwkB4hsm_Ww42odXvEaQQ-SswnP4IlljA"
-      },
-      {
-        "id": "sticker-8803",
-        "name": "XANTARES | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UHmTwnwjJPzs3Zeu6b5MfdsePPCWzCWwuh357A-FnCxkR9yt2jQnNqucX-RPFJ1X5duBbld9ZMsoZI"
-      },
-      {
-        "id": "sticker-8807",
-        "name": "jottAAA | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPoVQnwn5euqSNY6aP3MfRrcKGVDWTBw7d047Y5GHvhzUsh52Tcytr4cH7DPFUpCIwwG7DXtl24QA"
-      },
-      {
-        "id": "sticker-8811",
-        "name": "Wicadia | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U7uQhz1l5euqiQCu_OsbqE7JvXEDGXCl79ytLBtTHDjk0hxsmWBntauJ3-fPVIhWIwwG7BMLZyFEg"
-      },
-      {
-        "id": "sticker-8815",
-        "name": "woxic | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U7oWRTy0JO2_HVav_b_PPw7cfWVWTHGkeh34rE4Fy2wl0t_5DvXm4r8IHvDbwM-Sswn8pp3Aj8"
-      },
-      {
-        "id": "sticker-8819",
-        "name": "w0nderful | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U63Txn0jJD18WwC6vP4PvxodKXAX2TElOx35bQxS3_llE5y4j7Xyoz4IHmSPFNyDpZxW6dU5b2eHm7B"
-      },
-      {
-        "id": "sticker-8823",
-        "name": "Aleksib | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VjrRBbil5Su-yELtvH5P_c5c6XAVmXFwrd34ecwSXG2kU1xtW_Wm42gIHmeaAUjWYwwG7AWhqqyJQ"
-      },
-      {
-        "id": "sticker-8827",
-        "name": "jL | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPrD0T0yMG1qCZe7qD_MKA9IvTKDzXGlL8m5rRtHnHklERytWyGzdb7I3-JLlh3MTH20hE"
-      },
-      {
-        "id": "sticker-8831",
-        "name": "b1t | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vu2VVOnysThrSBZ7vCvavI0JfPKWGXCmOgvs7RoGHywzEQk4Wjdw9b8eCnCcEZ-XR2HCrPi"
-      },
-      {
-        "id": "sticker-8835",
-        "name": "iM | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VDqD0yom8-1_CANvPf8bKJpdfXGDT7DxLsk5rM-TC3nkU1xsGiDztqpIC6JLlh3sQYv_9c"
-      },
-      {
-        "id": "sticker-8839",
-        "name": "Snax | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UrpQAW_x5ey-ScIt_avOvE-dKDKVmTAmb8g5rIwHS_kzBkl4G6BmNegJ3iQaxhgVMXTjFY5LQ"
-      },
-      {
-        "id": "sticker-8843",
-        "name": "huNter- | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHyTwn0jNizrXoIvfarO6BpePLCXjLJx-0j5LRrF3nhxhl24WmAyo74I36RbgQlFNIuEohvD9rO"
-      },
-      {
-        "id": "sticker-8847",
-        "name": "malbsMd | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmTR_ik5Ku-3cP66b7MfJuJaSRXzTBxLYitbRsHy23lk8l427XnI76JXyXbwVxD4wwG7CPHhiLuw"
-      },
-      {
-        "id": "sticker-8851",
-        "name": "Heavygod | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHiQAvomZnks3ddt6T_PqJsJqnFXGbFx-ggtuNoGniwlhh24WjXytf8cn3GawQiXMBuBbld9pjlCAA"
-      },
-      {
-        "id": "sticker-8855",
-        "name": "hades | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHmRRji0JXmrnUKvPH2Pfw5efaRDzSVwuwjtLk4TC23xk9_4mzVydqpJyqWaQU-SswnNN8kPuw"
-      },
-      {
-        "id": "sticker-8859",
-        "name": "Twistzz | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3wSA7lhIyu_iMKuPf5MfBsdvXHWGHIkLkmsrJrTXu1wh9xtm_RytyqIirDagVzDYwwG7CpOgiJcA"
-      },
-      {
-        "id": "sticker-8863",
-        "name": "ultimate | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UzrVRT8n4Lls3EDvqr8P_00efaSCjHJke1ysuM9H3q3kR52sW7VmY2sd3vFbAdyDZBuBbld63x_-rM"
-      },
-      {
-        "id": "sticker-8867",
-        "name": "NertZ | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VfiUwnr0JO2_npeufT3bPRpdaXECjXGkLxwsbdtGizrkRl34WiAyNuqJX2SbQc-SswnErqEfTQ"
-      },
-      {
-        "id": "sticker-8871",
-        "name": "siuhy | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UruVBXo0M-3-3pZ6vCta6I6dKeXWmXEk-oj4udtTX3glkgksWSDnNmoJ3iVawY-SswnuVjlpzk"
-      },
-      {
-        "id": "sticker-8875",
-        "name": "NAF | Austin 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VfmR1OjncSz_3MCuqb5aqU6dvbCDDeWw-1047ltHHmywkx_4D_dmdmsJXqRcEZ-XT6hIc2z"
-      },
-      {
-        "id": "sticker-8720",
-        "name": "apEX (Foil) | Austin 2025",
+        "id": "sticker-6609",
+        "name": "Fnatic (Glitter) | Paris 2023",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vj3RAXOmJnp8WwDu6X9OPI5d6fAVzPGkesn6bJqS3Dll00ltzjTztiscn-TPFB1ApMkW6dU5Ue0idLw"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5E3kfhr9l4L0-DAV6_P6PvBsc6XHDWPAlL1y6bQ5GCjnlh91tj-Gz4mscC3EagF1C5F1EPlK7EeVM6613g"
       },
       {
-        "id": "sticker-8724",
-        "name": "ZywOo (Foil) | Austin 2025",
+        "id": "sticker-6613",
+        "name": "Natus Vincere (Glitter) | Paris 2023",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UP-VhL-oZDv9C4V7vGrMfY7cqDEDDHDw7on4eU4F3nrxhx0t2TXytysdi2TOgQoCZN0QvlK7EcQv9N9hw"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j660_ufhr9l4L0-DAV66H5MKdrd6nEWGPExbog4bVqGXiwkUR-tWrVmd-gdiiVa1VyCsYlQvlK7EcULnl1yw"
       },
       {
-        "id": "sticker-8728",
-        "name": "FlameZ (Foil) | Austin 2025",
+        "id": "sticker-6617",
+        "name": "FURIA (Glitter) | Paris 2023",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1V_rQBD0hKnm8itXofH4bfxudKCQWGTGwOx3sblqHSrkxUV25zyGyNqhd3ySOFQnW5Z1R-8U8k7vf3vPZLQ"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy_0vufhr9l4L0-DAVvab7avc5cKXACmaSkex0trltHii2kx9y62rTwo77cHyePFUpWJR4QPlK7EeeWCd2uA"
       },
       {
-        "id": "sticker-8732",
-        "name": "mezii (Foil) | Austin 2025",
+        "id": "sticker-6621",
+        "name": "Vitality (Glitter) | Paris 2023",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTiWxT4oZDv9C4VuqT3MPc-eaTGVmOTletz4uUwHijklB8i4zyAmd6gIn6WaVcmApcmRflK7EdFXywM2Q"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8ji403mfhr9l4L0-DAVuPP-MaE0cPHHWmaVlLpws-M9Hi23wU8j4mXTydyuc3_BbwYjDpQjQvlK7Ec6G0x9uQ"
       },
       {
-        "id": "sticker-8736",
-        "name": "ropz (Foil) | Austin 2025",
+        "id": "sticker-6625",
+        "name": "Heroic (Glitter) | Paris 2023",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UvoUQfOmJnp8WwNuaP-MPw8d_GWW2WWmegi4LU8Si3gxxlytjvUwov_I36fPVQkDJpwW6dU5bdvqOd3"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j870vofhr9l4L0-DAVu6D2MfU-I_WWDDaSw7904-Q9SnDnkEwm6jvdz9uhIH3FaFAgCsZ0EPlK7EdmbhvPzA"
       },
       {
-        "id": "sticker-8740",
-        "name": "torzsi (Foil) | Austin 2025",
+        "id": "sticker-6629",
+        "name": "Bad News Eagles (Glitter) | Paris 2023",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3oUwfil6nm8itXofasMaI9dKGWWj-SxO13seQ9HyqwlEt05mrUnI6sInqeP1J1DMEhR-8U8k7vY-GCOHA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25FzYRhH4ioLl72xatvf5afxoI6GQCD_Dk7wjsrNsF3zrwkUm52mAz9_9JC_CO1IhCsElW6dU5SO6xNXq"
       },
       {
-        "id": "sticker-8744",
-        "name": "Jimpphat (Foil) | Austin 2025",
+        "id": "sticker-6633",
+        "name": "Into The Breach (Glitter) | Paris 2023",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPuTA3hlpf0wiRU5v7gPKI_eaTDCz7Fxbcv47Y-S3C1wE0ltmrdzt6vcHmWbAF2Apd2QrYK5g74zINILskImQ"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j9_lvYRhH4ioLl72wCu6WvavFoJvbFWGLJxO134LM6GXHrxUhztW3Qn92qcn6XaVNxD5t4W6dU5VlWmmjk"
       },
       {
-        "id": "sticker-8748",
-        "name": "Brollan (Foil) | Austin 2025",
+        "id": "sticker-6637",
+        "name": "9INE (Glitter) | Paris 2023",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vv1ThH9n5jf-y1S47z_a6A-caLFXjHIlLpy4ONoSXrll0Ui6zmEzIuoeH-TPQYjA5R3EOALrFDmxdgaWecb"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j671Dpfhr9l4L0-DAV66f-afRrcvTFV2HAl-0l5-A9Sii1xBh-5WWDydeoc3uUbFMlDcN4TPlK7Ecjx7N-gg"
       },
       {
-        "id": "sticker-8752",
-        "name": "Spinx (Foil) | Austin 2025",
+        "id": "sticker-6705",
+        "name": "BLAST.tv (Glitter) | Paris 2023",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Ur3SBPpoZDv9C4VvqCvbPU5cvPAXzGTmL4msbQ9GniwkUt1sGnRnNetJH6TbgB2XJQlQ_lK7EfY7UXGqg"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzfhr9l4L0-DAVv6b_a6A-JfTGVj7EmOogtLc7TSiyxBwl4TmByIuvd3yUP1RxA5AhE_lK7EeCuMbobA"
       },
       {
-        "id": "sticker-8756",
-        "name": "xertioN (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UHiUwn4kZjf-y1S47z9OqE1JvXBXjbClL8ksbE8TCi3kER15jjUw9qgdXrBZ1IiXpUjRrQJrFDmxdTtgqen"
-      },
-      {
-        "id": "sticker-8760",
-        "name": "chopper (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VrvTg3hm4Tf-y1S47ytavA7cKHKX2HIw-9w47ltGS-3xR514TiGmN78JXKXOwByWZR5QbICrFDmxUCb6p8D"
-      },
-      {
-        "id": "sticker-8764",
-        "name": "magixx (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmRhTphqnm8itXoaT5aqU4IqCSX2TGke9w6LM6GHzmlxgk6z_Uw9eodX3BOw90XsB4E-EU8k7vAR-rs4s"
-      },
-      {
-        "id": "sticker-8768",
-        "name": "donk (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1V3oTxbOmJnp8WxduKerOKdvJvaXXD6Uw-tw57VtHyyxkx4k5z7Vn4yhJCqVOFIhA8BxW6dU5VgP5DQ2"
-      },
-      {
-        "id": "sticker-8772",
-        "name": "sh1ro (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UrvEA_-oZDv9C4VtvT6PP07d_LBVzSUluwvsrlqGCi1wxt34myAn438eS2TOAMoDpBxEPlK7EfY5Ej6VA"
-      },
-      {
-        "id": "sticker-8776",
-        "name": "zont1x (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UPoTwmghqnm8itXoav5Oqc9eKXFCDWVmbt35LVqFyzrw0kj42vcyNmrc3iRaAAlDpZyQbQU8k7v1rC6mto"
-      },
-      {
-        "id": "sticker-8780",
-        "name": "bLitz (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VvrSAnroZDv9C4V7KT5a_Q4IaWQVzPBlOp1teBvHnyyxhwk6jmDyouvJ3-WbFd1CMclEflK7EfMheYsWg"
-      },
-      {
-        "id": "sticker-8784",
-        "name": "Techno4K (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3iQhX_kcLrwiRU5v7gOaA7c6bFD2PIkrt15eVtGSvrwE504z_Xnon4ICjEO1MlW8NwRLRb4Q74zIOGmrAQ5A"
-      },
-      {
-        "id": "sticker-8788",
-        "name": "Senzu (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UriTwfkoZDv9C4V6fOvOPNvcPTBDTfJw7p1trVoSSy2kE515WyAnN-ueX2faFAiXJVzEPlK7EeDbg7JBw"
-      },
-      {
-        "id": "sticker-8792",
-        "name": "910 (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1QC2ESL3kZ_ss3cDuff5PaBud_XLCDPJkLh357M_SXG1kR5y42zdm9mod3OUOAUkD8RuBbldQq1GeN0"
-      },
-      {
-        "id": "sticker-8796",
-        "name": "mzinho (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VT9SBP5kanm8itXofCtOvI0dPOXDTfBmO0m5rFoH3yykE1y5W3RmYuueH2SbVMnCcAlQe8U8k7vqRgOrVA"
-      },
-      {
-        "id": "sticker-8800",
-        "name": "MAJ3R (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmS07joZDv9C4V6_b4OaJseKbKDDDJlL1ytbgwHXjrlB4h4jzSm9qhJX-fa1IoXppwFPlK7Ee0BsrHkg"
-      },
-      {
-        "id": "sticker-8804",
-        "name": "XANTARES (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UHmTwnwjJPzwiRU5v7gaf0-eKLFD2TAketysrQ8Gnviw01_sjzcyNv8ci3DPAAoXpAjEOBYuw74zIM4zrAtCw"
-      },
-      {
-        "id": "sticker-8808",
-        "name": "jottAAA (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPoVQnwn5ff-y1S47z8avY5eaPCWDDClrcgseVtFn3iwxwi5m6Az4uqJHuWPQ91CJN2RrMOrFDmxVHVBL22"
-      },
-      {
-        "id": "sticker-8812",
-        "name": "Wicadia (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U7uQhz1l5ff-y1S47yqOPM5dqCWWTDClOsnsrI-Si2wlE4isTnSyI2oeCnDbwN1DZYlTbNbrFDmxTKNPIZP"
-      },
-      {
-        "id": "sticker-8816",
-        "name": "woxic (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U7oWRTyoZDv9C4V6fP4PKc8d6DAXDWSlbwmsbU8Syi3wUUi6mTUyYmhdiqUP1cmD5J0EPlK7Ed7QXoRIg"
-      },
-      {
-        "id": "sticker-8820",
-        "name": "w0nderful (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U63Txn0jJD18R1d4PuiJqdoJKCSXTCTmb4vs7NtG3nllxghsGqEzNahJHzEPAJ2CZslTOcNsUam0oqwic3PjeI"
-      },
-      {
-        "id": "sticker-8824",
-        "name": "Aleksib (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VjrRBbil5Tf-y1S47ysOKc6eaPKWjaUxLwh4eBvF3_hwBkmsT6GyYz9cHzDPQZ2CcAjQ7MLrFDmxQDRQ2WI"
-      },
-      {
-        "id": "sticker-8828",
-        "name": "jL (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPrfhv-l5qu-SQCu_D4MPE5eKPCXmTEmeol6eU7TX7lk0hwtTmDztz4IC_GbFN2XIwwG7DJ32IY2g"
-      },
-      {
-        "id": "sticker-8832",
-        "name": "b1t (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vu2VSL3kZ_ss3AM7qf7O_doJaPFX2OVxb5y5-U-F3mylx8l4jiEy4z4d3KXbVB1DpBuBbldF_sRbT4"
-      },
-      {
-        "id": "sticker-8836",
-        "name": "iM (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VDqfhv-l5quqXEI66L7OvZpePHGCzSVxOgi4uNqGyyxwkxxtTjVwtn6cC3Fb1R1D4wwG7AEXczesg"
-      },
-      {
-        "id": "sticker-8840",
-        "name": "Snax (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UrpQAXOmJnp8WxfvfStPfRuJqDGXWLCwLd0s-JsGyzmk08isW2Hz474c32VagMjX5d0W6dU5WDrtraA"
-      },
-      {
-        "id": "sticker-8844",
-        "name": "huNter- (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHyTwn0jKnm8itXoaarafM4eabLWjHImLd357I7TH3lwRki62XWytepJH6SPFUjCpUjFOAU8k7vLgkTCQo"
-      },
-      {
-        "id": "sticker-8848",
-        "name": "malbsMd (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmTR_ik5Lf-y1S47z_OKU-dfTHX2HCkbl04LZqH37qxBl-4WnXytyvcHqWawYlApUkTbMCrFDmxSwHrFLh"
-      },
-      {
-        "id": "sticker-8852",
-        "name": "Heavygod (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHiQAvomZnkwiRU5v7gOvY5JKnLXjWTk70u5-I7Snm3w0ki4G3Tw4mrIHqQPQckX5VyTbYOug74zIPHKdeWtw"
-      },
-      {
-        "id": "sticker-8856",
-        "name": "hades (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHmRRjioZDv9C4VuPT4OfM_cKiVWDeVxe10srM_Fnm2wh9ztm-GnN2pcirCPQEiX8dzTflK7EfZp9qaAw"
-      },
-      {
-        "id": "sticker-8860",
-        "name": "Twistzz (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3wSA7lhIzf-y1S47z-bKFpdvGSWGOTwuwks7k7TXG1lkwi4WvWzdaqdXqTbVQmCZF3QuMDrFDmxaTyyxic"
-      },
-      {
-        "id": "sticker-8864",
-        "name": "ultimate (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UzrVRT8n4LlwiRU5v7gPfdrd6CWXGXJw70ns7A9S37jlE0lsWvXntapd3mfZlAlDMdwTbFZsg74zIMkmlzycQ"
-      },
-      {
-        "id": "sticker-8868",
-        "name": "NertZ (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VfiUwnroZDv9C4Vtqv9avRpIqaSVjDBx7onsrU4Fyu2kB9xsG6Ayt-udS6QOlQoAsEiQPlK7EdQdgEtUg"
-      },
-      {
-        "id": "sticker-8872",
-        "name": "siuhy (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UruVBXooZDv9C4Vu_GqOKY0dKHEXWXJk7Z05eNsG3jkwk125zzSmdqgdCrDO1UjCZMhR_lK7Efdib9vuw"
-      },
-      {
-        "id": "sticker-8876",
-        "name": "NAF (Foil) | Austin 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VfmRyL3kZ_ssyYDvPf9bqc-dPaXVmPEx-8g6Lg-GHq1lkxytTiEn9yrIH_GaAUgCZJuBbldnzbLMHA"
-      },
-      {
-        "id": "sticker-8721",
-        "name": "apEX (Holo) | Austin 2025",
+        "id": "sticker-6610",
+        "name": "Fnatic (Holo) | Paris 2023",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vj3RAXOlpns8mxZvaD-a_Rrd6LBDWGUw-onsrU5Tn7hx04htT-BnourdHrEaQVyCpJ1W6dU5ZatUuF4"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5E3kfhX-kpmupHAOt6SvbaBocKXDV2bFk-0gsrIxHi_rlk5w5z_Ww9uhdiqWalMhCIwwG7AaVbv4pQ"
       },
       {
-        "id": "sticker-8725",
-        "name": "ZywOo (Holo) | Austin 2025",
+        "id": "sticker-6614",
+        "name": "Natus Vincere (Holo) | Paris 2023",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UP-VhL-oZ7v8S0Vvqv8bPc_I6LBXjSWkrhy6LE-H3Cylxkm4mTTw4ugIi_BPQ8gDMFxQ_lK7Ec9_fJfAA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j660_ufhX-kpmuqCRZ7qX-O6I6caPDDGaRxbYl4bY5Tn-yk0UmtznWmI39c3iTZw4gXIwwG7Bv-D88MA"
       },
       {
-        "id": "sticker-8729",
-        "name": "FlameZ (Holo) | Austin 2025",
+        "id": "sticker-6618",
+        "name": "FURIA (Holo) | Paris 2023",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1V_rQBD0hKno8i5UoaGtbPVsdvWQDDXBwrYjs7g4Sn_lxUsl6zyGmdf_ci-VagVzCpcmEbQU8k7vucOtCtQ"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy_0vufhX-kpmuqHAL7ab2bqA9JfXGWGKSl-sn5bk_TnDjwhl-5W6Hyoyoc3nDO1AnC4wwG7CgRbYRkA"
       },
       {
-        "id": "sticker-8733",
-        "name": "mezii (Holo) | Austin 2025",
+        "id": "sticker-6622",
+        "name": "Vitality (Holo) | Paris 2023",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTiWxT4oZ7v8S0V6qSoPfxvcqTHVz6Ulbd15uUxF3DiwU5z42jRnouoc33GPwV1XJdxFPlK7EfWkduSdg"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8ji403mfhX-kpmuqnUKv_aoMaFocfTGXjeSxOwi6LlsTi2ywR4ksTyHyYyuc3OTZ1cpC4wwG7DqvnpuVg"
       },
       {
-        "id": "sticker-8737",
-        "name": "ropz (Holo) | Austin 2025",
+        "id": "sticker-6626",
+        "name": "Heroic (Holo) | Paris 2023",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UvoUQfOlpns8mxf6aOsPvVocKTLXzTFkr0gsbk6F3qyw0t15znTz92scS2SaQZ0CMAlW6dU5Sg4-hDa"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j870vofhX-kpmurnIMvfH7PPw9JPTLWDSVwrok6LFoFyuxxU8l6m2BzN-rJC7GZlAgW4wwG7CBEWot4A"
       },
       {
-        "id": "sticker-8741",
-        "name": "torzsi (Holo) | Austin 2025",
+        "id": "sticker-6630",
+        "name": "Bad News Eagles (Holo) | Paris 2023",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3oUwfil6no8i5UofP2bfJrIvXCWzfAx7pw5LQ7FnG2xRsi5T6Gz9upInOWbAciXsdxQOYU8k7vWoy0ioI"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25FzYSRL9kdiwpCMOuvT9O_1ucqmWXDSWwrgi47Q5S33hzElx6mjTmdv6dSjFaw8oFNIuEv6mu_2-"
       },
       {
-        "id": "sticker-8745",
-        "name": "Jimpphat (Holo) | Austin 2025",
+        "id": "sticker-6634",
+        "name": "Into The Breach (Holo) | Paris 2023",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPuTA3hlpf0wipU4_3gMaFvcqPFWzDEwLgn5eA9Gijjwx9ztj-GzdysdXvEb1clXJRwTOEC5w74zIPt7Op1VA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j9_lvYSRL9kdjjq3ZZt6v6aaI6JKHGWGHCwLp04LM4S33lwkx35DmGyNmpc3vBPw4gFNIuErSjWcKe"
       },
       {
-        "id": "sticker-8749",
-        "name": "Brollan (Holo) | Austin 2025",
+        "id": "sticker-6638",
+        "name": "9INE (Holo) | Paris 2023",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vv1ThH9n5jf9S1X4LyobKI_dPXFXDPHxbohtrc6Snjix01z5z7XzNf6I36eawByXsBwQOdYrFDmxU_9CcBr"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j671DpfhX-kpmupHIJv_P5MaI-cajECDbFlusls-M-HXHgkRx34j6EzNqteCrCZlAgC4wwG7DzLM69YA"
       },
       {
-        "id": "sticker-8753",
-        "name": "Spinx (Holo) | Austin 2025",
+        "id": "sticker-6706",
+        "name": "BLAST.tv (Holo) | Paris 2023",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Ur3SBPpoZ7v8S0VvaL3bKE4dPGVWGHEw71w5rBoTnu1xkly6j_cmNb6JS_BOwNzXpZyQvlK7EeYMj0ArA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzfhX-kpmuq3Za6vD4PKY9d6XEDDOUlLYv6LdsS33klE5_sm_Rz42vI36XbQF0CIwwG7CcwkMjlA"
       },
       {
-        "id": "sticker-8757",
-        "name": "xertioN (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UHiUwn4kZjf9S1X4Lz3PvQ0caiSWmSTlOtw5bg9GyrkwUR05m7TzNqvcy7BalMoXMZ1F-dbrFDmxYVo_ABP"
-      },
-      {
-        "id": "sticker-8761",
-        "name": "chopper (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VrvTg3hm4Tf9S1X4Lz2OKA7c6jCWWSWxb1y6LM-Syzil0lwtzyHydf7JHOVblUhW8YkTONYrFDmxbKXGYl1"
-      },
-      {
-        "id": "sticker-8765",
-        "name": "magixx (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmRhTphqno8i5Uoaf3bKJod_XCXWTGwLsg4rc8Gi3klht_5GmBwtquJC2QbwFxA5F4F7IU8k7v7CmyAN8"
-      },
-      {
-        "id": "sticker-8769",
-        "name": "donk (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1V3oTxbOlpns8mwLuqT2OKU1caOXWTbEwr0l4rU9S33rkxgl42zdnNv7cS7EblAoXpYlW6dU5bKl1ee1"
-      },
-      {
-        "id": "sticker-8773",
-        "name": "sh1ro (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UrvEA_-oZ7v8S0VuKqsPPY8dvHKW2PDl7ojtrE9GX7nwEV0tjnUyturIirCPwVzC5FzFPlK7EfwAJgptQ"
-      },
-      {
-        "id": "sticker-8777",
-        "name": "zont1x (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UPoTwmghqno8i5Uoar-aqU5IqDBXWHCx7l0trY8F3_gwEV2sm-Byd-vdC2fbwd1CZUlTLEU8k7vmDWLhAc"
-      },
-      {
-        "id": "sticker-8781",
-        "name": "bLitz (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VvrSAnroZ7v8S0VvPD6bvw7eKXKXTTCl7x0tuI-SSvhzR50sWqHzomhdiqWPAciCZtzE_lK7Ectizlukw"
-      },
-      {
-        "id": "sticker-8785",
-        "name": "Techno4K (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3iQhX_kcLrwipU4_3gP_06cqTKD2KVkbd34eU6Ti3kkUwj5m7dnNz_dH3DbAV0W5p4QbEM5A74zIO664RdsQ"
-      },
-      {
-        "id": "sticker-8789",
-        "name": "Senzu (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UriTwfkoZ7v8S0VuqWsbvBvc6HGXGbAkrwv4uIwTH6ywUtxsD7Swo6qIHyQawEpWZB5E_lK7EeyKepFAA"
-      },
-      {
-        "id": "sticker-8793",
-        "name": "910 (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1QC2ESL5kZrvs3sC6qOtbPQ_cKPBXmXFx78l47g6HHHqzEom4miBzY2qInOTbg8pCcduBbldMdX2hOg"
-      },
-      {
-        "id": "sticker-8797",
-        "name": "mzinho (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VT9SBP5kano8i5UofeoOKU9JPWSCDHIleom6bdvS3uyxEx35mzUmN-gdHyTa1BxDcdzFOAU8k7vAUJwTJA"
-      },
-      {
-        "id": "sticker-8801",
-        "name": "MAJ3R (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmS07joZ7v8S0Vvvf9O6E1I6XGWzOUmbgk4LE8GCjjzBx35GSGzdr8cSrCaQ8mCptzFvlK7EcKa9142w"
-      },
-      {
-        "id": "sticker-8805",
-        "name": "XANTARES (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UHmTwnwjJPzwipU4_3ga_1pJaDKVmXHkL0lsrY8H3uyxEp06j_cm434ci-TagF1DpomQOYMtQ74zIOIOY787w"
-      },
-      {
-        "id": "sticker-8809",
-        "name": "jottAAA (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPoVQnwn5ff9S1X4Lz3OKU0cKPLWDLEwrog4rBsGHuwwUV_5GnWm9qucHnCZgdyCMNyFrYMrFDmxUd2cHT9"
-      },
-      {
-        "id": "sticker-8813",
-        "name": "Wicadia (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U7uQhz1l5ff9S1X4Lyrbvc9IaaRVzCVwr934bUwTCrrlkR0tTjXntygdyqWagMnDJt2ELIOrFDmxYh7HeLl"
-      },
-      {
-        "id": "sticker-8817",
-        "name": "woxic (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U7oWRTyoZ7v8S0VvKD9OaBpJqbDDD7Bkrok6ec6GXvlzBt-6zvWnouucCnBagF0C8N2RflK7Ef3awikUg"
-      },
-      {
-        "id": "sticker-8821",
-        "name": "w0nderful (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U63Txn0jJD18R1T4P6hJvA1dKKRVmXGx-9z4bE4TX3lwhkm4m-Emd-seC6SbVdzAsciF-AOsEKm0oqwLGUPjpI"
-      },
-      {
-        "id": "sticker-8825",
-        "name": "Aleksib (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VjrRBbil5Tf9S1X4LyobPA8caWWCzSSkbsh6eM-G3qxwBkktjuDy9yvcy-fPAcgCsMiFLMJrFDmxdh5hdqR"
-      },
-      {
-        "id": "sticker-8829",
-        "name": "jL (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPrfhX-kpmurHMPtqKtMKA6d_TKDTKTkO0i6LU_Hny3zR5_5jvcnNqrI3PGPFR1A4wwG7D6VUbzNw"
-      },
-      {
-        "id": "sticker-8833",
-        "name": "b1t (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vu2VSL5kZrvsyRdv6qtP_U_dafDDDfHkesns-c8SXrilEgmtjmEy42tcS7DZwMiCZtuBblda3yv6Ec"
-      },
-      {
-        "id": "sticker-8837",
-        "name": "iM (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VDqfhX-kpmupHNYu_D2P6I6JfTFVjfDle93trVqGyzlxEkl6m3Rzo2gJymTPAAkAowwG7A3GeTiKg"
-      },
-      {
-        "id": "sticker-8841",
-        "name": "Snax (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UrpQAXOlpns8mwPv6X4PKE4JKbKV2SUmO0n5edvTCjjxkt2sW7Szd-sciiQbFd1CMZxW6dU5SscFmBs"
-      },
-      {
-        "id": "sticker-8845",
-        "name": "huNter- (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHyTwn0jKno8i5Uoff9bvY9JKHDCGXEwrgi4OAxSXDkkU4h5jvTztv8cy_DagIgCpomTLYU8k7vS4cp_Aw"
-      },
-      {
-        "id": "sticker-8849",
-        "name": "malbsMd (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmTR_ik5Lf9S1X4Lz_afQ6eaOWC2aUkOgn47NrH3zmkUwm6myHmNn4dyqRPQAhC5N0R-QNrFDmxcRaToNi"
-      },
-      {
-        "id": "sticker-8853",
-        "name": "Heavygod (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHiQAvomZnkwipU4_3gOvc5dPPEXzPHme8g6bBqHyu3wk8ktmvcyt_8J3LBZwMpXMciEO4Ntg74zIPfKXrDaQ"
-      },
-      {
-        "id": "sticker-8857",
-        "name": "hades (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHmRRjioZ7v8S0VtqOsa_Y1d_GRV2PGkLYv5bNrGH21xkgk4WmHn9v7I37EPVRzApQiF_lK7EcHDvJw5A"
-      },
-      {
-        "id": "sticker-8861",
-        "name": "Twistzz (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3wSA7lhIzf9S1X4Lz2O_Q4d6fAWzXDwLoj4-RvGH3hl04ksmvXytasd3KUbFd2WZNxEbFYrFDmxQKBMoN3"
-      },
-      {
-        "id": "sticker-8865",
-        "name": "ultimate (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UzrVRT8n4LlwipU4_3gPPA8efaRXjHAl-wj5rdoSiq3lB4h5T6AyNegcHLCOwR0XMF2FuQM4w74zIPO33oZ0A"
-      },
-      {
-        "id": "sticker-8869",
-        "name": "NertZ (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VfiUwnroZ7v8S0V7Pb7aaJpcKSVXWbBx7wm5bg7TSrjwRh-622Bytb9JXvBbQUgX5V5QPlK7EfoI58mMg"
-      },
-      {
-        "id": "sticker-8873",
-        "name": "siuhy (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UruVBXooZ7v8S0Vu_GvbKc4cqOQCGTCl-0j5bU_Hi23lElwsT7TztmpdSmTaFcjCsFxTflK7Ee5Nvjk9g"
-      },
-      {
-        "id": "sticker-8877",
-        "name": "NAF (Holo) | Austin 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VfmRyL5kZrvsyMP66v4P_ZoIaSWX2PJx-ggtLA9S361wBhw4m2AzY6scXyePQQpX5FuBbld-vm8F-8"
-      },
-      {
-        "id": "sticker-8722",
-        "name": "apEX (Gold) | Austin 2025",
+        "id": "sticker-6611",
+        "name": "Fnatic (Gold) | Paris 2023",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vj3RAXOmZns-WwLvKP4MPY4JvXFDDHAlu8m47I5GSiwkUlxtmvXz9erJXnGZlAmXpYmW6dU5WURjI5S"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5E3kfhr-kpKu_nsNv6v3P_06JqLHXmLJkbhy5rU5GCjjkU0i42jSzNf7cXjFbQ90DIwwG7BgT81q0w"
       },
       {
-        "id": "sticker-8726",
-        "name": "ZywOo (Gold) | Austin 2025",
+        "id": "sticker-6615",
+        "name": "Natus Vincere (Gold) | Paris 2023",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UP-VhL-oZHv8SYV6vH9MPdocajEWTHHlLYltuI8TC3rxBx0tWrTz43_dS2WZ1AgX5ZzFPlK7EfD7aYsfw"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j660_ufhr-kpKuqHULuqX-O6E1cPHFXDTBkr8u4LY8HH3ixkRw6znSy46tcH2XaQRzCIwwG7CfM7aaNQ"
       },
       {
-        "id": "sticker-8730",
-        "name": "FlameZ (Gold) | Austin 2025",
+        "id": "sticker-6619",
+        "name": "FURIA (Gold) | Paris 2023",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1V_rQBD0hKnn8i5foaatO6JoeKPBVjSWxOgltuc_HSq3kRx-sDjTwtmoInuUagF2WJVyFLIU8k7vIMLRvAM"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy_0vufhr-kpKur3sOuqb4OfE-I6LFCjXGxe11teBtSXzgwBhy5mvcyNb8JS_BZlcnWYwwG7BpSjrqZQ"
       },
       {
-        "id": "sticker-8734",
-        "name": "mezii (Gold) | Austin 2025",
+        "id": "sticker-6623",
+        "name": "Vitality (Gold) | Paris 2023",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTiWxT4oZHv8SYVtvH4bfU0eKLHC2bEl7khtbg9GX7hlEsh4W_Xm4z7dn2UZgMnAsEhRPlK7EdDlJYiSA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8ji403mfhr-kpKu_ndZ7KD9MaA1JvPDWDHEwLZy4bUwG33hxUx1t2zQmdigcHuRaQUmWIwwG7C7RK62wg"
       },
       {
-        "id": "sticker-8738",
-        "name": "ropz (Gold) | Austin 2025",
+        "id": "sticker-6627",
+        "name": "Heroic (Gold) | Paris 2023",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UvoUQfOmZns-WwMuvStPvw0JvWRVzTCkehzsrdrGnvqwxtw5W3Xy477In-WZgUiAppwW6dU5Tr9ejOl"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j870vofhr-kpKur3RZ7fH3a_RpeKHHCmaRmewksbk9HH3lwh90tW6Em9j_dXOTbVIlD4wwG7BO6C0X7A"
       },
       {
-        "id": "sticker-8742",
-        "name": "torzsi (Gold) | Austin 2025",
+        "id": "sticker-6631",
+        "name": "Bad News Eagles (Gold) | Paris 2023",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3oUwfil6nn8i5foaf4bKBsefTFDGbJxL4l5eI4SnDlxBwi4W7TydiqI3_BOg4hCZJyTbQU8k7vZBqaCpU"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25FzYRhL9mtizqSEJu6OsOPBpJPORVmaTkLtysbk9SX3gzBkl5GuEnNaudHuVaAMgFNIuEksBaL00"
       },
       {
-        "id": "sticker-8746",
-        "name": "Jimpphat (Gold) | Austin 2025",
+        "id": "sticker-6635",
+        "name": "Into The Breach (Gold) | Paris 2023",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPuTA3hlpf0wiVU4_bgMPM8efbHCDLBmbol47lrG3C3kx5z4GqDydr_I36UbVJ2A5skTOICtw74zINxHr0NZg"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j9_lvYRhL9mtjl_yEI6aOvPfU-JafBVjPDl7ojteA7SX3qwxl1tj7TwtuhI3nGaA8gFNIuEnb7sSbN"
       },
       {
-        "id": "sticker-8750",
-        "name": "Brollan (Gold) | Austin 2025",
+        "id": "sticker-6639",
+        "name": "9INE (Gold) | Paris 2023",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vv1ThH9n5jf-i1X67z6afY7I_bHCmXGmb9357VtTnnrwkR14mXVyYypc3qUbQ8mDMF2F7YLrFDmxUTrtLf-"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j671Dpfhr-kpKuqHZdu6r8O6A9c_OVC2LHkO8h4rM_Syuxl0R_42zRzo6sdymVOwMjC4wwG7AbEutkZQ"
       },
       {
-        "id": "sticker-8754",
-        "name": "Spinx (Gold) | Austin 2025",
+        "id": "sticker-6707",
+        "name": "BLAST.tv (Gold) | Paris 2023",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Ur3SBPpoZHv8SYVuaf6aqU1efSVCGXFlOh357Y-GH2xkUQhtW_czNj9JC6eaAQnDsBxFvlK7EfWV0M6cA"
-      },
-      {
-        "id": "sticker-8758",
-        "name": "xertioN (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UHiUwn4kZjf-i1X67z-PKc-cqaSCzHCk-on4LM9F3vklBtw5mWAztb9cXOebQ92C8clRrECrFDmxbhMDyk_"
-      },
-      {
-        "id": "sticker-8762",
-        "name": "chopper (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VrvTg3hm4Tf-i1X67z9bPc6ePSXC2KUl7gn5-U_HH-wkR5-5GmHyoygdnvFZgB1W5d1RbIOrFDmxR2nL_cG"
-      },
-      {
-        "id": "sticker-8766",
-        "name": "magixx (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmRhTphqnn8i5foaP5aaJsJKfKV2HEw7si5bU9Hyzrw00l4W_UmIz_dn6XaVB2X5JzQLEU8k7v4ietwrQ"
-      },
-      {
-        "id": "sticker-8770",
-        "name": "donk (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1V3oTxbOmZns-Wxet_b7bKBrdKDCXGbFxLci5eMxHy3llEx1sWjTy4v8dHiSaVApDJp4W6dU5XcbpBFE"
-      },
-      {
-        "id": "sticker-8774",
-        "name": "sh1ro (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UrvEA_-oZHv8SYV6av6aaFvcqXLWmOUkuhy5OUxS3vhzUty4m2GzdmqIHPFPQUoDJR2FvlK7EdXPwNHsw"
-      },
-      {
-        "id": "sticker-8778",
-        "name": "zont1x (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UPoTwmghqnn8i5fofH_Pfc1c6fKWD_Jkbol4-c8HSqwkx534GuDy4z7I3iUaFJ2XsR2F-MU8k7v0RQbBcs"
-      },
-      {
-        "id": "sticker-8782",
-        "name": "bLitz (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VvrSAnroZHv8SYV7av3P6Vsd6PDWzTAlLp0tOBtGS_hkE52sWrczYyheS2TawUlD8AlR_lK7Ec2fbfHtg"
-      },
-      {
-        "id": "sticker-8786",
-        "name": "Techno4K (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3iQhX_kcLrwiVU4_bgOvNveKTCXjXDw-8n6LNqTXuylxlz5T_Wy4mvdnmVOFAgWcB1QrZY5w74zINFkKbiXA"
-      },
-      {
-        "id": "sticker-8790",
-        "name": "Senzu (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UriTwfkoZHv8SYV6_eoO_1uJqnCWjfBw7ou5rRrTXvrkx515juAm42rd3jDOAJ2DZciQvlK7EcJekENpw"
-      },
-      {
-        "id": "sticker-8794",
-        "name": "910 (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1QC2ESL2kZrksyRdv6P5MfVsd_THC2GSkLx35uJqSnm3xUp342WBwtn8JHyQbgcgWMRuBbld8x9NFHs"
-      },
-      {
-        "id": "sticker-8798",
-        "name": "mzinho (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VT9SBP5kann8i5foaeqMKJvcfLBDTDBlr9y5-JqSnnkwUl1sGnWntz9J3KWOA4nDpV5QrUU8k7vYJgWGII"
-      },
-      {
-        "id": "sticker-8802",
-        "name": "MAJ3R (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmS07joZHv8SYV6fH2bKc-JvXBDTDFlOx1suU4HH3ilkp_422Bw9f4JXyTbwMmCsQkE_lK7Ec9rCnMMw"
-      },
-      {
-        "id": "sticker-8806",
-        "name": "XANTARES (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UHmTwnwjJPzwiVU4_bgPac1cKfDWjTHlbx35bA_TH-3wU904WmDwoz9cXKXaQFzD5F0Fu4N5w74zINKkREfNg"
-      },
-      {
-        "id": "sticker-8810",
-        "name": "jottAAA (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPoVQnwn5ff-i1X67z9aqc4eaLBXzfBme8u4rA7TC_nwB5w6jjVzN-ud3uRawUgDJt3R-YJrFDmxSXCBcTe"
-      },
-      {
-        "id": "sticker-8814",
-        "name": "Wicadia (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U7uQhz1l5ff-i1X67z5bPA_I6TFXmaVl-ov5-M_GX6xl0Um5D_Sy92reXnBbgUkXJUhR-VerFDmxfkByJk1"
-      },
-      {
-        "id": "sticker-8818",
-        "name": "woxic (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U7oWRTyoZHv8SYV66v6PKJuIqDGDGaWkLtw4eI4GXG1w0lztWjSntuqcC7CbQF0A5UmRPlK7EfTbpK2SQ"
-      },
-      {
-        "id": "sticker-8822",
-        "name": "w0nderful (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U63Txn0jJD18R1c4P6qJqZpdaGRXWWRwL0hsbQ-H3GylE0msGiHm9_8Iy3CalAgApV5RLUCtBim0oqwWWxa8XA"
-      },
-      {
-        "id": "sticker-8826",
-        "name": "Aleksib (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VjrRBbil5Tf-i1X67yqMPw0c6ORWGbCwrZy6bA5HX62xEUl5GzQyo6gJHLEb1BzX5sjFuALrFDmxXsb_BCT"
-      },
-      {
-        "id": "sticker-8830",
-        "name": "jL (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VPrfhr-kpKurXoP66b6PKZrdKmWX2LDwOggs-M-Si_qkEol523SwturcXyQawUhXowwG7CbUcwbJQ"
-      },
-      {
-        "id": "sticker-8834",
-        "name": "b1t (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1Vu2VSL2kZrks3QDtqCtbvw_JKDDDGaRlbly4OBoGSrjzB4i527Vm4r_IHKeaFIgC8NuBblddNxUDv4"
-      },
-      {
-        "id": "sticker-8838",
-        "name": "iM (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VDqfhr-kpKuqyYK7Kb2PvZvJqOWXmSTxb4k4eM9Sn_mlxshsGXSmY6gd3-WbVcpAowwG7BZZts8gA"
-      },
-      {
-        "id": "sticker-8842",
-        "name": "Snax (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UrpQAXOmZns-WwOt6WsPPNuefaQWjSTxbl04bc6G3vlwEol5T7Tz4qtdi-ROlJ1WMNyW6dU5ZMVQBvO"
-      },
-      {
-        "id": "sticker-8846",
-        "name": "huNter- (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHyTwn0jKnn8i5foaP_PPE6dqDFXWLFxLsv4-RoGSzqzEt04miEzNmgInqTPQ4gCpVwQeEU8k7vKhhtpus"
-      },
-      {
-        "id": "sticker-8850",
-        "name": "malbsMd (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VTmTR_ik5Lf-i1X67z4OvM0JvPEDTCTkbci5eM9GC22xR8m5j_Uyt6hdC_FPQ4oDpAjTbIDrFDmxRV3YjQF"
-      },
-      {
-        "id": "sticker-8854",
-        "name": "Heavygod (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHiQAvomZnkwiVU4_bgO_ZuefaRCzGWlbsu5eQ9HirmxRlxtm6An9_6cC-ROFdyWZZxFOJbtw74zIO8nT6mvA"
-      },
-      {
-        "id": "sticker-8858",
-        "name": "hades (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VHmRRjioZHv8SYVv6X7MPxvcqjBXGbHwu91sbZoTHuyxkUk6j-BzditeXmQPwYiDZMlFvlK7EeIzfFhtA"
-      },
-      {
-        "id": "sticker-8862",
-        "name": "Twistzz (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1U3wSA7lhIzf-i1X67ysOPA4cKXBXzWSl-11suM7TnDmkEx-5jyGmd_7ICiUbAAnA5N2QuNfrFDmxV3UQ4gK"
-      },
-      {
-        "id": "sticker-8866",
-        "name": "ultimate (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UzrVRT8n4LlwiVU4_bgbvU8cKjDVjPHkbZ3teM-HHqwxh5zsDmByYr6IHKQOgQjDJdzFOEO4Q74zIOmmaTbKg"
-      },
-      {
-        "id": "sticker-8870",
-        "name": "NertZ (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VfiUwnroZHv8SYVuvD-baY0JKPEW2LIx753srUxSn_rk0l2tWyDyI6ocn6SO1JxCZIjQvlK7EfBNHzT7Q"
-      },
-      {
-        "id": "sticker-8874",
-        "name": "siuhy (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1UruVBXooZHv8SYVvKv8bPVrc6GWWjbFmbsm5LU6Tn7hwB8jsGyEyoqtdX7GawEpX5chE_lK7Ed0gVQprA"
-      },
-      {
-        "id": "sticker-8878",
-        "name": "NAF (Gold) | Austin 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM6547z1VfmRyL2kZrks3sMu6SrO_ZueKnDDDLJxbgm4LlvGXyxlE1-5DnQz97_d3PFOgMgC5puBbldqp5CjLc"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzfhr-kpKuqSMNvav3PvA7IvbEXjbElrgus-Q7HHDqxEp_42rSy9mpdXKeagElC4wwG7DIB60B5w"
       }
     ],
     "contains_rare": [],
-    "market_hash_name": "Austin 2025 Legends Autograph Capsule",
+    "market_hash_name": "Paris 2023 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOjYLp_ile_c2-aadmH_GGHTXAk7tJt_NmWjmMmRggtjOBicGhd3uSPwMjXsF3Fu5fthjulNHvP7m3sgXajItDxHmojC1A7Xw5sOoAT-N7rX2BomlT",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWuVxut4tPInTi_qwUR_5m_TmN79cHyfagMgA8cjQuEMsUW-x4K1P-Ozs1TZ34hNxDK-0H34xwtSCg",
     "model_player": null,
     "loot_list": null,
     "original": {
-      "item_name": "#CSGO_crate_signature_pack_aus2025_group_legends",
-      "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_legends"
+      "item_name": "#CSGO_crate_sticker_pack_paris2023_legends",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_legends"
+    }
+  },
+  {
+    "id": "crate-4891",
+    "name": "Paris 2023 Challengers Sticker Capsule",
+    "description": "This capsule contains a single Paris 2023 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4891",
+    "type": "Sticker Capsule",
+    "first_sale_date": null,
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-6640",
+        "name": "Ninjas in Pyjamas | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j640mpQx73ypLkpCAMu6SqaqY0c6LHDTDDkLlztOVrHX3rwB914WTXyIr7IGXXMFEViDNjbA"
+      },
+      {
+        "id": "sticker-6644",
+        "name": "G2 Esports | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jzuBexERmnyM_m-3YCuqusMfQ9JqbCWzWWlL4ns-NqGH7ikEsi5mjUmY6obzvJOaGkauJL"
+      },
+      {
+        "id": "sticker-6648",
+        "name": "forZe eSports | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5Uv9Dx6pmJCyryMDuveqOqA5IvWWDzPIwrcgsuc4Ti3iwU914T_cw9aoInOJLlh304S3LB4"
+      },
+      {
+        "id": "sticker-6652",
+        "name": "OG | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j77Re-EUqkyMPkr3Zdu6Kraqc6eaLFWDDHlO0htOU_Snjmw0V14mrUzNiqbzvJOSNxujg_"
+      },
+      {
+        "id": "sticker-6656",
+        "name": "paiN Gaming | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jk61DpD073m8Ozr3MD7faoa_xuJPPDCmHCkLl35-A6GnvhxElysj_Qm4qvJX-JLlh3vjuhSK4"
+      },
+      {
+        "id": "sticker-6660",
+        "name": "GamerLegion | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jz5hfkFkj3msHiqHYP6vCra6BseKSQD2PHlegisuU4SnzqkBwj4D-DytutbzvJOU3DlxS3"
+      },
+      {
+        "id": "sticker-6664",
+        "name": "Apeks | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j1-lz_D0ugn5S4pCEOt6StMfQ0I_LHXWWUk7sks-A6HS22kB9x4jyGwo2tIHOJLlh3iFV5GUE"
+      },
+      {
+        "id": "sticker-6668",
+        "name": "Monte | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55VfzD06myJCxrXQOvKL-bPY0JPTLC2THw74mteI8TXu1xEQl5mnVwt37J3KJLlh3Agjw6jI"
+      },
+      {
+        "id": "sticker-6704",
+        "name": "BLAST.tv | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzDxj1zcXhrXdZuvGrafQ8IqnDCjSRxbsvsbY4HizikRlw5T_dzd6vc3mJLlh3GW4i2nI"
+      },
+      {
+        "id": "sticker-6641",
+        "name": "Ninjas in Pyjamas (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j640nYRhH4ioLl72wJtqGobKFrIfOXWz7IlboltrJqSXnrw00lt23RwterIn-Xb1QgD8R0W6dU5WjipOOy"
+      },
+      {
+        "id": "sticker-6645",
+        "name": "G2 Esports (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jzuGbgTRTlipPys3ZZt_P7PvJpcKDCWjCVwuwu57Y9SyvixEx_52yDyY2oeX7GPFIlApFuBbldGovi2kc"
+      },
+      {
+        "id": "sticker-6649",
+        "name": "forZe eSports (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5Uv9fhr9l4L0-DAV6vH3MKU1JKjCVmLIw-py5LE-Hyzhk0Ql4TiDzN6rJC-WO1QiCJN5FPlK7Ef8v0O-8w"
+      },
+      {
+        "id": "sticker-6653",
+        "name": "OG (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j77WbgTRTlipPys3davKqrP_w7JqnLD2KWl75ws7U5TSjjwkom5DiGmNmrcCmWbQcnDJpuBbldCnuom3k"
+      },
+      {
+        "id": "sticker-6657",
+        "name": "paiN Gaming (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jk61Dpfhr9l4L0-DAVuvD-OqZrd6DHDDbBx74m57c7GHu2wh4l5W-GyY2pJy7CbAVzWJQmTflK7Ee2PsX2rA"
+      },
+      {
+        "id": "sticker-6661",
+        "name": "GamerLegion (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jz5mbgTRTlipPys3MOuPCsaf01I6HCWGLAmb8v47VoSXvgzB5x4m_Un4qqJX6RbVQpDpNuBbld9B18xPo"
+      },
+      {
+        "id": "sticker-6665",
+        "name": "Apeks (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j1-lz_fhr9l4L0-DAVuaD6PqBsI6TKCDHHl70i4uNsHi_nlhly42qAyN-hdXuQbAMoApAjQ_lK7Ed_8x03ug"
+      },
+      {
+        "id": "sticker-6669",
+        "name": "Monte (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55Vfzfhr9l4L0-DAVvquoaqY5IvTLDDOSl-1zsrJoSXvqkEUi5G6AnN2qdXjBPFMgDsAlFvlK7EczzFZ9Rw"
+      },
+      {
+        "id": "sticker-6705",
+        "name": "BLAST.tv (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzfhr9l4L0-DAVv6b_a6A-JfTGVj7EmOogtLc7TSiyxBwl4TmByIuvd3yUP1RxA5AhE_lK7EeCuMbobA"
+      },
+      {
+        "id": "sticker-6642",
+        "name": "Ninjas in Pyjamas (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j640nYSRL9kdjj-yddvav8MfA7IvGSWzDJkL5ytOQ4S33hzBt34mTVzdyrc3KRPFV1FNIuEkjQOOxJ"
+      },
+      {
+        "id": "sticker-6646",
+        "name": "G2 Esports (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jzuGbvThH-0MexqHQNtqL2PvVvc_bLDGSSl-shtLFtF3zilEl14G2Hntiqc3LDPFU-SswnUaBWChY"
+      },
+      {
+        "id": "sticker-6650",
+        "name": "forZe eSports (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5Uv9fhX-kpmuriMOtqCsPf04I_PDWWKWwL4g6OJvH3vqwxsj5TuAnI2tICnEalAlXIwwG7BOR5bJRg"
+      },
+      {
+        "id": "sticker-6654",
+        "name": "OG (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j77WbvThH-0M7hrXYLu6P8bfVrdqLBWzDFw-wu6Lg8H3nlzEkkt2nTy9ahIi-WOgA-SswnSvy-m7M"
+      },
+      {
+        "id": "sticker-6658",
+        "name": "paiN Gaming (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jk61DpfhX-kpmuqnZYvKP9PPQ1efWWWjDJmb536LFtFnuwzU0ksGzVyNioeS2WZg4gWYwwG7C8RekhYw"
+      },
+      {
+        "id": "sticker-6662",
+        "name": "GamerLegion (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jz5mbvThH-0MGzr3UCuPSrbP00JPHEWDCWkbtz6eVrH3zizU4hsmXQw9-pcH6fPFM-SswnAbHyqfw"
+      },
+      {
+        "id": "sticker-6666",
+        "name": "Apeks (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j1-lz_fhX-kpmuq3sMvqD9bPI8I6LEXD_CxLp0tbNsGS3lxhsk4m6AzdapcS2fPFQkA4wwG7CABxWt8A"
+      },
+      {
+        "id": "sticker-6670",
+        "name": "Monte (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55VfzfhX-kpmuriEIvfGrMaFpJvHFCDOTkLh15uI4H3qwkEUj5zzWzNevIHmVbwUgX4wwG7BDDkMFog"
+      },
+      {
+        "id": "sticker-6706",
+        "name": "BLAST.tv (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzfhX-kpmuq3Za6vD4PKY9d6XEDDOUlLYv6LdsS33klE5_sm_Rz42vI36XbQF0CIwwG7CcwkMjlA"
+      },
+      {
+        "id": "sticker-6643",
+        "name": "Ninjas in Pyjamas (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j640nYRhL9mti2_yQOvfP7OPZuefXHW2XJkL4i5rZoTCqxlBxx4W6AmYv6cS-QPQAlFNIuEvaEit2G"
+      },
+      {
+        "id": "sticker-6647",
+        "name": "G2 Esports (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jzuGbgThH10JK4pXoJt_OtbfVrIaGQDzLEkbcktbA4HC_iw0l24GmGmdioJCnFaFA-Sswn7yz4Ons"
+      },
+      {
+        "id": "sticker-6651",
+        "name": "forZe eSports (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5Uv9fhr-kpKuqHoJ6vf8Mfw1eajLWD_GlLsi4eI7FnDkzB51tmrWmdf8c3-VZwYkDYwwG7AvMoUwGw"
+      },
+      {
+        "id": "sticker-6655",
+        "name": "OG (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j77WbgThH10MWyqXcJvPT7bfA4cqPEWjHHxbohs7k5HHy2zRh24TvXy9yhJC_GZgQ-Sswn0fNTgKo"
+      },
+      {
+        "id": "sticker-6659",
+        "name": "paiN Gaming (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jk61Dpfhr-kpKurXAJuKv6P_M5I6nBXzbHkrd0sbY_Fni2l0wi5jjVwtf8JHKQagEjXIwwG7DFDg3gNA"
+      },
+      {
+        "id": "sticker-6663",
+        "name": "GamerLegion (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jz5mbgThH10MbmqHcNvff-P6I1JaKXVzXGkrYh4eA4GC_hlkRz5GjWntuhciiTP1Q-SswnKxKXYsE"
+      },
+      {
+        "id": "sticker-6667",
+        "name": "Apeks (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j1-lz_fhr-kpKu_3tfv6L7OKFodqHDCGKWlb1z47hsTCy3kU1y5DuHn46rJS-fOlB1CIwwG7BLrtMKvQ"
+      },
+      {
+        "id": "sticker-6671",
+        "name": "Monte (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55Vfzfhr-kpKu-yQDvqb7bfQ4IfbFDzfJku115rlvFnCwzEgit23Tm9iqdC6VPQMiWIwwG7B-aZfQHw"
+      },
+      {
+        "id": "sticker-6707",
+        "name": "BLAST.tv (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzfhr-kpKuqSMNvav3PvA7IvbEXjbElrgus-Q7HHDqxEp_42rSy9mpdXKeagElC4wwG7DIB60B5w"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Paris 2023 Challengers Sticker Capsule",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWSYwOJ6te9uSjug2x8isG7czNageS2VaAIoD8ZxRbYNsBa4x9XvZO7r4wyK395AmS782H5XrnE8Sh4_4i8",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_sticker_pack_paris2023_challengers",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_challengers"
+    }
+  },
+  {
+    "id": "crate-4892",
+    "name": "Paris 2023 Contenders Sticker Capsule",
+    "description": "This capsule contains a single Paris 2023 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4892",
+    "type": "Sticker Capsule",
+    "first_sale_date": null,
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-6672",
+        "name": "Team Liquid | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j440ipF0iozsC4qCEO7KT2aaVsefaXXzGTkL4n4uRrTnvqzElwsW-ByYmoI2XXMFEW_WYVQQ"
+      },
+      {
+        "id": "sticker-6676",
+        "name": "FaZe Clan | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy60PiD0jzypW4-HAJufCqOPQ8JvSXXmOTlrsv6LM6GnGwxEx_6jzdzt-gdSiJLlh3_ka5CfA"
+      },
+      {
+        "id": "sticker-6680",
+        "name": "ENCE | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jx5FriD06gzcW0qXEP7qr5PKc0JPHAW2HFkbgv6Lk8Ti_gxkx-5jjTy4v8c3yJLlh3tIl2okc"
+      },
+      {
+        "id": "sticker-6684",
+        "name": "Grayhound Gaming | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jz-Fj-Dxv1xpThryMDt6T_MfZsc6DDXzaTxbtw6bRrH3CylEgm5WXWyI78di-JLlh3eC_TEps"
+      },
+      {
+        "id": "sticker-6688",
+        "name": "MOUZ | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55Uz9D0T3m8Gx-HoPtqKqbfVocqLDD2GSkr8k4bU_HyjnwU135G_Wztn4dHyJLlh3cQVmuqE"
+      },
+      {
+        "id": "sticker-6692",
+        "name": "Complexity Gaming | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j3-lX_Dxv1zMOwqyENvqSoMPdpd6bDCGTCmLcv6LY4Fy3nl0gksG6Dztb6dHmJLlh3m2FmKIY"
+      },
+      {
+        "id": "sticker-6696",
+        "name": "Fluxo | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5kz_Dxn1nMDlrHMNv_OtaaU5dqGSDWGSlbok4rYxHH_jk0Vy4mTczYytJXuJLlh3NGGJj0k"
+      },
+      {
+        "id": "sticker-6700",
+        "name": "The MongolZ | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55F79Dxipm5K2pSEC6vaoavdpcvWRVjLAxO9057MwHi3ilh505jzTyI2odH6JLlh3nnp374g"
+      },
+      {
+        "id": "sticker-6704",
+        "name": "BLAST.tv | Paris 2023",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzDxj1zcXhrXdZuvGrafQ8IqnDCjSRxbsvsbY4HizikRlw5T_dzd6vc3mJLlh3GW4i2nI"
+      },
+      {
+        "id": "sticker-6673",
+        "name": "Team Liquid (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j440jYRhH4ioLl72xa6_CsPfVrdaHHD2aVkusm4LM_Hy2wkUp2sj7Xz42oeXqSbABxXMYlW6dU5damxG2i"
+      },
+      {
+        "id": "sticker-6677",
+        "name": "FaZe Clan (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy60Pifhr9l4L0-DAVuqX-MPJudajEVjPIlrgiteQ_G3jmkxsmtTyHz9f_dn-WOwRyDpIhF_lK7Efyt5su3Q"
+      },
+      {
+        "id": "sticker-6681",
+        "name": "ENCE (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jx5Frifhr9l4L0-DAVv6f5Pvw4dKHFCzGRlr8n57doTHzrkBwh5z_cy9f9c3ueO1VxCJchQPlK7EdOydMjdw"
+      },
+      {
+        "id": "sticker-6685",
+        "name": "Grayhound Gaming (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jz-Fj-fhr9l4L0-DAVvaL2a_w6JfPAXjGVl7106bBtTHq2w0hy4T7cmY6ucC6VOw90DMYiTPlK7Ec6AYoY7Q"
+      },
+      {
+        "id": "sticker-6689",
+        "name": "MOUZ (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55Uz9fhr9l4L0-DAVvaKqMf1scaDKDGTIkrp35uVoTirrzUtw52TVzo6sJX-VOAN0Xpd2QPlK7EdDcSa6Ug"
+      },
+      {
+        "id": "sticker-6693",
+        "name": "Complexity Gaming (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j3-lX_fhr9l4L0-DAV6aaqavQ6dKaXCzCVlbojtrY6Hy2ykU514WTRwtivcX6Vag4lDpNwRPlK7Ed28DhOYw"
+      },
+      {
+        "id": "sticker-6697",
+        "name": "Fluxo (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5kz_fhr9l4L0-DAVuaKsbvY7c_TKW2HCkbYjsbFvGCjixUR14DnVmd2udHrEaVUgWMN3QPlK7EcxjBzAaQ"
+      },
+      {
+        "id": "sticker-6701",
+        "name": "The MongolZ (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55F79fhr9l4L0-DAVt6H2MfY6IqmSWWXGxbwg4-NsHyy3whtz4WiBzNf7dn6eaVQpXpJ1FvlK7EdAyYwqvg"
+      },
+      {
+        "id": "sticker-6705",
+        "name": "BLAST.tv (Glitter) | Paris 2023",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzfhr9l4L0-DAVv6b_a6A-JfTGVj7EmOogtLc7TSiyxBwl4TmByIuvd3yUP1RxA5AhE_lK7EeCuMbobA"
+      },
+      {
+        "id": "sticker-6674",
+        "name": "Team Liquid (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j440jYSRL9kdi0_3INu_D-Pf1vJaKXXjTFw7sk5LRrTSi2xx524D-Bmdn7dHKWagMmFNIuEnMmeRom"
+      },
+      {
+        "id": "sticker-6678",
+        "name": "FaZe Clan (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy60PifhX-kpmu-XNa7vb5O_M7cKKWWDPFx-t3trUwSSvkl0Rw5GTXntz4dn3Ca1MhCYwwG7BsF0tzQw"
+      },
+      {
+        "id": "sticker-6682",
+        "name": "ENCE (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jx5FrifhX-kpmurycDvaCoP_w4cKXECGPDkOgisbIwGHzml0R1sGjXw4uqdH2TOFMgDYwwG7AEeojR5g"
+      },
+      {
+        "id": "sticker-6686",
+        "name": "Grayhound Gaming (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jz-Fj-fhX-kpmupCZdv6erbvM8IfSWDWXIkLgi5eQ6HXjrlx9wsT7dzNj9d3KfPAMnCowwG7AUb8woEQ"
+      },
+      {
+        "id": "sticker-6690",
+        "name": "MOUZ (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55Uz9fhX-kpmurnEDv6v7OadsdaWSWzCRxegi5ucxGXvlzUt_4GrVyo2hJy6RZwB2XIwwG7Cil66NZg"
+      },
+      {
+        "id": "sticker-6694",
+        "name": "Complexity Gaming (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j3-lX_fhX-kpmupXoL6_b4bvFpcKDGVj_Gwut14rJtSXjlx00ism7Umdr7InuTbQ4nXIwwG7BZo32NQQ"
+      },
+      {
+        "id": "sticker-6698",
+        "name": "Fluxo (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5kz_fhX-kpmuqyRY7fD8MPBudqLLXz_GkeovtuI_Hi3rlEUh4zyBntqsc33DZw8iAowwG7D_RpTQEQ"
+      },
+      {
+        "id": "sticker-6702",
+        "name": "The MongolZ (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55F79fhX-kpmu-HBe6aOsbKBsd6mXWGKWlblysrBtSn_hkE4hsTjSy9z_c3uQaAdzCYwwG7B-RlvD-w"
+      },
+      {
+        "id": "sticker-6706",
+        "name": "BLAST.tv (Holo) | Paris 2023",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzfhX-kpmuq3Za6vD4PKY9d6XEDDOUlLYv6LdsS33klE5_sm_Rz42vI36XbQF0CIwwG7CcwkMjlA"
+      },
+      {
+        "id": "sticker-6675",
+        "name": "Team Liquid (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j440jYRhL9mtjirnYKuKr-a6E5dqeSVjOTlLkjsuM6THzjk0kl5DnVytz8cimeOABxFNIuEtAD2qyB"
+      },
+      {
+        "id": "sticker-6679",
+        "name": "FaZe Clan (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy60Pifhr-kpKuqnMLvPT_bKVrI6DLXT6Vw75w4bhrF3Dkxhx35GyGydyoIC7BbA90DYwwG7CojD49HQ"
+      },
+      {
+        "id": "sticker-6683",
+        "name": "ENCE (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jx5Frifhr-kpKu-CAOu_T7PfU4IqDHCmbHkbcm47JvS3HhzUx35zmAyompIC6TaA50DIwwG7DSUq67Kw"
+      },
+      {
+        "id": "sticker-6687",
+        "name": "Grayhound Gaming (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jz-Fj-fhr-kpKu_iYN7qP6baBpdqKWXTLFl-0n5uQxHnrql0x3tm6En46oI37Gb1NyAowwG7C-wBLpoQ"
+      },
+      {
+        "id": "sticker-6691",
+        "name": "MOUZ (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55Uz9fhr-kpKu_HsD6_H4PfI9d_bGVmXCwOp35LY6F3i2kB4m4W2Gn9epdHzEagAmA4wwG7A3V3fiiA"
+      },
+      {
+        "id": "sticker-6695",
+        "name": "Complexity Gaming (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j3-lX_fhr-kpKu_HoJuqH2bfNrJvWWD2PDlO9y6bY_Fyu3l00lsT6Gw9b8ci-WblAhAowwG7AB06WnPw"
+      },
+      {
+        "id": "sticker-6699",
+        "name": "Fluxo (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8jy5kz_fhr-kpKu_HQLvfT7OvFrcKWRDGXJxb135bg4S3C3x0sk62XTn9qveS-UaQIhX4wwG7CvZCUqhw"
+      },
+      {
+        "id": "sticker-6703",
+        "name": "The MongolZ (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55F79fhr-kpKu-HoCt6P8OPw_eKHKC2XBkOgu47Q-F3Hqkxt-5G_cyYyvcXLDbQ8iD4wwG7AWjjjchg"
+      },
+      {
+        "id": "sticker-6707",
+        "name": "BLAST.tv (Gold) | Paris 2023",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j25krzfhr-kpKuqSMNvav3PvA7IvbEXjbElrgus-Q7HHDqxEp_42rSy9mpdXKeagElC4wwG7DIB60B5w"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Paris 2023 Contenders Sticker Capsule",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk__O8Ybc_cKLAMWSfz_pzvuVsXTr9kRki5m_Uwtz7cXKWO1ApCcByRLEO50LtkoWyP7_k4Afdi99GniT4jzQJsHjtsZcvVQ",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_sticker_pack_paris2023_contenders",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_contenders"
+    }
+  },
+  {
+    "id": "crate-4893",
+    "name": "Paris 2023 Inferno Souvenir Package",
+    "description": null,
+    "def_index": "4893",
+    "type": "Souvenir",
+    "first_sale_date": null,
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "skin-e12f5d57ddbd",
+        "name": "UMP-45 | Mudder",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "90",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1T9s2jZ7B5LPWXMXSRz-pJvOhuRz39wUR1sWqGm9v7IC_FPQclCJp5E-YD4Bbum9axM7_l4VCKi48Qy3793zQJsHiVhPnxlA"
+      },
+      {
+        "id": "skin-fd68b9a223c0",
+        "name": "MP5-SD | Dirt Drop",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "753",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCW6khUz_W_TydqocinDPwYlW8MhQuMMs0LsxNblN7_jtVCM2I9Cz3_43Hsd7il1o7FV674h8n8"
+      },
+      {
+        "id": "skin-2fe73aeaa65b",
+        "name": "MP9 | Slide",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "755",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9Ttk_OKiabB5JeLAMWuZxuZi_rg6TXrhxk9y5WmGn9etdy3BblVxCMd4Re8LskWwwde1MOq35gfX34lbjXKpcIaNgDA"
+      },
+      {
+        "id": "skin-5430f34eb2d8",
+        "name": "AUG | Sweeper",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "794",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7jJk4ve9YJt-IfaWGn6Sze91u95lRi67gVNysGXWwt78dXmVawMnC5t5EeFftkTpk9S1Zu6xswbai4MWyy-rjngb8G81tGCvNXTC"
+      },
+      {
+        "id": "skin-7cc934394691",
+        "name": "MAG-7 | Rust Coat",
+        "rarity": {
+          "id": "rarity_common_weapon",
+          "name": "Consumer Grade",
+          "color": "#b0c3d9"
+        },
+        "paint_index": "754",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNK0OG6baFhH_mdCGKCz-FJvOhuRz39kElztWzRn4r9eXqWblAjXpQjRuIPuhm7k4KxYeLisgDfjtlFmSSqijQJsHiheIBpJg"
+      },
+      {
+        "id": "skin-505c66da36c8",
+        "name": "PP-Bizon | Candy Apple",
+        "rarity": {
+          "id": "rarity_uncommon_weapon",
+          "name": "Industrial Grade",
+          "color": "#5e98d9"
+        },
+        "paint_index": "3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1I4M28baBSLPmUBnPemO105rI6SirhzRwi6zjWzd2uJCmfaFByApMiRbNcuxC_k9TgZb_qthue1dzUHyay4A"
+      },
+      {
+        "id": "skin-7f9562bfa6a5",
+        "name": "MAC-10 | Calf Skin",
+        "rarity": {
+          "id": "rarity_uncommon_weapon",
+          "name": "Industrial Grade",
+          "color": "#5e98d9"
+        },
+        "paint_index": "748",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-QBmKTyutkj-1gSCGn2x92sWXWntytdHPDOlIlWZJwR-5csBS8k4K1Nuzn4QLa398UyCiq2CxXrnE8x1-1j1w"
+      },
+      {
+        "id": "skin-c0b7375a375d",
+        "name": "R8 Revolver | Nitro",
+        "rarity": {
+          "id": "rarity_uncommon_weapon",
+          "name": "Industrial Grade",
+          "color": "#5e98d9"
+        },
+        "paint_index": "798",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z5tiMvGdCWKvwO11te99XHqMmRQguynLzo34IiiTagQoWZUlFOYOsha6ltLlPuPlsweMj4tDnyT6jy5MuytosvFCD_SeBWArcQ"
+      },
+      {
+        "id": "skin-8d1c8d592ffb",
+        "name": "Glock-18 | High Beam",
+        "rarity": {
+          "id": "rarity_uncommon_weapon",
+          "name": "Industrial Grade",
+          "color": "#5e98d9"
+        },
+        "paint_index": "799",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a7s24bbZ5KfecMWWc1OtJvOhuRz39zU5yt2vQntn9dC3Dbw8iDJQhF-IJ5xDqkdSxMr6251aMiI5BynqtiTQJsHhqpMNExQ"
+      },
+      {
+        "id": "skin-c0a577a1a5b2",
+        "name": "SSG 08 | Hand Brake",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "751",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1c_M29e6M9eM-QBmKTyutkj-1gSCGn2xtwtzzWmNagIH3CP1V2C5dxR7QLsES_m9PvY7nj4QPd2ohHy3r4hypXrnE8MesmkS4"
+      },
+      {
+        "id": "skin-ff8258cd7dac",
+        "name": "M4A4 | Converter",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "793",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwipC0OCrbJtlJeisAm6Xyfo46OAxFnHixEhztzuAyo79eCqfb1VyXpclTONctxS6w9KxMbi25Fbd2ZUFk3t2_C2R8Q"
+      },
+      {
+        "id": "skin-a2c7bfcb6607",
+        "name": "USP-S | Check Engine",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "796",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSM-CsA2KDydFlsedsWzChkBkYvzSCkpu3Iy6RbQYnXJZ2F7QN4UPqkIfmNeni5laNit1Dyiz42C5JvCdo57xQA71lpPMz6iO7bg"
+      },
+      {
+        "id": "skin-f1e77412769d",
+        "name": "Sawed-Off | Brake Light",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "797",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2vaZt7JeKHB2Cf_vxztN5lRi67gVMj5T_Ry9yhcS-XaFUiDpVwEe4D4Bi9lta1Yb_m5FfdiYxNmS_3j35A8G81tL5T7kT_"
+      },
+      {
+        "id": "skin-9cd9ae26b864",
+        "name": "P250 | Vino Primo",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "749",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSI_iWDWyV09F6ueZhW2eyxR9x6m3SydqqcinFPQN2CcF4F-5buhi9w9PgYem25AKNj40Wzy2rkGoXuZ9g813e"
+      },
+      {
+        "id": "skin-7036be1d6dd2",
+        "name": "MP7 | Fade",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "752",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_CNk6fOqbZtgMKesAm6Xyfo45LQ7Fy3rzR536j6HyYn6J3zFaAcjA5RwQ-9fs0O5m93nMe2x5QHfjZUFk3sMNd5yQw"
+      },
+      {
+        "id": "skin-d721d2a6a01c",
+        "name": "AK-47 | Safety Net",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "795",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wipC0P-re6xSM_GVC3OJzvx3vuZscCW6khUz_W3RyI2tdyjFaAUlW5J5QeNc4BS_xoKzYePi4QSIgoJDynn4jS9Mvyh1o7FVeAmr1N8"
+      },
+      {
+        "id": "skin-248559e8b343",
+        "name": "Dual Berettas | Twin Turbo",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "747",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1Y-s2qfaVhH_WfB3OV0tFkse1lVha_nBovp3OHytv8JCnBbAF1X5MjR7UPsBfrmoHuNr7nsgbfjdlAxSr63CIfuChr_a9cBiuNovOB"
+      },
+      {
+        "id": "skin-a7e309c3d23a",
+        "name": "SG 553 | Integrale",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "750",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-BD2uc2NF6ueZhW2e2wkV14m2DzditcnmQOA4gWcYlQOcDs0a7moLvZLiw5geP3dgRnnj2kGoXuQPBQAH6"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Paris 2023 Inferno Souvenir Package",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSKf6VC3WezqAgsrhsFyixwE4m52jUytysI3vBbQ51DJImQ-NbtxO5w9LjY-Lh5ADclcsbmj4tCmqX",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_paris2023_promo_de_inferno",
+      "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_inferno"
     }
   }
 ]

@@ -1,9 +1,91 @@
 [
   {
-    "id": "sticker-1928",
-    "name": "Sticker | chrisJ | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Chris de Jong playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1928",
+    "id": "sticker-1482",
+    "name": "Sticker | fer (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Fernando Alvarenga playing for SK Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1482",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | fer (Foil) | Cologne 2016",
+    "effect": "Foil",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 14,
+      "tag": "SK",
+      "geo": "BR",
+      "name": "SK Gaming"
+    },
+    "player": {
+      "id": 38921219,
+      "name": "fer",
+      "code": "fer",
+      "dob": "1991-10-30",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL3m4Tf-y1S47z9OPI1eKDAXjbHkupw6eI6SyqwkElz6mjSmdyucynFblJ0XsAiRe4LrFDmxX8-4QpO",
+    "original": {
+      "name": "cologne2016_signature_fer_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_fer_foil"
+    }
+  },
+  {
+    "id": "sticker-1483",
+    "name": "Sticker | fer (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Fernando Alvarenga playing for SK Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1483",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 14,
+      "tag": "SK",
+      "geo": "BR",
+      "name": "SK Gaming"
+    },
+    "player": {
+      "id": 38921219,
+      "name": "fer",
+      "code": "fer",
+      "dob": "1991-10-30",
+      "geo": "BR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_fer_gold.a323cd9b4f322e2029ea5aa6567ffdb8872e240c.png",
+    "original": {
+      "name": "cologne2016_signature_fer_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_fer_gold"
+    }
+  },
+  {
+    "id": "sticker-1484",
+    "name": "Sticker | fnx | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Lincoln Lau playing for SK Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1484",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -11,18 +93,270 @@
     },
     "crates": [
       {
-        "id": "crate-4336",
-        "name": "Autograph Capsule | mousesports | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL8jYWu_3QJuaqsafc0d6iSVzfCxO0u5eQ-S3yyk0witzuGm4ygdi6Taw5zCowwG7AXM-6Z9g"
+        "id": "crate-4267",
+        "name": "Autograph Capsule | SK Gaming | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyLildi1r3cOvqT_PvdodKPGWGKWwL4vs-U9THC3wEt16jiDzNysIHuRO1MmFNIuEnIUFdmG"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | chrisJ | Atlanta 2017",
+    "market_hash_name": "Sticker | fnx | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 14,
+      "tag": "SK",
+      "geo": "BR",
+      "name": "SK Gaming"
+    },
+    "player": {
+      "id": 170178574,
+      "name": "fnx",
+      "code": "fnx",
+      "dob": "1990-01-30",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL3kI6urCcC7PT6OvU-c6SQDDKVkuhwsrU6SS_ixEtw42jRn9aucnySaQV2WIwwG7CLTevmOw",
+    "original": {
+      "name": "cologne2016_signature_fnx",
+      "image_inventory": "econ/stickers/cologne2016/sig_fnx"
+    }
+  },
+  {
+    "id": "sticker-1485",
+    "name": "Sticker | fnx (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Lincoln Lau playing for SK Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1485",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | fnx (Foil) | Cologne 2016",
+    "effect": "Foil",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 14,
+      "tag": "SK",
+      "geo": "BR",
+      "name": "SK Gaming"
+    },
+    "player": {
+      "id": 170178574,
+      "name": "fnx",
+      "code": "fnx",
+      "dob": "1990-01-30",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL3kI7f-y1S47z_MPI-eKiXCDKRx7Zz5bg5Sy_jwUwjtWuGwterI3KQPQQgWJN4TOUJrFDmxe8Foyjn",
+    "original": {
+      "name": "cologne2016_signature_fnx_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_fnx_foil"
+    }
+  },
+  {
+    "id": "sticker-1486",
+    "name": "Sticker | fnx (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Lincoln Lau playing for SK Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1486",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 14,
+      "tag": "SK",
+      "geo": "BR",
+      "name": "SK Gaming"
+    },
+    "player": {
+      "id": 170178574,
+      "name": "fnx",
+      "code": "fnx",
+      "dob": "1990-01-30",
+      "geo": "BR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_fnx_gold.f3b6bd09e2a253bd124be815fa9bc75f58899739.png",
+    "original": {
+      "name": "cologne2016_signature_fnx_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_fnx_gold"
+    }
+  },
+  {
+    "id": "sticker-1487",
+    "name": "Sticker | TACO | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Tacio Filho playing for SK Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1487",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4267",
+        "name": "Autograph Capsule | SK Gaming | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyLildi1r3cOvqT_PvdodKPGWGKWwL4vs-U9THC3wEt16jiDzNysIHuRO1MmFNIuEnIUFdmG"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | TACO | Cologne 2016",
+    "effect": "Other",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 14,
+      "tag": "SK",
+      "geo": "BR",
+      "name": "SK Gaming"
+    },
+    "player": {
+      "id": 52876568,
+      "name": "TACO",
+      "code": "taco",
+      "dob": "1995-01-24",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLln5Xvs3cO7Pf_PaU4eaSXXDORl-114rE4GC_qwhgh6zjUw4qpeXKXaQ5yXJZuBbldtec5-OU",
+    "original": {
+      "name": "cologne2016_signature_taco",
+      "image_inventory": "econ/stickers/cologne2016/sig_taco"
+    }
+  },
+  {
+    "id": "sticker-1488",
+    "name": "Sticker | TACO (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Tacio Filho playing for SK Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1488",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | TACO (Foil) | Cologne 2016",
+    "effect": "Foil",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 14,
+      "tag": "SK",
+      "geo": "BR",
+      "name": "SK Gaming"
+    },
+    "player": {
+      "id": 52876568,
+      "name": "TACO",
+      "code": "taco",
+      "dob": "1995-01-24",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLln5XvwiRU5v7gO6BvIaTHXjWUlLkh6LNqSijrkU1y6jyHzI2oJXiVaA5yXsYmTO8Nsw74zIOTlxeO4A",
+    "original": {
+      "name": "cologne2016_signature_taco_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_taco_foil"
+    }
+  },
+  {
+    "id": "sticker-1489",
+    "name": "Sticker | TACO (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Tacio Filho playing for SK Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1489",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 14,
+      "tag": "SK",
+      "geo": "BR",
+      "name": "SK Gaming"
+    },
+    "player": {
+      "id": 52876568,
+      "name": "TACO",
+      "code": "taco",
+      "dob": "1995-01-24",
+      "geo": "BR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_taco_gold.6ed2c6810ea20c1b512dda5ab94b340de6bc94e2.png",
+    "original": {
+      "name": "cologne2016_signature_taco_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_taco_gold"
+    }
+  },
+  {
+    "id": "sticker-1490",
+    "name": "Sticker | chrisJ | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Chris de Jong playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1490",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4264",
+        "name": "Autograph Capsule | mousesports | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL8jYWuqXFfuvf-bPc9cfPDWjDGl7kms7VoHyjrkURx4WuAwtr4d3iRbwQiD4wwG7AivHoSFg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | chrisJ | Cologne 2016",
+    "effect": "Other",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -37,17 +371,17 @@
       "dob": "1990-05-25",
       "geo": "NL"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLyloTp7igVuqX6bfY5IaOXWzTCwuhys-BqSy3rwk4m4DuAztmrJ3-Vb1UgXJF2R_lK7Ec3Obv-og",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLyloTp7igVvaP2PKA_camQXzTAwL4v57BtHH3kwhlz6mrUzNeudXqeaFRyXJYkFPlK7Ef3uJgaAg",
     "original": {
-      "name": "atlanta2017_signature_chrisj",
-      "image_inventory": "econ/stickers/atlanta2017/sig_chrisj"
+      "name": "cologne2016_signature_chrisj",
+      "image_inventory": "econ/stickers/cologne2016/sig_chrisj"
     }
   },
   {
-    "id": "sticker-1929",
-    "name": "Sticker | chrisJ (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Chris de Jong playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1929",
+    "id": "sticker-1491",
+    "name": "Sticker | chrisJ (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Chris de Jong playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1491",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -55,18 +389,18 @@
     },
     "crates": [
       {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
+        "id": "crate-4256",
+        "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHmexwkUh5TvRz9_9dimebgF1WZYmFudYtkaxxtGyMurltg3Z2toXniv8kGoXudOlkdld"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | chrisJ (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | chrisJ (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -81,17 +415,17 @@
       "dob": "1990-05-25",
       "geo": "NL"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLyloTp7ihk6f2nZOo8cqGRWmTAk-onteQ-Tnzgwxx3t2rUm9-oJ3LDbQEpC5d1F-JetRTrjJS5YN4C7KHj",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLyloTp7ihk6f2nZOpoIqLDWDHFwLwv4LA6Siyxlxl3tWTXzNj9IyrCOFJ1WJN2EbQCsRC9jJS5YGJSKAuQ",
     "original": {
-      "name": "atlanta2017_signature_chrisj_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_chrisj_foil"
+      "name": "cologne2016_signature_chrisj_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_chrisj_foil"
     }
   },
   {
-    "id": "sticker-1930",
-    "name": "Sticker | chrisJ (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Chris de Jong playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1930",
+    "id": "sticker-1492",
+    "name": "Sticker | chrisJ (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Chris de Jong playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1492",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -103,8 +437,8 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -119,17 +453,17 @@
       "dob": "1990-05-25",
       "geo": "NL"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_chrisj_gold.cff3c7dba99d56467ffe1f3c59c525ce002782dc.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_chrisj_gold.8f3c3e2fe65a446495858d19a6a34fe6d863f4bd.png",
     "original": {
-      "name": "atlanta2017_signature_chrisj_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_chrisj_gold"
+      "name": "cologne2016_signature_chrisj_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_chrisj_gold"
     }
   },
   {
-    "id": "sticker-1931",
-    "name": "Sticker | denis | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Denis Howell playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1931",
+    "id": "sticker-1493",
+    "name": "Sticker | denis | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Denis Howell playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1493",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -137,18 +471,18 @@
     },
     "crates": [
       {
-        "id": "crate-4336",
-        "name": "Autograph Capsule | mousesports | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL8jYWu_3QJuaqsafc0d6iSVzfCxO0u5eQ-S3yyk0witzuGm4ygdi6Taw5zCowwG7AXM-6Z9g"
+        "id": "crate-4264",
+        "name": "Autograph Capsule | mousesports | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL8jYWuqXFfuvf-bPc9cfPDWjDGl7kms7VoHyjrkURx4WuAwtr4d3iRbwQiD4wwG7AivHoSFg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | denis | Atlanta 2017",
+    "market_hash_name": "Sticker | denis | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -163,17 +497,17 @@
       "dob": "1994-08-18",
       "geo": "DE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m5jp7mwK6_OoMPVuIfPBXj6Tl74h5uM5Fy_jkE93tz-DzYn9dH_FagIgX5EkW6dU5bn9Ahhr",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL1m5jp7mwPt_etOfxpIfaRCjLJlb5z4-NsHyzmk0Uh5mzSmdevci6SPAUlW5R4W6dU5WRe_Yuw",
     "original": {
-      "name": "atlanta2017_signature_denis",
-      "image_inventory": "econ/stickers/atlanta2017/sig_denis"
+      "name": "cologne2016_signature_denis",
+      "image_inventory": "econ/stickers/cologne2016/sig_denis"
     }
   },
   {
-    "id": "sticker-1932",
-    "name": "Sticker | denis (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Denis Howell playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1932",
+    "id": "sticker-1494",
+    "name": "Sticker | denis (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Denis Howell playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1494",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -181,18 +515,18 @@
     },
     "crates": [
       {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
+        "id": "crate-4256",
+        "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHmexwkUh5TvRz9_9dimebgF1WZYmFudYtkaxxtGyMurltg3Z2toXniv8kGoXudOlkdld"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | denis (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | denis (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -207,17 +541,17 @@
       "dob": "1994-08-18",
       "geo": "DE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m5jp7h1d4PuiJvQ7JvHACzHFxeom5uI-HyqxwU9_4TvSmIv4dX_GaFAmDsN5F-Zc4RKm0oqw_Fu812I",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL1m5jp7h1d4PuiJvY6JPTLCDLJxbp15LBrTS_jzU505m2Bydn8cy6fag8mC8F4FOMIsBem0oqw70776ck",
     "original": {
-      "name": "atlanta2017_signature_denis_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_denis_foil"
+      "name": "cologne2016_signature_denis_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_denis_foil"
     }
   },
   {
-    "id": "sticker-1933",
-    "name": "Sticker | denis (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Denis Howell playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1933",
+    "id": "sticker-1495",
+    "name": "Sticker | denis (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Denis Howell playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1495",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -229,8 +563,8 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -245,17 +579,17 @@
       "dob": "1994-08-18",
       "geo": "DE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_denis_gold.ab28b670f3580ac6273f14af8c0e8a73be386579.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_denis_gold.4afaa9002527f3d4a57c44915bfbe8eee63327b4.png",
     "original": {
-      "name": "atlanta2017_signature_denis_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_denis_gold"
+      "name": "cologne2016_signature_denis_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_denis_gold"
     }
   },
   {
-    "id": "sticker-1934",
-    "name": "Sticker | Spiidi | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Timo Richter playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1934",
+    "id": "sticker-1496",
+    "name": "Sticker | Spiidi | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Timo Richter playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1496",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -263,18 +597,18 @@
     },
     "crates": [
       {
-        "id": "crate-4336",
-        "name": "Autograph Capsule | mousesports | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL8jYWu_3QJuaqsafc0d6iSVzfCxO0u5eQ-S3yyk0witzuGm4ygdi6Taw5zCowwG7AXM-6Z9g"
+        "id": "crate-4264",
+        "name": "Autograph Capsule | mousesports | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL8jYWuqXFfuvf-bPc9cfPDWjDGl7kms7VoHyjrkURx4WuAwtr4d3iRbwQiD4wwG7AivHoSFg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Spiidi | Atlanta 2017",
+    "market_hash_name": "Sticker | Spiidi | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -289,17 +623,17 @@
       "dob": "1995-09-13",
       "geo": "DE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLijp_p-SsVvaGoPPBpJKnHC2LCl-8n5uVrGnG1zB5x5Tncwt2qI3yTaQQgXpN0E_lK7Efha4YPcw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLijp_p-SsVu6etMf0-c6KXWT_Ck-936bM5Fi21kRh0tjyHzI3_dS2XaQQjW5MjQflK7EfEFIN8ag",
     "original": {
-      "name": "atlanta2017_signature_spiidi",
-      "image_inventory": "econ/stickers/atlanta2017/sig_spiidi"
+      "name": "cologne2016_signature_spiidi",
+      "image_inventory": "econ/stickers/cologne2016/sig_spiidi"
     }
   },
   {
-    "id": "sticker-1935",
-    "name": "Sticker | Spiidi (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Timo Richter playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1935",
+    "id": "sticker-1497",
+    "name": "Sticker | Spiidi (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Timo Richter playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1497",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -307,18 +641,18 @@
     },
     "crates": [
       {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
+        "id": "crate-4256",
+        "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHmexwkUh5TvRz9_9dimebgF1WZYmFudYtkaxxtGyMurltg3Z2toXniv8kGoXudOlkdld"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Spiidi (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | Spiidi (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -333,17 +667,17 @@
       "dob": "1995-09-13",
       "geo": "DE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLijp_p-Stk6f2nZOo7JPLGWWXJxewj6LY4TSzrzU5y5DzTzo6gIn6XO1UpDMNxROcO50S4jJS5YCqNczkZ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLijp_p-Stk6f2nZOo4c_TBVjeTkbp1sbE5Hy_nlkUltWuHzduqcn6QZlQpWZN4RO8NsxS9jJS5YEsDXNJ3",
     "original": {
-      "name": "atlanta2017_signature_spiidi_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_spiidi_foil"
+      "name": "cologne2016_signature_spiidi_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_spiidi_foil"
     }
   },
   {
-    "id": "sticker-1936",
-    "name": "Sticker | Spiidi (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Timo Richter playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1936",
+    "id": "sticker-1498",
+    "name": "Sticker | Spiidi (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Timo Richter playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1498",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -355,8 +689,8 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -371,17 +705,17 @@
       "dob": "1995-09-13",
       "geo": "DE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_spiidi_gold.1362fe2b10ada60a959ced3502eeb553a69ca2e7.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_spiidi_gold.84794414f2bbc2c4ab8161da11cb41a8b07e7182.png",
     "original": {
-      "name": "atlanta2017_signature_spiidi_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_spiidi_gold"
+      "name": "cologne2016_signature_spiidi_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_spiidi_gold"
     }
   },
   {
-    "id": "sticker-1937",
-    "name": "Sticker | loWel | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Christian Garcia Antoran playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1937",
+    "id": "sticker-1499",
+    "name": "Sticker | nex | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Johannes Maget playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1499",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -389,18 +723,18 @@
     },
     "crates": [
       {
-        "id": "crate-4336",
-        "name": "Autograph Capsule | mousesports | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL8jYWu_3QJuaqsafc0d6iSVzfCxO0u5eQ-S3yyk0witzuGm4ygdi6Taw5zCowwG7AXM-6Z9g"
+        "id": "crate-4264",
+        "name": "Autograph Capsule | mousesports | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL8jYWuqXFfuvf-bPc9cfPDWjDGl7kms7VoHyjrkURx4WuAwtr4d3iRbwQiD4wwG7AivHoSFg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | loWel | Atlanta 2017",
+    "market_hash_name": "Sticker | nex | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -409,23 +743,23 @@
       "name": "mousesports"
     },
     "player": {
-      "id": 34456844,
-      "name": "loWel",
-      "code": "lowel",
-      "dob": "1996-12-11",
-      "geo": "ES"
+      "id": 90378773,
+      "name": "nex",
+      "code": "nex",
+      "dob": "1992-06-20",
+      "geo": "DE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL9kYHl8WxYuqP-P6ZvdKiQCGPAmLku47dvTSq2kRkl4DvTmYusIi6QZwYhXpJ2W6dU5fdZ8sfC",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL_m46upXoCuaL9Ofc9d_LBWjTDlr8gsedqSnDjxUty4jmDzNmsJX6QPFcgCIwwG7D9jop7hg",
     "original": {
-      "name": "atlanta2017_signature_lowel",
-      "image_inventory": "econ/stickers/atlanta2017/sig_lowel"
+      "name": "cologne2016_signature_nex",
+      "image_inventory": "econ/stickers/cologne2016/sig_nex"
     }
   },
   {
-    "id": "sticker-1938",
-    "name": "Sticker | loWel (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Christian Garcia Antoran playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1938",
+    "id": "sticker-1500",
+    "name": "Sticker | nex (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Johannes Maget playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1500",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -433,18 +767,18 @@
     },
     "crates": [
       {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
+        "id": "crate-4256",
+        "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHmexwkUh5TvRz9_9dimebgF1WZYmFudYtkaxxtGyMurltg3Z2toXniv8kGoXudOlkdld"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | loWel (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | nex (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -453,23 +787,23 @@
       "name": "mousesports"
     },
     "player": {
-      "id": 34456844,
-      "name": "loWel",
-      "code": "lowel",
-      "dob": "1996-12-11",
-      "geo": "ES"
+      "id": 90378773,
+      "name": "nex",
+      "code": "nex",
+      "dob": "1992-06-20",
+      "geo": "DE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL9kYHl8R1d4PuiJqFud6jEX2KTle9ztOM6TH_rl0536juDytv8I3zBagZxWMdyQO8NsxOm0oqwXg8LeJg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL_m47f-y1S47yva6dsefTBXTbHxe8v5-U5GHHkwUx-tmuBydz9dS7DPFN0C8NwFOYKrFDmxTt788VG",
     "original": {
-      "name": "atlanta2017_signature_lowel_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_lowel_foil"
+      "name": "cologne2016_signature_nex_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_nex_foil"
     }
   },
   {
-    "id": "sticker-1939",
-    "name": "Sticker | loWel (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Christian Garcia Antoran playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1939",
+    "id": "sticker-1501",
+    "name": "Sticker | nex (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Johannes Maget playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1501",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -481,8 +815,8 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -491,23 +825,23 @@
       "name": "mousesports"
     },
     "player": {
-      "id": 34456844,
-      "name": "loWel",
-      "code": "lowel",
-      "dob": "1996-12-11",
-      "geo": "ES"
+      "id": 90378773,
+      "name": "nex",
+      "code": "nex",
+      "dob": "1992-06-20",
+      "geo": "DE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_lowel_gold.46ca2b4af73eecb82de9677ac725c07406184288.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_nex_gold.86a5b412db6b8bc6b9cf8bc25b1db27ac0c9dd9c.png",
     "original": {
-      "name": "atlanta2017_signature_lowel_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_lowel_gold"
+      "name": "cologne2016_signature_nex_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_nex_gold"
     }
   },
   {
-    "id": "sticker-1940",
-    "name": "Sticker | NiKo | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Nikola Kovač playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1940",
+    "id": "sticker-1502",
+    "name": "Sticker | NiKo | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Nikola Kovač playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1502",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -515,62 +849,18 @@
     },
     "crates": [
       {
-        "id": "crate-4336",
-        "name": "Autograph Capsule | mousesports | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL8jYWu_3QJuaqsafc0d6iSVzfCxO0u5eQ-S3yyk0witzuGm4ygdi6Taw5zCowwG7AXM-6Z9g"
+        "id": "crate-4264",
+        "name": "Autograph Capsule | mousesports | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL8jYWuqXFfuvf-bPc9cfPDWjDGl7kms7VoHyjrkURx4WuAwtr4d3iRbwQiD4wwG7AivHoSFg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | NiKo | Atlanta 2017",
+    "market_hash_name": "Sticker | NiKo | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 29,
-      "tag": "mss",
-      "geo": "EU",
-      "name": "mousesports"
-    },
-    "player": {
-      "id": 81417650,
-      "name": "NiKo",
-      "code": "niko",
-      "dob": "1997-02-16",
-      "geo": "BA"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL_l53vsyNdvaT6OqJvIvSQDGWTmb0mtbJqGXqylk515m6Dz9epIi3FPQNxAsduBbldwjyCBBw",
-    "original": {
-      "name": "atlanta2017_signature_niko",
-      "image_inventory": "econ/stickers/atlanta2017/sig_niko"
-    }
-  },
-  {
-    "id": "sticker-1941",
-    "name": "Sticker | NiKo (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Nikola Kovač playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1941",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | NiKo (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -585,30 +875,36 @@
       "dob": "1997-02-16",
       "geo": "BA"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL_l53vwiRU5v7gOvw4I6XHXjDAwrwhtLg5TH7mwB5-tWiEyIuhIHOQbVckXsd0F-IDtQ74zIPC5Ufjdg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL_l53vs3cNvKT3O6BrIvbED2GUk-x1srNsGSq3zBh2sj_Uyt2qI3mWP1MoC5BuBbldZY1TYJE",
     "original": {
-      "name": "atlanta2017_signature_niko_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_niko_foil"
+      "name": "cologne2016_signature_niko",
+      "image_inventory": "econ/stickers/cologne2016/sig_niko"
     }
   },
   {
-    "id": "sticker-1942",
-    "name": "Sticker | NiKo (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Nikola Kovač playing for mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1942",
+    "id": "sticker-1503",
+    "name": "Sticker | NiKo (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Nikola Kovač playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1503",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
       "color": "#d32ce6"
     },
-    "crates": [],
+    "crates": [
+      {
+        "id": "crate-4256",
+        "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHmexwkUh5TvRz9_9dimebgF1WZYmFudYtkaxxtGyMurltg3Z2toXniv8kGoXudOlkdld"
+      }
+    ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
+    "market_hash_name": "Sticker | NiKo (Foil) | Cologne 2016",
+    "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 29,
@@ -623,17 +919,55 @@
       "dob": "1997-02-16",
       "geo": "BA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_niko_gold.6febb7c6efb28eb60f44b2195e8df24810c3592a.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL_l53vwiRU5v7gbfJvJKDHVzPFmO905LU_HnrgzUsl5GyAy9v7IHLFPVUjD8AmReNY4A74zINZGxgncw",
     "original": {
-      "name": "atlanta2017_signature_niko_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_niko_gold"
+      "name": "cologne2016_signature_niko_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_niko_foil"
     }
   },
   {
-    "id": "sticker-1943",
-    "name": "Sticker | Edward | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1943",
+    "id": "sticker-1504",
+    "name": "Sticker | NiKo (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Nikola Kovač playing for mousesports at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1504",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "player": {
+      "id": 81417650,
+      "name": "NiKo",
+      "code": "niko",
+      "dob": "1997-02-16",
+      "geo": "BA"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_niko_gold.ff0f630bcd81a58e2d3da3df15bcd8ecf5e2c8a7.png",
+    "original": {
+      "name": "cologne2016_signature_niko_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_niko_gold"
+    }
+  },
+  {
+    "id": "sticker-1505",
+    "name": "Sticker | Edward | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1505",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -641,18 +975,18 @@
     },
     "crates": [
       {
-        "id": "crate-4337",
-        "name": "Autograph Capsule | Natus Vincere | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_n4Dps3cLuPP2O_I5daGXDDLHmbskteRrTCzlwx515GjVno2hJHqeblJ1DJZuBbldVL9EeP0"
+        "id": "crate-4265",
+        "name": "Autograph Capsule | Natus Vincere | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL_n4DpsyQNuPOsaac7caiXWjSVw-om4Lc7HXGxlEsm4TyAn9ivIi6SPVAgCZtuBbld7wae4Ps"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Edward | Atlanta 2017",
+    "market_hash_name": "Sticker | Edward | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -667,17 +1001,17 @@
       "dob": "1987-12-28",
       "geo": "UA"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL0moHh7yYVvqesMfQ9eKXFW2LGwrwm57NrS33hzEwh5zzRm9v4cX_DOFdyW8F2R_lK7EcRauJx0Q",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL0moHh7yYV7vOva_E0caWVWmTGl-8lsrFqGHG2lBx0sGqDyNipeC2RP1InD5UiQPlK7EfxFE-CQg",
     "original": {
-      "name": "atlanta2017_signature_edward",
-      "image_inventory": "econ/stickers/atlanta2017/sig_edward"
+      "name": "cologne2016_signature_edward",
+      "image_inventory": "econ/stickers/cologne2016/sig_edward"
     }
   },
   {
-    "id": "sticker-1944",
-    "name": "Sticker | Edward (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1944",
+    "id": "sticker-1506",
+    "name": "Sticker | Edward (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1506",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -685,18 +1019,18 @@
     },
     "crates": [
       {
-        "id": "crate-4326",
-        "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHWe3wEh252Tcmd36dnqSawAlDpEhTbIDs0TqldXnZLmx4Q2I399CmSX7kGoXuUIbHrUy"
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Edward (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | Edward (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -711,17 +1045,17 @@
       "dob": "1987-12-28",
       "geo": "UA"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL0moHh7yZk6f2nZOo1JaCRXTLIx7d15-M7SivlkUQhtjmBz9n9JXPCaFJ2XMElQuAPsES9jJS5YJmicRrT",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL0moHh7yZk6f2nZOpucKDAWTPDwrkj5LNtSizqkE8j4GjRzNuvdn3GOFQiCsEjRrNf4ES_jJS5YBTW_fOu",
     "original": {
-      "name": "atlanta2017_signature_edward_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_edward_foil"
+      "name": "cologne2016_signature_edward_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_edward_foil"
     }
   },
   {
-    "id": "sticker-1945",
-    "name": "Sticker | Edward (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1945",
+    "id": "sticker-1507",
+    "name": "Sticker | Edward (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1507",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -733,8 +1067,8 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -749,17 +1083,17 @@
       "dob": "1987-12-28",
       "geo": "UA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_edward_gold.dfffc2d14e179a699d3ade8ed4f114ae4d48f99f.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_edward_gold.0a9c2fabd202fba85e351b34ae4efac2deaf287c.png",
     "original": {
-      "name": "atlanta2017_signature_edward_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_edward_gold"
+      "name": "cologne2016_signature_edward_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_edward_gold"
     }
   },
   {
-    "id": "sticker-1946",
-    "name": "Sticker | flamie | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1946",
+    "id": "sticker-1508",
+    "name": "Sticker | flamie | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1508",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -767,18 +1101,18 @@
     },
     "crates": [
       {
-        "id": "crate-4337",
-        "name": "Autograph Capsule | Natus Vincere | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_n4Dps3cLuPP2O_I5daGXDDLHmbskteRrTCzlwx515GjVno2hJHqeblJ1DJZuBbldVL9EeP0"
+        "id": "crate-4265",
+        "name": "Autograph Capsule | Natus Vincere | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL_n4DpsyQNuPOsaac7caiXWjSVw-om4Lc7HXGxlEsm4TyAn9ivIi6SPVAgCZtuBbld7wae4Ps"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | flamie | Atlanta 2017",
+    "market_hash_name": "Sticker | flamie | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -793,17 +1127,17 @@
       "dob": "1997-04-05",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3kpft9CcVuKD3OvVsd6DHVmPAmL135eJtTCzixhsisT6BztqvdiiWb1N0DsYhQPlK7EdBR52nOg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL3kpft9CcVuKv6OP0_JqCQVz6Skesh5rA8GS-wl0V1sGyDzNz6In6WawIhDpIlTPlK7Ec0JdT-Mw",
     "original": {
-      "name": "atlanta2017_signature_flamie",
-      "image_inventory": "econ/stickers/atlanta2017/sig_flamie"
+      "name": "cologne2016_signature_flamie",
+      "image_inventory": "econ/stickers/cologne2016/sig_flamie"
     }
   },
   {
-    "id": "sticker-1947",
-    "name": "Sticker | flamie (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1947",
+    "id": "sticker-1509",
+    "name": "Sticker | flamie (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1509",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -811,18 +1145,18 @@
     },
     "crates": [
       {
-        "id": "crate-4326",
-        "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHWe3wEh252Tcmd36dnqSawAlDpEhTbIDs0TqldXnZLmx4Q2I399CmSX7kGoXuUIbHrUy"
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | flamie (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | flamie (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -837,17 +1171,17 @@
       "dob": "1997-04-05",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3kpft9Cdk6f2nZOo7cfPBWzbJkOt14uUwHyq1wEV-6mjTnt-rd3qfalBxWcNzEeZZuhPsjJS5YASfllYo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL3kpft9Cdk6f2nZOo0dPTKWGPBwOp3sbQ_Tnq1lhtxsD7dzt_9eS2QZwNxWcR2FrIM4RO6jJS5YBR4hJeb",
     "original": {
-      "name": "atlanta2017_signature_flamie_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_flamie_foil"
+      "name": "cologne2016_signature_flamie_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_flamie_foil"
     }
   },
   {
-    "id": "sticker-1948",
-    "name": "Sticker | flamie (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1948",
+    "id": "sticker-1510",
+    "name": "Sticker | flamie (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1510",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -859,8 +1193,8 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -875,17 +1209,17 @@
       "dob": "1997-04-05",
       "geo": "RU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_flamie_gold.9442a0698855747f80e8beffb70179aefdc32488.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_flamie_gold.29e371499254133e4b54fbfab2aba16b47eec337.png",
     "original": {
-      "name": "atlanta2017_signature_flamie_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_flamie_gold"
+      "name": "cologne2016_signature_flamie_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_flamie_gold"
     }
   },
   {
-    "id": "sticker-1949",
-    "name": "Sticker | GuardiaN | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Ladislav Kovács playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1949",
+    "id": "sticker-1511",
+    "name": "Sticker | GuardiaN | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Ladislav Kovács playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1511",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -893,18 +1227,18 @@
     },
     "crates": [
       {
-        "id": "crate-4337",
-        "name": "Autograph Capsule | Natus Vincere | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_n4Dps3cLuPP2O_I5daGXDDLHmbskteRrTCzlwx515GjVno2hJHqeblJ1DJZuBbldVL9EeP0"
+        "id": "crate-4265",
+        "name": "Autograph Capsule | Natus Vincere | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL_n4DpsyQNuPOsaac7caiXWjSVw-om4Lc7HXGxlEsm4TyAn9ivIi6SPVAgCZtuBbld7wae4Ps"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | GuardiaN | Atlanta 2017",
+    "market_hash_name": "Sticker | GuardiaN | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -919,17 +1253,17 @@
       "dob": "1991-07-19",
       "geo": "SK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL2i5fy-Sta4byrO_U4dqTHCmSTmb8n4eAwHHHgxE5z6mXRztygc3ieZ1cmA5AlEOUCrFDmxfMHwfJ2",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL2i5fy-Sta4bz-bqA5cfXBDD7GmbZ14LdqFyrnzUtxsj7QyIz4I3iSPFAjWJBwFuIKrFDmxVvS1x89",
     "original": {
-      "name": "atlanta2017_signature_guardian",
-      "image_inventory": "econ/stickers/atlanta2017/sig_guardian"
+      "name": "cologne2016_signature_guardian",
+      "image_inventory": "econ/stickers/cologne2016/sig_guardian"
     }
   },
   {
-    "id": "sticker-1950",
-    "name": "Sticker | GuardiaN (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Ladislav Kovács playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1950",
+    "id": "sticker-1512",
+    "name": "Sticker | GuardiaN (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Ladislav Kovács playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1512",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -937,18 +1271,18 @@
     },
     "crates": [
       {
-        "id": "crate-4326",
-        "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHWe3wEh252Tcmd36dnqSawAlDpEhTbIDs0TqldXnZLmx4Q2I399CmSX7kGoXuUIbHrUy"
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | GuardiaN (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | GuardiaN (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -963,17 +1297,17 @@
       "dob": "1991-07-19",
       "geo": "SK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL2i5fy-Sta4c2oZ61hbvTHXGSUkbh3s7ExS3i3x0gi5GzTzNihdnnBPwd2A5p5FO9ftxW5ktf5d7S1tdCMdi0",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL2i5fy-Sta4c2oZ61hbqOWXzeTl7dz5uI4FiznlB5_5Dncytb7d32SOgchDcAhQrUKsxfrl4b5d7S1GDyzQ8I",
     "original": {
-      "name": "atlanta2017_signature_guardian_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_guardian_foil"
+      "name": "cologne2016_signature_guardian_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_guardian_foil"
     }
   },
   {
-    "id": "sticker-1951",
-    "name": "Sticker | GuardiaN (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Ladislav Kovács playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1951",
+    "id": "sticker-1513",
+    "name": "Sticker | GuardiaN (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Ladislav Kovács playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1513",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -985,8 +1319,8 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -1001,17 +1335,17 @@
       "dob": "1991-07-19",
       "geo": "SK"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_guardian_gold.f3fa5874a871c294c3375e2523f00d1fa95d35d7.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_guardian_gold.ace1df1facef41b29ba80d3bb1193cc4f8802e2b.png",
     "original": {
-      "name": "atlanta2017_signature_guardian_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_guardian_gold"
+      "name": "cologne2016_signature_guardian_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_guardian_gold"
     }
   },
   {
-    "id": "sticker-1952",
-    "name": "Sticker | seized | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Denis Kostin playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1952",
+    "id": "sticker-1514",
+    "name": "Sticker | seized | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Denis Kostin playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1514",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1019,18 +1353,18 @@
     },
     "crates": [
       {
-        "id": "crate-4337",
-        "name": "Autograph Capsule | Natus Vincere | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_n4Dps3cLuPP2O_I5daGXDDLHmbskteRrTCzlwx515GjVno2hJHqeblJ1DJZuBbldVL9EeP0"
+        "id": "crate-4265",
+        "name": "Autograph Capsule | Natus Vincere | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL_n4DpsyQNuPOsaac7caiXWjSVw-om4Lc7HXGxlEsm4TyAn9ivIi6SPVAgCZtuBbld7wae4Ps"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | seized | Atlanta 2017",
+    "market_hash_name": "Sticker | seized | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -1045,17 +1379,17 @@
       "dob": "1994-09-09",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLim5_6-CYVufD4OqE4d6HDWz7Gwrl06ec7Sy_nlkpysGrUzIr4JC2eP1IoD8AlQvlK7EfmkJlekQ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLim5_6-CYV7KKsP6Y8JKHHW2SUmbYk4bc7Siu1w051sDiHmdugeC6WblUkXsByTPlK7Ed2TqpJbA",
     "original": {
-      "name": "atlanta2017_signature_seized",
-      "image_inventory": "econ/stickers/atlanta2017/sig_seized"
+      "name": "cologne2016_signature_seized",
+      "image_inventory": "econ/stickers/cologne2016/sig_seized"
     }
   },
   {
-    "id": "sticker-1953",
-    "name": "Sticker | seized (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Denis Kostin playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1953",
+    "id": "sticker-1515",
+    "name": "Sticker | seized (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Denis Kostin playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1515",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1063,18 +1397,18 @@
     },
     "crates": [
       {
-        "id": "crate-4326",
-        "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHWe3wEh252Tcmd36dnqSawAlDpEhTbIDs0TqldXnZLmx4Q2I399CmSX7kGoXuUIbHrUy"
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | seized (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | seized (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -1089,17 +1423,17 @@
       "dob": "1994-09-09",
       "geo": "RU"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLim5_6-CZk6f2nZOpucqSVDTCWl7cu5bE5GX-yzEl-tm6GwtmpIHzEOw8mD8B1E7MKskbqjJS5YKDn86C1",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLim5_6-CZk6f2nZOppcaPHXWXAw-p1s-dqGX61zU9-6mrWyNyqJC-WbAVyDZsmEbNZ5BXujJS5YJ8bF5xk",
     "original": {
-      "name": "atlanta2017_signature_seized_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_seized_foil"
+      "name": "cologne2016_signature_seized_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_seized_foil"
     }
   },
   {
-    "id": "sticker-1954",
-    "name": "Sticker | seized (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Denis Kostin playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1954",
+    "id": "sticker-1516",
+    "name": "Sticker | seized (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Denis Kostin playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1516",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1111,8 +1445,8 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -1127,17 +1461,17 @@
       "dob": "1994-09-09",
       "geo": "RU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_seized_gold.5ab3db0f17976463c379e81f1f5b6bd5cef52527.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_seized_gold.a3bcdd4e75b57c2cac2b516b765f061e9ebda02f.png",
     "original": {
-      "name": "atlanta2017_signature_seized_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_seized_gold"
+      "name": "cologne2016_signature_seized_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_seized_gold"
     }
   },
   {
-    "id": "sticker-1955",
-    "name": "Sticker | s1mple | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Oleksandr Kostyliev playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1955",
+    "id": "sticker-1517",
+    "name": "Sticker | Zeus | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1517",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1145,18 +1479,18 @@
     },
     "crates": [
       {
-        "id": "crate-4337",
-        "name": "Autograph Capsule | Natus Vincere | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_n4Dps3cLuPP2O_I5daGXDDLHmbskteRrTCzlwx515GjVno2hJHqeblJ1DJZuBbldVL9EeP0"
+        "id": "crate-4265",
+        "name": "Autograph Capsule | Natus Vincere | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL_n4DpsyQNuPOsaac7caiXWjSVw-om4Lc7HXGxlEsm4TyAn9ivIi6SPVAgCZtuBbld7wae4Ps"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | s1mple | Atlanta 2017",
+    "market_hash_name": "Sticker | Zeus | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -1165,23 +1499,23 @@
       "name": "Natus Vincere"
     },
     "player": {
-      "id": 73936547,
-      "name": "s1mple",
-      "code": "s1mple",
-      "dob": "1997-10-02",
+      "id": 59062744,
+      "name": "Zeus",
+      "code": "zeus",
+      "dob": "1987-08-10",
       "geo": "UA"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLiz5vw8ScVvab2OvduI_OSWT6Slr5yseM4Siy1xR4i4DmHy9audCjEawd0X8QhF_lK7EfGhor-Yg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLrm4Pzs3Za7PD4P6I1dajEDz_HxOpw5-M5HHG2wkUk62zUyYn6dnORbQRxW5NuBbldk7VzZlg",
     "original": {
-      "name": "atlanta2017_signature_s1mple",
-      "image_inventory": "econ/stickers/atlanta2017/sig_s1mple"
+      "name": "cologne2016_signature_zeus",
+      "image_inventory": "econ/stickers/cologne2016/sig_zeus"
     }
   },
   {
-    "id": "sticker-1956",
-    "name": "Sticker | s1mple (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Oleksandr Kostyliev playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1956",
+    "id": "sticker-1518",
+    "name": "Sticker | Zeus (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1518",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1189,18 +1523,18 @@
     },
     "crates": [
       {
-        "id": "crate-4326",
-        "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHWe3wEh252Tcmd36dnqSawAlDpEhTbIDs0TqldXnZLmx4Q2I399CmSX7kGoXuUIbHrUy"
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | s1mple (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | Zeus (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -1209,23 +1543,23 @@
       "name": "Natus Vincere"
     },
     "player": {
-      "id": 73936547,
-      "name": "s1mple",
-      "code": "s1mple",
-      "dob": "1997-10-02",
+      "id": 59062744,
+      "name": "Zeus",
+      "code": "zeus",
+      "dob": "1987-08-10",
       "geo": "UA"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLiz5vw8Sdk6f2nZOo-IqHHDWPClb5w5udrTXHlkx9_t2WBzIv8dHzCZgQoX5RzF-8J4UO6jJS5YMvCvkYk",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLrm4PzwiRU5v7gbqA4JPTGWzXAx70l6bA5FnDhl0gk526GwtesdHqfPAYjDJAmRbIOtg74zIO5GDzmLQ",
     "original": {
-      "name": "atlanta2017_signature_s1mple_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_s1mple_foil"
+      "name": "cologne2016_signature_zeus_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_zeus_foil"
     }
   },
   {
-    "id": "sticker-1957",
-    "name": "Sticker | s1mple (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Oleksandr Kostyliev playing for Natus Vincere at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1957",
+    "id": "sticker-1519",
+    "name": "Sticker | Zeus (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1519",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1237,8 +1571,8 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
       "id": 12,
@@ -1247,23 +1581,23 @@
       "name": "Natus Vincere"
     },
     "player": {
-      "id": 73936547,
-      "name": "s1mple",
-      "code": "s1mple",
-      "dob": "1997-10-02",
+      "id": 59062744,
+      "name": "Zeus",
+      "code": "zeus",
+      "dob": "1987-08-10",
       "geo": "UA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_s1mple_gold.99880b4f6268c6966b1ff4dc83631ab5f8386486.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_zeus_gold.8fd663725c7a8d36e16c33397a01f087f6a44a84.png",
     "original": {
-      "name": "atlanta2017_signature_s1mple_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_s1mple_gold"
+      "name": "cologne2016_signature_zeus_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_zeus_gold"
     }
   },
   {
-    "id": "sticker-1958",
-    "name": "Sticker | znajder | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Andreas Lindberg playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1958",
+    "id": "sticker-1520",
+    "name": "Sticker | pyth | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Jacob Mourujärvi playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1520",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1271,43 +1605,43 @@
     },
     "crates": [
       {
-        "id": "crate-4334",
-        "name": "Autograph Capsule | GODSENT | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL2kZKu-ydf6aGsOKE7d6WRDWLCkrog47I4SX7nzEwisGiDyNeqdyqUOlJyDYwwG7BpmW6HMg"
+        "id": "crate-4258",
+        "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL_l4auq3Fevvb2OfA0ePSQDzDDmLp3s7BvTiyxx00msT_Xy9uuIyqePVB0CIwwG7A1sLoqmw"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | znajder | Atlanta 2017",
+    "market_hash_name": "Sticker | pyth | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 97816050,
-      "name": "znajder",
-      "code": "znajder",
-      "dob": "1993-05-18",
+      "id": 57312567,
+      "name": "pyth",
+      "code": "pyth",
+      "dob": "1993-09-21",
       "geo": "SE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLrkJfq-SdJoaeoOKdpI6CSDGWWlbki47E_Syrnl0Ul62TWzdz9dy6QZw8hDpZ1E-AU8k7v-dy74hM",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLhh4Los3Fet6OrPfE9c6bDXjWVxbghtOU4SX3qk0Ql5zvSmdz9cHmRPAIlCpduBbldCF9VofA",
     "original": {
-      "name": "atlanta2017_signature_znajder",
-      "image_inventory": "econ/stickers/atlanta2017/sig_znajder"
+      "name": "cologne2016_signature_pyth",
+      "image_inventory": "econ/stickers/cologne2016/sig_pyth"
     }
   },
   {
-    "id": "sticker-1959",
-    "name": "Sticker | znajder (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Andreas Lindberg playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1959",
+    "id": "sticker-1521",
+    "name": "Sticker | pyth (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Jacob Mourujärvi playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1521",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1315,43 +1649,43 @@
     },
     "crates": [
       {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | znajder (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | pyth (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 97816050,
-      "name": "znajder",
-      "code": "znajder",
-      "dob": "1993-05-18",
+      "id": 57312567,
+      "name": "pyth",
+      "code": "pyth",
+      "dob": "1993-09-21",
       "geo": "SE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLrkJfq-SdJ0PShYagjcKeVVzLBlu9ysrMwHijmkR5ytmrcmNysdH2XZwIlDcdyR-QC4xWwl8qnab3tT_gBeA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLhh4LowiRU5v7gPPNrIvPFXWbIkboj47I-HX3mw0V3627Xm938cymfa1VyApd1QrUKtw74zIMLejSQIg",
     "original": {
-      "name": "atlanta2017_signature_znajder_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_znajder_foil"
+      "name": "cologne2016_signature_pyth_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_pyth_foil"
     }
   },
   {
-    "id": "sticker-1960",
-    "name": "Sticker | znajder (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Andreas Lindberg playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1960",
+    "id": "sticker-1522",
+    "name": "Sticker | pyth (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Jacob Mourujärvi playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1522",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1363,33 +1697,33 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 97816050,
-      "name": "znajder",
-      "code": "znajder",
-      "dob": "1993-05-18",
+      "id": 57312567,
+      "name": "pyth",
+      "code": "pyth",
+      "dob": "1993-09-21",
       "geo": "SE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_znajder_gold.3b25e412d3c2718d7fd88af347a6a6f3502ee5fb.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_pyth_gold.762ad82e9887d924aeefd20e2eabb3728418ec10.png",
     "original": {
-      "name": "atlanta2017_signature_znajder_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_znajder_gold"
+      "name": "cologne2016_signature_pyth_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_pyth_gold"
     }
   },
   {
-    "id": "sticker-1961",
-    "name": "Sticker | Lekr0 | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Jonas Olofsson playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1961",
+    "id": "sticker-1523",
+    "name": "Sticker | f0rest | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Patrik Lindberg playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1523",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1397,43 +1731,43 @@
     },
     "crates": [
       {
-        "id": "crate-4334",
-        "name": "Autograph Capsule | GODSENT | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL2kZKu-ydf6aGsOKE7d6WRDWLCkrog47I4SX7nzEwisGiDyNeqdyqUOlJyDYwwG7BpmW6HMg"
+        "id": "crate-4258",
+        "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL_l4auq3Fevvb2OfA0ePSQDzDDmLp3s7BvTiyxx00msT_Xy9uuIyqePVB0CIwwG7A1sLoqmw"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Lekr0 | Atlanta 2017",
+    "market_hash_name": "Sticker | f0rest | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 1093135,
-      "name": "Lekr0",
-      "code": "lekro",
-      "dob": "1993-07-02",
+      "id": 93724,
+      "name": "f0rest",
+      "code": "forest",
+      "dob": "1988-06-10",
       "geo": "SE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL9m53y8mxYuqOqPKBoePLKXT_Akbon6bI4SXrgx0hzt2jXn96sd3zCbFJ1CZpyW6dU5QvLBMFN",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL3kYTl7jYVvvOqbfY9dKTGVj_Fxe0m4udqHC22xx524W7Qn4usdnORPQ4lD8d5QPlK7EeQY3qBdg",
     "original": {
-      "name": "atlanta2017_signature_lekro",
-      "image_inventory": "econ/stickers/atlanta2017/sig_lekro"
+      "name": "cologne2016_signature_forest",
+      "image_inventory": "econ/stickers/cologne2016/sig_forest"
     }
   },
   {
-    "id": "sticker-1962",
-    "name": "Sticker | Lekr0 (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Jonas Olofsson playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1962",
+    "id": "sticker-1524",
+    "name": "Sticker | f0rest (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Patrik Lindberg playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1524",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1441,43 +1775,43 @@
     },
     "crates": [
       {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Lekr0 (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | f0rest (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 1093135,
-      "name": "Lekr0",
-      "code": "lekro",
-      "dob": "1993-07-02",
+      "id": 93724,
+      "name": "f0rest",
+      "code": "forest",
+      "dob": "1988-06-10",
       "geo": "SE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL9m53y8h1d4PuiJqdscKeRVzGVkOty47c5THjkzU8k52_WzN2rdn-eZwMgCsdyQbEI5hWm0oqwYVa01L0",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL3kYTl7jZk6f2nZOo4IqSRWT7Dmbgm57g6GH7izE9-4mmGntmtcy3GZlciA5p1TOYO5xK6jJS5YJwS1ijN",
     "original": {
-      "name": "atlanta2017_signature_lekro_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_lekro_foil"
+      "name": "cologne2016_signature_forest_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_forest_foil"
     }
   },
   {
-    "id": "sticker-1963",
-    "name": "Sticker | Lekr0 (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Jonas Olofsson playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1963",
+    "id": "sticker-1525",
+    "name": "Sticker | f0rest (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Patrik Lindberg playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1525",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1489,33 +1823,33 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 1093135,
-      "name": "Lekr0",
-      "code": "lekro",
-      "dob": "1993-07-02",
+      "id": 93724,
+      "name": "f0rest",
+      "code": "forest",
+      "dob": "1988-06-10",
       "geo": "SE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_lekro_gold.a4bdbebb20287e38d05d7224a52ac6b03f143a07.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_forest_gold.fe5fbbc9800d590c104eaa757f9970e408461a6e.png",
     "original": {
-      "name": "atlanta2017_signature_lekro_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_lekro_gold"
+      "name": "cologne2016_signature_forest_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_forest_gold"
     }
   },
   {
-    "id": "sticker-1964",
-    "name": "Sticker | pronax | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Markus Wallsten playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1964",
+    "id": "sticker-1526",
+    "name": "Sticker | friberg | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Adam Friberg playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1526",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1523,43 +1857,43 @@
     },
     "crates": [
       {
-        "id": "crate-4334",
-        "name": "Autograph Capsule | GODSENT | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL2kZKu-ydf6aGsOKE7d6WRDWLCkrog47I4SX7nzEwisGiDyNeqdyqUOlJyDYwwG7BpmW6HMg"
+        "id": "crate-4258",
+        "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL_l4auq3Fevvb2OfA0ePSQDzDDmLp3s7BvTiyxx00msT_Xy9uuIyqePVB0CIwwG7A1sLoqmw"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | pronax | Atlanta 2017",
+    "market_hash_name": "Sticker | friberg | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 9419182,
-      "name": "pronax",
-      "code": "pronax",
-      "dob": "1991-06-24",
+      "id": 24295201,
+      "name": "friberg",
+      "code": "friberg",
+      "dob": "1991-10-19",
       "geo": "SE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLhjJnu_DoV7KL5PaE8dKeXWDHAxehy5LBrFn7gx08l5mnQnNn8cn_Db1QpA5VzRPlK7Edb3tZZdQ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL3jJ_i-DBcoaP-PP08JKHCWmLDwr0g4LY8Tiy3xEwj5mvTyNmreHzBaw8hDMB1EO8U8k7vHuTe_Vc",
     "original": {
-      "name": "atlanta2017_signature_pronax",
-      "image_inventory": "econ/stickers/atlanta2017/sig_pronax"
+      "name": "cologne2016_signature_friberg",
+      "image_inventory": "econ/stickers/cologne2016/sig_friberg"
     }
   },
   {
-    "id": "sticker-1965",
-    "name": "Sticker | pronax (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Markus Wallsten playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1965",
+    "id": "sticker-1527",
+    "name": "Sticker | friberg (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Adam Friberg playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1527",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1567,43 +1901,43 @@
     },
     "crates": [
       {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | pronax (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | friberg (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 9419182,
-      "name": "pronax",
-      "code": "pronax",
-      "dob": "1991-06-24",
+      "id": 24295201,
+      "name": "friberg",
+      "code": "friberg",
+      "dob": "1991-10-19",
       "geo": "SE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLhjJnu_Dpk6f2nZOo1IaaSXzGTke9147hrFyvjwE4isWrXz9moeHyWPFIhA5F1F7UCskbsjJS5YF7lcvxu",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL3jJ_i-DBc0PShYagjdaDGWjaTku90trM8TX3mkUpz62iHzt6td3iXZldxDMckEbUJ4xXuk8qnab1VsmONVw",
     "original": {
-      "name": "atlanta2017_signature_pronax_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_pronax_foil"
+      "name": "cologne2016_signature_friberg_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_friberg_foil"
     }
   },
   {
-    "id": "sticker-1966",
-    "name": "Sticker | pronax (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Markus Wallsten playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1966",
+    "id": "sticker-1528",
+    "name": "Sticker | friberg (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Adam Friberg playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1528",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1615,33 +1949,33 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 9419182,
-      "name": "pronax",
-      "code": "pronax",
-      "dob": "1991-06-24",
+      "id": 24295201,
+      "name": "friberg",
+      "code": "friberg",
+      "dob": "1991-10-19",
       "geo": "SE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_pronax_gold.77bf65e5e9e7e5258c45ca62e879cf22152d9568.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_friberg_gold.5ace0749ac513db4ae2e0240fe7801d670bdfc80.png",
     "original": {
-      "name": "atlanta2017_signature_pronax_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_pronax_gold"
+      "name": "cologne2016_signature_friberg_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_friberg_gold"
     }
   },
   {
-    "id": "sticker-1967",
-    "name": "Sticker | JW | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Jesper Wecksell playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1967",
+    "id": "sticker-1529",
+    "name": "Sticker | GeT_RiGhT | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Christopher Alesund playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1529",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1649,43 +1983,43 @@
     },
     "crates": [
       {
-        "id": "crate-4334",
-        "name": "Autograph Capsule | GODSENT | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL2kZKu-ydf6aGsOKE7d6WRDWLCkrog47I4SX7nzEwisGiDyNeqdyqUOlJyDYwwG7BpmW6HMg"
+        "id": "crate-4258",
+        "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL_l4auq3Fevvb2OfA0ePSQDzDDmLp3s7BvTiyxx00msT_Xy9uuIyqePVB0CIwwG7A1sLoqmw"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | JW | Atlanta 2017",
+    "market_hash_name": "Sticker | GeT_RiGhT | Cologne 2016",
     "effect": "Other",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 71288472,
-      "name": "JW",
-      "code": "jw",
-      "dob": "1995-02-23",
+      "id": 21771190,
+      "name": "GeT_RiGhT",
+      "code": "getright",
+      "dob": "1990-05-29",
       "geo": "SE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL7idjj_3ILu6utOvU8I6nGCmaWlLt16eQ7F3nkx00l4jiGm9yuICjCZg8kFNIuEu2S8sn-",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL2m4Ly9CVT-7z3aqdvdaOSCDHAmLZ35LZoGCrhwxt14j_TntitdHOSPVIkDJF3TOUOrFDmxQD-SvyC",
     "original": {
-      "name": "atlanta2017_signature_jw",
-      "image_inventory": "econ/stickers/atlanta2017/sig_jw"
+      "name": "cologne2016_signature_getright",
+      "image_inventory": "econ/stickers/cologne2016/sig_getright"
     }
   },
   {
-    "id": "sticker-1968",
-    "name": "Sticker | JW (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Jesper Wecksell playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1968",
+    "id": "sticker-1530",
+    "name": "Sticker | GeT_RiGhT (Foil) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Christopher Alesund playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1530",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1693,43 +2027,43 @@
     },
     "crates": [
       {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
+        "id": "crate-4257",
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHWfnlE506zvXwo78eCrBOgAnDcF0RO5b4RHsk4XiP-zq5QTfi9gWmCX2kGoXuQvgH8d7"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | JW (Foil) | Atlanta 2017",
+    "market_hash_name": "Sticker | GeT_RiGhT (Foil) | Cologne 2016",
     "effect": "Foil",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 71288472,
-      "name": "JW",
-      "code": "jw",
-      "dob": "1995-02-23",
+      "id": 21771190,
+      "name": "GeT_RiGhT",
+      "code": "getright",
+      "dob": "1990-05-29",
       "geo": "SE"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL7ianm8itXoaurMfw-c_PKVmTBk-pytbVqHXvmw0xzsjjQw9urcXifaAQjWZYmReMU8k7vh5rjrbw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL2m4Ly9CVT-82oZ61hbvPCWD_Bw7t15uIwGyjhwkx1tW-En9mgcXmUbAN2XJJyReML4RC9x935d7S1Nh8jAXY",
     "original": {
-      "name": "atlanta2017_signature_jw_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_jw_foil"
+      "name": "cologne2016_signature_getright_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_getright_foil"
     }
   },
   {
-    "id": "sticker-1969",
-    "name": "Sticker | JW (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Jesper Wecksell playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1969",
+    "id": "sticker-1531",
+    "name": "Sticker | GeT_RiGhT (Gold) | Cologne 2016",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Christopher Alesund playing for Ninjas in Pyjamas at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "1531",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -1741,908 +2075,26 @@
     "market_hash_name": null,
     "effect": "Gold",
     "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
+      "id": 10,
+      "name": "2016 ESL One Cologne"
     },
     "team": {
-      "id": 67,
-      "tag": "GOD",
+      "id": 1,
+      "tag": "NiP",
       "geo": "SE",
-      "name": "GODSENT"
+      "name": "Ninjas in Pyjamas"
     },
     "player": {
-      "id": 71288472,
-      "name": "JW",
-      "code": "jw",
-      "dob": "1995-02-23",
+      "id": 21771190,
+      "name": "GeT_RiGhT",
+      "code": "getright",
+      "dob": "1990-05-29",
       "geo": "SE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_jw_gold.c4fd97e15deeadadffbd8d0540ebff116adcca20.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_getright_gold.92bb5f642d570218826542261ae14d24a40f351d.png",
     "original": {
-      "name": "atlanta2017_signature_jw_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_jw_gold"
-    }
-  },
-  {
-    "id": "sticker-1970",
-    "name": "Sticker | flusha | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Robin Rönnquist playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1970",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4334",
-        "name": "Autograph Capsule | GODSENT | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL2kZKu-ydf6aGsOKE7d6WRDWLCkrog47I4SX7nzEwisGiDyNeqdyqUOlJyDYwwG7BpmW6HMg"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | flusha | Atlanta 2017",
-    "effect": "Other",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 67,
-      "tag": "GOD",
-      "geo": "SE",
-      "name": "GODSENT"
-    },
-    "player": {
-      "id": 31082355,
-      "name": "flusha",
-      "code": "flusha",
-      "dob": "1993-08-12",
-      "geo": "SE"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3koPz9SMVvqD3OKc0efHKVzSSw-8g47EwFyvlk0l3t23WwoqrJCqeOAFzCZBzRvlK7EegGCAIiQ",
-    "original": {
-      "name": "atlanta2017_signature_flusha",
-      "image_inventory": "econ/stickers/atlanta2017/sig_flusha"
-    }
-  },
-  {
-    "id": "sticker-1971",
-    "name": "Sticker | flusha (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Robin Rönnquist playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1971",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | flusha (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 67,
-      "tag": "GOD",
-      "geo": "SE",
-      "name": "GODSENT"
-    },
-    "player": {
-      "id": 31082355,
-      "name": "flusha",
-      "code": "flusha",
-      "dob": "1993-08-12",
-      "geo": "SE"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3koPz9SNk6f2nZOppIaWQWWbClO8n6ONoSXzrw0R-4GrVzY2odHrGaFUpAsR1E7IP5xjsjJS5YNsHuWiw",
-    "original": {
-      "name": "atlanta2017_signature_flusha_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_flusha_foil"
-    }
-  },
-  {
-    "id": "sticker-1972",
-    "name": "Sticker | flusha (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Robin Rönnquist playing for GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1972",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 67,
-      "tag": "GOD",
-      "geo": "SE",
-      "name": "GODSENT"
-    },
-    "player": {
-      "id": 31082355,
-      "name": "flusha",
-      "code": "flusha",
-      "dob": "1993-08-12",
-      "geo": "SE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_flusha_gold.acd9938deec7c60d649c527070ed22c5faf667cf.png",
-    "original": {
-      "name": "atlanta2017_signature_flusha_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_flusha_gold"
-    }
-  },
-  {
-    "id": "sticker-1973",
-    "name": "Sticker | cajunb | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player René Borg playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1973",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4338",
-        "name": "Autograph Capsule | North | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_kYSu-HBavKX4O6VsJvLDWD-WxbYj6LhsSyq2xExysWXVytb_cHnGaQMjWIwwG7Cm3du-pQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | cajunb | Atlanta 2017",
-    "effect": "Other",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 18062315,
-      "name": "cajunb",
-      "code": "cajunb",
-      "dob": "1989-12-13",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLyn5z18yAVuqv-avA1dfbAVzSWkLp15uA9S3jrzBwk5mjTztz7cymQbQ51CpV1R_lK7EeftU2QWg",
-    "original": {
-      "name": "atlanta2017_signature_cajunb",
-      "image_inventory": "econ/stickers/atlanta2017/sig_cajunb"
-    }
-  },
-  {
-    "id": "sticker-1974",
-    "name": "Sticker | cajunb (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player René Borg playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1974",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | cajunb (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 18062315,
-      "name": "cajunb",
-      "code": "cajunb",
-      "dob": "1989-12-13",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLyn5z18yBk6f2nZOpvdPXHCzSWlusl47loGC3rxBsl5GnSmNevcC-RaFJzA8FwR-ZZukbrjJS5YDeDVGyx",
-    "original": {
-      "name": "atlanta2017_signature_cajunb_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_cajunb_foil"
-    }
-  },
-  {
-    "id": "sticker-1975",
-    "name": "Sticker | cajunb (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player René Borg playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1975",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 18062315,
-      "name": "cajunb",
-      "code": "cajunb",
-      "dob": "1989-12-13",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_cajunb_gold.c38a79fcbd3bfa796489a4fa43522eb633a8fecb.png",
-    "original": {
-      "name": "atlanta2017_signature_cajunb_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_cajunb_gold"
-    }
-  },
-  {
-    "id": "sticker-1976",
-    "name": "Sticker | MSL | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Mathias Sommer Lauridsen playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1976",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4338",
-        "name": "Autograph Capsule | North | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_kYSu-HBavKX4O6VsJvLDWD-WxbYj6LhsSyq2xExysWXVytb_cHnGaQMjWIwwG7Cm3du-pQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | MSL | Atlanta 2017",
-    "effect": "Other",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 24134891,
-      "name": "MSL",
-      "code": "msl",
-      "dob": "1994-12-06",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8jZquqyQItqCta6E5JvOQVmLIkL0m6OA-GCqykxtw5DjSy96pI36SOlIhCIwwG7DwkA71dg",
-    "original": {
-      "name": "atlanta2017_signature_msl",
-      "image_inventory": "econ/stickers/atlanta2017/sig_msl"
-    }
-  },
-  {
-    "id": "sticker-1977",
-    "name": "Sticker | MSL (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Mathias Sommer Lauridsen playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1977",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | MSL (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 24134891,
-      "name": "MSL",
-      "code": "msl",
-      "dob": "1994-12-06",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8jZrf-y1S47z4Mfw0cqTLDGHHmOou5bk8FnjlwR9z4j6Az96hc3nCalIgX8RxQrUMrFDmxdIEncXa",
-    "original": {
-      "name": "atlanta2017_signature_msl_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_msl_foil"
-    }
-  },
-  {
-    "id": "sticker-1978",
-    "name": "Sticker | MSL (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Mathias Sommer Lauridsen playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1978",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 24134891,
-      "name": "MSL",
-      "code": "msl",
-      "dob": "1994-12-06",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_msl_gold.3fb9f404d397b158a86254fb4a7dc195d0c94e0d.png",
-    "original": {
-      "name": "atlanta2017_signature_msl_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_msl_gold"
-    }
-  },
-  {
-    "id": "sticker-1979",
-    "name": "Sticker | Magisk | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Emil Hoffmann Reif playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1979",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4338",
-        "name": "Autograph Capsule | North | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_kYSu-HBavKX4O6VsJvLDWD-WxbYj6LhsSyq2xExysWXVytb_cHnGaQMjWIwwG7Cm3du-pQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Magisk | Atlanta 2017",
-    "effect": "Other",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 23690923,
-      "name": "Magisk",
-      "code": "magisk",
-      "dob": "1998-03-05",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8n5Hp7ikVtqGoPfU-dfTKXzbDke0m4bM_Hi_ml0914m3Ww9ytJSmSbQEnCMZ3TflK7EcabynYvg",
-    "original": {
-      "name": "atlanta2017_signature_magisk",
-      "image_inventory": "econ/stickers/atlanta2017/sig_magisk"
-    }
-  },
-  {
-    "id": "sticker-1980",
-    "name": "Sticker | Magisk (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Emil Hoffmann Reif playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1980",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Magisk (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 23690923,
-      "name": "Magisk",
-      "code": "magisk",
-      "dob": "1998-03-05",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8n5Hp7ilk6f2nZOo5eaSWVjPFw-1357Q-SS-3zUt24DjRz4yqIi3EawEoCMElFLMIskPsjJS5YOuJR2J_",
-    "original": {
-      "name": "atlanta2017_signature_magisk_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_magisk_foil"
-    }
-  },
-  {
-    "id": "sticker-1981",
-    "name": "Sticker | Magisk (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Emil Hoffmann Reif playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1981",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 23690923,
-      "name": "Magisk",
-      "code": "magisk",
-      "dob": "1998-03-05",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_magisk_gold.07d4235e7839e03ad5de18e96f0c5edab4ee88d5.png",
-    "original": {
-      "name": "atlanta2017_signature_magisk_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_magisk_gold"
-    }
-  },
-  {
-    "id": "sticker-1982",
-    "name": "Sticker | RUBINO | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Ruben Villarroel playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1982",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4338",
-        "name": "Autograph Capsule | North | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_kYSu-HBavKX4O6VsJvLDWD-WxbYj6LhsSyq2xExysWXVytb_cHnGaQMjWIwwG7Cm3du-pQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | RUBINO | Atlanta 2017",
-    "effect": "Other",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 35103983,
-      "name": "RUBINO",
-      "code": "rubino",
-      "dob": "1994-03-21",
-      "geo": "NO"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLji5Tp8y0Vt6f4OaU9d6iXVz_GxLlytbNvSi_gxhwk4j_XmY2rd3iSbQRxDMQjEflK7EfQOqZc3g",
-    "original": {
-      "name": "atlanta2017_signature_rubino",
-      "image_inventory": "econ/stickers/atlanta2017/sig_rubino"
-    }
-  },
-  {
-    "id": "sticker-1983",
-    "name": "Sticker | RUBINO (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Ruben Villarroel playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1983",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | RUBINO (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 35103983,
-      "name": "RUBINO",
-      "code": "rubino",
-      "dob": "1994-03-21",
-      "geo": "NO"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLji5Tp8y1k6f2nZOo8dvTEXjXFw7gi5-BsHXnlxEwl4mjWzYn9dCrEb1MjW8F2Q7MMtkLrjJS5YDcrKwVV",
-    "original": {
-      "name": "atlanta2017_signature_rubino_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_rubino_foil"
-    }
-  },
-  {
-    "id": "sticker-1984",
-    "name": "Sticker | RUBINO (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Ruben Villarroel playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1984",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 35103983,
-      "name": "RUBINO",
-      "code": "rubino",
-      "dob": "1994-03-21",
-      "geo": "NO"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_rubino_gold.dd2e5879a117c1b52a4e7be69cf53cc18f857da8.png",
-    "original": {
-      "name": "atlanta2017_signature_rubino_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_rubino_gold"
-    }
-  },
-  {
-    "id": "sticker-1985",
-    "name": "Sticker | k0nfig | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Kristian Wienecke playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1985",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4338",
-        "name": "Autograph Capsule | North | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_kYSu-HBavKX4O6VsJvLDWD-WxbYj6LhsSyq2xExysWXVytb_cHnGaQMjWIwwG7Cm3du-pQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | k0nfig | Atlanta 2017",
-    "effect": "Other",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 19403447,
-      "name": "k0nfig",
-      "code": "k0nfig",
-      "dob": "1997-04-19",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6zpjm9CUVt6H_OfQ0dqGQWmKUlb0u4ec4Gi_mzR91sjnTyImhd32fblQpWcEmRPlK7EeqN8e3og",
-    "original": {
-      "name": "atlanta2017_signature_k0nfig",
-      "image_inventory": "econ/stickers/atlanta2017/sig_k0nfig"
-    }
-  },
-  {
-    "id": "sticker-1986",
-    "name": "Sticker | k0nfig (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Kristian Wienecke playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1986",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | k0nfig (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 19403447,
-      "name": "k0nfig",
-      "code": "k0nfig",
-      "dob": "1997-04-19",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6zpjm9CVk6f2nZOpud6aRVjeWx-8j47RsSnHqxkl_sDzTw4uuIy6XPQ4jW5EjTeAJsBjpjJS5YNQBJ61b",
-    "original": {
-      "name": "atlanta2017_signature_k0nfig_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_k0nfig_foil"
-    }
-  },
-  {
-    "id": "sticker-1987",
-    "name": "Sticker | k0nfig (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Kristian Wienecke playing for North at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1987",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "player": {
-      "id": 19403447,
-      "name": "k0nfig",
-      "code": "k0nfig",
-      "dob": "1997-04-19",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_k0nfig_gold.d6d1639cb289fa0eba870cead9f9197c5d59b1b3.png",
-    "original": {
-      "name": "atlanta2017_signature_k0nfig_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_k0nfig_gold"
-    }
-  },
-  {
-    "id": "sticker-1988",
-    "name": "Sticker | jdm64 | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Joshua Marzano playing for Team Liquid at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1988",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4341",
-        "name": "Autograph Capsule | Team Liquid | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL9l4eupXBY6_H3OvZvdvPFXGGTxbkms7VoGSvllk0jsD6Gzo39dSmQaQUjCIwwG7DGwCwxPQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | jdm64 | Atlanta 2017",
-    "effect": "Other",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
-    },
-    "player": {
-      "id": 7223652,
-      "name": "jdm64",
-      "code": "jdm64",
-      "dob": "1990-05-20",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL7mpu2qWwIvaD3OPA1JaXGWmPAxLol4LJoSXiyxB504m3UmdmgcH_EPwAgDpN0W6dU5eaLYaEP",
-    "original": {
-      "name": "atlanta2017_signature_jdm64",
-      "image_inventory": "econ/stickers/atlanta2017/sig_jdm64"
-    }
-  },
-  {
-    "id": "sticker-1989",
-    "name": "Sticker | jdm64 (Foil) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Joshua Marzano playing for Team Liquid at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1989",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4326",
-        "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHWe3wEh252Tcmd36dnqSawAlDpEhTbIDs0TqldXnZLmx4Q2I399CmSX7kGoXuUIbHrUy"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | jdm64 (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
-    },
-    "player": {
-      "id": 7223652,
-      "name": "jdm64",
-      "code": "jdm64",
-      "dob": "1990-05-20",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL7mpu2qR1d4PuiJvRvIvOXXmKWwrp16bE_Fiu2kRsl4WSDm9utJy7CaVNyXMZ2EbIKuhem0oqwe2IdQzE",
-    "original": {
-      "name": "atlanta2017_signature_jdm64_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_jdm64_foil"
-    }
-  },
-  {
-    "id": "sticker-1990",
-    "name": "Sticker | jdm64 (Gold) | Atlanta 2017",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Joshua Marzano playing for Team Liquid at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "1990",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 48,
-      "tag": "LIQ",
-      "geo": "US",
-      "name": "Team Liquid"
-    },
-    "player": {
-      "id": 7223652,
-      "name": "jdm64",
-      "code": "jdm64",
-      "dob": "1990-05-20",
-      "geo": "US"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_jdm64_gold.986554d09ece316bf0aab55ec8e002a35d90f1f9.png",
-    "original": {
-      "name": "atlanta2017_signature_jdm64_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_jdm64_gold"
+      "name": "cologne2016_signature_getright_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_getright_gold"
     }
   }
 ]

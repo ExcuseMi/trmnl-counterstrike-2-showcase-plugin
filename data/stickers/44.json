@@ -1,9 +1,9 @@
 [
   {
-    "id": "sticker-3084",
-    "name": "Sticker | autimatic (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Timothy Ta playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3084",
+    "id": "sticker-2568",
+    "name": "Sticker | fitch (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Bektiyar Bakhytov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2568",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -11,43 +11,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | autimatic (Foil) | London 2018",
+    "market_hash_name": "Sticker | fitch (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
     },
     "player": {
-      "id": 94605121,
-      "name": "autimatic",
-      "code": "autimatic",
-      "dob": "1996-10-09",
-      "geo": "US"
+      "id": 33208850,
+      "name": "fitch",
+      "code": "fitch",
+      "dob": "1992-07-15",
+      "geo": "KZ"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhzkip_t_DZS7M2oZ61hbqGWCjfGkr0i5bA7GCyxzUp04DnXz93_dHuQPVIgW8NyEOQLsRjtktP5d7S1tP9mNTA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhv4ipXowiRU5v7gaf04canAX2HHwux35bRrHX7ix0Uh5WiHyIyreC3BOFUjCMN3QuIJsg74zIMB3HDo0A",
     "original": {
-      "name": "london2018_signature_autimatic_foil",
-      "image_inventory": "econ/stickers/london2018/sig_autimatic_foil"
+      "name": "boston2018_signature_fitch_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_fitch_foil"
     }
   },
   {
-    "id": "sticker-3085",
-    "name": "Sticker | autimatic (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Timothy Ta playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3085",
+    "id": "sticker-2569",
+    "name": "Sticker | fitch (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Bektiyar Bakhytov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2569",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -55,43 +60,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | autimatic (Gold) | London 2018",
+    "market_hash_name": "Sticker | fitch (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
     },
     "player": {
-      "id": 94605121,
-      "name": "autimatic",
-      "code": "autimatic",
-      "dob": "1996-10-09",
-      "geo": "US"
+      "id": 33208850,
+      "name": "fitch",
+      "code": "fitch",
+      "dob": "1992-07-15",
+      "geo": "KZ"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhzkip_t_DZS7M2pZ6hpbvGWCzTIx79zsbRtSS_mkU5ytW6HmYv9JHvGaAJ2CpYjEOcMthO4moH5d7S1aJ_oZ6c",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhv4ipXowiVU4_bgbPdsefHGVmTDkusktOJqHHm3l01y62_Xmd2tJy6SZw4lApZ3Te4D4w74zIOig4HMJA",
     "original": {
-      "name": "london2018_signature_autimatic_gold",
-      "image_inventory": "econ/stickers/london2018/sig_autimatic_gold"
+      "name": "boston2018_signature_fitch_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_fitch_gold"
     }
   },
   {
-    "id": "sticker-3086",
-    "name": "Sticker | RUSH | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player William Wierzba playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3086",
+    "id": "sticker-2570",
+    "name": "Sticker | Hobbit | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Abay Khassenov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2570",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -99,43 +109,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | RUSH | London 2018",
+    "market_hash_name": "Sticker | Hobbit | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
     },
     "player": {
-      "id": 63326592,
-      "name": "RUSH",
-      "code": "rush",
-      "dob": "1994-05-05",
-      "geo": "US"
+      "id": 68027030,
+      "name": "Hobbit",
+      "code": "hobbit",
+      "dob": "1994-05-18",
+      "geo": "KZ"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg_kjZ6u_HVf7KWtPvFoc6HCCj-Vluok6ec7HXjmxh91smiBm4v7IH6QagVyCYwwG7Dw8WY4oQ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhX-nJTp6WwO7qr6PfI6dqfDVjbDw7Z35bY-Fy23kRsj4WiGntyrc3qXOw8jW8ciW6dU5YnDXsHH",
     "original": {
-      "name": "london2018_signature_rush",
-      "image_inventory": "econ/stickers/london2018/sig_rush"
+      "name": "boston2018_signature_hobbit",
+      "image_inventory": "econ/stickers/boston2018/sig_hobbit"
     }
   },
   {
-    "id": "sticker-3087",
-    "name": "Sticker | RUSH (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player William Wierzba playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3087",
+    "id": "sticker-2571",
+    "name": "Sticker | Hobbit (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Abay Khassenov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2571",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -143,43 +158,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | RUSH (Foil) | London 2018",
+    "market_hash_name": "Sticker | Hobbit (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
     },
     "player": {
-      "id": 63326592,
-      "name": "RUSH",
-      "code": "rush",
-      "dob": "1994-05-05",
-      "geo": "US"
+      "id": 68027030,
+      "name": "Hobbit",
+      "code": "hobbit",
+      "dob": "1994-05-18",
+      "geo": "KZ"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg_kjZ7f-y1S47z-PfQ1IqOWCzGTxO114bBsFn7lxE504jmDnN6pdymTZwAiD8EiQ-8PrFDmxSBOrs24",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhX-nJTp6R1d4PuiJvQ_dPKRXjOUxLwl5ORtGiqyx0h1tjnSyY37I36QblVyCJtwTOUKuhWm0oqwXbs_cbc",
     "original": {
-      "name": "london2018_signature_rush_foil",
-      "image_inventory": "econ/stickers/london2018/sig_rush_foil"
+      "name": "boston2018_signature_hobbit_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_hobbit_foil"
     }
   },
   {
-    "id": "sticker-3088",
-    "name": "Sticker | RUSH (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player William Wierzba playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3088",
+    "id": "sticker-2572",
+    "name": "Sticker | Hobbit (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Abay Khassenov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2572",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -187,43 +207,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | RUSH (Gold) | London 2018",
+    "market_hash_name": "Sticker | Hobbit (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
     },
     "player": {
-      "id": 63326592,
-      "name": "RUSH",
-      "code": "rush",
-      "dob": "1994-05-05",
-      "geo": "US"
+      "id": 68027030,
+      "name": "Hobbit",
+      "code": "hobbit",
+      "dob": "1994-05-18",
+      "geo": "KZ"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg_kjZ7f-i1X67yrPaE0dKnBV2SRmL8v4eA_Fyjklh4ksG_TwtasIHPDPAYmW5B5FLFbrFDmxSAkjuwT",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhX-nJTp6R1c4P6qJqVvcvHECjbIwu10tec8TnDnk01wsj_RyIn4ICrFb1UkWZB2FrQItROm0oqwiWviY8g",
     "original": {
-      "name": "london2018_signature_rush_gold",
-      "image_inventory": "econ/stickers/london2018/sig_rush_gold"
+      "name": "boston2018_signature_hobbit_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_hobbit_gold"
     }
   },
   {
-    "id": "sticker-3089",
-    "name": "Sticker | STYKO | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Martin Styk playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3089",
+    "id": "sticker-2573",
+    "name": "Sticker | mou | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Rustem Telepov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2573",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -231,43 +256,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | STYKO | London 2018",
+    "market_hash_name": "Sticker | mou | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
     },
     "player": {
-      "id": 55928431,
-      "name": "STYKO",
-      "code": "styko",
-      "dob": "1996-02-23",
-      "geo": "SK"
+      "id": 52678767,
+      "name": "mou",
+      "code": "mou",
+      "dob": "1991-10-17",
+      "geo": "KZ"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7lh53vs3AK6qOvO6A8eKnGDD-Ww-gi47IxHnnhk08j4GjXm439d3ifaAMgCcNuBblda7H8zvE",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhD-i9iz-XYJt_H6P_RsdfPKDGaSmbcitLI4H3zrkRh25mzVmN39Ii6TPQ4oFNIuEh-kFe4c",
     "original": {
-      "name": "london2018_signature_styko",
-      "image_inventory": "econ/stickers/london2018/sig_styko"
+      "name": "boston2018_signature_mou",
+      "image_inventory": "econ/stickers/boston2018/sig_mou"
     }
   },
   {
-    "id": "sticker-3090",
-    "name": "Sticker | STYKO (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Martin Styk playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3090",
+    "id": "sticker-2574",
+    "name": "Sticker | mou (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Rustem Telepov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2574",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -275,43 +305,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | STYKO (Foil) | London 2018",
+    "market_hash_name": "Sticker | mou (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
     },
     "player": {
-      "id": 55928431,
-      "name": "STYKO",
-      "code": "styko",
-      "dob": "1996-02-23",
-      "geo": "SK"
+      "id": 52678767,
+      "name": "mou",
+      "code": "mou",
+      "dob": "1991-10-17",
+      "geo": "KZ"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7lh53vwiRU5v7gPqBvJvHFXjGSlrgk4rdqGS3nwUkkt2XUzomsJC7GaQYpDZIjQeJYtw74zIOnccQqlA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhD-i6nm8itXofSvMfRsI6jBCD-UxOgl5LRsHHG3xEUh4GTXzt79JXyebFQgC8d0FO4U8k7vaLJqikI",
     "original": {
-      "name": "london2018_signature_styko_foil",
-      "image_inventory": "econ/stickers/london2018/sig_styko_foil"
+      "name": "boston2018_signature_mou_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_mou_foil"
     }
   },
   {
-    "id": "sticker-3091",
-    "name": "Sticker | STYKO (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Martin Styk playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3091",
+    "id": "sticker-2575",
+    "name": "Sticker | mou (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Rustem Telepov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2575",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -319,43 +354,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | STYKO (Gold) | London 2018",
+    "market_hash_name": "Sticker | mou (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
     },
     "player": {
-      "id": 55928431,
-      "name": "STYKO",
-      "code": "styko",
-      "dob": "1996-02-23",
-      "geo": "SK"
+      "id": 52678767,
+      "name": "mou",
+      "code": "mou",
+      "dob": "1991-10-17",
+      "geo": "KZ"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7lh53vwiVU4_bgO6Y8JfSXWj7Ilblz4eA5S363wUpzt2-Hw9yrdSmRZgInApMhRuRb4w74zIN-a90p7A",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhD-i6nn8i5fofT-bac5eKKXXGXEx-xw6LkxFirklBwl42rUntapIyiQPw5xWJV2ELQU8k7v1MpfbV8",
     "original": {
-      "name": "london2018_signature_styko_gold",
-      "image_inventory": "econ/stickers/london2018/sig_styko_gold"
+      "name": "boston2018_signature_mou_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_mou_gold"
     }
   },
   {
-    "id": "sticker-3092",
-    "name": "Sticker | Skadoodle | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Tyler Latham playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3092",
+    "id": "sticker-2576",
+    "name": "Sticker | BIT | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Bruno Lima playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2576",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -363,43 +403,43 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Skadoodle | London 2018",
+    "market_hash_name": "Sticker | BIT | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 21075725,
-      "name": "Skadoodle",
-      "code": "skadoodle",
-      "dob": "1993-07-21",
-      "geo": "US"
+      "id": 9224396,
+      "name": "BIT",
+      "code": "bit",
+      "dob": "1990-07-16",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg76n5Lv8iZX6rz8P_A5JKjHWjLDl-135rRsHS3qw0wk5jiAyo6tI3qeaA8kA5F5TbZerFDmxWSXFAHw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfh_4itiy-XUD66WrPqFud6nBCDPAwLsitLM_F3_rw0hy52TXzoquJ3LBaVJ0FNIuEroq4Hso",
     "original": {
-      "name": "london2018_signature_skadoodle",
-      "image_inventory": "econ/stickers/london2018/sig_skadoodle"
+      "name": "boston2018_signature_bit",
+      "image_inventory": "econ/stickers/boston2018/sig_bit"
     }
   },
   {
-    "id": "sticker-3093",
-    "name": "Sticker | Skadoodle (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Tyler Latham playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3093",
+    "id": "sticker-2577",
+    "name": "Sticker | BIT (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Bruno Lima playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2577",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -407,43 +447,43 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Skadoodle (Foil) | London 2018",
+    "market_hash_name": "Sticker | BIT (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 21075725,
-      "name": "Skadoodle",
-      "code": "skadoodle",
-      "dob": "1993-07-21",
-      "geo": "US"
+      "id": 9224396,
+      "name": "BIT",
+      "code": "bit",
+      "dob": "1990-07-16",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg76n5Lv8iZX6s2oZ61hbvPDWTXBkbkmtbZqGHmww0VzsTzQzdageHmVZ1R2WMdxRO4JsBPqwdT5d7S1musejUg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfh_4iqnm8itXoaevPaE0cvTCXDaVlOwm5OQxGXzkxhh24WrVzdqqJ3ueP1dxDMB0RbEU8k7v86aBXk4",
     "original": {
-      "name": "london2018_signature_skadoodle_foil",
-      "image_inventory": "econ/stickers/london2018/sig_skadoodle_foil"
+      "name": "boston2018_signature_bit_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_bit_foil"
     }
   },
   {
-    "id": "sticker-3094",
-    "name": "Sticker | Skadoodle (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Tyler Latham playing for Cloud9 at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3094",
+    "id": "sticker-2578",
+    "name": "Sticker | BIT (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Bruno Lima playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2578",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -451,43 +491,43 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Skadoodle (Gold) | London 2018",
+    "market_hash_name": "Sticker | BIT (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 33,
-      "tag": "C9",
-      "geo": "US",
-      "name": "Cloud9"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 21075725,
-      "name": "Skadoodle",
-      "code": "skadoodle",
-      "dob": "1993-07-21",
-      "geo": "US"
+      "id": 9224396,
+      "name": "BIT",
+      "code": "bit",
+      "dob": "1990-07-16",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg76n5Lv8iZX6s2pZ6hpbqjEXTLFmb13suUwH3CykUl05j7Sz96gJX_EOwB2DsEiQbUNsxW6x9X5d7S1o8ak_LI",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfh_4iqnn8i5foaeqO6Y4eKDAWDPDkuwlsuIwSXnkxB504GTXydavd3-WbwF2DMN5Q7UU8k7vTVsVQXA",
     "original": {
-      "name": "london2018_signature_skadoodle_gold",
-      "image_inventory": "econ/stickers/london2018/sig_skadoodle_gold"
+      "name": "boston2018_signature_bit_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_bit_gold"
     }
   },
   {
-    "id": "sticker-3095",
-    "name": "Sticker | GuardiaN | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Ladislav Kovács playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3095",
+    "id": "sticker-2579",
+    "name": "Sticker | fnx | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Lincoln Lau playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2579",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -495,43 +535,43 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | GuardiaN | London 2018",
+    "market_hash_name": "Sticker | fnx | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 12065295,
-      "name": "GuardiaN",
-      "code": "guardian",
-      "dob": "1991-07-19",
-      "geo": "SK"
+      "id": 170178574,
+      "name": "fnx",
+      "code": "fnx",
+      "dob": "1990-01-30",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhrkn4Tk9CNVoar8PPU-cPXLDTXBw7sj4OBoSnyyzUsl4TnVntqoeHKeZ1cgCcEkF7QU8k7vToXTP4w",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhv_htjm-HUNt_D8P_I-dfHFWTSVkOsgtbg9FnmyzEok4jjRmdj8cnqTb1R1FNIuEg8XS1Xd",
     "original": {
-      "name": "london2018_signature_guardian",
-      "image_inventory": "econ/stickers/london2018/sig_guardian"
+      "name": "boston2018_signature_fnx",
+      "image_inventory": "econ/stickers/boston2018/sig_fnx"
     }
   },
   {
-    "id": "sticker-3096",
-    "name": "Sticker | GuardiaN (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Ladislav Kovács playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3096",
+    "id": "sticker-2580",
+    "name": "Sticker | fnx (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Lincoln Lau playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2580",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -539,43 +579,43 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | GuardiaN (Foil) | London 2018",
+    "market_hash_name": "Sticker | fnx (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 12065295,
-      "name": "GuardiaN",
-      "code": "guardian",
-      "dob": "1991-07-19",
-      "geo": "SK"
+      "id": 170178574,
+      "name": "fnx",
+      "code": "fnx",
+      "dob": "1990-01-30",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhrkn4Tk9CNV0PShYagjJqnHDDGTlL4ktbBqGyzkkEl05TzQm4upcCqQbFB2DZVzQ7Vc5xLuwcqnab34XtV_qQ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhv_hqnm8itXofD-MadpcPaRCzWTkegn4rM5GHzqwkty4TnVyY2sdSiRb1QiCMZxF-MU8k7vt-UhfKU",
     "original": {
-      "name": "london2018_signature_guardian_foil",
-      "image_inventory": "econ/stickers/london2018/sig_guardian_foil"
+      "name": "boston2018_signature_fnx_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_fnx_foil"
     }
   },
   {
-    "id": "sticker-3097",
-    "name": "Sticker | GuardiaN (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Ladislav Kovács playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3097",
+    "id": "sticker-2581",
+    "name": "Sticker | fnx (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Lincoln Lau playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2581",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -583,43 +623,43 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | GuardiaN (Gold) | London 2018",
+    "market_hash_name": "Sticker | fnx (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 12065295,
-      "name": "GuardiaN",
-      "code": "guardian",
-      "dob": "1991-07-19",
-      "geo": "SK"
+      "id": 170178574,
+      "name": "fnx",
+      "code": "fnx",
+      "dob": "1990-01-30",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhrkn4Tk9CNV0PWhZKAjcKOVCzTImeom5OQ5SSzlwxkmsGrWy4mpICjDa1IjW8d2FOQM4RHrlMqnab2QlvNhtQ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhv_hqnn8i5fofT2aqJoJvaSXDbImOwu4LAxGHnkw0t3tmqBnt2sdSmQaVJyWJdzQOEU8k7v2Byo4EU",
     "original": {
-      "name": "london2018_signature_guardian_gold",
-      "image_inventory": "econ/stickers/london2018/sig_guardian_gold"
+      "name": "boston2018_signature_fnx_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_fnx_gold"
     }
   },
   {
-    "id": "sticker-3098",
-    "name": "Sticker | olofmeister | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Olof Kajbjer playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3098",
+    "id": "sticker-2582",
+    "name": "Sticker | HEN1 | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Henrique Teles Ferreira da Fonseca playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2582",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -627,43 +667,43 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | olofmeister | London 2018",
+    "market_hash_name": "Sticker | HEN1 | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 28361465,
-      "name": "olofmeister",
-      "code": "olofmeister",
-      "dob": "1992-01-31",
-      "geo": "SE"
+      "id": 57761535,
+      "name": "HEN1",
+      "code": "hen1",
+      "dob": "1995-07-14",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhL9kZDt-CtI-_e8Jv0_JKSRW2TDkr5wtrU6Sn6yxxt_tz-Dz42scHjFOgN0CJYmQ7EM50am0oqwn-FtaZs",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhX0kMeurnIIvKD4MKY6IqKQXzDEmLpytbJtFyjqxR5x4GiAmNqqdXySbAQjCowwG7B2C-k2KQ",
     "original": {
-      "name": "london2018_signature_olofmeister",
-      "image_inventory": "econ/stickers/london2018/sig_olofmeister"
+      "name": "boston2018_signature_hen1",
+      "image_inventory": "econ/stickers/boston2018/sig_hen1"
     }
   },
   {
-    "id": "sticker-3099",
-    "name": "Sticker | olofmeister (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Olof Kajbjer playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3099",
+    "id": "sticker-2583",
+    "name": "Sticker | HEN1 (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Henrique Teles Ferreira da Fonseca playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2583",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -671,43 +711,43 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | olofmeister (Foil) | London 2018",
+    "market_hash_name": "Sticker | HEN1 (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 28361465,
-      "name": "olofmeister",
-      "code": "olofmeister",
-      "dob": "1992-01-31",
-      "geo": "SE"
+      "id": 57761535,
+      "name": "HEN1",
+      "code": "hen1",
+      "dob": "1995-07-14",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhL9kZDt-CtI-_e8V6JiKfzdXDHFlrkms7g8HCi1zUkhtj7cy4qveX6SPVJyX8cmQeEIsBDrl9LnNPSiuVKkSxDpiA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhX0kMff-y1S47z2P6U7ePHEDWSVwux3srQ7F361kUkk5z7Vz9-oeXrBagYhCJQmQuADrFDmxRPtEDVy",
     "original": {
-      "name": "london2018_signature_olofmeister_foil",
-      "image_inventory": "econ/stickers/london2018/sig_olofmeister_foil"
+      "name": "boston2018_signature_hen1_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_hen1_foil"
     }
   },
   {
-    "id": "sticker-3100",
-    "name": "Sticker | olofmeister (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Olof Kajbjer playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3100",
+    "id": "sticker-2584",
+    "name": "Sticker | HEN1 (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Henrique Teles Ferreira da Fonseca playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2584",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -715,43 +755,43 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | olofmeister (Gold) | London 2018",
+    "market_hash_name": "Sticker | HEN1 (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 28361465,
-      "name": "olofmeister",
-      "code": "olofmeister",
-      "dob": "1992-01-31",
-      "geo": "SE"
+      "id": 57761535,
+      "name": "HEN1",
+      "code": "hen1",
+      "dob": "1995-07-14",
+      "geo": "BR"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhL9kZDt-CtI-_e8V6NiLPTdXTDFlewi5LU7HXHlwBxx4mvSnNyteXvGOwVzDZslFORYsUW9wN3hZPSiuVLji6hVdw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhX0kMff-i1X67yrPKA-dPPKCj7El-ontrhoTCyylk8lsG-Am9z8cHrCOFBzDMZwR-8JrFDmxX2qyklD",
     "original": {
-      "name": "london2018_signature_olofmeister_gold",
-      "image_inventory": "econ/stickers/london2018/sig_olofmeister_gold"
+      "name": "boston2018_signature_hen1_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_hen1_gold"
     }
   },
   {
-    "id": "sticker-3101",
-    "name": "Sticker | karrigan | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Finn Andersen playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3101",
+    "id": "sticker-2585",
+    "name": "Sticker | kNgV- | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Vito Giuseppe Agostinelli playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2585",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -759,43 +799,312 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | karrigan | London 2018",
+    "market_hash_name": "Sticker | kNgV- | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
     },
     "player": {
-      "id": 29164525,
-      "name": "karrigan",
-      "code": "karrigan",
-      "dob": "1990-04-14",
+      "id": 6732863,
+      "name": "kNgV-",
+      "code": "kngv",
+      "dob": "1992-11-26",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhb_mYCurHUP7vf7MPFoeabHCzPIke8k4-A-S33jwhlxsGjQnN-gcHPGZlB1A4wwG7BKnk3_Vg",
+    "original": {
+      "name": "boston2018_signature_kngv",
+      "image_inventory": "econ/stickers/boston2018/sig_kngv"
+    }
+  },
+  {
+    "id": "sticker-2586",
+    "name": "Sticker | kNgV- (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Vito Giuseppe Agostinelli playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2586",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | kNgV- (Foil) | Boston 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
+    },
+    "player": {
+      "id": 6732863,
+      "name": "kNgV-",
+      "code": "kngv",
+      "dob": "1992-11-26",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhb_mYDf-y1S47yqOPM9I6TFCzDFmOh0tLVtF3Dgkxxw4DjVzdr4dHvGb1IoAppwFONZrFDmxdyrxADZ",
+    "original": {
+      "name": "boston2018_signature_kngv_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_kngv_foil"
+    }
+  },
+  {
+    "id": "sticker-2587",
+    "name": "Sticker | kNgV- (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Vito Giuseppe Agostinelli playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2587",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | kNgV- (Gold) | Boston 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
+    },
+    "player": {
+      "id": 6732863,
+      "name": "kNgV-",
+      "code": "kngv",
+      "dob": "1992-11-26",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhb_mYDf-i1X67z9PPJpJKGSD2aVwLt15uM9Gyi2wh4itWnVn9yheXmXZlQpA8AlTLRfrFDmxQc5f5Py",
+    "original": {
+      "name": "boston2018_signature_kngv_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_kngv_gold"
+    }
+  },
+  {
+    "id": "sticker-2588",
+    "name": "Sticker | LUCAS1 | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Lucas Teles Ferreira da Fonseca playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2588",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | LUCAS1 | Boston 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
+    },
+    "player": {
+      "id": 4780624,
+      "name": "LUCAS1",
+      "code": "lucas1",
+      "dob": "1995-07-14",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhHknZfzrGwIu6r7PfFrIaWXDzLJwL0l4OBoG3HrzEoi6z-EnIr6JX-QaQ4mD8Z1W6dU5aq_xdjr",
+    "original": {
+      "name": "boston2018_signature_lucas1",
+      "image_inventory": "econ/stickers/boston2018/sig_lucas1"
+    }
+  },
+  {
+    "id": "sticker-2589",
+    "name": "Sticker | LUCAS1 (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Lucas Teles Ferreira da Fonseca playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2589",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | LUCAS1 (Foil) | Boston 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
+    },
+    "player": {
+      "id": 4780624,
+      "name": "LUCAS1",
+      "code": "lucas1",
+      "dob": "1995-07-14",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhHknZfzrB1d4PuiJvBrIqGWDzDFk-904LExGy_nwR51sj6Dn9n6cX2VPAUjXpojFOFfukGm0oqwLmI4K2k",
+    "original": {
+      "name": "boston2018_signature_lucas1_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_lucas1_foil"
+    }
+  },
+  {
+    "id": "sticker-2590",
+    "name": "Sticker | LUCAS1 (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Lucas Teles Ferreira da Fonseca playing for 100 Thieves at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2590",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | LUCAS1 (Gold) | Boston 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 78,
+      "tag": "THV",
+      "geo": "BR",
+      "name": "100 Thieves"
+    },
+    "player": {
+      "id": 4780624,
+      "name": "LUCAS1",
+      "code": "lucas1",
+      "dob": "1995-07-14",
+      "geo": "BR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhHknZfzrB1c4P6qJqA4IqaQX2XJlr915uVtFn62wEoi6m6DyI2hcSrCblVzDpcmFLUJtRKm0oqwH1umLAA",
+    "original": {
+      "name": "boston2018_signature_lucas1_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_lucas1_gold"
+    }
+  },
+  {
+    "id": "sticker-2591",
+    "name": "Sticker | device | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Nicolai Reedtz playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2591",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | device | Boston 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
+    },
+    "player": {
+      "id": 27447936,
+      "name": "device",
+      "code": "device",
+      "dob": "1995-08-09",
       "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhbwjITp-iNVofH8P_Boc6jLVjCSlL8n47BrGy-3wBh042iEwtevdXqUbA51DsZwE-8U8k7vW0Haino",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhn0iJ_j-GwP7qH_PPNvdaiVVzeUlrcl4-NtTCvkwUty5zmBy9z_JC6XO1InX8Z1W6dU5VzSv0iu",
     "original": {
-      "name": "london2018_signature_karrigan",
-      "image_inventory": "econ/stickers/london2018/sig_karrigan"
+      "name": "boston2018_signature_device",
+      "image_inventory": "econ/stickers/boston2018/sig_device"
     }
   },
   {
-    "id": "sticker-3102",
-    "name": "Sticker | karrigan (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Finn Andersen playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3102",
+    "id": "sticker-2592",
+    "name": "Sticker | device (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Nicolai Reedtz playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2592",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -803,43 +1112,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | karrigan (Foil) | London 2018",
+    "market_hash_name": "Sticker | device (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 29164525,
-      "name": "karrigan",
-      "code": "karrigan",
-      "dob": "1990-04-14",
+      "id": 27447936,
+      "name": "device",
+      "code": "device",
+      "dob": "1995-08-09",
       "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhbwjITp-iNV0PShYagjIfOXC2SWlLYhsedsTXHjwRl15DzWz9b4JC_DbQ8gXJIlRrJb4EOwmsqnab2rbJnl2w",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhn0iJ_j-B1d4PuiJvxsJKLKDDeRkLkm4bI4TX_gwkUm5T_VzNr_dH_FbgMmD5F5RrQJ50Wm0oqwEK4hrmk",
     "original": {
-      "name": "london2018_signature_karrigan_foil",
-      "image_inventory": "econ/stickers/london2018/sig_karrigan_foil"
+      "name": "boston2018_signature_device_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_device_foil"
     }
   },
   {
-    "id": "sticker-3103",
-    "name": "Sticker | karrigan (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Finn Andersen playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3103",
+    "id": "sticker-2593",
+    "name": "Sticker | device (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Nicolai Reedtz playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2593",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -847,43 +1161,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | karrigan (Gold) | London 2018",
+    "market_hash_name": "Sticker | device (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 29164525,
-      "name": "karrigan",
-      "code": "karrigan",
-      "dob": "1990-04-14",
+      "id": 27447936,
+      "name": "device",
+      "code": "device",
+      "dob": "1995-08-09",
       "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhbwjITp-iNV0PWhZKAjI6jBDT6Tl-0l5rc_S3viwBh15WTSwtmudH-SagFzCpJ5Qe4C50K4wcqnab20BtBJug",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhn0iJ_j-B1c4P6qJvM8caOSWWaSkbtw4bYxG3HlkEsh42Xdyd37eC2SPQcpW8d3E-YD5xSm0oqwEqXsgeo",
     "original": {
-      "name": "london2018_signature_karrigan_gold",
-      "image_inventory": "econ/stickers/london2018/sig_karrigan_gold"
+      "name": "boston2018_signature_device_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_device_gold"
     }
   },
   {
-    "id": "sticker-3104",
-    "name": "Sticker | rain | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Håvard Nygaard playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3104",
+    "id": "sticker-2594",
+    "name": "Sticker | dupreeh | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Peter Rasmussen playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2594",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -891,43 +1210,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | rain | London 2018",
+    "market_hash_name": "Sticker | dupreeh | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 37085479,
-      "name": "rain",
-      "code": "rain",
-      "dob": "1994-08-27",
-      "geo": "NO"
+      "id": 44589228,
+      "name": "dupreeh",
+      "code": "dupreeh",
+      "dob": "1993-03-26",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg_wl5iuqnQK6aetbPVpcvKWDDTAkupz4uMxH33jwRl-6zjczo6pcX_FPAAiD4wwG7DhWFbV8A",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhnkjoTl-CoV6qL5PP1oJqLEWzOSlewi4-NqHHjqw00k4jzQwtegcHuXPFUoCJBwRPlK7EdVeYQBKg",
     "original": {
-      "name": "london2018_signature_rain",
-      "image_inventory": "econ/stickers/london2018/sig_rain"
+      "name": "boston2018_signature_dupreeh",
+      "image_inventory": "econ/stickers/boston2018/sig_dupreeh"
     }
   },
   {
-    "id": "sticker-3105",
-    "name": "Sticker | rain (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Håvard Nygaard playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3105",
+    "id": "sticker-2595",
+    "name": "Sticker | dupreeh (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Peter Rasmussen playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2595",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -935,43 +1259,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | rain (Foil) | London 2018",
+    "market_hash_name": "Sticker | dupreeh (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 37085479,
-      "name": "rain",
-      "code": "rain",
-      "dob": "1994-08-27",
-      "geo": "NO"
+      "id": 44589228,
+      "name": "dupreeh",
+      "code": "dupreeh",
+      "dob": "1993-03-26",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg_wl5jf-y1S47ysP_JvJqfCDz7GkOogtbg-GCq2lBsmtWqDyYz6JXifbVd0Dpt0QLICrFDmxbtU17G1",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhnkjoTl-Cpk6f2nZOpuI6HBXTPGmewn47g9GijglE4ht2uAn4r_ICqXbw5zDMMhTLNfskW4jJS5YAryDpBk",
     "original": {
-      "name": "london2018_signature_rain_foil",
-      "image_inventory": "econ/stickers/london2018/sig_rain_foil"
+      "name": "boston2018_signature_dupreeh_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_dupreeh_foil"
     }
   },
   {
-    "id": "sticker-3106",
-    "name": "Sticker | rain (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Håvard Nygaard playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3106",
+    "id": "sticker-2596",
+    "name": "Sticker | dupreeh (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Peter Rasmussen playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2596",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -979,43 +1308,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | rain (Gold) | London 2018",
+    "market_hash_name": "Sticker | dupreeh (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 37085479,
-      "name": "rain",
-      "code": "rain",
-      "dob": "1994-08-27",
-      "geo": "NO"
+      "id": 44589228,
+      "name": "dupreeh",
+      "code": "dupreeh",
+      "dob": "1993-03-26",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg_wl5jf-i1X67z5OvQ-JaTEWGOSl7l05uM8HijilBx3tWrVn936Ii2Qa1NyCMd4Ee4IrFDmxZNL6tZD",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhnkjoTl-Cpk6P2ibOo_JPbACzLJkbojtbNvHyq2whkm5m2EmNn9InyUbw8pDZR0TbFe5hC8jJS5YKfwvIrw",
     "original": {
-      "name": "london2018_signature_rain_gold",
-      "image_inventory": "econ/stickers/london2018/sig_rain_gold"
+      "name": "boston2018_signature_dupreeh_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_dupreeh_gold"
     }
   },
   {
-    "id": "sticker-3107",
-    "name": "Sticker | NiKo | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Nikola Kovač playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3107",
+    "id": "sticker-2597",
+    "name": "Sticker | gla1ve | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Lukas Rossander playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2597",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1023,43 +1357,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | NiKo | London 2018",
+    "market_hash_name": "Sticker | gla1ve | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 81417650,
-      "name": "NiKo",
-      "code": "niko",
-      "dob": "1997-02-16",
-      "geo": "BA"
+      "id": 50245293,
+      "name": "gla1ve",
+      "code": "gla1ve",
+      "dob": "1998-04-27",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhP4lZmuryRYv6KtaqFscPSVDWPDmL8vtLE7GnjqwUgj4D7cnNivIC-VaAAnAowwG7CRvfbY_A",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhr9n8f2-GwNu_H3bKI-eaKRDz_Gkb8nsrY8HCi1zRxz62TUm92udimTPA5zXJUiW6dU5ZIftRAv",
     "original": {
-      "name": "london2018_signature_niko",
-      "image_inventory": "econ/stickers/london2018/sig_niko"
+      "name": "boston2018_signature_gla1ve",
+      "image_inventory": "econ/stickers/boston2018/sig_gla1ve"
     }
   },
   {
-    "id": "sticker-3108",
-    "name": "Sticker | NiKo (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Nikola Kovač playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3108",
+    "id": "sticker-2598",
+    "name": "Sticker | gla1ve (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Lukas Rossander playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2598",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1067,43 +1406,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | NiKo (Foil) | London 2018",
+    "market_hash_name": "Sticker | gla1ve (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 81417650,
-      "name": "NiKo",
-      "code": "niko",
-      "dob": "1997-02-16",
-      "geo": "BA"
+      "id": 50245293,
+      "name": "gla1ve",
+      "code": "gla1ve",
+      "dob": "1998-04-27",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhP4lZnf-y1S47z_OaA4JqjBD2SUl7505uJtTC_kwBh04z6HyY78Ii6RPwMoA8chEeRerFDmxQG5_ifj",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhr9n8f2-B1d4PuiJqVpcfXFCzTGkuwm5uMxHnGwwU0jtWrQzon6dX2XaQchC5ohRuEO5hmm0oqwMWQQ6s4",
     "original": {
-      "name": "london2018_signature_niko_foil",
-      "image_inventory": "econ/stickers/london2018/sig_niko_foil"
+      "name": "boston2018_signature_gla1ve_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_gla1ve_foil"
     }
   },
   {
-    "id": "sticker-3109",
-    "name": "Sticker | NiKo (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Nikola Kovač playing for FaZe Clan at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3109",
+    "id": "sticker-2599",
+    "name": "Sticker | gla1ve (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Lukas Rossander playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2599",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1111,43 +1455,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | NiKo (Gold) | London 2018",
+    "market_hash_name": "Sticker | gla1ve (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 81417650,
-      "name": "NiKo",
-      "code": "niko",
-      "dob": "1997-02-16",
-      "geo": "BA"
+      "id": 50245293,
+      "name": "gla1ve",
+      "code": "gla1ve",
+      "dob": "1998-04-27",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhP4lZnf-i1X67yqO6c0cKfCDzTAw-0k5bQwFy3nxhwi5WvUmNyveS2SOAUjWcZ1Te8NrFDmxfS5PdGb",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhr9n8f2-B1c4P6qJvJudPWQW2GRk74nsbY6Fn6xkEQm4GXXzI2qcX6UOFImA5d5EONesRGm0oqw8SNO3Ig",
     "original": {
-      "name": "london2018_signature_niko_gold",
-      "image_inventory": "econ/stickers/london2018/sig_niko_gold"
+      "name": "boston2018_signature_gla1ve_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_gla1ve_gold"
     }
   },
   {
-    "id": "sticker-3110",
-    "name": "Sticker | electronic | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Denis Sharipov playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3110",
+    "id": "sticker-2600",
+    "name": "Sticker | Kjaerbye | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Markus Kjærbye playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2600",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1155,43 +1504,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | electronic | London 2018",
+    "market_hash_name": "Sticker | Kjaerbye | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 83779379,
-      "name": "electronic",
-      "code": "electronic",
-      "dob": "1998-02-09",
-      "geo": "RU"
+      "id": 59614824,
+      "name": "Kjaerbye",
+      "code": "kjaerbye",
+      "dob": "1998-04-27",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhj9m5X07y1V5vHgbaVsdqaVWjHDlrkm4bQ4TXG3xklw42iAz979dHiVaVQhCMQjROQOtQ74zIMUJ6WUXQ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhb7n5Py_zteoaf3bqJoJKSSCzWVkO91tuVqGnjgwEl1522Entr9dnPCbVR0CZYhRu8U8k7vF9ICl8U",
     "original": {
-      "name": "london2018_signature_electronic",
-      "image_inventory": "econ/stickers/london2018/sig_electronic"
+      "name": "boston2018_signature_kjaerbye",
+      "image_inventory": "econ/stickers/boston2018/sig_kjaerbye"
     }
   },
   {
-    "id": "sticker-3111",
-    "name": "Sticker | electronic (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Denis Sharipov playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3111",
+    "id": "sticker-2601",
+    "name": "Sticker | Kjaerbye (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Markus Kjærbye playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2601",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1199,43 +1553,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | electronic (Foil) | London 2018",
+    "market_hash_name": "Sticker | Kjaerbye (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 83779379,
-      "name": "electronic",
-      "code": "electronic",
-      "dob": "1998-02-09",
-      "geo": "RU"
+      "id": 59614824,
+      "name": "Kjaerbye",
+      "code": "kjaerbye",
+      "dob": "1998-04-27",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhj9m5X07y1V5vGRbqtkLL6VC2TExLYjs7c_FizgkUgktm-Byo74dnrFbAUnA5FzEeZZsUaxx9buKaq8sHYF8u-g",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhb7n5Py_zte0PShYagjJqfBWzWSw78k6eU8HyiykUlw4znWw4msci7BPAEpX8AkTO4J4EG4wcqnab2gttJlxw",
     "original": {
-      "name": "london2018_signature_electronic_foil",
-      "image_inventory": "econ/stickers/london2018/sig_electronic_foil"
+      "name": "boston2018_signature_kjaerbye_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_kjaerbye_foil"
     }
   },
   {
-    "id": "sticker-3112",
-    "name": "Sticker | electronic (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Denis Sharipov playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3112",
+    "id": "sticker-2602",
+    "name": "Sticker | Kjaerbye (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Markus Kjærbye playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2602",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1243,43 +1602,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | electronic (Gold) | London 2018",
+    "market_hash_name": "Sticker | Kjaerbye (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 83779379,
-      "name": "electronic",
-      "code": "electronic",
-      "dob": "1998-02-09",
-      "geo": "RU"
+      "id": 59614824,
+      "name": "Kjaerbye",
+      "code": "kjaerbye",
+      "dob": "1998-04-27",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhj9m5X07y1V5vGRb6thJL7DWjKUk7Zz4Lk9Gnriw0lwsmjUyd-rIiieaAcgC5dzReNe40HrmobkKaq8sPi8Bjyd",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhb7n5Py_zte0PWhZKAjeKHCXmaVluxysrJoFni2zUp04jvXy479JH-TPAIkAsF3EbQCsBK7lMqnab2T3mLeZQ",
     "original": {
-      "name": "london2018_signature_electronic_gold",
-      "image_inventory": "econ/stickers/london2018/sig_electronic_gold"
+      "name": "boston2018_signature_kjaerbye_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_kjaerbye_gold"
     }
   },
   {
-    "id": "sticker-3113",
-    "name": "Sticker | Zeus | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3113",
+    "id": "sticker-2603",
+    "name": "Sticker | Xyp9x | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Andreas Højsleth playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2603",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1287,43 +1651,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Zeus | London 2018",
+    "market_hash_name": "Sticker | Xyp9x | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 59062744,
-      "name": "Zeus",
-      "code": "zeus",
-      "dob": "1987-08-10",
-      "geo": "UA"
+      "id": 30416534,
+      "name": "Xyp9x",
+      "code": "xyp9x",
+      "dob": "1995-09-11",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgf0i4Wu-HVevqGqbvNscqLDW2PIw7wu57cwSiuykRlw5DuAz9eqcXKWZwQjCYwwG7AlTMhSBg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfgXojs_4s3AO7Kv4bKY6JPTBWzTEx-wm5OM-TiiwxRt34TmGytqscHmWOgMpA5duBbld0DY62BA",
     "original": {
-      "name": "london2018_signature_zeus",
-      "image_inventory": "econ/stickers/london2018/sig_zeus"
+      "name": "boston2018_signature_xyp9x",
+      "image_inventory": "econ/stickers/boston2018/sig_xyp9x"
     }
   },
   {
-    "id": "sticker-3114",
-    "name": "Sticker | Zeus (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3114",
+    "id": "sticker-2604",
+    "name": "Sticker | Xyp9x (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Andreas Højsleth playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2604",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1331,43 +1700,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Zeus (Foil) | London 2018",
+    "market_hash_name": "Sticker | Xyp9x (Foil) | Boston 2018",
     "effect": "Foil",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 59062744,
-      "name": "Zeus",
-      "code": "zeus",
-      "dob": "1987-08-10",
-      "geo": "UA"
+      "id": 30416534,
+      "name": "Xyp9x",
+      "code": "xyp9x",
+      "dob": "1995-09-11",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgf0i4Xf-y1S47z6MfY5cqeSXDaRle0ntuc4HCyxxkkk5mnVzN2ucXPEZ1RyDZp0Te4IrFDmxQNnvogy",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfgXojs_4wiRU5v7gPvA7daDDWTTHmbgv5-NoHX-1lEUltj_Vwt2sIC7Dag8mWJR0F-Jfsg74zIO4LAXClw",
     "original": {
-      "name": "london2018_signature_zeus_foil",
-      "image_inventory": "econ/stickers/london2018/sig_zeus_foil"
+      "name": "boston2018_signature_xyp9x_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_xyp9x_foil"
     }
   },
   {
-    "id": "sticker-3115",
-    "name": "Sticker | Zeus (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3115",
+    "id": "sticker-2605",
+    "name": "Sticker | Xyp9x (Gold) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Andreas Højsleth playing for Astralis at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2605",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1375,43 +1749,48 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | Zeus (Gold) | London 2018",
+    "market_hash_name": "Sticker | Xyp9x (Gold) | Boston 2018",
     "effect": "Gold",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
     },
     "player": {
-      "id": 59062744,
-      "name": "Zeus",
-      "code": "zeus",
-      "dob": "1987-08-10",
-      "geo": "UA"
+      "id": 30416534,
+      "name": "Xyp9x",
+      "code": "xyp9x",
+      "dob": "1995-09-11",
+      "geo": "DK"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgf0i4Xf-i1X67z5bfE0JqeVDDGUmO8j4ec7F3nkxRl-4znRydmqJXnFbgBxXJIjQeZZrFDmxWgEd12-",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfgXojs_4wiVU4_bgafRseKDLC2bBkr4i4rA7Fn_kkEp_4DiEytugJy_BZ1QlWJBxFLNc4A74zIM595_jxg",
     "original": {
-      "name": "london2018_signature_zeus_gold",
-      "image_inventory": "econ/stickers/london2018/sig_zeus_gold"
+      "name": "boston2018_signature_xyp9x_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_xyp9x_gold"
     }
   },
   {
-    "id": "sticker-3116",
-    "name": "Sticker | s1mple | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Oleksandr Kostyliev playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3116",
+    "id": "sticker-2606",
+    "name": "Sticker | byali | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Pawel Bielinsky playing for Virtus.Pro at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2606",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1419,1092 +1798,90 @@
     },
     "crates": [
       {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker | s1mple | London 2018",
+    "market_hash_name": "Sticker | byali | Boston 2018",
     "effect": "Other",
     "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
     },
     "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
+      "id": 31,
+      "tag": "VP",
+      "geo": "PL",
+      "name": "Virtus.Pro"
     },
     "player": {
-      "id": 73936547,
-      "name": "s1mple",
-      "code": "s1mple",
-      "dob": "1997-10-02",
-      "geo": "UA"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg6gk4bs-GxdvKqqPKU0damRD2LJmOpy4OI6F3zjw0UisD6Dm9yrIHqRbAMmA5IlW6dU5UiSJj9y",
-    "original": {
-      "name": "london2018_signature_s1mple",
-      "image_inventory": "econ/stickers/london2018/sig_s1mple"
-    }
-  },
-  {
-    "id": "sticker-3117",
-    "name": "Sticker | s1mple (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Oleksandr Kostyliev playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3117",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | s1mple (Foil) | London 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 73936547,
-      "name": "s1mple",
-      "code": "s1mple",
-      "dob": "1997-10-02",
-      "geo": "UA"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg6gk4bs-B1d4PuiJvc4cKjGW2OVmbog6eI_F37nzUgk5W_XmdyhcCiUa1J2XMZwTecDthOm0oqw80_4m8w",
-    "original": {
-      "name": "london2018_signature_s1mple_foil",
-      "image_inventory": "econ/stickers/london2018/sig_s1mple_foil"
-    }
-  },
-  {
-    "id": "sticker-3118",
-    "name": "Sticker | s1mple (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Oleksandr Kostyliev playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3118",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | s1mple (Gold) | London 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 73936547,
-      "name": "s1mple",
-      "code": "s1mple",
-      "dob": "1997-10-02",
-      "geo": "UA"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg6gk4bs-B1c4P6qJqZsdamXXT-WxLYv4bM6FiuywRxy62vVnIyheXqSaAIiWZsiTO9YsESm0oqwmuF9lBE",
-    "original": {
-      "name": "london2018_signature_s1mple_gold",
-      "image_inventory": "econ/stickers/london2018/sig_s1mple_gold"
-    }
-  },
-  {
-    "id": "sticker-3119",
-    "name": "Sticker | Edward | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3119",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Edward | London 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 23429534,
-      "name": "Edward",
-      "code": "edward",
-      "dob": "1987-12-28",
-      "geo": "UA"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhj1iZfy-WwI7KP3O6U7dqXAXTeSk-0h4rI5F3Gxwkgl5TnSzNuqcC6VOwBzAsN0W6dU5Z_8n7sY",
-    "original": {
-      "name": "london2018_signature_edward",
-      "image_inventory": "econ/stickers/london2018/sig_edward"
-    }
-  },
-  {
-    "id": "sticker-3120",
-    "name": "Sticker | Edward (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3120",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Edward (Foil) | London 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 23429534,
-      "name": "Edward",
-      "code": "edward",
-      "dob": "1987-12-28",
-      "geo": "UA"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhj1iZfy-R1d4PuiJvM6c6eVWDPHlu0utuRoSy3jwxkhsm3Tz9qreXrBOg5xDZImR7JYukSm0oqwDoEYCcc",
-    "original": {
-      "name": "london2018_signature_edward_foil",
-      "image_inventory": "econ/stickers/london2018/sig_edward_foil"
-    }
-  },
-  {
-    "id": "sticker-3121",
-    "name": "Sticker | Edward (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3121",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Edward (Gold) | London 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 23429534,
-      "name": "Edward",
-      "code": "edward",
-      "dob": "1987-12-28",
-      "geo": "UA"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhj1iZfy-R1c4P6qJqZpJamWC2TGx7ghtbQ7Fyjnk0p14Tzdm9b4dXrGPFImDpMlReYNtRim0oqwWZHeBrU",
-    "original": {
-      "name": "london2018_signature_edward_gold",
-      "image_inventory": "econ/stickers/london2018/sig_edward_gold"
-    }
-  },
-  {
-    "id": "sticker-3122",
-    "name": "Sticker | flamie | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3122",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | flamie | London 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 156257548,
-      "name": "flamie",
-      "code": "flamie",
-      "dob": "1997-04-05",
-      "geo": "RU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhv9n5vp-GxavqP9OKI9cPSSVjXCkbsgtuBoFizmw0R_4z7SzYquc3vGOw90AsMhW6dU5e0A8Hjd",
-    "original": {
-      "name": "london2018_signature_flamie",
-      "image_inventory": "econ/stickers/london2018/sig_flamie"
-    }
-  },
-  {
-    "id": "sticker-3123",
-    "name": "Sticker | flamie (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3123",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | flamie (Foil) | London 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 156257548,
-      "name": "flamie",
-      "code": "flamie",
-      "dob": "1997-04-05",
-      "geo": "RU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhv9n5vp-B1d4PuiJqU8IabCWzOSkOsg5-I4HCqxx0wh6zyBw43_I3jDPAQjApByQ7RYtRKm0oqwR4qfpBY",
-    "original": {
-      "name": "london2018_signature_flamie_foil",
-      "image_inventory": "econ/stickers/london2018/sig_flamie_foil"
-    }
-  },
-  {
-    "id": "sticker-3124",
-    "name": "Sticker | flamie (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3124",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | flamie (Gold) | London 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 156257548,
-      "name": "flamie",
-      "code": "flamie",
-      "dob": "1997-04-05",
-      "geo": "RU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhv9n5vp-B1c4P6qJvE7eaDFDWPFx7ousrA7TCyylkVy6z7Rn4usdH7BbAFzDZB2R7VYu0Wm0oqwNtNYb20",
-    "original": {
-      "name": "london2018_signature_flamie_gold",
-      "image_inventory": "econ/stickers/london2018/sig_flamie_gold"
-    }
-  },
-  {
-    "id": "sticker-3125",
-    "name": "Sticker | coldzera | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Marcelo David playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3125",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | coldzera | London 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 79720871,
-      "name": "coldzera",
-      "code": "coldzera",
-      "dob": "1994-10-31",
-      "geo": "BR"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh7-kpL6-DBaoaavPfY0I6TCDD6SlO0ktrY6HXG2wB9wtj7Uztj6cyjGOAQlXsRxF-IU8k7vo0QyYzA",
-    "original": {
-      "name": "london2018_signature_coldzera",
-      "image_inventory": "econ/stickers/london2018/sig_coldzera"
-    }
-  },
-  {
-    "id": "sticker-3126",
-    "name": "Sticker | coldzera (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Marcelo David playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3126",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | coldzera (Foil) | London 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 79720871,
-      "name": "coldzera",
-      "code": "coldzera",
-      "dob": "1994-10-31",
-      "geo": "BR"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh7-kpL6-DBa0PShYagjJaLBXGXDxLshtLlrSy-wxRtysT7UyoqsJSmSZwAkXsAkReMMtRS9k8qnab2Ofbl9EQ",
-    "original": {
-      "name": "london2018_signature_coldzera_foil",
-      "image_inventory": "econ/stickers/london2018/sig_coldzera_foil"
-    }
-  },
-  {
-    "id": "sticker-3127",
-    "name": "Sticker | coldzera (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Marcelo David playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3127",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | coldzera (Gold) | London 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 79720871,
-      "name": "coldzera",
-      "code": "coldzera",
-      "dob": "1994-10-31",
-      "geo": "BR"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfh7-kpL6-DBa0PWhZKAjJqLKVjLJkLsvtOA5Gy22zU924G3RydeqeXqVaFIoDZYiEeBesxG6w8qnab1SPnr5MQ",
-    "original": {
-      "name": "london2018_signature_coldzera_gold",
-      "image_inventory": "econ/stickers/london2018/sig_coldzera_gold"
-    }
-  },
-  {
-    "id": "sticker-3128",
-    "name": "Sticker | FalleN | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Gabriel Toledo playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3128",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | FalleN | London 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 424467,
-      "name": "FalleN",
-      "code": "fallen",
-      "dob": "1991-05-30",
-      "geo": "BR"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhvwkprl82wM7aT7a_E1cvWVCDLBwLx34LYwHHzrxUl2t2TWy9f6eSjFZ1R1WcdwW6dU5W62Pern",
-    "original": {
-      "name": "london2018_signature_fallen",
-      "image_inventory": "econ/stickers/london2018/sig_fallen"
-    }
-  },
-  {
-    "id": "sticker-3129",
-    "name": "Sticker | FalleN (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Gabriel Toledo playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3129",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | FalleN (Foil) | London 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 424467,
-      "name": "FalleN",
-      "code": "fallen",
-      "dob": "1991-05-30",
-      "geo": "BR"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhvwkprl8x1d4PuiJv1rJPTBXDHHwLt15LRoTCq3k0tw6j_Tytj8dHmRP1V2DMd5QrYL5him0oqwwG4gBSE",
-    "original": {
-      "name": "london2018_signature_fallen_foil",
-      "image_inventory": "econ/stickers/london2018/sig_fallen_foil"
-    }
-  },
-  {
-    "id": "sticker-3130",
-    "name": "Sticker | FalleN (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Gabriel Toledo playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3130",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | FalleN (Gold) | London 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 424467,
-      "name": "FalleN",
-      "code": "fallen",
-      "dob": "1991-05-30",
-      "geo": "BR"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhvwkprl8x1c4P6qJvJpJvXDXmXExbomtrJqSXjhkB905j_Rzt79eHOROwVzWJZ4E7IOukam0oqwWJiOiSQ",
-    "original": {
-      "name": "london2018_signature_fallen_gold",
-      "image_inventory": "econ/stickers/london2018/sig_fallen_gold"
-    }
-  },
-  {
-    "id": "sticker-3131",
-    "name": "Sticker | tarik | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Tarik Celik playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3131",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | tarik | London 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 18216247,
-      "name": "tarik",
-      "code": "tarik",
-      "dob": "1996-02-18",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgnwjJ_rs3IM66eoO_A8JvTHV2GSmLwksbFqHXC3xEx_6mWByN2sdnKUPQ8oCcRuBbldwinbYMA",
-    "original": {
-      "name": "london2018_signature_tarik",
-      "image_inventory": "econ/stickers/london2018/sig_tarik"
-    }
-  },
-  {
-    "id": "sticker-3132",
-    "name": "Sticker | tarik (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Tarik Celik playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3132",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | tarik (Foil) | London 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 18216247,
-      "name": "tarik",
-      "code": "tarik",
-      "dob": "1996-02-18",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgnwjJ_rwiRU5v7gMfI6d6iXXTDBmesgtbU_Gn-ylkoj5WjRnNz6cS2RbQN0X8dyEOcD4w74zINU3RCAKg",
-    "original": {
-      "name": "london2018_signature_tarik_foil",
-      "image_inventory": "econ/stickers/london2018/sig_tarik_foil"
-    }
-  },
-  {
-    "id": "sticker-3133",
-    "name": "Sticker | tarik (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Tarik Celik playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3133",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | tarik (Gold) | London 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 18216247,
-      "name": "tarik",
-      "code": "tarik",
-      "dob": "1996-02-18",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfgnwjJ_rwiVU4_bgOvI9dfOVXTXHwr4nsuM-HC21kUwksGjTztf9I3LCPwNxWJsmFO9c4Q74zIOdd1nrlQ",
-    "original": {
-      "name": "london2018_signature_tarik_gold",
-      "image_inventory": "econ/stickers/london2018/sig_tarik_gold"
-    }
-  },
-  {
-    "id": "sticker-3134",
-    "name": "Sticker | Stewie2K | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Jacky Yip playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3134",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Stewie2K | London 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 38738282,
-      "name": "Stewie2K",
-      "code": "stewie2k",
-      "dob": "1998-01-07",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7lm4Hp-HBQoaH3OKY0cqmXXWWWlr51s-NrGSzlwk5z4WyBzo34eX6fOFAhW5dxELQU8k7vzFKfUZs",
-    "original": {
-      "name": "london2018_signature_stewie2k",
-      "image_inventory": "econ/stickers/london2018/sig_stewie2k"
-    }
-  },
-  {
-    "id": "sticker-3135",
-    "name": "Sticker | Stewie2K (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Jacky Yip playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3135",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Stewie2K (Foil) | London 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 38738282,
-      "name": "Stewie2K",
-      "code": "stewie2k",
-      "dob": "1998-01-07",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7lm4Hp-HBQ0PShYagjcqHBDzbHxeou5OVoHCvgkRsk62jWzo2tdyiVOAcoWZEjFOYMt0G7w8qnab2n7IoSgg",
-    "original": {
-      "name": "london2018_signature_stewie2k_foil",
-      "image_inventory": "econ/stickers/london2018/sig_stewie2k_foil"
-    }
-  },
-  {
-    "id": "sticker-3136",
-    "name": "Sticker | Stewie2K (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Jacky Yip playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3136",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Stewie2K (Gold) | London 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 38738282,
-      "name": "Stewie2K",
-      "code": "stewie2k",
-      "dob": "1998-01-07",
-      "geo": "US"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7lm4Hp-HBQ0PWhZKAjIvOQV2PBlushsuU7Tn_ikUglsD7WnN36dS3CbA4mDZp5E-UK5hDulsqnab0Ca5EWoA",
-    "original": {
-      "name": "london2018_signature_stewie2k_gold",
-      "image_inventory": "econ/stickers/london2018/sig_stewie2k_gold"
-    }
-  },
-  {
-    "id": "sticker-3137",
-    "name": "Sticker | fer | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Fernando Alvarenga playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3137",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | fer | London 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 38921219,
-      "name": "fer",
-      "code": "fer",
-      "dob": "1991-10-30",
-      "geo": "BR"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhv0jNi4rXMNufP6aac0eaSWDDDAlOwk5rFqTijjlk0l4myDw4uvJCqROAVzFNIuEtgZO29k",
-    "original": {
-      "name": "london2018_signature_fer",
-      "image_inventory": "econ/stickers/london2018/sig_fer"
-    }
-  },
-  {
-    "id": "sticker-3138",
-    "name": "Sticker | fer (Foil) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Fernando Alvarenga playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3138",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | fer (Foil) | London 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 38921219,
-      "name": "fer",
-      "code": "fer",
-      "dob": "1991-10-30",
-      "geo": "BR"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhv0jKnm8itXofeqO_Y0I6PHXDaVke8j4edsTC_rkE4lsW3XntmtJC6QZ1d0XsAmQu4U8k7v0EQet-I",
-    "original": {
-      "name": "london2018_signature_fer_foil",
-      "image_inventory": "econ/stickers/london2018/sig_fer_foil"
-    }
-  },
-  {
-    "id": "sticker-3139",
-    "name": "Sticker | fer (Gold) | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Fernando Alvarenga playing for MIBR at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3139",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | fer (Gold) | London 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 80,
-      "tag": "MIBR",
-      "geo": "BR",
-      "name": "MIBR"
-    },
-    "player": {
-      "id": 38921219,
-      "name": "fer",
-      "code": "fer",
-      "dob": "1991-10-30",
-      "geo": "BR"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfhv0jKnn8i5fofOrO6Y9JfLHCjDFkegn4rE4G3Gww0935WmEm9qqc3OfbQYnCcZyEOQU8k7v9tQLdfw",
-    "original": {
-      "name": "london2018_signature_fer_gold",
-      "image_inventory": "econ/stickers/london2018/sig_fer_gold"
-    }
-  },
-  {
-    "id": "sticker-3140",
-    "name": "Sticker | Snax | London 2018",
-    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Janusz Pogorzelski playing for mousesports at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
-    "def_index": "3140",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4536",
-        "name": "London 2018 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk4_2gbKtjcqDCVliX0-FjoN5lSi62mxk0_T_dwtagdn_DPVUgX5UmQ7QK4xixkNexZLzktAKMjIpBmHn2iHtK6Cp1o7FVH6ag-yI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Snax | London 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 14,
-      "name": "2018 FACEIT London"
-    },
-    "team": {
-      "id": 29,
-      "tag": "mss",
-      "geo": "EU",
-      "name": "mousesports"
-    },
-    "player": {
-      "id": 21875845,
-      "name": "Snax",
-      "code": "snax",
-      "dob": "1993-07-05",
+      "id": 18860354,
+      "name": "byali",
+      "code": "byali",
+      "dob": "1994-04-30",
       "geo": "PL"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMauO3-Y6wQlpd-7-VDgfg7_n46urnMOtvb3bv1vIqfCC2LJmOom5bNsHXqywE1z5zzXzNv7dXKQP1ImA4wwG7Cuu0Aaqg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfh_on5rpsyEJ7vP5MKJsJPKWWGPJkb8i5OJoH3yywU5xtj_WmIuhJCjCaQUlXpJuBbldiQeGxcA",
     "original": {
-      "name": "london2018_signature_snax",
-      "image_inventory": "econ/stickers/london2018/sig_snax"
+      "name": "boston2018_signature_byali",
+      "image_inventory": "econ/stickers/boston2018/sig_byali"
+    }
+  },
+  {
+    "id": "sticker-2607",
+    "name": "Sticker | byali (Foil) | Boston 2018",
+    "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Pawel Bielinsky playing for Virtus.Pro at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+    "def_index": "2607",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | byali (Foil) | Boston 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 31,
+      "tag": "VP",
+      "geo": "PL",
+      "name": "Virtus.Pro"
+    },
+    "player": {
+      "id": 18860354,
+      "name": "byali",
+      "code": "byali",
+      "dob": "1994-04-30",
+      "geo": "PL"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfh_on5rpwiRU5v7gOvc7ePORVjeUwu0mtbk7HXnjkU5x6myAmN-qJS-WagAhXsN4Q-9esQ74zIOUcr1a8A",
+    "original": {
+      "name": "boston2018_signature_byali_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_byali_foil"
     }
   }
 ]

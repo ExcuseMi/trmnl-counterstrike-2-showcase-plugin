@@ -1,5 +1,689 @@
 [
   {
+    "id": "collectible-1002",
+    "name": "Silver Operation Payback Coin",
+    "description": "Participated in Operation Payback for 10 hours to support community map makers.",
+    "def_index": "1002",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/community_support_pass_coin2.99a48d989434e2790d8489df3aff063ef7a7cbdb.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
+      "image_inventory": "econ/status_icons/community_support_pass_coin2"
+    }
+  },
+  {
+    "id": "collectible-1003",
+    "name": "Gold Operation Payback Coin",
+    "description": "Participated in Operation Payback for 50 hours to support community map makers.",
+    "def_index": "1003",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/community_support_pass_coin3.ad449c706172e838a88bf6352cc251dcf77aac6f.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
+      "image_inventory": "econ/status_icons/community_support_pass_coin3"
+    }
+  },
+  {
+    "id": "collectible-1004",
+    "name": "Museum Map Coin",
+    "description": null,
+    "def_index": "1004",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_museum.820aeb811553cfec9f5bde5f0cbf164e102fe858.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenMuseum",
+      "image_inventory": "econ/status_icons/maptoken_museum"
+    }
+  },
+  {
+    "id": "collectible-1005",
+    "name": "Downtown Map Coin",
+    "description": null,
+    "def_index": "1005",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_downtown.fbeff8e489ed0fe0d377f8af1f5c65b6fef98097.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenDowntown",
+      "image_inventory": "econ/status_icons/maptoken_downtown"
+    }
+  },
+  {
+    "id": "collectible-1006",
+    "name": "Thunder Map Coin",
+    "description": null,
+    "def_index": "1006",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_thunder.88e05b997bcb25b46036b7da2d7e12d10901f1be.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenThunder",
+      "image_inventory": "econ/status_icons/maptoken_thunder"
+    }
+  },
+  {
+    "id": "collectible-1007",
+    "name": "Favela Map Coin",
+    "description": null,
+    "def_index": "1007",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_favela.4d97c5f7c119dd021b2f1e83320f629e902590fd.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenFavela",
+      "image_inventory": "econ/status_icons/maptoken_favela"
+    }
+  },
+  {
+    "id": "collectible-1008",
+    "name": "Motel Map Coin",
+    "description": null,
+    "def_index": "1008",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_motel.525f5629e9d52529b0e4b5d6d95974e77d238ecc.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenMotel",
+      "image_inventory": "econ/status_icons/maptoken_motel"
+    }
+  },
+  {
+    "id": "collectible-1009",
+    "name": "Seaside Map Coin",
+    "description": null,
+    "def_index": "1009",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_seaside.bbe0101635b2f2abb8f9ef1b0b907dc3f2146818.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenSeaside",
+      "image_inventory": "econ/status_icons/maptoken_seaside"
+    }
+  },
+  {
+    "id": "collectible-1010",
+    "name": "Library Map Coin",
+    "description": null,
+    "def_index": "1010",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_library.632d2c3e46f17cb1a3262823ac514cfe03cbb534.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenLibrary",
+      "image_inventory": "econ/status_icons/maptoken_library"
+    }
+  },
+  {
+    "id": "collectible-1012",
+    "name": "Operation Bravo Pass",
+    "description": "The Operation Bravo event ran from September 19th, 2013 to February 5th, 2014. This pass no longer grants access to an Operation, but may be redeemed for a commemorative Operation Bravo Coin.",
+    "def_index": "1012",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "type": "Operation Pass",
+    "genuine": false,
+    "market_hash_name": "Operation Bravo Pass",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSY9VNn9ZP95VfYQw_wiJnf7SNI_LyqMKdvcanFWDbJkrojs7lrGnHrxhty4miHno2tdyiSPAV0X5YlTO4PrFDmxTXlQfCs",
+    "original": {
+      "item_name": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
+      "image_inventory": "econ/status_icons/operation_bravo_pass"
+    }
+  },
+  {
+    "id": "collectible-1013",
+    "name": "Operation Bravo Challenge Coin",
+    "description": "Participated in Operation Bravo.",
+    "def_index": "1013",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_bravo_bronze.fe078b254716d3cca3a1b6efc5fa033e9ef86953.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
+      "image_inventory": "econ/status_icons/operation_bravo_bronze"
+    }
+  },
+  {
+    "id": "collectible-1014",
+    "name": "Silver Operation Bravo Coin",
+    "description": "Participated in Operation Bravo.",
+    "def_index": "1014",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_bravo_silver.da2451ae7352871efa042e86a3d59b7556825ece.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
+      "image_inventory": "econ/status_icons/operation_bravo_silver"
+    }
+  },
+  {
+    "id": "collectible-1015",
+    "name": "Gold Operation Bravo Coin",
+    "description": "Participated in Operation Bravo.",
+    "def_index": "1015",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_bravo_gold.bf58d249b9ae6129768839a75e55ceae009a2b9a.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
+      "image_inventory": "econ/status_icons/operation_bravo_gold"
+    }
+  },
+  {
+    "id": "collectible-1016",
+    "name": "Agency Map Coin",
+    "description": null,
+    "def_index": "1016",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_agency.c960e8970ce7ea753c2f205a7a9ed48d3c52f25a.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenAgency",
+      "image_inventory": "econ/status_icons/maptoken_agency"
+    }
+  },
+  {
+    "id": "collectible-1017",
+    "name": "Ali Map Coin",
+    "description": null,
+    "def_index": "1017",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_ali.60430c2a3f4ce9206bef677a5c033a145d2308be.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenAli",
+      "image_inventory": "econ/status_icons/maptoken_ali"
+    }
+  },
+  {
+    "id": "collectible-1018",
+    "name": "Cache Map Coin",
+    "description": null,
+    "def_index": "1018",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_cache.4441e02e28b69dc0b539e76323c936c8f22607a0.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenCache",
+      "image_inventory": "econ/status_icons/maptoken_cache"
+    }
+  },
+  {
+    "id": "collectible-1019",
+    "name": "Chinatown Map Coin",
+    "description": null,
+    "def_index": "1019",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_chinatown.a9b9aeb706012ad78372ff0cad9a5fcc3e910222.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenChinatown",
+      "image_inventory": "econ/status_icons/maptoken_chinatown"
+    }
+  },
+  {
+    "id": "collectible-1020",
+    "name": "Gwalior Map Coin",
+    "description": null,
+    "def_index": "1020",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_gwalior.76beea301e67e000493f10df47d5cb4beb93a7cc.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenGwalior",
+      "image_inventory": "econ/status_icons/maptoken_gwalior"
+    }
+  },
+  {
+    "id": "collectible-1021",
+    "name": "Ruins Map Coin",
+    "description": null,
+    "def_index": "1021",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_ruins.2c3ec3bc914d1459e9c36b9116a548b8e6777943.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenRuins",
+      "image_inventory": "econ/status_icons/maptoken_ruins"
+    }
+  },
+  {
+    "id": "collectible-1022",
+    "name": "Siege Map Coin",
+    "description": null,
+    "def_index": "1022",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_siege.ef7680cf9ac8858280b51c87a9a459b31ce82a7a.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenSiege",
+      "image_inventory": "econ/status_icons/maptoken_siege"
+    }
+  },
+  {
+    "id": "collectible-1023",
+    "name": "Operation Phoenix Pass",
+    "description": "The Operation Phoenix event ran from February 20th, 2014 to June 11th, 2014. This pass no longer grants access to an Operation, but may be redeemed for a commemorative Operation Phoenix Coin.",
+    "def_index": "1023",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "type": "Operation Pass",
+    "genuine": false,
+    "market_hash_name": "Operation Phoenix Pass",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSY9VNn9ZP95VfYURX-m5jp5R1L7uG9JqFrc_LHXz_AxLsktLNtGyjnlh8l6juHn939J3-TblQhX8d4E-de4UGm0oqwIX_d1W4",
+    "original": {
+      "item_name": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
+      "image_inventory": "econ/status_icons/operation_phoenix_pass"
+    }
+  },
+  {
+    "id": "collectible-1024",
+    "name": "Operation Phoenix Challenge Coin",
+    "description": "Participated in Operation Phoenix.",
+    "def_index": "1024",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_phoenix_bronze.140965ca0842a61489acfb65f20b42141b6343e0.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
+      "image_inventory": "econ/status_icons/operation_phoenix_bronze"
+    }
+  },
+  {
+    "id": "collectible-1025",
+    "name": "Silver Operation Phoenix Coin",
+    "description": "Participated in Operation Phoenix.",
+    "def_index": "1025",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_phoenix_silver.e3c2d21acf5fcfd21f98111857604d1181db9545.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
+      "image_inventory": "econ/status_icons/operation_phoenix_silver"
+    }
+  },
+  {
+    "id": "collectible-1026",
+    "name": "Gold Operation Phoenix Coin",
+    "description": "Participated in Operation Phoenix.",
+    "def_index": "1026",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_phoenix_gold.f7db5f7bcf98225d9878427951b0b5b7e61735b8.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
+      "image_inventory": "econ/status_icons/operation_phoenix_gold"
+    }
+  },
+  {
+    "id": "collectible-1027",
+    "name": "Operation Breakout All Access Pass",
+    "description": "The Operation Breakout event ran from July 2nd, 2014 to October 2nd, 2014. This pass no longer grants access to an Operation, but may be redeemed for a commemorative Operation Breakout Coin.",
+    "def_index": "1027",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "type": "Operation Pass",
+    "genuine": false,
+    "market_hash_name": "Operation Breakout All Access Pass",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSY9VNn9ZP95VfYQw_0n53v6DZk__O9e-o_I6jHCDXHmetzs7QwGXjilBsht2XTzI6vdS6VawN0DMR2QbUC4xS8jJS5YIKIqeEY",
+    "original": {
+      "item_name": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
+      "image_inventory": "econ/status_icons/operation_breakout_pass"
+    }
+  },
+  {
+    "id": "collectible-1028",
+    "name": "Operation Breakout Challenge Coin",
+    "description": "Participated in Operation Breakout.",
+    "def_index": "1028",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_breakout_bronze.e42c87a31ca55095ff37b3bd496e320b79e7f346.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
+      "image_inventory": "econ/status_icons/operation_breakout_bronze"
+    }
+  },
+  {
+    "id": "collectible-1029",
+    "name": "Silver Operation Breakout Coin",
+    "description": "Participated in Operation Breakout.",
+    "def_index": "1029",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_breakout_silver.7c7845992db8867507b2c4c169522d4c148b76ef.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
+      "image_inventory": "econ/status_icons/operation_breakout_silver"
+    }
+  },
+  {
+    "id": "collectible-1030",
+    "name": "Gold Operation Breakout Coin",
+    "description": "Participated in Operation Breakout.",
+    "def_index": "1030",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Operation Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_breakout_gold.d8b7869c69d2d89388b5894af8c9118adcb3d89c.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
+      "image_inventory": "econ/status_icons/operation_breakout_gold"
+    }
+  },
+  {
+    "id": "collectible-1031",
+    "name": "Castle Map Coin",
+    "description": null,
+    "def_index": "1031",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_castle.a0e3853095a60f89a42a816e6b6488d570fb39ee.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenCastle",
+      "image_inventory": "econ/status_icons/maptoken_castle"
+    }
+  },
+  {
+    "id": "collectible-1032",
+    "name": "Black Gold Map Coin",
+    "description": null,
+    "def_index": "1032",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_blackgold.2b3658328ca84cfc37517d541ecd6de30a84509b.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenBlackGold",
+      "image_inventory": "econ/status_icons/maptoken_blackgold"
+    }
+  },
+  {
+    "id": "collectible-1033",
+    "name": "Rush Map Coin",
+    "description": null,
+    "def_index": "1033",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_rush.c54c82d7b3e59b0043f6e09ba85e7360cd5fd41d.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenRush",
+      "image_inventory": "econ/status_icons/maptoken_rush"
+    }
+  },
+  {
+    "id": "collectible-1034",
+    "name": "Mist Map Coin",
+    "description": null,
+    "def_index": "1034",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_mist.67cc25328a565096e3c9663112c7e8fef2791c99.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenMist",
+      "image_inventory": "econ/status_icons/maptoken_mist"
+    }
+  },
+  {
+    "id": "collectible-1035",
+    "name": "Insertion Map Coin",
+    "description": null,
+    "def_index": "1035",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_insertion.bd7df714762e8ba6b1792f61818b1850ebdf33e5.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenInsertion",
+      "image_inventory": "econ/status_icons/maptoken_insertion"
+    }
+  },
+  {
+    "id": "collectible-1036",
+    "name": "Overgrown Map Coin",
+    "description": null,
+    "def_index": "1036",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_overgrown.7e75277d34c4e02c8e91153cc942afafd3ec6526.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenOvergrown",
+      "image_inventory": "econ/status_icons/maptoken_overgrown"
+    }
+  },
+  {
+    "id": "collectible-1037",
+    "name": "Marquis Map Coin",
+    "description": null,
+    "def_index": "1037",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_marquis.0fdce76bfaeb2af0c78c5098c2010f977fbcb9c0.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenMarquis",
+      "image_inventory": "econ/status_icons/maptoken_marquis"
+    }
+  },
+  {
+    "id": "collectible-1038",
+    "name": "Workout Map Coin",
+    "description": null,
+    "def_index": "1038",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_workout.8d9466d0531abd43fb14404c9278d2e9783dbc9e.png",
+    "original": {
+      "item_name": "#CSGO_Collectible_MapTokenWorkout",
+      "image_inventory": "econ/status_icons/maptoken_workout"
+    }
+  },
+  {
     "id": "collectible-1039",
     "name": "Backalley Map Coin",
     "description": null,
@@ -1992,1051 +2676,6 @@
     "original": {
       "item_name": "#CSGO_TournamentJournal_katowice2019_Crystal",
       "image_inventory": "econ/status_icons/katowice_pickem_2019_crystal"
-    }
-  },
-  {
-    "id": "collectible-4622",
-    "name": "Berlin 2019 Viewer Pass",
-    "description": "This is a sealed StarLadder 2019 Berlin CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Berlin 2019 Coin tracking your progress throughout the event, full access to the Berlin 2019 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Berlin 2019 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-    "def_index": "4622",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Tournament Pass",
-    "genuine": false,
-    "market_hash_name": "Berlin 2019 Viewer Pass",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSE8Vdn-Ibw7lz1fg34nZ3l8B0Jv6P3V7RsM-PdXmGSk70h4LI7TnixwU5zt22Gz474cS6RaAMjA5Z4EeYCtRO7lNHhP_SiuVJGD-N1_A",
-    "original": {
-      "item_name": "#CSGO_TournamentPass_berlin2019",
-      "image_inventory": "econ/status_icons/starladder_pickem_2019_pass"
-    }
-  },
-  {
-    "id": "collectible-4623",
-    "name": "Berlin 2019 Coin",
-    "description": "This is a commemorative StarLadder 2019 Berlin CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Berlin 2019 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Berlin 2019 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-    "def_index": "4623",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Pick'Em Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/starladder_pickem_2019_bronze.bbfee48f4925b72d15328f2e73d50447373283d4.png",
-    "original": {
-      "item_name": "#CSGO_TournamentJournal_berlin2019",
-      "image_inventory": "econ/status_icons/starladder_pickem_2019_bronze"
-    }
-  },
-  {
-    "id": "collectible-4624",
-    "name": "Berlin 2019 Silver Coin",
-    "description": "This is a commemorative StarLadder 2019 Berlin CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Berlin 2019 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Berlin 2019 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-    "def_index": "4624",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Pick'Em Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/starladder_pickem_2019_silver.1156058fdd0afc957f607d72bb329189f6e368a2.png",
-    "original": {
-      "item_name": "#CSGO_TournamentJournal_berlin2019_Silver",
-      "image_inventory": "econ/status_icons/starladder_pickem_2019_silver"
-    }
-  },
-  {
-    "id": "collectible-4625",
-    "name": "Berlin 2019 Gold Coin",
-    "description": "This is a commemorative StarLadder 2019 Berlin CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Berlin 2019 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Berlin 2019 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-    "def_index": "4625",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Pick'Em Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/starladder_pickem_2019_gold.d69cf4dc234538dfac66fc2aad1eb59326e27a0c.png",
-    "original": {
-      "item_name": "#CSGO_TournamentJournal_berlin2019_Gold",
-      "image_inventory": "econ/status_icons/starladder_pickem_2019_gold"
-    }
-  },
-  {
-    "id": "collectible-4626",
-    "name": "Berlin 2019 Diamond Coin",
-    "description": "This is a commemorative StarLadder 2019 Berlin CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Berlin 2019 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Berlin 2019 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-    "def_index": "4626",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Pick'Em Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/starladder_pickem_2019_crystal.09eb93632b5ee35b2701b898c696c16193b5183d.png",
-    "original": {
-      "item_name": "#CSGO_TournamentJournal_berlin2019_Crystal",
-      "image_inventory": "econ/status_icons/starladder_pickem_2019_crystal"
-    }
-  },
-  {
-    "id": "collectible-4627",
-    "name": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens",
-    "description": "This is a sealed StarLadder 2019 Berlin CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Berlin 2019 Coin tracking your progress throughout the event, full access to the Berlin 2019 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Berlin 2019 Coin by completing the coin challenges. Earn a Souvenir Token every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Berlin 2019 Coin with 3 Souvenir Tokens.",
-    "def_index": "4627",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Tournament Pass",
-    "genuine": false,
-    "market_hash_name": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSE8Vdn-Ibw7lz1fg34nZ3l8B0Jv6P3V7RsM-OsHmaTyqAktLJvTnjklkUktmnUy4mrcy_DOFMhAsQkR-Bb5ES5mobvMe7ntgbZlcsbmrBSrkhl",
-    "original": {
-      "item_name": "#CSGO_TournamentPass_berlin2019_pack",
-      "image_inventory": "econ/status_icons/starladder_pickem_2019_pass_pack"
-    }
-  },
-  {
-    "id": "collectible-4628",
-    "name": "Berlin 2019 Souvenir Token",
-    "description": "This is a sealed StarLadder 2019 Berlin CS:GO Major Championship Souvenir Token. Once this token is unsealed, it will add a token to your Berlin 2019 Coin and allow you to claim a Souvenir Package.\\n\\nTokens can only be applied to your existing Berlin 2019 Coin.",
-    "def_index": "4628",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Souvenir Token",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/starladder_pickem_2019_pass_charge.767dda9572f597e6ce4af1f73073e844eb6aae2b.png",
-    "original": {
-      "item_name": "#CSGO_TournamentPass_berlin2019_charge",
-      "image_inventory": "econ/status_icons/starladder_pickem_2019_pass_charge"
-    }
-  },
-  {
-    "id": "collectible-4671",
-    "name": "1 Star for Operation Shattered Web",
-    "description": "This purchasable Operation Star Upgrade grants <b>1 Operation Star</b> when activated.\\n\\nThis Operation Star Upgrade is only available to players who own the Operation Coin.",
-    "def_index": "4671",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Stars for Operation",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_plusstars1.f51d184b258d5087dfe16993c945d20aaa0ce2b6.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
-      "image_inventory": "econ/status_icons/operation_9_plusstars1"
-    }
-  },
-  {
-    "id": "collectible-4672",
-    "name": "10 Stars for Operation Shattered Web",
-    "description": "This purchasable Operation Star Upgrade grants <b>10 Operation Stars</b> when activated.\\n\\nThis Operation Star Upgrade is only available to players who own the Operation Coin.",
-    "def_index": "4672",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Stars for Operation",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_plusstars10.62009cee8e90e5db45b557189d0984542fa85369.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
-      "image_inventory": "econ/status_icons/operation_9_plusstars10"
-    }
-  },
-  {
-    "id": "collectible-4673",
-    "name": "100 Stars for Operation Shattered Web",
-    "description": "This purchasable Operation Star Upgrade grants <b>100 Operation Stars</b> when activated.\\n\\nThis Operation Star Upgrade is only available to players who own the Operation Coin.",
-    "def_index": "4673",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Stars for Operation",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_9_plusstars100.8875736d46373218bdee2fa1d8071d73d877c83d.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
-      "image_inventory": "econ/status_icons/operation_9_plusstars100"
-    }
-  },
-  {
-    "id": "collectible-4674",
-    "name": "2020 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2020.",
-    "def_index": "4674",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2020_lvl1.63b0f71adce63d71746fe0a26bc2821bedc2b8b3.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2020",
-      "image_inventory": "econ/status_icons/service_medal_2020_lvl1"
-    }
-  },
-  {
-    "id": "collectible-4675",
-    "name": "2020 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2020.",
-    "def_index": "4675",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2020_lvl2.a918d33ff9af86d5b7fec6195028be6911e8265a.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2020",
-      "image_inventory": "econ/status_icons/service_medal_2020_lvl2"
-    }
-  },
-  {
-    "id": "collectible-4676",
-    "name": "2020 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2020.",
-    "def_index": "4676",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2020_lvl3.00d6fcb2f149f1ecf5c590ae6541cc62df5fe9e8.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2020",
-      "image_inventory": "econ/status_icons/service_medal_2020_lvl3"
-    }
-  },
-  {
-    "id": "collectible-4677",
-    "name": "2020 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2020.",
-    "def_index": "4677",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2020_lvl4.59cd4a81baff8bb4f9a07343b1da8bf0fe373b35.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2020",
-      "image_inventory": "econ/status_icons/service_medal_2020_lvl4"
-    }
-  },
-  {
-    "id": "collectible-4678",
-    "name": "2020 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2020.",
-    "def_index": "4678",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2020_lvl5.a9e34fc9b755dc7d0f9748123ae5a68dacfa720c.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2020",
-      "image_inventory": "econ/status_icons/service_medal_2020_lvl5"
-    }
-  },
-  {
-    "id": "collectible-4679",
-    "name": "2020 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2020.",
-    "def_index": "4679",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2020_lvl6.56a946ef0b5e5ffca8ccc793c976b182bcdcf075.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2020",
-      "image_inventory": "econ/status_icons/service_medal_2020_lvl6"
-    }
-  },
-  {
-    "id": "collectible-4682",
-    "name": "Civil Protection Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4682",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "Civil Protection Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983-POo1IqbFC2PHxe0nsbE8GC22zUx-sDvcmYn6cHPEbAd0XJZ1ReIK50XpjJS5YM2GeADW",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_04",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_04"
-    }
-  },
-  {
-    "id": "collectible-4683",
-    "name": "Sustenance! Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4683",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "Sustenance! Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983-P-ppd6fGXjeUl-wl5rU5HC3kx04j5DjTn9j6cHORawQnCsBzR-Bc4xbqjJS5YEDBxb_n",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_07",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_07"
-    }
-  },
-  {
-    "id": "collectible-4684",
-    "name": "Vortigaunt Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4684",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "Vortigaunt Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983-MepvJKiRDGbCkLYu47U7Hi22xktw5GmGyYqvcymeawRzDZsiRrYI4xK6jJS5YFv2VefZ",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_09",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_09"
-    }
-  },
-  {
-    "id": "collectible-4685",
-    "name": "Headcrab Glyph Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4685",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "Headcrab Glyph Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983-Peo_eKaWCDSVw7pytrhqTS-wwBkk4z6GzNn7dS6faVB0AppwE-8Cu0LujJS5YAoC0a5w",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_05",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_05"
-    }
-  },
-  {
-    "id": "collectible-4686",
-    "name": "Health Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4686",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "Health Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983_Ouo6IqiQCGHDkOsm5OJqTnq3xkwj4WrVztagcC7CaQ8jX8cmQbUOs0S9jJS5YI3K3yOE",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_12",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_12"
-    }
-  },
-  {
-    "id": "collectible-4687",
-    "name": "Lambda Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4687",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "Lambda Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983-OepsIvOXCzSRw7gns7g8SS3lzR925j7QwtqudC6Ub1IgCMNwQO4L5Be8jJS5YIYAgqaU",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_01",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_01"
-    }
-  },
-  {
-    "id": "collectible-4688",
-    "name": "Copper Lambda Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4688",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "Copper Lambda Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983-Ouo-IafGWWHDwuol5-NsG3Dgwx90sWSHm9eocnqXPA92D8BxEOdfthHtjJS5YHLdlSug",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_02",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_02"
-    }
-  },
-  {
-    "id": "collectible-4689",
-    "name": "CMB Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4689",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "CMB Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983-O-ppeaPLXTKSlb9yteU5GnjqkRlysj-GzdardH3EZwAmCJUmF-JfukLpjJS5YJoNZVF-",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_03",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_03"
-    }
-  },
-  {
-    "id": "collectible-4690",
-    "name": "Black Mesa Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4690",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "Black Mesa Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983-Puo5IvWQDTHHkLwg5rFtFyjgzB8lsGTQztmreHuXOgMhWcFwQe4IsELrjJS5YLQKtvDj",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_06",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_06"
-    }
-  },
-  {
-    "id": "collectible-4691",
-    "name": "Combine Helmet Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4691",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "Combine Helmet Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983-MOpoJfHGCmXGxLx1tbdtHy3klxx152uHno6uJHnFbAUjA5YmQOBetBbujJS5YBnSVKcz",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_08",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_08"
-    }
-  },
-  {
-    "id": "collectible-4692",
-    "name": "City 17 Pin",
-    "description": "This is a collectible pin commemorating Half-Life: Alyx, Valve's VR return to the Half-Life series. It can be displayed on your profile.",
-    "def_index": "4692",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "type": "Pin",
-    "genuine": false,
-    "market_hash_name": "City 17 Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSU6lp58YTg41vrRCLhl5jf_C5C983_OepvI_PADGLCx7Zw6bY7FijlzU0h4GzTmdb4JHufPFMgWMAlRe8I4RK5jJS5YKPJo3vd",
-    "original": {
-      "item_name": "#CSGO_Collectible_Pin_alyx_11",
-      "image_inventory": "econ/status_icons/collectible_pin_alyx_11"
-    }
-  },
-  {
-    "id": "collectible-4699",
-    "name": "Operation Broken Fang Premium Pass",
-    "description": "The Operation Broken Fang event ran from December 3rd, 2020 to April 30th, 2021. This pass no longer grants access to an Operation, but may be redeemed for a commemorative Operation Broken Fang Coin.",
-    "def_index": "4699",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Operation Pass",
-    "genuine": false,
-    "market_hash_name": "Operation Broken Fang Premium Pass",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSY9VNn9ZP95VfYEE3Ojpfz7mwO7aqva6VvcKnAWj7Cxbsh4eA7THuyzBtw5zyDzd6pcy_EawR2DpJ5W6dU5fjXvhDG",
-    "original": {
-      "item_name": "#CSGO_Ticket_CommunitySeasonTen2020",
-      "image_inventory": "econ/status_icons/operation_10_pass"
-    }
-  },
-  {
-    "id": "collectible-4700",
-    "name": "Operation Broken Fang Challenge Coin",
-    "description": "Participated in Operation Broken Fang.",
-    "def_index": "4700",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Operation Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_10_bronze.6ac83c3514ccabca6d9a8e0b0025550b810875bf.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
-      "image_inventory": "econ/status_icons/operation_10_bronze"
-    }
-  },
-  {
-    "id": "collectible-4701",
-    "name": "Silver Operation Broken Fang Coin",
-    "description": "Participated in Operation Broken Fang.",
-    "def_index": "4701",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Operation Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSY9VNn9ZP95VfYEE3OjZ_s6ydJoaH5OvNpefOWCz_AxLwus7U9G3Cwxk9ytj7Wn46gd3mebQIkCJcmReAU8k7vNyslbgc",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
-      "image_inventory": "econ/status_icons/operation_10_silver"
-    }
-  },
-  {
-    "id": "collectible-4702",
-    "name": "Gold Operation Broken Fang Coin",
-    "description": "Participated in Operation Broken Fang.",
-    "def_index": "4702",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Operation Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_10_gold.f10e03659ba6e0dea334fe284127e45cfd93af98.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
-      "image_inventory": "econ/status_icons/operation_10_gold"
-    }
-  },
-  {
-    "id": "collectible-4703",
-    "name": "Diamond Operation Broken Fang Coin",
-    "description": "Completed Operation Broken Fang.",
-    "def_index": "4703",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Operation Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_10_platinum.b1c885780d626a3b2d0bcd089a2be731ae5366d2.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
-      "image_inventory": "econ/status_icons/operation_10_platinum"
-    }
-  },
-  {
-    "id": "collectible-4704",
-    "name": "1 Star for Operation Broken Fang",
-    "description": "This purchasable Operation Star Upgrade grants <b>1 Operation Star</b> when activated.",
-    "def_index": "4704",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Stars for Operation",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_10_plusstars1.64bd00870a1e0595e63062c3da4adf4e1cbe7519.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
-      "image_inventory": "econ/status_icons/operation_10_plusstars1"
-    }
-  },
-  {
-    "id": "collectible-4705",
-    "name": "10 Stars for Operation Broken Fang",
-    "description": "This purchasable Operation Star Upgrade grants <b>10 Operation Stars</b> when activated.",
-    "def_index": "4705",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Stars for Operation",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_10_plusstars10.a0cd543bdeb15052377e88527eabadfe2a125a57.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
-      "image_inventory": "econ/status_icons/operation_10_plusstars10"
-    }
-  },
-  {
-    "id": "collectible-4706",
-    "name": "100 Stars for Operation Broken Fang",
-    "description": "This purchasable Operation Star Upgrade grants <b>100 Operation Stars</b> when activated.",
-    "def_index": "4706",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Stars for Operation",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_10_plusstars100.5b0ac9bbc809d742fc02c353ac2403e598c9aa4f.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
-      "image_inventory": "econ/status_icons/operation_10_plusstars100"
-    }
-  },
-  {
-    "id": "collectible-4737",
-    "name": "2021 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2021.",
-    "def_index": "4737",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2021_lvl1.609e3b20fe9eb8424442fc968a3c1297c651b14e.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2021",
-      "image_inventory": "econ/status_icons/service_medal_2021_lvl1"
-    }
-  },
-  {
-    "id": "collectible-4738",
-    "name": "2021 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2021.",
-    "def_index": "4738",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2021_lvl2.4fcb95c67e640156b04c6fc2f9c7ad8d9885c9f8.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2021",
-      "image_inventory": "econ/status_icons/service_medal_2021_lvl2"
-    }
-  },
-  {
-    "id": "collectible-4739",
-    "name": "2021 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2021.",
-    "def_index": "4739",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2021_lvl3.194bee1b6bde0684da0b0065daf4de670077c9c7.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2021",
-      "image_inventory": "econ/status_icons/service_medal_2021_lvl3"
-    }
-  },
-  {
-    "id": "collectible-4740",
-    "name": "2021 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2021.",
-    "def_index": "4740",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2021_lvl4.4b1db82d2c2ac2eec69989c8facba1f248090606.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2021",
-      "image_inventory": "econ/status_icons/service_medal_2021_lvl4"
-    }
-  },
-  {
-    "id": "collectible-4741",
-    "name": "2021 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2021.",
-    "def_index": "4741",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2021_lvl5.1eb51e611f901adeaefd85ffa183d86c4d4d45e9.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2021",
-      "image_inventory": "econ/status_icons/service_medal_2021_lvl5"
-    }
-  },
-  {
-    "id": "collectible-4742",
-    "name": "2021 Service Medal",
-    "description": "Awarded for outstanding service and achievement in 2021.",
-    "def_index": "4742",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Service Medal",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2021_lvl6.8ea1e662fc97d7a6a70ae360385e332b5f77c08b.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_GlobalGeneral2021",
-      "image_inventory": "econ/status_icons/service_medal_2021_lvl6"
-    }
-  },
-  {
-    "id": "collectible-4758",
-    "name": "Operation Riptide Premium Pass",
-    "description": "The Operation Riptide Premium Pass grants a commemorative upgradeable Operation Riptide Coin, weekly missions, and access to exclusive items in the Operation Shop.",
-    "def_index": "4758",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Operation Pass",
-    "genuine": false,
-    "market_hash_name": "Operation Riptide Premium Pass",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSY9VNn9ZP95VfYEEzOjpfz7mwLt6f3a_M6eKXDDGXJw78j4rU_GXjnwEh04GWGyoygdXPDPAEkCpQmW6dU5dnU9YXO",
-    "original": {
-      "item_name": "#CSGO_Ticket_CommunitySeasonEleven2021",
-      "image_inventory": "econ/status_icons/operation_11_pass"
-    }
-  },
-  {
-    "id": "collectible-4759",
-    "name": "Operation Riptide Challenge Coin",
-    "description": "Participated in Operation Riptide.",
-    "def_index": "4759",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Operation Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_11_bronze.1112e2da27e3353baaeed750306eeb0e4087f967.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
-      "image_inventory": "econ/status_icons/operation_11_bronze"
-    }
-  },
-  {
-    "id": "collectible-4760",
-    "name": "Silver Operation Riptide Coin",
-    "description": "Participated in Operation Riptide.",
-    "def_index": "4760",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Operation Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_11_silver.427c44d67ebecc57f7b7f1d86b1bc9bb8d8ec114.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
-      "image_inventory": "econ/status_icons/operation_11_silver"
-    }
-  },
-  {
-    "id": "collectible-4761",
-    "name": "Gold Operation Riptide Coin",
-    "description": "Participated in Operation Riptide.",
-    "def_index": "4761",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Operation Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_11_gold.c5709465c82a9600b9495c83063a0788b1949636.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
-      "image_inventory": "econ/status_icons/operation_11_gold"
-    }
-  },
-  {
-    "id": "collectible-4762",
-    "name": "Diamond Operation Riptide Coin",
-    "description": "Completed Operation Riptide.",
-    "def_index": "4762",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Operation Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSY9VNn9ZP95VfYEEzOjprh6StV-v_gP6Y9eabLWmKRlLom6eAwSn3jwElx6jmAzNuodX-QbQR1DZIiQuUNtA74zIOo-DDEGw",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
-      "image_inventory": "econ/status_icons/operation_11_platinum"
-    }
-  },
-  {
-    "id": "collectible-4763",
-    "name": "1 Star for Operation Riptide",
-    "description": "This purchasable Operation Star Upgrade grants <b>1 Operation Star</b> when activated.",
-    "def_index": "4763",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Stars for Operation",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_11_plusstars1.721d6a1b559240e5db934d7fd8cbe7adba370bb4.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
-      "image_inventory": "econ/status_icons/operation_11_plusstars1"
-    }
-  },
-  {
-    "id": "collectible-4764",
-    "name": "10 Stars for Operation Riptide",
-    "description": "This purchasable Operation Star Upgrade grants <b>10 Operation Stars</b> when activated.",
-    "def_index": "4764",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Stars for Operation",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_11_plusstars10.c28849501791a7c9f73d211870e212868e5e2559.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
-      "image_inventory": "econ/status_icons/operation_11_plusstars10"
-    }
-  },
-  {
-    "id": "collectible-4765",
-    "name": "100 Stars for Operation Riptide",
-    "description": "This purchasable Operation Star Upgrade grants <b>100 Operation Stars</b> when activated.",
-    "def_index": "4765",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Stars for Operation",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/operation_11_plusstars100.ad3aaffed8ab2fbe1c222ff4a8120bd8d54e57f9.png",
-    "original": {
-      "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
-      "image_inventory": "econ/status_icons/operation_11_plusstars100"
-    }
-  },
-  {
-    "id": "collectible-4796",
-    "name": "Stockholm 2021 Viewer Pass",
-    "description": "This is a sealed PGL 2021 Stockholm CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Stockholm 2021 Coin tracking your progress throughout the event, full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Stockholm 2021 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
-    "def_index": "4796",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Tournament Pass",
-    "genuine": false,
-    "market_hash_name": "Stockholm 2021 Viewer Pass",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSH4lpK5I734Vzqfk-hzMff7SNI_LytP_Fsc6XLVmKRl7pw57Y8G3nklxkisT_cmImtICqVaAUoXMAmQ7JZrFDmxTugqiSb",
-    "original": {
-      "item_name": "#CSGO_TournamentPass_stockh2021",
-      "image_inventory": "econ/status_icons/pgl_pickem_2021_pass"
-    }
-  },
-  {
-    "id": "collectible-4797",
-    "name": "Stockholm 2021 Coin",
-    "description": "This is a commemorative PGL 2021 Stockholm CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Stockholm 2021 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-    "def_index": "4797",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Pick'Em Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/pgl_pickem_2021_bronze.4a1e2324f3c7449923710dac6acc6fd5e0df19d3.png",
-    "original": {
-      "item_name": "#CSGO_TournamentJournal_stockh2021",
-      "image_inventory": "econ/status_icons/pgl_pickem_2021_bronze"
-    }
-  },
-  {
-    "id": "collectible-4798",
-    "name": "Stockholm 2021 Silver Coin",
-    "description": "This is a commemorative PGL 2021 Stockholm CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Stockholm 2021 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-    "def_index": "4798",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Pick'Em Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/pgl_pickem_2021_silver.2022c394a456d67dbc94c3d96fa04b809ce2215a.png",
-    "original": {
-      "item_name": "#CSGO_TournamentJournal_stockh2021_Silver",
-      "image_inventory": "econ/status_icons/pgl_pickem_2021_silver"
-    }
-  },
-  {
-    "id": "collectible-4799",
-    "name": "Stockholm 2021 Gold Coin",
-    "description": "This is a commemorative PGL 2021 Stockholm CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Stockholm 2021 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-    "def_index": "4799",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Pick'Em Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/pgl_pickem_2021_gold.f03cf79692ca14c2e8cc3483e4bd9666e38155ca.png",
-    "original": {
-      "item_name": "#CSGO_TournamentJournal_stockh2021_Gold",
-      "image_inventory": "econ/status_icons/pgl_pickem_2021_gold"
-    }
-  },
-  {
-    "id": "collectible-4800",
-    "name": "Stockholm 2021 Diamond Coin",
-    "description": "This is a commemorative PGL 2021 Stockholm CS:GO Major Championship Coin which tracks your progress throughout the event, provides full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Stockholm 2021 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
-    "def_index": "4800",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "type": "Pick'Em Coin",
-    "genuine": false,
-    "market_hash_name": null,
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/pgl_pickem_2021_crystal.7c5acb01f6f605f8608e41cf75d52adb2d698403.png",
-    "original": {
-      "item_name": "#CSGO_TournamentJournal_stockh2021_Crystal",
-      "image_inventory": "econ/status_icons/pgl_pickem_2021_crystal"
-    }
-  },
-  {
-    "id": "collectible-4801",
-    "name": "Stockholm 2021 Viewer Pass + 3 Souvenir Tokens",
-    "description": "This is a sealed PGL 2021 Stockholm CS:GO Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Stockholm 2021 Coin tracking your progress throughout the event, full access to the Stockholm 2021 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Stockholm 2021 Coin by completing the coin challenges. Earn a Souvenir Token every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Stockholm 2021 Coin with 3 Souvenir Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
-    "def_index": "4801",
-    "rarity": {
-      "id": "rarity_common",
-      "name": "Base Grade",
-      "color": "#b0c3d9"
-    },
-    "type": "Tournament Pass",
-    "genuine": false,
-    "market_hash_name": "Stockholm 2021 Viewer Pass + 3 Souvenir Tokens",
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSH4lpK5I734Vzqfk-hzMff7SNI_M2-aadmbqLHVjLJlrd16ONvSXjlwElzsWnQydqvIH7FbAJxW5t3RbEItkO9m9f5d7S1GOVU988",
-    "original": {
-      "item_name": "#CSGO_TournamentPass_stockh2021_pack",
-      "image_inventory": "econ/status_icons/pgl_pickem_2021_pass_pack"
     }
   }
 ]

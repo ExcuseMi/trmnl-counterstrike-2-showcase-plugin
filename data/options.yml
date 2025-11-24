@@ -1,13 +1,27 @@
 - keyname: about
   name: About This Plugin
   field_type: author_bio
+  github_url: https://github.com/ExcuseMi/trmnl-counterstrike-2-showcase-plugin
   description: "Showcase every available item in Counter-Strike 2, including skins, crates, collectibles, music kits, and more."
 - keyname: item_types
-  field_type: xhrSelect
+  field_type: select
   name: Item Types to Display
   description: "Select all the item types you want to display."
-  endpoint: https://raw.githubusercontent.com/ExcuseMi/trmnl-counterstrike-2-showcase-plugin/refs/heads/main/data/item_types.json
+  options:
+    - "Agents": agents|2
+    - "Base Weapons": base_weapons|1
+    - "Collectibles": collectibles|5
+    - "Collections": collections|14
+    - "Crates": crates|94
+    - "Graffiti": graffiti|23
+    - "Highlights": highlights|7
+    - "Keychains": keychains|1
+    - "Keys": keys|1
+    - "Music Kits": music_kits|3
+    - "Patches": patches|1
+    - "Skins": skins|59
+    - "Stickers": stickers|191
+    - "Sticker Slabs": stickers_slab|168
+    - "Tools": tools|1
   multiple: true
   help_text: "Use <kbd>⌘</kbd>+<kbd>click</kbd> or <kbd>Ctrl</kbd>+<kbd>click</kbd> to select multiple item types.<br />Leave empty to show all item types."
-  optional: true
-  default: skins|0

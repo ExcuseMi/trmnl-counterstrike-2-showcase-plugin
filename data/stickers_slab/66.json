@@ -1,46 +1,9 @@
 [
   {
-    "id": "sticker_slab-5347",
-    "name": "Sticker Slab | Complexity Gaming | Antwerp 2022",
+    "id": "sticker_slab-4205",
+    "name": "Sticker Slab | f0rest (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5347",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Complexity Gaming | Antwerp 2022",
-    "effect": "Other",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 111,
-      "tag": "CPLX",
-      "geo": "US",
-      "name": "Complexity Gaming"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/cplx_1355_37.d3e31be419f4053766dd5513befe9d5ee0128226.png",
-    "original": {
-      "name": "antwerp2022_team_cplx",
-      "image_inventory": "econ/stickers/antwerp2022/cplx_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5348",
-    "name": "Sticker Slab | Complexity Gaming (Glitter) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5348",
+    "def_index": "4205",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -48,73 +11,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Complexity Gaming (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | f0rest (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 111,
-      "tag": "CPLX",
-      "geo": "US",
-      "name": "Complexity Gaming"
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/cplx_glitter_1355_37.e2b21ca2e8e8df4fca87d09e4689b5147e71d73a.png",
+    "player": {
+      "id": 93724,
+      "name": "f0rest",
+      "code": "forest",
+      "dob": "1988-06-10",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_forest_foil_1355_37.50d9b1959d0a4a71c0fe3e7b10effa6d93e15049.png",
     "original": {
-      "name": "antwerp2022_team_cplx_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/cplx_glitter_1355_37"
+      "name": "berlin2019_signature_forest_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_forest_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5349",
-    "name": "Sticker Slab | Complexity Gaming (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4206",
+    "name": "Sticker Slab | f0rest (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5349",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Complexity Gaming (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 111,
-      "tag": "CPLX",
-      "geo": "US",
-      "name": "Complexity Gaming"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/cplx_holo_1355_37.61658ea7e16813fe720036b3baeef92ac1ed585e.png",
-    "original": {
-      "name": "antwerp2022_team_cplx_holo",
-      "image_inventory": "econ/stickers/antwerp2022/cplx_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5350",
-    "name": "Sticker Slab | Complexity Gaming (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5350",
+    "def_index": "4206",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -122,36 +55,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Complexity Gaming (Gold) | Antwerp 2022",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | f0rest (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 111,
-      "tag": "CPLX",
-      "geo": "US",
-      "name": "Complexity Gaming"
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/cplx_gold_1355_37.702e7db3a6cf767c930a819e0e6ca4d96062fdbc.png",
+    "player": {
+      "id": 93724,
+      "name": "f0rest",
+      "code": "forest",
+      "dob": "1988-06-10",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_forest_gold_1355_37.5fdd1a15869180ea98fc47f0b086507006f0d443.png",
     "original": {
-      "name": "antwerp2022_team_cplx_gold",
-      "image_inventory": "econ/stickers/antwerp2022/cplx_gold_1355_37"
+      "name": "berlin2019_signature_forest_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_forest_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5351",
-    "name": "Sticker Slab | IHC Esports | Antwerp 2022",
+    "id": "sticker_slab-4207",
+    "name": "Sticker Slab | Lekr0 | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5351",
+    "def_index": "4207",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -159,36 +99,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | IHC Esports | Antwerp 2022",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Lekr0 | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 108,
-      "tag": "IHC",
-      "geo": "MN",
-      "name": "IHC Esports"
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/ihc_1355_37.5319fcc5ca290e79a9ee6474edea2c4eeb870d05.png",
+    "player": {
+      "id": 1093135,
+      "name": "Lekr0",
+      "code": "lekro",
+      "dob": "1993-07-02",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_lekro_1355_37.f61a903d1baf4f0471f6be3a0003f228f39ed82e.png",
     "original": {
-      "name": "antwerp2022_team_ihc",
-      "image_inventory": "econ/stickers/antwerp2022/ihc_1355_37"
+      "name": "berlin2019_signature_lekro",
+      "image_inventory": "econ/stickers/berlin2019/sig_lekro_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5352",
-    "name": "Sticker Slab | IHC Esports (Glitter) | Antwerp 2022",
+    "id": "sticker_slab-4208",
+    "name": "Sticker Slab | Lekr0 (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5352",
+    "def_index": "4208",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -196,73 +143,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | IHC Esports (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Lekr0 (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 108,
-      "tag": "IHC",
-      "geo": "MN",
-      "name": "IHC Esports"
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/ihc_glitter_1355_37.79a175fcb12a80e8f22104e38d0c4d614a121ee9.png",
+    "player": {
+      "id": 1093135,
+      "name": "Lekr0",
+      "code": "lekro",
+      "dob": "1993-07-02",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_lekro_foil_1355_37.cda3e461a047fa0834ae011eed45e55ad5424d5b.png",
     "original": {
-      "name": "antwerp2022_team_ihc_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/ihc_glitter_1355_37"
+      "name": "berlin2019_signature_lekro_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_lekro_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5353",
-    "name": "Sticker Slab | IHC Esports (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4209",
+    "name": "Sticker Slab | Lekr0 (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5353",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | IHC Esports (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 108,
-      "tag": "IHC",
-      "geo": "MN",
-      "name": "IHC Esports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/ihc_holo_1355_37.162dba9efe5838ac00f238a82dc21e3409b000c2.png",
-    "original": {
-      "name": "antwerp2022_team_ihc_holo",
-      "image_inventory": "econ/stickers/antwerp2022/ihc_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5354",
-    "name": "Sticker Slab | IHC Esports (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5354",
+    "def_index": "4209",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -270,36 +187,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | IHC Esports (Gold) | Antwerp 2022",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Lekr0 (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 108,
-      "tag": "IHC",
-      "geo": "MN",
-      "name": "IHC Esports"
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/ihc_gold_1355_37.cd57019c76572f163beaa6d6c0876e5d580bfc69.png",
+    "player": {
+      "id": 1093135,
+      "name": "Lekr0",
+      "code": "lekro",
+      "dob": "1993-07-02",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_lekro_gold_1355_37.b4267732f9dccc296ee8ccace543a62447069d5f.png",
     "original": {
-      "name": "antwerp2022_team_ihc_gold",
-      "image_inventory": "econ/stickers/antwerp2022/ihc_gold_1355_37"
+      "name": "berlin2019_signature_lekro_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_lekro_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5355",
-    "name": "Sticker Slab | Renegades | Antwerp 2022",
+    "id": "sticker_slab-4210",
+    "name": "Sticker Slab | GeT_RiGhT | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5355",
+    "def_index": "4210",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -307,36 +231,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Renegades | Antwerp 2022",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | GeT_RiGhT | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/ren_1355_37.4a0126bc005962570da0d5693b01384335a94657.png",
+    "player": {
+      "id": 21771190,
+      "name": "GeT_RiGhT",
+      "code": "getright",
+      "dob": "1990-05-29",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_getright_1355_37.3c189b827ff636140ea1368605fa953ef15ee718.png",
     "original": {
-      "name": "antwerp2022_team_ren",
-      "image_inventory": "econ/stickers/antwerp2022/ren_1355_37"
+      "name": "berlin2019_signature_getright",
+      "image_inventory": "econ/stickers/berlin2019/sig_getright_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5356",
-    "name": "Sticker Slab | Renegades (Glitter) | Antwerp 2022",
+    "id": "sticker_slab-4211",
+    "name": "Sticker Slab | GeT_RiGhT (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5356",
+    "def_index": "4211",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -344,73 +275,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Renegades (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | GeT_RiGhT (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/ren_glitter_1355_37.e1b79de2e8a8da27c08ce59363301a764053edc8.png",
+    "player": {
+      "id": 21771190,
+      "name": "GeT_RiGhT",
+      "code": "getright",
+      "dob": "1990-05-29",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_getright_foil_1355_37.44fe4216f8a4c68f42b213ec696a588f2e37a09c.png",
     "original": {
-      "name": "antwerp2022_team_ren_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/ren_glitter_1355_37"
+      "name": "berlin2019_signature_getright_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_getright_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5357",
-    "name": "Sticker Slab | Renegades (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4212",
+    "name": "Sticker Slab | GeT_RiGhT (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5357",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Renegades (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/ren_holo_1355_37.42d4f9989b83295ae1e172e0a3a48a86c50ef2b4.png",
-    "original": {
-      "name": "antwerp2022_team_ren_holo",
-      "image_inventory": "econ/stickers/antwerp2022/ren_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5358",
-    "name": "Sticker Slab | Renegades (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5358",
+    "def_index": "4212",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -418,36 +319,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Renegades (Gold) | Antwerp 2022",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | GeT_RiGhT (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 53,
-      "tag": "REN",
-      "geo": "AU",
-      "name": "Renegades"
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/ren_gold_1355_37.46384731c39954c22635538ec02e6d56ae66a716.png",
+    "player": {
+      "id": 21771190,
+      "name": "GeT_RiGhT",
+      "code": "getright",
+      "dob": "1990-05-29",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_getright_gold_1355_37.bdbd3bb3f366c3f3a7d49c8d9febfcebf83fd9d7.png",
     "original": {
-      "name": "antwerp2022_team_ren_gold",
-      "image_inventory": "econ/stickers/antwerp2022/ren_gold_1355_37"
+      "name": "berlin2019_signature_getright_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_getright_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5359",
-    "name": "Sticker Slab | Team Liquid | Antwerp 2022",
+    "id": "sticker_slab-4213",
+    "name": "Sticker Slab | REZ | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5359",
+    "def_index": "4213",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -455,18 +363,942 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team Liquid | Antwerp 2022",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | REZ | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "player": {
+      "id": 73906687,
+      "name": "REZ",
+      "code": "rez",
+      "dob": "1998-01-11",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_rez_1355_37.b58658271f6a769d585daee43c848083d4d6073f.png",
+    "original": {
+      "name": "berlin2019_signature_rez",
+      "image_inventory": "econ/stickers/berlin2019/sig_rez_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4214",
+    "name": "Sticker Slab | REZ (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4214",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | REZ (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "player": {
+      "id": 73906687,
+      "name": "REZ",
+      "code": "rez",
+      "dob": "1998-01-11",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_rez_foil_1355_37.532fcaf7df5092c9adb14afa771dd617105bf7cf.png",
+    "original": {
+      "name": "berlin2019_signature_rez_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_rez_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4215",
+    "name": "Sticker Slab | REZ (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4215",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | REZ (Gold) | Berlin 2019",
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "player": {
+      "id": 73906687,
+      "name": "REZ",
+      "code": "rez",
+      "dob": "1998-01-11",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_rez_gold_1355_37.bfef86803d75efdd988d5a39d33039dd1d00211e.png",
+    "original": {
+      "name": "berlin2019_signature_rez_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_rez_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4216",
+    "name": "Sticker Slab | Golden | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4216",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Golden | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "player": {
+      "id": 116509497,
+      "name": "Golden",
+      "code": "golden",
+      "dob": "1994-02-02",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_golden_1355_37.41810ff9375ef7158cd5b2b5b0578c5edd142c64.png",
+    "original": {
+      "name": "berlin2019_signature_golden",
+      "image_inventory": "econ/stickers/berlin2019/sig_golden_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4217",
+    "name": "Sticker Slab | Golden (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4217",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Golden (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "player": {
+      "id": 116509497,
+      "name": "Golden",
+      "code": "golden",
+      "dob": "1994-02-02",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_golden_foil_1355_37.1ac93e27613c0d330f08754d5bd8704aa0897370.png",
+    "original": {
+      "name": "berlin2019_signature_golden_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_golden_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4218",
+    "name": "Sticker Slab | Golden (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4218",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Golden (Gold) | Berlin 2019",
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "player": {
+      "id": 116509497,
+      "name": "Golden",
+      "code": "golden",
+      "dob": "1994-02-02",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_golden_gold_1355_37.0b6a3f8d5cde3bc4a23f19edfe0086d391db1545.png",
+    "original": {
+      "name": "berlin2019_signature_golden_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_golden_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4219",
+    "name": "Sticker Slab | NEO | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4219",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | NEO | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 460206,
+      "name": "NEO",
+      "code": "neo",
+      "dob": "1987-06-15",
+      "geo": "PL"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_neo_1355_37.931935d01ccd952c4c0dc3a11e5260abbdc6ca2b.png",
+    "original": {
+      "name": "berlin2019_signature_neo",
+      "image_inventory": "econ/stickers/berlin2019/sig_neo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4220",
+    "name": "Sticker Slab | NEO (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4220",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | NEO (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 460206,
+      "name": "NEO",
+      "code": "neo",
+      "dob": "1987-06-15",
+      "geo": "PL"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_neo_foil_1355_37.5f287d7676aec0d8d1d34c85a3f220885a9ac1d4.png",
+    "original": {
+      "name": "berlin2019_signature_neo_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_neo_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4221",
+    "name": "Sticker Slab | NEO (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4221",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | NEO (Gold) | Berlin 2019",
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 460206,
+      "name": "NEO",
+      "code": "neo",
+      "dob": "1987-06-15",
+      "geo": "PL"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_neo_gold_1355_37.434862c69a4ec29edaa88516fb49efa680a79761.png",
+    "original": {
+      "name": "berlin2019_signature_neo_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_neo_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4222",
+    "name": "Sticker Slab | GuardiaN | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4222",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | GuardiaN | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 12065295,
+      "name": "GuardiaN",
+      "code": "guardian",
+      "dob": "1991-07-19",
+      "geo": "SK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_guardian_1355_37.eab2bade40f13a1a0dad6b99ec3ef3c533d52d97.png",
+    "original": {
+      "name": "berlin2019_signature_guardian",
+      "image_inventory": "econ/stickers/berlin2019/sig_guardian_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4223",
+    "name": "Sticker Slab | GuardiaN (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4223",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | GuardiaN (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 12065295,
+      "name": "GuardiaN",
+      "code": "guardian",
+      "dob": "1991-07-19",
+      "geo": "SK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_guardian_foil_1355_37.cacbe27965e8fe2e51a235270e58d8252816ca59.png",
+    "original": {
+      "name": "berlin2019_signature_guardian_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_guardian_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4224",
+    "name": "Sticker Slab | GuardiaN (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4224",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | GuardiaN (Gold) | Berlin 2019",
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 12065295,
+      "name": "GuardiaN",
+      "code": "guardian",
+      "dob": "1991-07-19",
+      "geo": "SK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_guardian_gold_1355_37.cc92f253475ea724d0aa27f660937003fd6b6d09.png",
+    "original": {
+      "name": "berlin2019_signature_guardian_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_guardian_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4225",
+    "name": "Sticker Slab | olofmeister | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4225",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | olofmeister | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 28361465,
+      "name": "olofmeister",
+      "code": "olofmeister",
+      "dob": "1992-01-31",
+      "geo": "SE"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd67-VDgfhL9kZDt-CtI-_e8V_U-daWsXTDelrci5-dtTHnmxBh15z7XzI3_InuWOwYnCMd3ReUPsxPpkdOxYemw7xue1dymuqHfJw",
+    "original": {
+      "name": "berlin2019_signature_olofmeister",
+      "image_inventory": "econ/stickers/berlin2019/sig_olofmeister_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4226",
+    "name": "Sticker Slab | olofmeister (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4226",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | olofmeister (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 28361465,
+      "name": "olofmeister",
+      "code": "olofmeister",
+      "dob": "1992-01-31",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_olofmeister_foil_1355_37.5ab4478655f154fb8db247778a07cdc1d94c9e6b.png",
+    "original": {
+      "name": "berlin2019_signature_olofmeister_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_olofmeister_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4227",
+    "name": "Sticker Slab | olofmeister (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4227",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | olofmeister (Gold) | Berlin 2019",
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 28361465,
+      "name": "olofmeister",
+      "code": "olofmeister",
+      "dob": "1992-01-31",
+      "geo": "SE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_olofmeister_gold_1355_37.e5fae18c6f5cb3883cb35fc4ccd8f41effa3d621.png",
+    "original": {
+      "name": "berlin2019_signature_olofmeister_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_olofmeister_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4228",
+    "name": "Sticker Slab | rain | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4228",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | rain | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 37085479,
+      "name": "rain",
+      "code": "rain",
+      "dob": "1994-08-27",
+      "geo": "NO"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_rain_1355_37.c753a16a4c81ff0d001977ade8125dfaea5a8910.png",
+    "original": {
+      "name": "berlin2019_signature_rain",
+      "image_inventory": "econ/stickers/berlin2019/sig_rain_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4229",
+    "name": "Sticker Slab | rain (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4229",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | rain (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 37085479,
+      "name": "rain",
+      "code": "rain",
+      "dob": "1994-08-27",
+      "geo": "NO"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_rain_foil_1355_37.c3be7c07eabfa332c60931f554e521b1aea667e4.png",
+    "original": {
+      "name": "berlin2019_signature_rain_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_rain_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4230",
+    "name": "Sticker Slab | rain (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4230",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | rain (Gold) | Berlin 2019",
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 37085479,
+      "name": "rain",
+      "code": "rain",
+      "dob": "1994-08-27",
+      "geo": "NO"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_rain_gold_1355_37.faa176d280803195e4f0ccc8a1a724f1175910ba.png",
+    "original": {
+      "name": "berlin2019_signature_rain_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_rain_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4231",
+    "name": "Sticker Slab | NiKo | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4231",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | NiKo | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 81417650,
+      "name": "NiKo",
+      "code": "niko",
+      "dob": "1997-02-16",
+      "geo": "BA"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_niko_1355_37.4d5ecf8287395263d67c777bb199f0ec4bc01397.png",
+    "original": {
+      "name": "berlin2019_signature_niko",
+      "image_inventory": "econ/stickers/berlin2019/sig_niko_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4232",
+    "name": "Sticker Slab | NiKo (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4232",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | NiKo (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 81417650,
+      "name": "NiKo",
+      "code": "niko",
+      "dob": "1997-02-16",
+      "geo": "BA"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_niko_foil_1355_37.23d900a45c4e121eb56c5f67c0fd062bf47831a4.png",
+    "original": {
+      "name": "berlin2019_signature_niko_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_niko_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4233",
+    "name": "Sticker Slab | NiKo (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4233",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | NiKo (Gold) | Berlin 2019",
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "player": {
+      "id": 81417650,
+      "name": "NiKo",
+      "code": "niko",
+      "dob": "1997-02-16",
+      "geo": "BA"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_niko_gold_1355_37.ce2d5a6d5caca068a90da29e95ae776ac18cd09d.png",
+    "original": {
+      "name": "berlin2019_signature_niko_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_niko_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4234",
+    "name": "Sticker Slab | nitr0 | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4234",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | nitr0 | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
       "id": 48,
@@ -474,17 +1306,24 @@
       "geo": "US",
       "name": "Team Liquid"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/liq_1355_37.6e34be79cd8489351977dd087b06ee016c790b2d.png",
+    "player": {
+      "id": 35624002,
+      "name": "nitr0",
+      "code": "nitro",
+      "dob": "1995-08-16",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_nitro_1355_37.0126fcc4cc065effe77c771eb5928295d3fa89e1.png",
     "original": {
-      "name": "antwerp2022_team_liq",
-      "image_inventory": "econ/stickers/antwerp2022/liq_1355_37"
+      "name": "berlin2019_signature_nitro",
+      "image_inventory": "econ/stickers/berlin2019/sig_nitro_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5360",
-    "name": "Sticker Slab | Team Liquid (Glitter) | Antwerp 2022",
+    "id": "sticker_slab-4235",
+    "name": "Sticker Slab | nitr0 (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5360",
+    "def_index": "4235",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -492,18 +1331,18 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team Liquid (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | nitr0 (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
       "id": 48,
@@ -511,36 +1350,43 @@
       "geo": "US",
       "name": "Team Liquid"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/liq_glitter_1355_37.5c5ef31e7e1b208a6f52e202b1167734c20fd5f7.png",
+    "player": {
+      "id": 35624002,
+      "name": "nitr0",
+      "code": "nitro",
+      "dob": "1995-08-16",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_nitro_foil_1355_37.6da226a3526fcf909b4c87bdb314f143bd608478.png",
     "original": {
-      "name": "antwerp2022_team_liq_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/liq_glitter_1355_37"
+      "name": "berlin2019_signature_nitro_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_nitro_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5361",
-    "name": "Sticker Slab | Team Liquid (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4236",
+    "name": "Sticker Slab | nitr0 (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5361",
+    "def_index": "4236",
     "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team Liquid (Holo) | Antwerp 2022",
-    "effect": "Holo",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | nitr0 (Gold) | Berlin 2019",
+    "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
       "id": 48,
@@ -548,36 +1394,43 @@
       "geo": "US",
       "name": "Team Liquid"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/liq_holo_1355_37.d86ffcf68aba7992ee569d3e1f4a9a9886467d65.png",
+    "player": {
+      "id": 35624002,
+      "name": "nitr0",
+      "code": "nitro",
+      "dob": "1995-08-16",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_nitro_gold_1355_37.22450f7720f551dfa784ecee96773a09c53bdc07.png",
     "original": {
-      "name": "antwerp2022_team_liq_holo",
-      "image_inventory": "econ/stickers/antwerp2022/liq_holo_1355_37"
+      "name": "berlin2019_signature_nitro_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_nitro_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5362",
-    "name": "Sticker Slab | Team Liquid (Gold) | Antwerp 2022",
+    "id": "sticker_slab-4237",
+    "name": "Sticker Slab | Stewie2K | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5362",
+    "def_index": "4237",
     "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team Liquid (Gold) | Antwerp 2022",
-    "effect": "Gold",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Stewie2K | Berlin 2019",
+    "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
       "id": 48,
@@ -585,54 +1438,24 @@
       "geo": "US",
       "name": "Team Liquid"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/liq_gold_1355_37.efd6fef44ca3768c38867a356d5d5d57fd812a8c.png",
+    "player": {
+      "id": 38738282,
+      "name": "Stewie2K",
+      "code": "stewie2k",
+      "dob": "1998-01-07",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_stewie2k_1355_37.bc3aa777e3f83146516757290d710ca67284e4c0.png",
     "original": {
-      "name": "antwerp2022_team_liq_gold",
-      "image_inventory": "econ/stickers/antwerp2022/liq_gold_1355_37"
+      "name": "berlin2019_signature_stewie2k",
+      "image_inventory": "econ/stickers/berlin2019/sig_stewie2k_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5363",
-    "name": "Sticker Slab | 9z Team | Antwerp 2022",
+    "id": "sticker_slab-4238",
+    "name": "Sticker Slab | Stewie2K (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5363",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | 9z Team | Antwerp 2022",
-    "effect": "Other",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 112,
-      "tag": "NINE",
-      "geo": "AR",
-      "name": "9z Team"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/nine_1355_37.115f9c43fb81109af896c79cb0f848fc1b224dea.png",
-    "original": {
-      "name": "antwerp2022_team_nine",
-      "image_inventory": "econ/stickers/antwerp2022/nine_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5364",
-    "name": "Sticker Slab | 9z Team (Glitter) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5364",
+    "def_index": "4238",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -640,73 +1463,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | 9z Team (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Stewie2K (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 112,
-      "tag": "NINE",
-      "geo": "AR",
-      "name": "9z Team"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/nine_glitter_1355_37.c159e48fef5f316db7e1686db50fb58893250cc5.png",
+    "player": {
+      "id": 38738282,
+      "name": "Stewie2K",
+      "code": "stewie2k",
+      "dob": "1998-01-07",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_stewie2k_foil_1355_37.27aad5e7a3a10eae2437d7d818578dd7a65b2c16.png",
     "original": {
-      "name": "antwerp2022_team_nine_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/nine_glitter_1355_37"
+      "name": "berlin2019_signature_stewie2k_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_stewie2k_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5365",
-    "name": "Sticker Slab | 9z Team (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4239",
+    "name": "Sticker Slab | Stewie2K (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5365",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | 9z Team (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 112,
-      "tag": "NINE",
-      "geo": "AR",
-      "name": "9z Team"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/nine_holo_1355_37.ca12da0aa522548446f37d9405ee4c1727857675.png",
-    "original": {
-      "name": "antwerp2022_team_nine_holo",
-      "image_inventory": "econ/stickers/antwerp2022/nine_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5366",
-    "name": "Sticker Slab | 9z Team (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5366",
+    "def_index": "4239",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -714,36 +1507,43 @@
     },
     "crates": [
       {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | 9z Team (Gold) | Antwerp 2022",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Stewie2K (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 112,
-      "tag": "NINE",
-      "geo": "AR",
-      "name": "9z Team"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/nine_gold_1355_37.7324571a06386a896aeff21c170f874344dbe729.png",
+    "player": {
+      "id": 38738282,
+      "name": "Stewie2K",
+      "code": "stewie2k",
+      "dob": "1998-01-07",
+      "geo": "US"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_stewie2k_gold_1355_37.e3969131aa236dbeb3e3f1817b4d4ea24e766a99.png",
     "original": {
-      "name": "antwerp2022_team_nine_gold",
-      "image_inventory": "econ/stickers/antwerp2022/nine_gold_1355_37"
+      "name": "berlin2019_signature_stewie2k_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_stewie2k_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5367",
-    "name": "Sticker Slab | PGL | Antwerp 2022",
+    "id": "sticker_slab-4240",
+    "name": "Sticker Slab | NAF | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5367",
+    "def_index": "4240",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -751,40 +1551,43 @@
     },
     "crates": [
       {
-        "id": "crate-4832",
-        "name": "Antwerp 2022 Legends Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvzetxte9tXGe3lB9w5DjSy4uveC7BbQRzApIlFrQLsxDrkIbjP7jn5VHZiYIXnyWskGoXuce4Ls9p"
-      },
-      {
-        "id": "crate-4833",
-        "name": "Antwerp 2022 Challengers Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuZ3vO1sQS62hw5p5WWDno6veHmXbA8nWJcmFuQPukKxw4HgYuuwsgTb3tlEyST7iC1P7TErvbjE7qnGag"
-      },
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Event",
-    "market_hash_name": "Sticker Slab | PGL | Antwerp 2022",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | NAF | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/pgl_1355_37.6c0ce9c7eb9502675ba07338a6be989a122a97f6.png",
+    "team": {
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
+    },
+    "player": {
+      "id": 40885967,
+      "name": "NAF",
+      "code": "naf",
+      "dob": "1997-11-24",
+      "geo": "CA"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_naf_1355_37.9872781aea9cba369e49dfd83a424cac930eb117.png",
     "original": {
-      "name": "antwerp2022_team_pgl",
-      "image_inventory": "econ/stickers/antwerp2022/pgl_1355_37"
+      "name": "berlin2019_signature_naf",
+      "image_inventory": "econ/stickers/berlin2019/sig_naf_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5368",
-    "name": "Sticker Slab | PGL (Glitter) | Antwerp 2022",
+    "id": "sticker_slab-4241",
+    "name": "Sticker Slab | NAF (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5368",
+    "def_index": "4241",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -792,81 +1595,43 @@
     },
     "crates": [
       {
-        "id": "crate-4832",
-        "name": "Antwerp 2022 Legends Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvzetxte9tXGe3lB9w5DjSy4uveC7BbQRzApIlFrQLsxDrkIbjP7jn5VHZiYIXnyWskGoXuce4Ls9p"
-      },
-      {
-        "id": "crate-4833",
-        "name": "Antwerp 2022 Challengers Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuZ3vO1sQS62hw5p5WWDno6veHmXbA8nWJcmFuQPukKxw4HgYuuwsgTb3tlEyST7iC1P7TErvbjE7qnGag"
-      },
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Event",
-    "market_hash_name": "Sticker Slab | PGL (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | NAF (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/pgl_glitter_1355_37.515731a2184c3f025bf6d7e2bec588a3b6b55732.png",
+    "team": {
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
+    },
+    "player": {
+      "id": 40885967,
+      "name": "NAF",
+      "code": "naf",
+      "dob": "1997-11-24",
+      "geo": "CA"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_naf_foil_1355_37.63c421794e4c285b8607bb6598b0455c13225cb0.png",
     "original": {
-      "name": "antwerp2022_team_pgl_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/pgl_glitter_1355_37"
+      "name": "berlin2019_signature_naf_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_naf_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5369",
-    "name": "Sticker Slab | PGL (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4242",
+    "name": "Sticker Slab | NAF (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5369",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4832",
-        "name": "Antwerp 2022 Legends Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvzetxte9tXGe3lB9w5DjSy4uveC7BbQRzApIlFrQLsxDrkIbjP7jn5VHZiYIXnyWskGoXuce4Ls9p"
-      },
-      {
-        "id": "crate-4833",
-        "name": "Antwerp 2022 Challengers Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuZ3vO1sQS62hw5p5WWDno6veHmXbA8nWJcmFuQPukKxw4HgYuuwsgTb3tlEyST7iC1P7TErvbjE7qnGag"
-      },
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
-      }
-    ],
-    "collections": [],
-    "type": "Event",
-    "market_hash_name": "Sticker Slab | PGL (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/pgl_holo_1355_37.8bae1a6327091202c0f59cfbe92f533b7033d521.png",
-    "original": {
-      "name": "antwerp2022_team_pgl_holo",
-      "image_inventory": "econ/stickers/antwerp2022/pgl_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5370",
-    "name": "Sticker Slab | PGL (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5370",
+    "def_index": "4242",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -874,40 +1639,43 @@
     },
     "crates": [
       {
-        "id": "crate-4832",
-        "name": "Antwerp 2022 Legends Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvzetxte9tXGe3lB9w5DjSy4uveC7BbQRzApIlFrQLsxDrkIbjP7jn5VHZiYIXnyWskGoXuce4Ls9p"
-      },
-      {
-        "id": "crate-4833",
-        "name": "Antwerp 2022 Challengers Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuZ3vO1sQS62hw5p5WWDno6veHmXbA8nWJcmFuQPukKxw4HgYuuwsgTb3tlEyST7iC1P7TErvbjE7qnGag"
-      },
-      {
-        "id": "crate-4834",
-        "name": "Antwerp 2022 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvwuF4pORnSyyhhlN2tjjVzdmvICjEbFVzAsQjFO5b5xDrw9HnMuPj4gPejY4TzCX_jX5B8G81tAUYRCK3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
-    "type": "Event",
-    "market_hash_name": "Sticker Slab | PGL (Gold) | Antwerp 2022",
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | NAF (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/pgl_gold_1355_37.2011d796d198aa6d1b5949f909036ba53713a0d3.png",
+    "team": {
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
+    },
+    "player": {
+      "id": 40885967,
+      "name": "NAF",
+      "code": "naf",
+      "dob": "1997-11-24",
+      "geo": "CA"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_naf_gold_1355_37.370d362a7c807f310cc3faf1d898f4c5eb5da7a9.png",
     "original": {
-      "name": "antwerp2022_team_pgl_gold",
-      "image_inventory": "econ/stickers/antwerp2022/pgl_gold_1355_37"
+      "name": "berlin2019_signature_naf_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_naf_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5396",
-    "name": "Sticker Slab | stavn | Antwerp 2022",
+    "id": "sticker_slab-4243",
+    "name": "Sticker Slab | Twistzz | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5396",
+    "def_index": "4243",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -915,43 +1683,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | stavn | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | Twistzz | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 62099910,
-      "name": "stavn",
-      "code": "stavn",
-      "dob": "2002-03-26",
-      "geo": "DK"
+      "id": 55989477,
+      "name": "Twistzz",
+      "code": "twistzz",
+      "dob": "1999-11-14",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_stavn_1355_37.487eb3a35e39373f4cda06e6e8adecf84830e5c7.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_twistzz_1355_37.9c362d2d9660bc0dc9f9122d7b2811f6e0fe0235.png",
     "original": {
-      "name": "antwerp2022_signature_stavn_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_stavn_1355_37"
+      "name": "berlin2019_signature_twistzz",
+      "image_inventory": "econ/stickers/berlin2019/sig_twistzz_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5397",
-    "name": "Sticker Slab | stavn (Glitter) | Antwerp 2022",
+    "id": "sticker_slab-4244",
+    "name": "Sticker Slab | Twistzz (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5397",
+    "def_index": "4244",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -959,87 +1727,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | stavn (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "market_hash_name": "Sticker Slab | Twistzz (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 62099910,
-      "name": "stavn",
-      "code": "stavn",
-      "dob": "2002-03-26",
-      "geo": "DK"
+      "id": 55989477,
+      "name": "Twistzz",
+      "code": "twistzz",
+      "dob": "1999-11-14",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_stavn_glitter_1355_37.be9d786fca62354abf3e2d8af33a060f545fc04c.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_twistzz_foil_1355_37.e43d9205bf7752b5e92f91b177225007d6454378.png",
     "original": {
-      "name": "antwerp2022_signature_stavn_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_stavn_glitter_1355_37"
+      "name": "berlin2019_signature_twistzz_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_twistzz_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5398",
-    "name": "Sticker Slab | stavn (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4245",
+    "name": "Sticker Slab | Twistzz (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5398",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | stavn (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
-    },
-    "player": {
-      "id": 62099910,
-      "name": "stavn",
-      "code": "stavn",
-      "dob": "2002-03-26",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_stavn_holo_1355_37.5d62ab0dc233cb04800de6ddd6b4122ee88d3916.png",
-    "original": {
-      "name": "antwerp2022_signature_stavn_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_stavn_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5399",
-    "name": "Sticker Slab | stavn (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5399",
+    "def_index": "4245",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1047,43 +1771,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | stavn (Gold) | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | Twistzz (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 62099910,
-      "name": "stavn",
-      "code": "stavn",
-      "dob": "2002-03-26",
-      "geo": "DK"
+      "id": 55989477,
+      "name": "Twistzz",
+      "code": "twistzz",
+      "dob": "1999-11-14",
+      "geo": "CA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_stavn_gold_1355_37.0fe8291337c318a6ebe01d8c079d6704c0918219.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_twistzz_gold_1355_37.16219cee2518a85688e557e7016628e9d388d120.png",
     "original": {
-      "name": "antwerp2022_signature_stavn_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_stavn_gold_1355_37"
+      "name": "berlin2019_signature_twistzz_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_twistzz_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5400",
-    "name": "Sticker Slab | cadiaN | Antwerp 2022",
+    "id": "sticker_slab-4246",
+    "name": "Sticker Slab | EliGE | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5400",
+    "def_index": "4246",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1091,43 +1815,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | cadiaN | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | EliGE | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 43849788,
-      "name": "cadiaN",
-      "code": "cadian",
-      "dob": "1995-06-26",
-      "geo": "DK"
+      "id": 106428011,
+      "name": "EliGE",
+      "code": "elige",
+      "dob": "1997-07-16",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_cadian_1355_37.a64a669bf6a6f1d222121b0d0f0d3b0922ea2ee4.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_elige_1355_37.ab19426ddbdeba259e47c21a8be04f775d703cee.png",
     "original": {
-      "name": "antwerp2022_signature_cadian_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_cadian_1355_37"
+      "name": "berlin2019_signature_elige",
+      "image_inventory": "econ/stickers/berlin2019/sig_elige_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5401",
-    "name": "Sticker Slab | cadiaN (Glitter) | Antwerp 2022",
+    "id": "sticker_slab-4247",
+    "name": "Sticker Slab | EliGE (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5401",
+    "def_index": "4247",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1135,87 +1859,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | cadiaN (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "market_hash_name": "Sticker Slab | EliGE (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 43849788,
-      "name": "cadiaN",
-      "code": "cadian",
-      "dob": "1995-06-26",
-      "geo": "DK"
+      "id": 106428011,
+      "name": "EliGE",
+      "code": "elige",
+      "dob": "1997-07-16",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_cadian_glitter_1355_37.8c7146aaf3383e6b2a838c212a63d4f860fc5b43.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_elige_foil_1355_37.2147b92101d1e79bd7eb6333887d80b541d73de6.png",
     "original": {
-      "name": "antwerp2022_signature_cadian_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_cadian_glitter_1355_37"
+      "name": "berlin2019_signature_elige_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_elige_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5402",
-    "name": "Sticker Slab | cadiaN (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4248",
+    "name": "Sticker Slab | EliGE (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5402",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | cadiaN (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
-    },
-    "player": {
-      "id": 43849788,
-      "name": "cadiaN",
-      "code": "cadian",
-      "dob": "1995-06-26",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_cadian_holo_1355_37.3c1480dcf0478b9ae63444e4e202022cfba7047d.png",
-    "original": {
-      "name": "antwerp2022_signature_cadian_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_cadian_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5403",
-    "name": "Sticker Slab | cadiaN (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5403",
+    "def_index": "4248",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1223,43 +1903,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | cadiaN (Gold) | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | EliGE (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 48,
+      "tag": "LIQ",
+      "geo": "US",
+      "name": "Team Liquid"
     },
     "player": {
-      "id": 43849788,
-      "name": "cadiaN",
-      "code": "cadian",
-      "dob": "1995-06-26",
-      "geo": "DK"
+      "id": 106428011,
+      "name": "EliGE",
+      "code": "elige",
+      "dob": "1997-07-16",
+      "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_cadian_gold_1355_37.f095ac33108a27432fa18b9dc1cdc3698cc89007.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_elige_gold_1355_37.0f775854c9a343e525b089d0121822f8daaca052.png",
     "original": {
-      "name": "antwerp2022_signature_cadian_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_cadian_gold_1355_37"
+      "name": "berlin2019_signature_elige_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_elige_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5404",
-    "name": "Sticker Slab | TeSeS | Antwerp 2022",
+    "id": "sticker_slab-4249",
+    "name": "Sticker Slab | Gratisfaction | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5404",
+    "def_index": "4249",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1267,43 +1947,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | TeSeS | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | Gratisfaction | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 36412550,
-      "name": "TeSeS",
-      "code": "teses",
-      "dob": "2000-12-12",
-      "geo": "DK"
+      "id": 5543683,
+      "name": "Gratisfaction",
+      "code": "gratisfaction",
+      "dob": "1996-03-06",
+      "geo": "NZ"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_teses_1355_37.3a2aab98ebd7a97f7270b954537661670c139003.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_gratisfaction_1355_37.2524e22a350de5a6621f8149d27ed0cd3a03f15e.png",
     "original": {
-      "name": "antwerp2022_signature_teses_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_teses_1355_37"
+      "name": "berlin2019_signature_gratisfaction",
+      "image_inventory": "econ/stickers/berlin2019/sig_gratisfaction_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5405",
-    "name": "Sticker Slab | TeSeS (Glitter) | Antwerp 2022",
+    "id": "sticker_slab-4250",
+    "name": "Sticker Slab | Gratisfaction (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5405",
+    "def_index": "4250",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1311,87 +1991,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | TeSeS (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "market_hash_name": "Sticker Slab | Gratisfaction (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 36412550,
-      "name": "TeSeS",
-      "code": "teses",
-      "dob": "2000-12-12",
-      "geo": "DK"
+      "id": 5543683,
+      "name": "Gratisfaction",
+      "code": "gratisfaction",
+      "dob": "1996-03-06",
+      "geo": "NZ"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_teses_glitter_1355_37.b9c583f902fa59772b49250c82e8a2b4342f3141.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_gratisfaction_foil_1355_37.d85837ac14d077e8e13cbaed3c3a2f2cdd943cab.png",
     "original": {
-      "name": "antwerp2022_signature_teses_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_teses_glitter_1355_37"
+      "name": "berlin2019_signature_gratisfaction_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_gratisfaction_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5406",
-    "name": "Sticker Slab | TeSeS (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4251",
+    "name": "Sticker Slab | Gratisfaction (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5406",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | TeSeS (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
-    },
-    "player": {
-      "id": 36412550,
-      "name": "TeSeS",
-      "code": "teses",
-      "dob": "2000-12-12",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_teses_holo_1355_37.5a1b7d98aa78dfabf101ff2674ccca32666fda2c.png",
-    "original": {
-      "name": "antwerp2022_signature_teses_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_teses_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5407",
-    "name": "Sticker Slab | TeSeS (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5407",
+    "def_index": "4251",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1399,43 +2035,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | TeSeS (Gold) | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | Gratisfaction (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 36412550,
-      "name": "TeSeS",
-      "code": "teses",
-      "dob": "2000-12-12",
-      "geo": "DK"
+      "id": 5543683,
+      "name": "Gratisfaction",
+      "code": "gratisfaction",
+      "dob": "1996-03-06",
+      "geo": "NZ"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_teses_gold_1355_37.d4b40d8ef9cc911887c6a15993fbdf3dbd1effaf.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_gratisfaction_gold_1355_37.1f8b0f277559a66806998b234c7a3e3bc64a8f82.png",
     "original": {
-      "name": "antwerp2022_signature_teses_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_teses_gold_1355_37"
+      "name": "berlin2019_signature_gratisfaction_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_gratisfaction_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5408",
-    "name": "Sticker Slab | refrezh | Antwerp 2022",
+    "id": "sticker_slab-4252",
+    "name": "Sticker Slab | jks | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5408",
+    "def_index": "4252",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1443,43 +2079,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | refrezh | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | jks | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 104598470,
-      "name": "refrezh",
-      "code": "refrezh",
-      "dob": "1998-02-19",
-      "geo": "DK"
+      "id": 16839456,
+      "name": "jks",
+      "code": "jks",
+      "dob": "1995-12-12",
+      "geo": "AU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_refrezh_1355_37.9bb3dc32b01aee2e790311059a472b955ac90e28.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_jks_1355_37.58772836800d5fbffcd97110994079970ae224f5.png",
     "original": {
-      "name": "antwerp2022_signature_refrezh_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_refrezh_1355_37"
+      "name": "berlin2019_signature_jks",
+      "image_inventory": "econ/stickers/berlin2019/sig_jks_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5409",
-    "name": "Sticker Slab | refrezh (Glitter) | Antwerp 2022",
+    "id": "sticker_slab-4253",
+    "name": "Sticker Slab | jks (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5409",
+    "def_index": "4253",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1487,87 +2123,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | refrezh (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "market_hash_name": "Sticker Slab | jks (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 104598470,
-      "name": "refrezh",
-      "code": "refrezh",
-      "dob": "1998-02-19",
-      "geo": "DK"
+      "id": 16839456,
+      "name": "jks",
+      "code": "jks",
+      "dob": "1995-12-12",
+      "geo": "AU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_refrezh_glitter_1355_37.a62957ba0f581f4eaad2a72d3eb9c1828cb28586.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_jks_foil_1355_37.3b2a2e4af36ae099af5a77bc5830beb5b986fb4e.png",
     "original": {
-      "name": "antwerp2022_signature_refrezh_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_refrezh_glitter_1355_37"
+      "name": "berlin2019_signature_jks_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_jks_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5410",
-    "name": "Sticker Slab | refrezh (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4254",
+    "name": "Sticker Slab | jks (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5410",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | refrezh (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
-    },
-    "player": {
-      "id": 104598470,
-      "name": "refrezh",
-      "code": "refrezh",
-      "dob": "1998-02-19",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_refrezh_holo_1355_37.910ad1d9f0ba21edfaa81e385f01728c66ae4770.png",
-    "original": {
-      "name": "antwerp2022_signature_refrezh_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_refrezh_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5411",
-    "name": "Sticker Slab | refrezh (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5411",
+    "def_index": "4254",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1575,43 +2167,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | refrezh (Gold) | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | jks (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 104598470,
-      "name": "refrezh",
-      "code": "refrezh",
-      "dob": "1998-02-19",
-      "geo": "DK"
+      "id": 16839456,
+      "name": "jks",
+      "code": "jks",
+      "dob": "1995-12-12",
+      "geo": "AU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_refrezh_gold_1355_37.a458919f2c4ec73142deed5b1f1daaccfa7d7c80.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_jks_gold_1355_37.c6c64029eaa38b96a986d06877a6e15bd17d769b.png",
     "original": {
-      "name": "antwerp2022_signature_refrezh_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_refrezh_gold_1355_37"
+      "name": "berlin2019_signature_jks_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_jks_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5412",
-    "name": "Sticker Slab | sjuush | Antwerp 2022",
+    "id": "sticker_slab-4255",
+    "name": "Sticker Slab | AZR | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5412",
+    "def_index": "4255",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1619,43 +2211,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sjuush | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | AZR | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 200443857,
-      "name": "sjuush",
-      "code": "sjuush",
-      "dob": "1999-01-03",
-      "geo": "DK"
+      "id": 24832266,
+      "name": "AZR",
+      "code": "azr",
+      "dob": "1992-10-02",
+      "geo": "AU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_sjuush_1355_37.91f5293bb3127463b96fe8fb7d4dcfa3e303592d.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_azr_1355_37.84a2b152f963827bea263ef7ef55c26c0f9c6c93.png",
     "original": {
-      "name": "antwerp2022_signature_sjuush_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_sjuush_1355_37"
+      "name": "berlin2019_signature_azr",
+      "image_inventory": "econ/stickers/berlin2019/sig_azr_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5413",
-    "name": "Sticker Slab | sjuush (Glitter) | Antwerp 2022",
+    "id": "sticker_slab-4256",
+    "name": "Sticker Slab | AZR (Foil) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5413",
+    "def_index": "4256",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -1663,87 +2255,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sjuush (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
+    "market_hash_name": "Sticker Slab | AZR (Foil) | Berlin 2019",
+    "effect": "Foil",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 200443857,
-      "name": "sjuush",
-      "code": "sjuush",
-      "dob": "1999-01-03",
-      "geo": "DK"
+      "id": 24832266,
+      "name": "AZR",
+      "code": "azr",
+      "dob": "1992-10-02",
+      "geo": "AU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_sjuush_glitter_1355_37.03303485fce3a4bd8311ed2e952f14910e1efdc3.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_azr_foil_1355_37.a20e8e41e1a92e7d82dbe21dc4004ce45d5201e7.png",
     "original": {
-      "name": "antwerp2022_signature_sjuush_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_sjuush_glitter_1355_37"
+      "name": "berlin2019_signature_azr_foil",
+      "image_inventory": "econ/stickers/berlin2019/sig_azr_foil_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5414",
-    "name": "Sticker Slab | sjuush (Holo) | Antwerp 2022",
+    "id": "sticker_slab-4257",
+    "name": "Sticker Slab | AZR (Gold) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5414",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sjuush (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
-    },
-    "player": {
-      "id": 200443857,
-      "name": "sjuush",
-      "code": "sjuush",
-      "dob": "1999-01-03",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_sjuush_holo_1355_37.56eab602424d86d0a4f92834d00d94cd6ff42426.png",
-    "original": {
-      "name": "antwerp2022_signature_sjuush_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_sjuush_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5415",
-    "name": "Sticker Slab | sjuush (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5415",
+    "def_index": "4257",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -1751,43 +2299,43 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | sjuush (Gold) | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | AZR (Gold) | Berlin 2019",
     "effect": "Gold",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 95,
-      "tag": "HERO",
-      "geo": "SE",
-      "name": "HEROIC"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 200443857,
-      "name": "sjuush",
-      "code": "sjuush",
-      "dob": "1999-01-03",
-      "geo": "DK"
+      "id": 24832266,
+      "name": "AZR",
+      "code": "azr",
+      "dob": "1992-10-02",
+      "geo": "AU"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_sjuush_gold_1355_37.81080733420c1e6438b8983639e5e0b1fc424fbd.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_azr_gold_1355_37.6b9798a4c410d79fa456ee5418f40f4e11f00175.png",
     "original": {
-      "name": "antwerp2022_signature_sjuush_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_sjuush_gold_1355_37"
+      "name": "berlin2019_signature_azr_gold",
+      "image_inventory": "econ/stickers/berlin2019/sig_azr_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-5416",
-    "name": "Sticker Slab | roeJ | Antwerp 2022",
+    "id": "sticker_slab-4258",
+    "name": "Sticker Slab | jkaem | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5416",
+    "def_index": "4258",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -1795,1048 +2343,36 @@
     },
     "crates": [
       {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
+        "id": "crate-4657",
+        "name": "Berlin 2019 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iX0-FjoN5lSi62mxk0_TmHmNb9J3mfPwB1WZMiF7INsEW_wNLgY-KxslTc3YsXnCut2H5K7Sp1o7FV5Pj6oxg"
       }
     ],
     "collections": [],
     "type": "Autograph",
-    "market_hash_name": "Sticker Slab | roeJ | Antwerp 2022",
+    "market_hash_name": "Sticker Slab | jkaem | Berlin 2019",
     "effect": "Other",
     "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
     },
     "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
+      "id": 53,
+      "tag": "REN",
+      "geo": "AU",
+      "name": "Renegades"
     },
     "player": {
-      "id": 30968963,
-      "name": "roeJ",
-      "code": "roej",
-      "dob": "1993-11-20",
-      "geo": "DK"
+      "id": 42442914,
+      "name": "jkaem",
+      "code": "jkaem",
+      "dob": "1994-02-27",
+      "geo": "NO"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_roej_1355_37.204ae002bc662e56e6f72e8f4d237d4f76d9cccc.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/sig_jkaem_1355_37.072a7667f11447c25c54dcd25744a5a7792d3ef6.png",
     "original": {
-      "name": "antwerp2022_signature_roej_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_roej_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5417",
-    "name": "Sticker Slab | roeJ (Glitter) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5417",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | roeJ (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 30968963,
-      "name": "roeJ",
-      "code": "roej",
-      "dob": "1993-11-20",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_roej_glitter_1355_37.94f472eb29d0df1a1d10313a317677b8200b5335.png",
-    "original": {
-      "name": "antwerp2022_signature_roej_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_roej_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5418",
-    "name": "Sticker Slab | roeJ (Holo) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5418",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | roeJ (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 30968963,
-      "name": "roeJ",
-      "code": "roej",
-      "dob": "1993-11-20",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_roej_holo_1355_37.637e791f31ac9a80ff2d7c4816c47aa3533882f3.png",
-    "original": {
-      "name": "antwerp2022_signature_roej_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_roej_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5419",
-    "name": "Sticker Slab | roeJ (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5419",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | roeJ (Gold) | Antwerp 2022",
-    "effect": "Gold",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 30968963,
-      "name": "roeJ",
-      "code": "roej",
-      "dob": "1993-11-20",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_roej_gold_1355_37.bf7a1bd36cb6a78f85f7fc8d9a8e8dfe047a50df.png",
-    "original": {
-      "name": "antwerp2022_signature_roej_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_roej_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5420",
-    "name": "Sticker Slab | Zyphon | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5420",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Zyphon | Antwerp 2022",
-    "effect": "Other",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 198111516,
-      "name": "Zyphon",
-      "code": "zyphon",
-      "dob": "2004-02-02",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_zyphon_1355_37.d7ab8bd03664178717ac0d8ba57b3902105cd628.png",
-    "original": {
-      "name": "antwerp2022_signature_zyphon_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_zyphon_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5421",
-    "name": "Sticker Slab | Zyphon (Glitter) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5421",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Zyphon (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 198111516,
-      "name": "Zyphon",
-      "code": "zyphon",
-      "dob": "2004-02-02",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_zyphon_glitter_1355_37.df9ac588c157c921b44ba04f9e6afb55ce02881a.png",
-    "original": {
-      "name": "antwerp2022_signature_zyphon_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_zyphon_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5422",
-    "name": "Sticker Slab | Zyphon (Holo) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5422",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Zyphon (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 198111516,
-      "name": "Zyphon",
-      "code": "zyphon",
-      "dob": "2004-02-02",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_zyphon_holo_1355_37.95ce0f8a4e6979f5fa1aaef8965bb18b367ddef1.png",
-    "original": {
-      "name": "antwerp2022_signature_zyphon_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_zyphon_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5423",
-    "name": "Sticker Slab | Zyphon (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5423",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Zyphon (Gold) | Antwerp 2022",
-    "effect": "Gold",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 198111516,
-      "name": "Zyphon",
-      "code": "zyphon",
-      "dob": "2004-02-02",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_zyphon_gold_1355_37.44b4490b9ab850fe9a87ebe2e9ada1adc0c31c35.png",
-    "original": {
-      "name": "antwerp2022_signature_zyphon_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_zyphon_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5424",
-    "name": "Sticker Slab | HooXi | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5424",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | HooXi | Antwerp 2022",
-    "effect": "Other",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 38661042,
-      "name": "HooXi",
-      "code": "hooxi",
-      "dob": "1995-05-21",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_hooxi_1355_37.4663b5deef61d1f5a2eabc2525e3b8d2a565b9f5.png",
-    "original": {
-      "name": "antwerp2022_signature_hooxi_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_hooxi_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5425",
-    "name": "Sticker Slab | HooXi (Glitter) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5425",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | HooXi (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 38661042,
-      "name": "HooXi",
-      "code": "hooxi",
-      "dob": "1995-05-21",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_hooxi_glitter_1355_37.42873125e01579a9bad0604ae17233724d64dfee.png",
-    "original": {
-      "name": "antwerp2022_signature_hooxi_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_hooxi_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5426",
-    "name": "Sticker Slab | HooXi (Holo) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5426",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | HooXi (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 38661042,
-      "name": "HooXi",
-      "code": "hooxi",
-      "dob": "1995-05-21",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_hooxi_holo_1355_37.0bc044a46f6681561e20e7f24456879307ea56fe.png",
-    "original": {
-      "name": "antwerp2022_signature_hooxi_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_hooxi_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5427",
-    "name": "Sticker Slab | HooXi (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5427",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | HooXi (Gold) | Antwerp 2022",
-    "effect": "Gold",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 38661042,
-      "name": "HooXi",
-      "code": "hooxi",
-      "dob": "1995-05-21",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_hooxi_gold_1355_37.2d70f001dfb8d0b80632fee3c43d95257da008c3.png",
-    "original": {
-      "name": "antwerp2022_signature_hooxi_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_hooxi_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5428",
-    "name": "Sticker Slab | jabbi | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5428",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | jabbi | Antwerp 2022",
-    "effect": "Other",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 160291620,
-      "name": "jabbi",
-      "code": "jabbi",
-      "dob": "2003-07-23",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_jabbi_1355_37.42a8bdec5bf2b303a8f375e398edf6644a325b57.png",
-    "original": {
-      "name": "antwerp2022_signature_jabbi_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_jabbi_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5429",
-    "name": "Sticker Slab | jabbi (Glitter) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5429",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | jabbi (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 160291620,
-      "name": "jabbi",
-      "code": "jabbi",
-      "dob": "2003-07-23",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_jabbi_glitter_1355_37.ea90475154fbce8d81a36f98e6f1fdfb79e2dc4d.png",
-    "original": {
-      "name": "antwerp2022_signature_jabbi_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_jabbi_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5430",
-    "name": "Sticker Slab | jabbi (Holo) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5430",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | jabbi (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 160291620,
-      "name": "jabbi",
-      "code": "jabbi",
-      "dob": "2003-07-23",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_jabbi_holo_1355_37.11cd58e49f1b84f8fa9e67f03598b3f262149935.png",
-    "original": {
-      "name": "antwerp2022_signature_jabbi_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_jabbi_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5431",
-    "name": "Sticker Slab | jabbi (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5431",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | jabbi (Gold) | Antwerp 2022",
-    "effect": "Gold",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 160291620,
-      "name": "jabbi",
-      "code": "jabbi",
-      "dob": "2003-07-23",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_jabbi_gold_1355_37.9d52a3c4c7ef3ac31afe507953a72977e37173c1.png",
-    "original": {
-      "name": "antwerp2022_signature_jabbi_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_jabbi_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5432",
-    "name": "Sticker Slab | nicoodoz | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5432",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | nicoodoz | Antwerp 2022",
-    "effect": "Other",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 112851399,
-      "name": "nicoodoz",
-      "code": "nicoodoz",
-      "dob": "2000-08-02",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_nicoodoz_1355_37.c3c707bcd0adccb4dd1397df6207fd4988e8206f.png",
-    "original": {
-      "name": "antwerp2022_signature_nicoodoz_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_nicoodoz_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5433",
-    "name": "Sticker Slab | nicoodoz (Glitter) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5433",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | nicoodoz (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 112851399,
-      "name": "nicoodoz",
-      "code": "nicoodoz",
-      "dob": "2000-08-02",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_nicoodoz_glitter_1355_37.028ab1777682f213a821794751b61637a59688b2.png",
-    "original": {
-      "name": "antwerp2022_signature_nicoodoz_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_nicoodoz_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5434",
-    "name": "Sticker Slab | nicoodoz (Holo) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5434",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | nicoodoz (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 112851399,
-      "name": "nicoodoz",
-      "code": "nicoodoz",
-      "dob": "2000-08-02",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_nicoodoz_holo_1355_37.7085b88253dc38ac4d8fda18e97d982727439645.png",
-    "original": {
-      "name": "antwerp2022_signature_nicoodoz_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_nicoodoz_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5435",
-    "name": "Sticker Slab | nicoodoz (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5435",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | nicoodoz (Gold) | Antwerp 2022",
-    "effect": "Gold",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 101,
-      "tag": "COPE",
-      "geo": "DK",
-      "name": "Copenhagen Flames"
-    },
-    "player": {
-      "id": 112851399,
-      "name": "nicoodoz",
-      "code": "nicoodoz",
-      "dob": "2000-08-02",
-      "geo": "DK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_nicoodoz_gold_1355_37.302b0a3e5ae0cceb4a81516e899d1166cfa6fc46.png",
-    "original": {
-      "name": "antwerp2022_signature_nicoodoz_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_nicoodoz_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5436",
-    "name": "Sticker Slab | tabseN | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5436",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | tabseN | Antwerp 2022",
-    "effect": "Other",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 69,
-      "tag": "BIG",
-      "geo": "DE",
-      "name": "BIG"
-    },
-    "player": {
-      "id": 1225952,
-      "name": "tabseN",
-      "code": "tabsen",
-      "dob": "1995-04-05",
-      "geo": "DE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_tabsen_1355_37.1294f168c87898709f046e302784c5d189d49293.png",
-    "original": {
-      "name": "antwerp2022_signature_tabsen_2",
-      "image_inventory": "econ/stickers/antwerp2022/sig_tabsen_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5437",
-    "name": "Sticker Slab | tabseN (Glitter) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5437",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | tabseN (Glitter) | Antwerp 2022",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 69,
-      "tag": "BIG",
-      "geo": "DE",
-      "name": "BIG"
-    },
-    "player": {
-      "id": 1225952,
-      "name": "tabseN",
-      "code": "tabsen",
-      "dob": "1995-04-05",
-      "geo": "DE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_tabsen_glitter_1355_37.4fa6d58b222c9ae40d218d7699f33b8e15c21a00.png",
-    "original": {
-      "name": "antwerp2022_signature_tabsen_2_glitter",
-      "image_inventory": "econ/stickers/antwerp2022/sig_tabsen_glitter_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5438",
-    "name": "Sticker Slab | tabseN (Holo) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5438",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | tabseN (Holo) | Antwerp 2022",
-    "effect": "Holo",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 69,
-      "tag": "BIG",
-      "geo": "DE",
-      "name": "BIG"
-    },
-    "player": {
-      "id": 1225952,
-      "name": "tabseN",
-      "code": "tabsen",
-      "dob": "1995-04-05",
-      "geo": "DE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_tabsen_holo_1355_37.efc46d9bb77dd8c149f844b848073f1cc0026b7c.png",
-    "original": {
-      "name": "antwerp2022_signature_tabsen_2_holo",
-      "image_inventory": "econ/stickers/antwerp2022/sig_tabsen_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-5439",
-    "name": "Sticker Slab | tabseN (Gold) | Antwerp 2022",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "5439",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4842",
-        "name": "Antwerp 2022 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7vy6f6F_MKLDXDWvxvx5pfFWQyy0kBMjoHPQztahd3zCbQcjCMB4R-4LsUG6k9O0Nu6ztA3Xg4wXnCqsjntKvS5i_a9cBi1Lnxs3"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | tabseN (Gold) | Antwerp 2022",
-    "effect": "Gold",
-    "tournament": {
-      "id": 19,
-      "name": "2022 PGL Antwerp"
-    },
-    "team": {
-      "id": 69,
-      "tag": "BIG",
-      "geo": "DE",
-      "name": "BIG"
-    },
-    "player": {
-      "id": 1225952,
-      "name": "tabseN",
-      "code": "tabsen",
-      "dob": "1995-04-05",
-      "geo": "DE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/antwerp2022/sig_tabsen_gold_1355_37.6f8f0868a3fa1521523762440985c0953f7f6dce.png",
-    "original": {
-      "name": "antwerp2022_signature_tabsen_2_gold",
-      "image_inventory": "econ/stickers/antwerp2022/sig_tabsen_gold_1355_37"
+      "name": "berlin2019_signature_jkaem",
+      "image_inventory": "econ/stickers/berlin2019/sig_jkaem_1355_37"
     }
   }
 ]

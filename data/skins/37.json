@@ -1,152 +1,20 @@
 [
   {
-    "id": "skin-5eb6229ab854",
-    "name": "P90 | Baroque Red",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. An intricate maroon and gray Italian inspired pattern has been applied.\\n\\n<i>Last Supper is served</i>",
+    "id": "skin-d2a72f7cdb9e",
+    "name": "MAC-10 | Commuter",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a plaid hydrographic and partly wrapped in faux crocodile leather.\\n\\n<i>They took the bait, let's move... - Elliott Kingsman, Mercenary</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "am_veneto_red",
-      "name": "Baroque Red"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "744",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-canals",
-        "name": "The Canals Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_C9k-fegbbBiH-KWClicyOl-pK8_Gi3qlEp2sjvSzomhIi_CalByW5shQuNcuhm8m9GzMePg5gLW2IxC02yg2WEL1Rk5",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-b0409a64842e",
-    "name": "P90 | Module",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted using metallic paints with an overlayed hexagonal pattern.",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "an_royalbleed",
-      "name": "Module"
-    },
-    "min_float": 0,
-    "max_float": 0.35,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "335",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-3",
-        "name": "The Huntsman Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_3_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4017",
-        "name": "Huntsman Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frmxY6qr9OqU0cvbKCGTDk7dys7k-S36yzU114GrRmNaoeSmXaVV0WJp0W6dU5Q_KKWwm"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_Cxk_f23aahvLPWWClicyOl-pK8_Sn_rwE1x5z6AyY6qeXmRb1cgWMNwR7Ff4Bm_m9y0Przq4A3b348Q02yg2QQMyM9M",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-b63301026060",
-    "name": "P90 | Leather",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. Its stock has been wrapped in brown leather.\\n\\n<i>Don't worry, the safety is TSA compliant</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_brown_leather_p90",
-      "name": "Leather"
+      "id": "cu_luggage_mac10",
+      "name": "Commuter"
     },
     "min_float": 0,
     "max_float": 1,
@@ -157,7 +25,7 @@
     },
     "stattrak": false,
     "souvenir": false,
-    "paint_index": "342",
+    "paint_index": "343",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -189,349 +57,34 @@
     ],
     "crates": [],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk7eChf6pSLPWSGm-V09Fm6bFWQyC0nQlp5z-HmYr_cH2XaVJ1DcRwEbFYsES5xtK0NOux7waMgoMTzyyrinlO7DErvbjoM7X31Q",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2ifaNqIfeWMWqRwr8mj-1gSCGn2xlwsT6Byt__cHOePwAkCZEjF7VYuhewmtDuZby0slON3o8WxC7_3H5XrnE86gO55vs",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-b8631ce3380d",
-    "name": "P90 | Death by Kitty",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been hydro-dipped with a graphic of overlapping cat skulls.",
+    "id": "skin-3bf986f6377c",
+    "name": "MAC-10 | Rangeen",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with an Ancient Egyptian motif.\\n\\n<i>Can you stand against it's wrathful gaze?</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "cu_catskulls_p90",
-      "name": "Death by Kitty"
-    },
-    "min_float": 0.08,
-    "max_float": 0.32,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "156",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-esports",
-        "name": "The eSports 2013 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_esports_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4002",
-        "name": "eSports 2013 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHEV7KaobPdud6HEWjXGmbYl6LIwHn2ywhgh5GzXzdmsc3yRalAkD5R3FvlK7Ed7JoXDRQ"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk7PO6e694LPyAMXfJkdF6ueZhW2fgkUh042jUnN2geSqTaFN2CcQmQuRfsBXtxtfkN7mztASIg91Bniv8kGoXucYQxgOQ",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-da401ae2ca2e",
-    "name": "P90 | Emerald Dragon",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. This memento from Chinatown has been painted with a dragon motif.\\n\\n<i>Tradition can be dangerous</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_dragon_p90_bravo",
-      "name": "Emerald Dragon"
-    },
-    "min_float": 0.06,
-    "max_float": 0.52,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "182",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-bravo-i",
-        "name": "The Bravo Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bravo_i_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4003",
-        "name": "Operation Bravo Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk6-Cvb6tjH-DKXliS0-9gv95lRi67gVMm4m3Vzdmqci-SO1clX8Z1QeYO5xi5mtTuPu7l4FDc2o4TmH32jC1P8G81tLxM49od",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-1dd39fb89c94",
-    "name": "P90 | Run and Hide",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with a jaguar pattern and finished with pebbled leather.\\n\\n<i>Anyone can buy their way into fashion, but very few possess true style</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_jaguar_p90",
-      "name": "Run and Hide"
+      "id": "cu_mac10_alekhya_duo",
+      "name": "Rangeen"
     },
     "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "1000",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-op10-ancient",
-        "name": "The Ancient Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4813",
-        "name": "Stockholm 2021 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_GdDW6Vz_o44rg5F3y2xBx0sWjRz9aucSmTOAUiCZt5TOYMu0S_k9W2MOnk4AaKiZUFk3u4B9Q2Rw"
-      },
-      {
-        "id": "crate-4839",
-        "name": "Antwerp 2022 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-SAGSZxOBi_uNsFi3kkU905W_SwtipJXqWZg8jW5YkEe9btxfpktLkZL-x5wKMi4hbjXKpvT4lPfc"
-      },
-      {
-        "id": "crate-4864",
-        "name": "Rio 2022 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6VjI_mWAHPel7wu5bBqHnrkxEt14zuByd-pd3yfagYgCZB4QuMPtBHsl4bnZu-25Bue1dy_oUuJtA"
-      },
-      {
-        "id": "crate-4897",
-        "name": "Paris 2023 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSIf6QB2Ke1aAltrFtG3nkxxx14DyDnomudCiUOA52W8R3Ru5euhWwkNGzY7_rsgKNlcsbmthZYkok"
-      },
-      {
-        "id": "crate-4930",
-        "name": "Copenhagen 2024 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6VjI_mWAHPew-1w5-RvTC3lwUoj4G2AyougcirDbwMgDpAlQrIN4EPukNzlYuvg7hue1dxsvyYF4A"
-      },
-      {
-        "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iRz-1_te99ASvjlEomsmiBn9-oeHOTbVB0CpAjQbZf4Ra_m4W1Mbzm71ON3d1MmCngznQeaU350-c"
-      },
-      {
-        "id": "crate-5124",
-        "name": "Austin 2025 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iRz-1_te99AXy1wEpxtWnVnIr6JC_CaQQoX5MjF7QMsxC7w4XnP-y2sgCIjohFyCngznQep6hFES4"
-      },
-      {
-        "id": "crate-5223",
-        "name": "Budapest 2025 Ancient Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk5fOpfaV_H-DKXlicyOl-pK85H36xlEsmtT_SmN2geSqVOAMkCJpwQOQP5BOxlNHiYruwtgXajI0X02yg2YhNEJOA",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-c01d561550ed",
-    "name": "P90 | Asiimov",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with a sci-fi design.\\n\\n<i>Anyone can predict the future... a visionary shapes it</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_p90-asiimov",
-      "name": "Asiimov"
-    },
-    "min_float": 0,
-    "max_float": 0.92,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "359",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-4",
-        "name": "The Breakout Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_4_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4018",
-        "name": "Operation Breakout Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqWxdv_b8O_w5eKXBWWXHw-smtrBvTHDmwEsl4jvWn4z_I3qWZwV1X5ZwW6dU5RcRF1o0"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk_6v-JaV-KfmeAXGvzedxuPUnTSjikRgksjuBzoz4dXLFb1QoC8QlTLQD4EPqk4LvN-Pns1aMioNBzTK-0H3gQVv65g",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-b15a3a34433b",
-    "name": "P90 | Grim",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been given a hydrographic of murderous specters, then dry brushed with green accents.\\n\\n<i>Imogen... are you selling me a gun or a velvet poster? – Rona Sabri, Rising Star</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_p90_grimm",
-      "name": "Grim"
-    },
-    "min_float": 0,
-    "max_float": 0.8,
+    "max_float": 0.5,
     "rarity": {
       "id": "rarity_rare_weapon",
       "name": "Mil-Spec Grade",
@@ -539,7 +92,7 @@
     },
     "stattrak": true,
     "souvenir": false,
-    "paint_index": "611",
+    "paint_index": "498",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -564,55 +117,55 @@
     ],
     "collections": [
       {
-        "id": "collection-set-gamma-2",
-        "name": "The Gamma 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gamma_2_png.png"
+        "id": "collection-set-community-9",
+        "name": "The Shadow Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_9_png.png"
       }
     ],
     "crates": [
       {
-        "id": "crate-4281",
-        "name": "Gamma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
+        "id": "crate-4138",
+        "name": "Shadow Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fpGxet6H-O_Q6dfXCDzfJl7ci6bZoG3zjx0xz4ziEztj8IiiRa1QkWZdwW6dU5RegDbP-"
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk_6v-V6N_Kf2eMWuZxuZi_rA9GHDrlh8h6m7dw4qpciiUOgQkAsF2ELYPsBjploe2P7ngsQaIjN5bjXKpNUOMolU",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-SAmKbyfd3j-V8QBa_nBovp3PWztqtJXqWPVdzX8d3EbUDtkS_w9bmYui04gbYiolGnH_833xM6C5o_a9cBlensHEx",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-41bdac7bd0a9",
-    "name": "P90 | Elite Build",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Tread softly Naomi...people in your line of work aren't known for their longevity - The Shield and The Serpent Part 2</i>",
+    "id": "skin-c928639d51cb",
+    "name": "MAC-10 | Curse",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a graphic image of a mummy.",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "cu_p90_mastery",
-      "name": "Elite Build"
+      "id": "cu_mac10_decay",
+      "name": "Curse"
     },
     "min_float": 0,
-    "max_float": 1,
+    "max_float": 0.5,
     "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
     },
     "stattrak": true,
     "souvenir": false,
-    "paint_index": "486",
+    "paint_index": "310",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -637,190 +190,44 @@
     ],
     "collections": [
       {
-        "id": "collection-set-community-8",
-        "name": "The Falchion Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_8_png.png"
+        "id": "collection-set-community-3",
+        "name": "The Huntsman Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_3_png.png"
       }
     ],
-    "crates": [
+    "crates": [],
+    "special_notes": [
       {
-        "id": "crate-4091",
-        "name": "Falchion Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fpWwI7Pb-P6Y5dvPEDGSSlrsh57U8HHHiwx5yt2-Dwo7_JSnCOw8oCJF0W6dU5dgrLNA1"
+        "source": "https://steamcommunity.com/games/CSGO/announcements/detail/1751086783896069815",
+        "text": "It was removed because one of its creators was also involved with the M4A4 Howl art theft. This is no longer obtainable from the Huntsman Weapon Case, but remains part of The Huntsman Collection and still works with trade-up contracts."
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk_6v-V6lsM-SWHH6vzedxuPUnHyi1xE9xsGiDmdqpdnmRPwcgDZslRuAM40Trx93nNevj7gOPjdlGzzK-0H27CoeJJQ",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnt_CEKv7yrP_I4dvXLWDLBk7Yis7ZqTHHrwktwtz7Sz4mtdHyUPAQpDpV5F-cLrFDmxRuwA7jf",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-082000871d86",
-    "name": "P90 | Nostalgia",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with a CT from the main menu of the original Counter-Strike.\\n\\n<i>Minutes to install but a lifetime to master</i>",
+    "id": "skin-c16825526581",
+    "name": "MAC-10 | Allure",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A woman in teal, believed to be iso onna, stands before koi fish and crashing waves on this custom painted MAC-10.\\n\\n<i>Beauty begets bloodshed</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "cu_p90_nostalgia",
-      "name": "Nostalgia"
-    },
-    "min_float": 0,
-    "max_float": 0.57,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "911",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-24",
-        "name": "The CS20 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_24_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4669",
-        "name": "CS20 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3YVvfD9aqVveKaQDDKSl7134bg_HH3hlBty6z7Vn9v6eXmeZgBxWJd0EflK7Efs4hZiKQ"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk_6v-V6piM-SSAmCZwNF6ueZhW2fgxBh25mmAyY6reS2WaAElCpZ2RrMOuxO6k4LnNuy2tgLejoIWyXj3kGoXuTP4YgZa",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-b37ee36feb54",
-    "name": "P90 | Off World",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been hand painted with multiple coats of blue paint; even more than last time.\\n\\n<i>This topcoat may never dry…</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_p90_offworld",
-      "name": "Off World"
-    },
-    "min_float": 0,
-    "max_float": 0.75,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "849",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-22",
-        "name": "The Prisma Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_22_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk_6v-V6trJuecHGuU_uJ_t-l9AS_jwBwisG3SzN-rcX-SbA4lCsR4R-EDuhi6wIG1NuzjtFba2N8WxS3gznQePPXjzOg",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-2c6b76cc25a1",
-    "name": "P90 | ScaraB Rush",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with scarabs and Egyptian inspired designs.\\n\\n<i>Resurrection requires death, and death requires rushing</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_p90_scarab_of_wisdom",
-      "name": "ScaraB Rush"
+      "id": "cu_mac10_isoonna",
+      "name": "Allure"
     },
     "min_float": 0,
     "max_float": 1,
@@ -829,9 +236,648 @@
       "name": "Restricted",
       "color": "#8847ff"
     },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "965",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-26",
+        "name": "The Fracture Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_26_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3QV7aD7OP01IfbGDzPCmbsm4LU5GnvkzUsi4WvUmIqtci_CPQNyApsjE_lK7EfrhW545A"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-aHWifz-B3j-1gSCGn209w626GnNuucC2SaFMiC8B3FuUJ5kW7wdPnZe7g7gyP2Y4Ry3_5hnlXrnE8RS4Y9Xw",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-cf8d25d8a85c",
+    "name": "MAC-10 | Monkeyflage",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. Red, tan, and green monkeys adorn this custom painted MAC-10.\\n\\n<i>Spunky monkeys!</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_monkeyflage",
+      "name": "Monkeyflage"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1150",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-31",
+        "name": "The Recoil Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_31_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnMVu6b-avA-JqSSCjSWwuhz47U9TCzlxh9yt2WGnNqgIi-fbgUkWMNxFPlK7EdIJF6a2Q"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-eAWmbxPdwvOBuSha_nBovp3OBzdisJHPDaQ5xXpF2Ru4M5BTtlYHnYr7h5lbZg4gQzC_22ikfvSZt_a9cBiKJuAuZ",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-f5a050fa5280",
+    "name": "MAC-10 | Disco Tech",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted using a pearlescent finish to resemble holographic self-adhesive vinyl. Depending on the light its appearance changes.\\n\\n<i>Watch when you point that thing</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_nacre",
+      "name": "Disco Tech"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "947",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-25",
+        "name": "The Prisma 2 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_25_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4695",
+        "name": "Prisma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3cV6vT9avBvefWWDDGTxbZ14rhsTX7qkE90sDiHwt2pdC-TblJ2DsB1QPlK7Ee9riHKAA"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-dD2SCxNF6ueZhW2frkR5z4m_SyY37cnKRblIpW5smQOcO4EW7lYa1ZOjgtFCLg4wXnn72kGoXuTa4h8QB",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-bb6ba9602776",
+    "name": "MAC-10 | Neon Rider",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with the image of a deadly biker.\\n\\n<i>One part firearm, two parts Trapper Keeper</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_neonrider",
+      "name": "Neon Rider"
+    },
+    "min_float": 0,
+    "max_float": 0.45,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "433",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-7",
+        "name": "The Chroma 2 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_7_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-dC2ie0-dytfNWQyC0nQlp5DzTntmgdC7COABxX5NxQrUOtUS5w4LgMu6zsVCK2IJCmyisjitM6DErvbicsEA0SQ",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-7b9cc6bc31ef",
+    "name": "MAC-10 | Ensnared",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A custom paint job of pixies, trapped inside the weapon and eager to escape, has been applied.\\n\\n<i>They have yet to find someone they cannot fool</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_pixie",
+      "name": "Ensnared"
+    },
+    "min_float": 0,
+    "max_float": 0.9,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1131",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-30",
+        "name": "The Dreams & Nightmares Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_30_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-DB3-ZxNF6ueZhW2fikB935ziGztj7JHyQbgIkWZsmFrJY4xTpwdOzP-Oz7laNj4lFyy2tkGoXudbL5uIf",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-d5acd24fcb47",
+    "name": "MAC-10 | Button Masher",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted to resemble a game pad and various buttons poking through a clear polymer casing.\\n\\n<i>Giving the phrase \\\"console wars\\\" a whole new meaning</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_portable",
+      "name": "Button Masher"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1045",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-28",
+        "name": "The Snakebite Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_28_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3oVvvT4bfI4dvTLCGTCmLl16ec7TX_mk08k42iHwtqscy-WPVUmCZJ4R_lK7Ed8Q6OYtw"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-DAXWEwOx6td5lRi67gVN04GjXnIr7JyiSbQJ2W8Z4QuEItBS_kdyxZurnsVfcjYgTzH6r2ClN8G81tG_8yXMP",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-ff4f93793484",
+    "name": "MAC-10 | Propaganda",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a pair of eyes and various words in Russian, including \\\"control\\\" and \\\"fear\\\".\\n\\n<i>You don't believe them, do you?</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_propaganda",
+      "name": "Propaganda"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1067",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train-2021",
+        "name": "The 2021 Train Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-DHGiAwOl3vuVocCW6khUz_T_WzN6hcHOQaQIgCZIlFrEPtUS7wdW0Ne6wtFTYj9pAzyr-3SxP6n11o7FVcf1yckU",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-4ef0fd14ae8f",
+    "name": "MAC-10 | Heat",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted to look as though it just came out of the forge.\\n\\n<i>Make some outlines of your own</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_redhot",
+      "name": "Heat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "284",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-2",
+        "name": "The Phoenix Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_2_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-BC2OYzvpJvOhuRz39xR5w4GzUyo6pdnuUawMpWJokTLUL50K6l9XiNO7i4lGKiYsRxCv6jTQJsHim4lDW8g",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-7815c7fae965",
+    "name": "MAC-10 | Sakkaku",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. In specific lighting the eyes on this custom painted MAC-10 glow red.\\n\\n<i>Make your perception their reality</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_sakkaku",
+      "name": "Sakkaku"
+    },
+    "min_float": 0.21,
+    "max_float": 0.79,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1229",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-32",
+        "name": "The Revolution Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_32_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnAVvfb6aqduc_TFVjTCxbx05OU4S3jilE9w4DzRnImtIy2Sa1JzDJEhRPlK7EcO4U8gfA"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-AD2ybwOVjj-xsSyCmmFMk5mnRzdeqdSnCPVN2DpV3QeELtELrlIbiPrzqsVOMjdlBnySvjH5O8G81tOTP5a5f",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-eba9dcbab8fc",
+    "name": "MAC-10 | Echoing Sands",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted using desert camouflage and environments as inspiration. A scarab has been painted under the wire form butt.\\n\\n<i>\\\"WE'VE BEEN SET UP! THEY'RE EVERYWHERE!\\\"</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_scarab",
+      "name": "Echoing Sands"
+    },
+    "min_float": 0.02,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "1250",
+    "paint_index": "1244",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -889,104 +935,31 @@
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk_6v-V7duIeKSDFifx9FhufJtQCSMmRQguynLmYmrdCnGPAUkD5BxQuYC5hO8wdK0Y-_nsgbciNhMyn6v238cuy1jsPFCD_S-VwnSrw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-ADWaCwOxJvOhuRz39xRlx5GmEyIn9cSjCOg52C8B0TLEOtxa_xNziMu3ktFOP2o1HznqqijQJsHgtnfG5bw",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-c98d2c843b36",
-    "name": "P90 | Desert Warfare",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with a graphic design reminiscent of desert.",
+    "id": "skin-87390b8680ce",
+    "name": "MAC-10 | Toybox",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This custom paint job features brightly-colored drawings of chickens, aliens, defusers and more.\\n\\n<i>Clean up your mess</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "cu_p90_scorpius",
-      "name": "Desert Warfare"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "311",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-3",
-        "name": "The Huntsman Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_3_png.png"
-      }
-    ],
-    "crates": [],
-    "special_notes": [
-      {
-        "source": "https://steamcommunity.com/games/CSGO/announcements/detail/1751086783896069815",
-        "text": "It was removed because one of its creators was also involved with the M4A4 Howl art theft. This is no longer obtainable from the Huntsman Weapon Case, but remains part of The Huntsman Collection and still works with trade-up contracts."
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnwpHIVvfOsPfI9dqDCWDDGkb4j5OU_Fy_kx0l1tj6DnoqseC2TP1cpAsF2QPlK7EcMYXqtDg",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-d866f26d9587",
-    "name": "P90 | Shapewood",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. The wooden stock has been hand-carved, sanded, and laminated.\\n\\n<i>Tweezers not included</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_p90_shapewood",
-      "name": "Shapewood"
+      "id": "cu_mac10_toybox",
+      "name": "Toybox"
     },
     "min_float": 0,
     "max_float": 1,
@@ -997,7 +970,7 @@
     },
     "stattrak": true,
     "souvenir": false,
-    "paint_index": "516",
+    "paint_index": "1098",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -1022,124 +995,470 @@
     ],
     "collections": [
       {
-        "id": "collection-set-community-10",
-        "name": "The Revolver Case Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_10_png.png"
+        "id": "collection-set-community-29",
+        "name": "The Operation Riptide Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_29_png.png"
       }
     ],
     "crates": [
       {
-        "id": "crate-4186",
-        "name": "Revolver Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk_6v-V7dlIeCWGWifxdF6ueZhW2fglEtz6zjWyo2uJXKeaAF1ApZ2F7YN5BC_w9TjYbzg5VCNg9pEnHiskGoXuQsJgcHb",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-HAX6SzvZJvOhuRz39zRkismnVy9uveXqfZgYpW8R0TLRbshHtx9HvN77g5Qzbi4wTyniojTQJsHhO4vjwuQ",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-91abb2db43b7",
-    "name": "P90 | Trigon",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted in contrasting orange, grey and black.\\n\\n<i>Become a human typhoon</i>",
+    "id": "skin-4d819a5e4be2",
+    "name": "MAC-10 | Pipsqueak",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. The rat near the rear sight is surrounded by black and blue graffiti.\\n\\n<i>Game on</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "cu_p90_trigon",
-      "name": "Trigon"
+      "id": "cu_overpass_squeak_mac10",
+      "name": "Pipsqueak"
     },
-    "min_float": 0.08,
-    "max_float": 0.75,
+    "min_float": 0,
+    "max_float": 0.9,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "140",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-overpass-2024",
+        "name": "The Overpass 2024 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-5221",
+        "name": "Budapest 2025 Overpass Souvenir Package",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2hfqF_MPGAHViD0PtzsepWQiiwxE0YvzSCkpu3eXiQOlMkDpAhEeELuhi8x9DmM-uw4VCL2YlAzSn223tL7idp67wDUL1lpPNy-DeiVw",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-7f9562bfa6a5",
+    "name": "MAC-10 | Calf Skin",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been hand painted with a brown checkerboard pattern and white accents.\\n\\n<i>Included with the $1,050 Premium Package</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mac10_checker",
+      "name": "Calf Skin"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "748",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno-2",
+        "name": "The 2018 Inferno Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_inferno_2_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4540",
+        "name": "London 2018 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_mdCGKCz-E44LZtTS_mwE9xt2XSm42hd33DPwNxXJd3Q-8I5EbrxoKzMuPh4QePjpUFk3uQG3tvkw"
+      },
+      {
+        "id": "crate-4590",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsB2mWxPx4v69tGivkkUgk5GqHm9j6J3_CaVApCJt2E-8MuxPtl4exZr_m5VPcjY9B02yg2SOGx-2Z"
+      },
+      {
+        "id": "crate-4660",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_mdCGKCz-E44LFoHXzqxk9_5W3SyturcnmVPVcnWcAjQLFfsxbqkIDjNuzgsQDbiJUFk3uBV19lLA"
+      },
+      {
+        "id": "crate-4809",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_mdCGKCz-E4tOM-GH7jlBhxtz-Hz9yveC6fbQYhX8MlRO4Os0bqw4LkM-i07gHfiJUFk3ucTvvj4w"
+      },
+      {
+        "id": "crate-4835",
+        "name": "Antwerp 2022 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-aAGGV0-B5_uNrTi-ywxkk5W7TzI2scimSbFB1CMd1QOcPsha7wdezNeiz7lHb3oNbjXKpZMl3KNA"
+      },
+      {
+        "id": "crate-4860",
+        "name": "Rio 2022 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV61jJvWBAGjembol5rc9GyvqxEQjtTnSmNqpdnyRawElD8NyFuFeuxS_w4XnM-mwsxue1dyMXtmjQw"
+      },
+      {
+        "id": "crate-4893",
+        "name": "Paris 2023 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSKf6VC3WezqAgsrhsFyixwE4m52jUytysI3vBbQ51DJImQ-NbtxO5w9LjY-Lh5ADclcsbmj4tCmqX"
+      },
+      {
+        "id": "crate-4926",
+        "name": "Copenhagen 2024 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV61jJvWBAGjekL9wsudvHHnhzUkm4W2Az96vcX6UZ1N1X5RwROIKsELuwIDuN7y04xue1dxm9sz2hg"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iZz-hzou9mAS3ql0ght2SHn9z6JXKQPQIlXpImF7ZfukTqk4GzM7_n4laK399GyijgznQeCDcguis"
+      },
+      {
+        "id": "crate-5120",
+        "name": "Austin 2025 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iZz-hzou9mAXixxUl3t2uAnIysdC2Ub1IoD8dxReAK40Ptl4K2MLzi5VPW3tlGzH_gznQeA9NN0rg"
+      },
+      {
+        "id": "crate-5219",
+        "name": "Budapest 2025 Inferno Souvenir Package",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-QBmKTyutkj-1gSCGn2x92sWXWntytdHPDOlIlWZJwR-5csBS8k4K1Nuzn4QLa398UyCiq2CxXrnE8x1-1j1w",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-d136bb4f23cb",
+    "name": "MAC-10 | Classic Crate",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been hand painted to resemble the green metal crates originally found on de_dust2.\\n\\n<i>Rush B, don't stop</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mac10_dust_crate",
+      "name": "Classic Crate"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "908",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-24",
+        "name": "The CS20 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_24_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4669",
+        "name": "CS20 Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3YVvfD9aqVveKaQDDKSl7134bg_HH3hlBty6z7Vn9v6eXmeZgBxWJd0EflK7Efs4hZiKQ"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-XG3SE_u1ksfVscCW6khUz_WvVntmrI3KXOgcpXpQmRbYK5xe6ktLiYuLksVONi4tMyC_72CpN7nx1o7FVpG3zbwE",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-5bd6cfc7249e",
+    "name": "MAC-10 | Pipe Down",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted to appear as if it is filled with red tubes.\\n\\n<i>Peek behind the curtain</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mac10_exo_pipes",
+      "name": "Pipe Down"
+    },
+    "min_float": 0,
+    "max_float": 0.9,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "812",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-21",
+        "name": "The Danger Zone Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_21_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-WFmiv0edmtfJWQyC0nQlpt2rRwtqhdHjFa1N1A5ZxEO4MukW4lNayNrnhsVDc3YxGzir9iXkc7DErvbgEiQoeZQ",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-1541026f04e1",
+    "name": "MAC-10 | Whitefish",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. Fish scales, bones, and hooks have been hand painted in white over a black base.\\n\\n<i>Catch and decease</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mac10_fish_bait",
+      "name": "Whitefish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "840",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-22",
+        "name": "The Prisma Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_22_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4598",
+        "name": "Prisma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-VB3SY_ux3ufVWQyC0nQlp52jdwt-vdnyeP1QoDZQlTeQNtRO-w4e1ZeKzswCM2INHynn3hixPujErvbg9KuBZSA",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-97cabeaedccd",
+    "name": "MAC-10 | Hot Snakes",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a bronze snakeskin pattern and a coiled snake beneath the wire form butt.\\n\\n<i>The hissing is bullets flying past you</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mac10_snake",
+      "name": "Hot Snakes"
+    },
+    "min_float": 0,
+    "max_float": 1,
     "rarity": {
       "id": "rarity_legendary_weapon",
       "name": "Classified",
       "color": "#d32ce6"
     },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "283",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-2",
-        "name": "The Phoenix Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_2_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4011",
-        "name": "Operation Phoenix Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr2wPtqP5PKVvJPSQDWSSl7sn6eMxHC3hwhl3sDuDztivJHrEagJzWZd3W6dU5fXcT7oM"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk_6v-V7B_KfecAFicyOl-pK9vGi3nlEt24GnSwoypc3rFbQ52XsN0EOFcshfuwYa1NbzktVTZ3ohN02yg2RSFidN_",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-efc5c4835241",
-    "name": "P90 | Attack Vector",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with a multicolored abstract design.\\n\\n<i>Aggressive angles of attack</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "cu_poly_violet_p90",
-      "name": "Attack Vector"
-    },
-    "min_float": 0,
-    "max_float": 0.55,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
     "stattrak": false,
     "souvenir": false,
-    "paint_index": "936",
+    "paint_index": "1009",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -1164,49 +1483,49 @@
     ],
     "collections": [
       {
-        "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+        "id": "collection-set-op10-t",
+        "name": "The Havoc Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
       }
     ],
     "crates": [],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_jdk__2icZt7Kf-fC3Ov0bcmj-1gSCGn20QhtW_Vm9r8InmVbFJyDJMkE-IJsEOwm9G1Mu3jswSP2t1Hyy-s3yJXrnE8K5R_WCY",
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-AAGabxNF6ueZhW2fhlEwk4DmDzYr9dnvGbgFzDJojFrYMsBS7m9PhMLjh5APZ2IlCnC2qkGoXufthzYDr",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-7e9cf6e60b9f",
-    "name": "P90 | Freight",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. Its custom paint job resembles a train car covered in graffiti.\\n\\n<i>Art is not vandalism</i>",
+    "id": "skin-46bae9d6c6b0",
+    "name": "MAC-10 | Stalker",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a neon blue cat and yellow and black stripes.\\n\\n<i>Here kitty, kitty...</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "gs_p90_container",
-      "name": "Freight"
+      "id": "gs_mac10_stalker",
+      "name": "Stalker"
     },
     "min_float": 0,
     "max_float": 1,
     "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
     },
     "stattrak": true,
     "souvenir": false,
-    "paint_index": "969",
+    "paint_index": "898",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -1231,602 +1550,47 @@
     ],
     "collections": [
       {
-        "id": "collection-set-community-26",
-        "name": "The Fracture Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_26_png.png"
+        "id": "collection-set-community-23",
+        "name": "The Shattered Web Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_23_png.png"
       }
     ],
     "crates": [
       {
-        "id": "crate-4698",
-        "name": "Fracture Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3QV7aD7OP01IfbGDzPCmbsm4LU5GnvkzUsi4WvUmIqtci_CPQNyApsjE_lK7EfrhW545A"
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3EVvKD6MKU_cKPKXWHFxLkls7FsSnDqwUl_sWTczoqheHifbwMmD5F1RvlK7Ec_KL6Q_A"
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf-jFk_6v-V6diLuSSB2mV09F6ueZhW2fhk09ytjmDm4n8JHOebQEgCMAmQrEMuhi4k4W0MurntVHfid5GnC38kGoXuRB1lB54",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-AGmacyutkj-1gSCGn20V0t27Tw974Jy-WOg9yW8N3QOQDsxG4x9O0ZOPqtgHZ399HzST8ji9XrnE8CxAHwFY",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-31a18fdabe59",
-    "name": "P90 | Chopper",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted with a flame motif in orange and blue metallic paints.\\n\\n<i>Clutch not included</i>",
+    "id": "skin-93c8e6d94f2a",
+    "name": "MAC-10 | Urban DDPAT",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "gs_p90_full_throttle",
-      "name": "Chopper"
+      "id": "hy_ddpat_urb",
+      "name": "Urban DDPAT"
     },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "593",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-13",
-        "name": "The Gamma Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_13_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4236",
-        "name": "Gamma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf-jFk_6v-V6J4LPysGm-CzvpivORWQyC0nQlptWTXzt-tIyrFPQMjCpImQbED5xm5kIDhZePitlbdjotBnH783H9L7jErvbjpMmMyTQ",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-2e0afbc14204",
-    "name": "P90 | Neoqueen",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted using a mix of military and sci-fi styles.\\n\\n<i>Custom crafted for all your rushing needs</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "gs_p90_neoqueen",
-      "name": "Neoqueen"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1233",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_32_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4880",
-        "name": "Revolution Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnAVvfb6aqduc_TFVjTCxbx05OU4S3jilE9w4DzRnImtIy2Sa1JzDJEhRPlK7EcO4U8gfA"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf-jFk_6v-V6poL-GGC2Ke_uJ_t-l9ASyyxhl04zuDn4muInOXPAF2W5shQOAMs0G7xNfkZOuwswbej4JDnyvgznQe6S6_YqA",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-6772919e8e84",
-    "name": "P90 | Shallow Grave",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. The grips have been painted to resemble rune stones, and a hydrographic of a skeleton has been applied to the stock.\\n\\n<i>With the amount of bodies you're racking up, who has time to dig?</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "gs_p90_shallow_grave",
-      "name": "Shallow Grave"
-    },
-    "min_float": 0,
-    "max_float": 0.75,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "636",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-15",
-        "name": "The Glove Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_15_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4288",
-        "name": "Glove Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHcVuPaoafU1JqiVWWSVkux15OQ8Giiylk0k5mvTnIqpd3PCaQIhWMYkE_lK7EcNeCKW-w"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf-jFk_6v-V7dlIfyfAXCvxvx3puRWQyC0nQlpsWzUyIqvcCiVPFQnW8YmEO4P5xi6xNS2Num35FbX34lCzX7_hytK5zErvbi02RizsA",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-e2b145a9faa7",
-    "name": "P90 | Vent Rush",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted to resemble a P90 intersecting with gaffer tape, tubes, and fire.\\n\\n<i>\\\"Do you know how fast you were going?\\\"</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "gs_p90_tangled",
-      "name": "Vent Rush"
-    },
-    "min_float": 0,
-    "max_float": 0.7,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1154",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_31_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4846",
-        "name": "Recoil Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnMVu6b-avA-JqSSCjSWwuhz47U9TCzlxh9yt2WGnNqgIi-fbgUkWMNxFPlK7EdIJF6a2Q"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf-jFk_6v-V7BsLvefC2OvzedxuPUnTXywwElz52XXzIz4dn2RalcoC8FzQrJfsRe-moG0YeK2sQPZ3YpEmzK-0H18Z6zceQ",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-51560c383375",
-    "name": "P90 | Traction",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with sectioned blue hexagons designed to fit the P90's unique shape.\\n\\n<i>Half the battle is keeping a hold of the weapon; the other half is hitting the target</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "gs_p90_tread",
-      "name": "Traction"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "717",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-20",
-        "name": "The Horizon Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_20_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4482",
-        "name": "Horizon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf-jFk_6v-V7B_JfGXMWuZxuZi_udvTHDjzUVxsm-Aw9auIniRPQJ2XJVyEONetxDuk4HiNeu24VSP391bjXKpopWoUos",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-948dbf5d933b",
-    "name": "P90 | Desert Halftone",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A desert-colored halftone pattern has been applied.\\n\\n<i>All of the attitude with half the tone</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "ht_simple_camo",
-      "name": "Desert Halftone"
-    },
-    "min_float": 0,
-    "max_float": 0.65,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1332",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-timed-drops-warm",
-        "name": "The Radiant Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9TZk_PujeKhoH_OSA2ivzedxuPUnGXHqkE1-4mjdz9eudnuTPQ8gWZpzE-Ve5hOxlNHgY-jj5VPY39gXyjK-0H2RUgwoBA",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-ddc69b0796bd",
-    "name": "P90 | Facility Negative",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A blue and yellow hydrographic pattern resembling a nuclear power plant has been applied.\\n\\n<i>The opposite of a containment structure</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_blueprint_aqua",
-      "name": "Facility Negative"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "776",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-nuke-2",
-        "name": "The 2018 Nuke Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_nuke_2_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4546",
-        "name": "London 2018 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_6GBWLewrt35LI8GHnlk0om42_Wn92vInmQPQJyDpYlFrMPtha_w9K2N-3n5hue1dz59svyCw"
-      },
-      {
-        "id": "crate-4596",
-        "name": "Katowice 2019 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsAHKbxKAn4eBsTC3mlk53tWqDnNv4di6SaAUjX5NxFuZcuxLrldDkMbzl5QbWlcsbmtmiS4Eu"
-      },
-      {
-        "id": "crate-4665",
-        "name": "Berlin 2019 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_6GBWLexbt1s-NsH3DgkU1-sWnSnt2pcXzCPQAhCcZxReMJ5kXqx4eyNOjrtRue1dxZghH5iQ"
-      },
-      {
-        "id": "crate-4814",
-        "name": "Stockholm 2021 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_6GBWLekOhz4rVtSy2ylxhysWvSmNurJSiQZlB1A8N0F-cP4ELrw9HmNeOxshue1dwR-YfRbg"
-      },
-      {
-        "id": "crate-4840",
-        "name": "Antwerp 2022 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-dG2yVj7oi4rhtSXiwkRwk5W_VzI2rdniTbVUhWJBxTeBe5kS5lYfmYe3h4lfAy9USZI7vLEE"
-      },
-      {
-        "id": "crate-4865",
-        "name": "Rio 2022 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6p4K_XdWTCVmO0m6bQ7THzlwx8i52WHnIqrcy-Wa1B1C8RxTLEO4Rm_l4XlNfSiuVKkZ-_svg"
-      },
-      {
-        "id": "crate-4898",
-        "name": "Paris 2023 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSLuWYCymRlbYgsuI8HX7rlhhxt2_Umdj9JXLGagcnDpIhE-MD5xe8wdXiMOjk-UWA3JoAHXbP"
-      },
-      {
-        "id": "crate-4931",
-        "name": "Copenhagen 2024 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6p4K_XdXmHElrogtLkxGXHgl0lw62-EyIyhcyiTZwUlXJV1TeUP40HpxNG0PvSiuVK0aQmXQA"
-      },
-      {
-        "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1ie1OVz_rA6H3-2kUQltTvRn46qeHmUbw92X5B0FLFe4xW6lYfjPrzjsQDYiINbjXKpXYSSkrU"
-      },
-      {
-        "id": "crate-5125",
-        "name": "Austin 2025 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1ie1OVz_rY9S37kwh8h52_Qy92qcnmTOA8lDZNxQLQDsRe6mtW0ZezmtFPX2NpbjXKpvhIYpf8"
-      },
-      {
-        "id": "crate-5224",
-        "name": "Budapest 2025 Nuke Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk7f67bbR_Kf6HMWaB1O9JvOhuRz39zE5_tmvSzNugeXyUOAMlW5pyQOcN4Re-xte0Nb_n4wXf2INNynj_jzQJsHhMSbHang",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-d44eab1a62a7",
-    "name": "P90 | Desert DDPAT",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_ddpat_desert",
-      "name": "Desert DDPAT"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
+    "min_float": 0.06,
+    "max_float": 0.8,
     "rarity": {
       "id": "rarity_common_weapon",
       "name": "Consumer Grade",
@@ -1834,7 +1598,7 @@
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "925",
+    "paint_index": "17",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -1859,288 +1623,44 @@
     ],
     "collections": [
       {
-        "id": "collection-set-dust-2-2021",
-        "name": "The 2021 Dust 2 Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png"
+        "id": "collection-set-vertigo",
+        "name": "The Vertigo Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_png.png"
       }
     ],
     "crates": [
       {
-        "id": "crate-4811",
-        "name": "Stockholm 2021 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_SGHXPCj-gg4-M4Sn-wxR9x4j6HmN-gcC_CPVIhCMB2QOZZthTqm9TuMujm5Q3Ay9USPT9sqvk"
-      },
-      {
-        "id": "crate-4837",
-        "name": "Antwerp 2022 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-XG3SEk6Al5OI7Ti3kkxgh5jyDwtivcSiWPA4iC8EjR-4L4BLpx9a2Yruz4wOPlcsbmmhLqoY-"
-      },
-      {
-        "id": "crate-4862",
-        "name": "Rio 2022 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6B4M-TBQGHFkrpw5-BqF3qyxk8isGncy9j8InrBPwIoAsF1QecN4BC9lIbgM-P8p1uJqWKKNS0"
-      },
-      {
-        "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iU1P1i4q9oTSvrxUR0t2XQwt-oeXjEOAN1AptzF-UC50W-xoLjNb7r4gXa3ohC02yg2bIwV8Dw"
-      },
-      {
-        "id": "crate-5123",
-        "name": "Austin 2025 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iU1P1i4q9tTnnklkwk6zyGn437In-UZlQlAsQhR-dZ4RixlNDhNO3q41CIjooW02yg2fk_M8Eg"
-      },
-      {
-        "id": "crate-5222",
-        "name": "Budapest 2025 Dust II Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
+        "id": "crate-4666",
+        "name": "Berlin 2019 Vertigo Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH-aWHHOZxuE457c9S36yxBtz5miEyd3_dy2VZgMmC8YjR-VZ4EawkdGzYrzltQHWipUFk3vMwHfqeQ"
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk6_a-abBSJPWAC3WE_uJ_t-l9ASjgwBx3sj_Ry4qqcXKfPVdxD5J4F7MIsBnpl9OzP7jg7gLd2dpFyiXgznQeFOalmMw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9s2qbLRsNM-GHGWvzedxuPUnGXnlwhh-5m7XmYmrJHiUaFJzD8QmTeIC5EG-moKyYerg7g3Z34pMnDK-0H2xTdMbHg",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-9dda48565918",
-    "name": "P90 | Blind Spot",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted using a hydrographic with an oversized camouflage pattern.",
+    "id": "skin-543aa962d655",
+    "name": "MAC-10 | Strats",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A hydrographic pattern of the 51st floor's construction, HVAC, and wiring plans has been applied.\\n\\n<i>All according to plan…</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "hy_modspots",
-      "name": "Blind Spot"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "228",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-esports-ii",
-        "name": "The eSports 2013 Winter Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_esports_ii_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4005",
-        "name": "eSports 2013 Winter Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk4v2qe7RiNOOsAm6Xyfo4seVsTn3ikU0jt2nQnIqqJ3KeOA4jDJV0EOMPt0S7xNLjM76w7gLd2ZUFk3vvaUMV8A",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-73449301d7a3",
-    "name": "P90 | Death Grip",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A hydrographic pattern of overlapping hands has been applied to a blue base.\\n\\n<i>Do not go quietly</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_p90_barebones_blue",
-      "name": "Death Grip"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "669",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-17",
-        "name": "The Operation Hydra Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_17_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4352",
-        "name": "Operation Hydra Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHUVt_b6PfY1JfOSXDXJxbgjtLFqHnDqx0Qmtm_Vzdf4ICmUZlJ2C5F2TPlK7EdjN0FcPg"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk_6v-V6ZsMvWRAWmV0tF0vPRscCW6khUz_WqAy4z6cX2Tbg8hWJN2RLQMsRPplNDmYr63sVPciIkTyij3iX5M7yt1o7FVUmFnInA",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-2b3bc760fbf0",
-    "name": "P90 | Cocoa Rampage",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. An olive and gold-colored hydrographic pattern of cartoon dinosaurs has been applied.\\n\\n<i>Dinosaurs and aliens and comets, oh my!</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_p90_dino_rampage",
-      "name": "Cocoa Rampage"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "977",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-27",
-        "name": "The Operation Broken Fang Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_27_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3UVu6P-MPQ0dKbCVzLGx7wgtbM6S3jhw0V25m-EnNj7JS7GaQ4nD8QiRflK7EfH0YGFHg"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk_6v-V6BkLv-sHGad0e9xtd5lRi67gVMl52jUztr9cn7CbQEmWZV1R-ED5BHqx9G1PuOxsgWM2N4Xniqrh35L8G81tGacA9-f",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-23a748f6b597",
-    "name": "P90 | Blue Tac",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A blue and grey hydrographic pattern has been applied.\\n\\n<i>Let it rip</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_usaf_round",
-      "name": "Blue Tac"
+      "id": "hy_vertigospray_blue",
+      "name": "Strats"
     },
     "min_float": 0,
     "max_float": 0.6,
@@ -2150,75 +1670,8 @@
       "color": "#b0c3d9"
     },
     "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1277",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-timed-drops-cool",
-        "name": "The Ascent Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk-uGvbpt_L-WdClicyOl-pK9rS3DjwEgjtziHyNioJ3rDaFdxXpR4TbUK4xbtx9K2ZbjltQPei91G02yg2byPK7vI",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-560a56662f2d",
-    "name": "P90 | Schematic",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A multicolored pattern of an isometric grid has been applied.\\n\\n<i>You remember pain, I remember victory</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hy_vertigogeo",
-      "name": "Schematic"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
     "souvenir": true,
-    "paint_index": "1074",
+    "paint_index": "1075",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2281,174 +1734,34 @@
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk-fe8fK1qL_eWAVicyOl-pK89HXrjwhh_sGWDz4yrcn-eZlR1XMAkFOYIshTqlIXlMbnk7lHWiIlE02yg2XF_CACM",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9s24bbZ5KfecHXeCwPdJsu18Sha_nBovp3PTmIuoJ3yVa1clXMB4TbEOsBHtwdHiZO-x7gWN2d8XyS_4i3xM53k4_a9cBrlyT3NZ",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-7ee5e2765bfa",
-    "name": "P90 | Virus",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted using a zombie hydrographic over a green base coat.",
+    "id": "skin-1086e586f1bf",
+    "name": "MAC-10 | Acid Hex",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a green hydrographic hex pattern.\\n\\n<i>Hex marks the spot</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "hy_zombie",
-      "name": "Virus"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "20",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-esports-iii",
-        "name": "The eSports 2014 Summer Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_esports_iii_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4019",
-        "name": "eSports 2014 Summer Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk9f2jaq1oH_yaCW-Ej7l0tLY8Fn3jk0h342jRwtz9In6TOg4kDZImQ-4Nshi4w9LmNOnh4wHAy9USHtJ8vvM",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-d58c4622251a",
-    "name": "P90 | Reef Grief",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A green and blue coral pattern has been applied.\\n\\n<i>Nature laughed, for it created something we couldn't dream possible</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hye_coral",
-      "name": "Reef Grief"
+      "id": "hye_green_camo",
+      "name": "Acid Hex"
     },
     "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1256",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-timed-drops-cool",
-        "name": "The Ascent Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Tte0PGheqVhH_yaCW-Ej7wu6bhsHy3rlEQi4DvUy9_6JXjGa1JxCpUmQ7MPsxLukoLmYrvr4lPAy9USG-O6-8A",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-566d676ca07d",
-    "name": "P90 | Mustard Gas",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A blue-green base coat has been finished with a yellow hydrographic \\\"ground smoke\\\" pattern.\\n\\n<i>Denying information is as important as obtaining it</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "hye_zoom",
-      "name": "Mustard Gas"
-    },
-    "min_float": 0,
-    "max_float": 0.63,
+    "max_float": 0.58,
     "rarity": {
       "id": "rarity_uncommon_weapon",
       "name": "Industrial Grade",
@@ -2456,7 +1769,7 @@
     },
     "stattrak": false,
     "souvenir": false,
-    "paint_index": "1291",
+    "paint_index": "1295",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2488,42 +1801,42 @@
     ],
     "crates": [],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Tte0OihZ6lSLPmUBnPexbh35LYwGX61xxl-tzjdnon6dn3DalN2CpVyRbILsEK7xNXiY7_r5hue1dzKUs1JfA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9veRb7ZoJf6sDWadztF6ueZhW2fhw09_6mjSw9r4cy6RPVV1DZZwE7UI4xDsl9CyNuvi4gHf2o1NnH7-kGoXuXqvgvHX",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-ff75c4a68dbd",
-    "name": "P90 | Wave Breaker",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted using an angular blue and green design.\\n\\n<i>You look how you feel</i>",
+    "id": "skin-efe243521c5e",
+    "name": "MAC-10 | Poplar Thicket",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A green forest pattern has been applied.\\n\\n<i>In the thick of it</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "p90_boost_blue",
-      "name": "Wave Breaker"
+      "id": "hye_green_forest",
+      "name": "Poplar Thicket"
     },
     "min_float": 0,
-    "max_float": 0.950549,
+    "max_float": 0.68,
     "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
     },
-    "stattrak": true,
+    "stattrak": false,
     "souvenir": false,
-    "paint_index": "1190",
+    "paint_index": "1285",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2548,47 +1861,114 @@
     ],
     "collections": [
       {
-        "id": "collection-set-community-35",
-        "name": "The Fever Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+        "id": "collection-set-timed-drops-neutral",
+        "name": "The Boreal Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
       }
     ],
-    "crates": [
-      {
-        "id": "crate-7007",
-        "name": "Fever Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frncVtqv7MPE8JaHHCj_Dl-wk4-NtFirikURy4jiGwo2udHqVaAEjDZp3EflK7EeSMnMs4w"
-      }
-    ],
+    "crates": [],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7XsL0PChZ7d5H_KfG2KvzedxuPUnTHrlzU9xt2qHzd-rJ3yQb1cmXJNzF-Vc5BS6wdLjMe60tAyP3dhNzTK-0H3NvEQllg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9veRb7ZoJf6sCGiCxP1ij-1gSCGn2x8mtm2Bntf7JHKSaAN2C5siTeIK5hO6wYGzMuritQ3ej4MTxHmqjHhXrnE8uA1Mzbk",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-39f40ce9d13d",
-    "name": "P90 | Randy Rush",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. This custom paint job features camouflage, military insignia, and... Randy. For better or worse.\\n\\n<i>\\\"Or how I learned to stop worrying and love the P90\\\"</i>",
+    "id": "skin-543d85d8ca60",
+    "name": "MAC-10 | Light Box",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted to appear as if you are looking into the back of the MAC-10.\\n\\n<i>Custom built</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "p90_randy_rush",
-      "name": "Randy Rush"
+      "id": "mac10_illusion",
+      "name": "Light Box"
     },
     "min_float": 0,
-    "max_float": 0.75,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1164",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-33",
+        "name": "The Kilowatt Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_33_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4904",
+        "name": "Kilowatt Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnEVvqf_a6VoIfGSXz7Hlbwg57QwSS_mxhl15jiGyN37c3_GZw91W8BwRflK7EfKsa2sfw"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtkLPyGHW6fz9F6ueZhW2e2lBsk4WvXw974diiSblV1DMBxRrEJu0PrwNy1Mruw4gKK3d0TynmskGoXuUBgCcQQ",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-0befed15aba5",
+    "name": "MAC-10 | Cat Fight",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mac10_kamicatze",
+      "name": "Cat Fight"
+    },
+    "min_float": 0,
+    "max_float": 1,
     "rarity": {
       "id": "rarity_mythical_weapon",
       "name": "Restricted",
@@ -2596,7 +1976,80 @@
     },
     "stattrak": true,
     "souvenir": false,
-    "paint_index": "127",
+    "paint_index": "1349",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-36",
+        "name": "The Genesis Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-5176",
+        "name": "Sealed Genesis Terminal",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnRk7P6he6FpbqWXCzSVkL4h6bExTHuwx0wk6mjUmdn_Iy2TbAUkCZslQu8CtBTrkNz5d7S1oNprwEg"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtmIf2aDWaE2-tJvOhuRz39l0lx42_Qz9v_cC2SagNyX8RwEbZbskHpltKzYriw4QPeioIWxXqv3DQJsHgCTO4phQ",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-1328a63c72b5",
+    "name": "MAC-10 | Saibā Oni",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a cybernetic demon on the side and between the wire stock.\\n\\n<i>Crackling energy and cold steel</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mac10_ozaki",
+      "name": "Saibā Oni"
+    },
+    "min_float": 0,
+    "max_float": 0.66,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "126",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2634,42 +2087,42 @@
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7XsL0OCvZqB0H-KGHW-vzedxuPUnGCy3lhsj6zmAyYn6eXyQbwMhApAmFu8C5xTpktHjMejl71aPjtkQnjK-0H3AcMEIag",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtiOvGYB1icyOl-pK89HXuxkRt2627Syt2udn6TZlJyW5R0QuMKsRm6lNflNO3g7lfbi49H02yg2Yk7YeQ4",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-0c162dc3dadb",
-    "name": "P90 | Straight Dimes",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted to look like it's been crudely welded together.\\n\\n<i>\\\"That'll hold\\\"</i>",
+    "id": "skin-9fc289ff7b61",
+    "name": "MAC-10 | Derailment",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with an exploding train car.\\n\\n<i>\\\"Your attention please...\\\"</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "p90_steelcraft",
-      "name": "Straight Dimes"
+      "id": "mac10_train_crash",
+      "name": "Derailment"
     },
     "min_float": 0,
-    "max_float": 1,
+    "max_float": 0.7,
     "rarity": {
-      "id": "rarity_uncommon_weapon",
-      "name": "Industrial Grade",
-      "color": "#5e98d9"
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "1199",
+    "paint_index": "1204",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2712,31 +2165,98 @@
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7XsL0OG6baFhI-KSCHOvzedxuPUnTSy3zE5w5zzXzIqodXmfbFIgCMd3ELIDskawwNXgZrvq4gDWjdpByjK-0H2Y7GSoBg",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-85ab23cdb7f5",
-    "name": "P90 | Storm",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has individual parts spray-painted solid colors in a stormy color scheme.\\n\\n<i>It will be waiting for you at the monorail</i>",
+    "id": "skin-d33e14057f12",
+    "name": "MAC-10 | Bronzer",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using solid bronze and brown colors.\\n\\n<i>Not to be confused with \\\"foundation\\\"</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "so_stormfront",
-      "name": "Storm"
+      "id": "so_bronze_powder",
+      "name": "Bronzer"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1334",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-warm",
+        "name": "The Radiant Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M2seqtjOvWsHmiHxetkj-1gSCGn2xgjsWrRyIysJXiXOwIhW5pwQrUI4Bftl4W2P-2351HZj49GmHj_iCJXrnE8D5vakEw",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-747c96cb8106",
+    "name": "MAC-10 | Indigo",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted solid colors in indigo, blue and grey.\\n\\n<i>Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_indigo_and_grey",
+      "name": "Indigo"
     },
     "min_float": 0.06,
     "max_float": 0.8,
@@ -2747,7 +2267,7 @@
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "100",
+    "paint_index": "333",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2830,42 +2350,42 @@
       }
     ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7i1k_OaheqlrMv-dGlicyOl-pK8-HSixlhh2sG_TydaveS7EZw91A5ByEeIJ4Rm6kNfgMbzr7wGMgolA02yg2VYIqRCy",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlptT_VztavJXyfa1QgW5J0FuMCtBLtw4ayMe_g5VPZg49MzCX423sf6TErvbjb2X3Wdg",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-b0cfd706f37d",
-    "name": "P90 | Sunset Lily",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been spray-painted with a pattern of orange lilies.\\n\\n<i>While beautiful, lilies are most often associated with death</i>",
+    "id": "skin-730314e8501f",
+    "name": "MAC-10 | Ultraviolet",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "sp_bloom_orange",
-      "name": "Sunset Lily"
+      "id": "so_purple",
+      "name": "Ultraviolet"
     },
-    "min_float": 0,
-    "max_float": 0.5,
+    "min_float": 0.06,
+    "max_float": 0.8,
     "rarity": {
-      "id": "rarity_uncommon_weapon",
-      "name": "Industrial Grade",
-      "color": "#5e98d9"
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
     },
-    "stattrak": false,
+    "stattrak": true,
     "souvenir": false,
-    "paint_index": "726",
+    "paint_index": "98",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2890,38 +2410,164 @@
     ],
     "collections": [
       {
-        "id": "collection-set-stmarc",
-        "name": "The St. Marc Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
+        "id": "collection-set-esports-iii",
+        "name": "The eSports 2014 Summer Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_esports_iii_png.png"
       }
     ],
-    "crates": [],
+    "crates": [
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      }
+    ],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7jJk7f6hZ6lSL-KSAGCV_uJ_t-l9AX3klxl_5mzQmN34dXLDaAd0XJYmROIJsUHswdzuYe7ktgzfit1DmS_gznQesD3mhjI",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M2-fbZ9LPWsAm6Xyfo457RoS3vlzRx2sWWAzNz4dXvGbQ9zCsZ1FOMI40G4ktDvY-LgtQ3YipUFk3sgu3LoQg",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-385609e49273",
-    "name": "P90 | Scorched",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "id": "skin-528001b964c3",
+    "name": "MAC-10 | Candy Apple",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has individual parts spray-painted solid colors in a red and black color scheme.\\n\\n<i>Great on cars, better on weapons</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "sp_dapple",
-      "name": "Scorched"
+      "id": "so_red",
+      "name": "Candy Apple"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "3",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train",
+        "name": "The Train Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4006",
+        "name": "DreamHack 2013 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
+      },
+      {
+        "id": "crate-4013",
+        "name": "EMS One 2014 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
+      },
+      {
+        "id": "crate-4137",
+        "name": "ESL One Cologne 2015 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iE0-9_vq9oGC_gwBkk4TyDzNqrcinGOwQmAsRyEeUCu0awx9bjN-uxtAzdj4pN02yg2dPFwHIG"
+      },
+      {
+        "id": "crate-4182",
+        "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZt5MvGaACnAxbcmsbBoTSvrlkgm5DzcyNr6eH2TZw8jXMAlQLFZthm5xoayYe20-UWA3F5WW8hg"
+      },
+      {
+        "id": "crate-4231",
+        "name": "MLG Columbus 2016 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsGnWRyOA46OQ_S36ywB5w427Um9__cnyTOgMmDZMlE-VZsRS7ktHlNu7m5A3fiJUFk3vtXhyvnQ"
+      },
+      {
+        "id": "crate-4279",
+        "name": "Cologne 2016 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-HHGaZz6AvtLE-HHjilxx3tWXVn9n_eHyRa1BzCsElQbIIsxmwx4DjMb7htAPclcsbmlu8ougM"
+      },
+      {
+        "id": "crate-4349",
+        "name": "Atlanta 2017 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-HHGaZz6Am6bVtF362xBhy6j7Uy9evIi6Ub1VzCZRxR-YP5xm7xoa2ZO-24Q2KlcsbmrTvx_5P"
+      },
+      {
+        "id": "crate-4401",
+        "name": "Krakow 2017 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH-SBD26ej7wn6OA9H3qxxU4k5mjUntj7dSmUbVMpW5tyRLENshW_k9TuMuOx41HAy9USulmIlu0"
+      },
+      {
+        "id": "crate-4468",
+        "name": "Boston 2018 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH-SBD26ej7olsrQ5HS3qxBlz5D7Qyd_9dC2VOlUgCJojRuZY4xS6x4fiN-Ow4VPAy9USQH44qjM"
+      },
+      {
+        "id": "crate-4545",
+        "name": "London 2018 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH-SBD26ej-witLhtSnq1kE526jyDy9yhJHmTbgBxApV4FLQOtBGwxoW1Yr_r5wLAy9USI1Aa0as"
+      },
+      {
+        "id": "crate-4595",
+        "name": "Katowice 2019 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsGnWRyOA45-JsTnvnlE93tWWHntj8d3iXPw5zC5EiEeBcuxO6x4fkYeixtVfeipUFk3vbEfzb_w"
+      },
+      {
+        "id": "crate-4664",
+        "name": "Berlin 2019 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH-SBD26ej-9y5rI8HHzqlEly4G3QzI6qJHPDPw8mWMAjRLRctkTpwdPjY-nh7wLAy9US6FlZaBQ"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M28baBSLPmUBnPemLZw4rk6Gi3gxkp_5W3Qmdv_cnrDPwZ1Asd2FOcM5BO4k4KxMe7h7xue1dzcbAPD_Q",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
+    "id": "skin-31eae8d1e829",
+    "name": "MAC-10 | Tornado",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has individual parts spray-painted solid colors in a tornado color scheme.\\n\\n<i>Don't be fooled by its simplicity</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_tornado",
+      "name": "Tornado"
     },
     "min_float": 0.06,
     "max_float": 0.8,
@@ -2931,8 +2577,8 @@
       "color": "#b0c3d9"
     },
     "stattrak": false,
-    "souvenir": true,
-    "paint_index": "175",
+    "souvenir": false,
+    "paint_index": "101",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2957,198 +2603,49 @@
     ],
     "collections": [
       {
-        "id": "collection-set-mirage",
-        "name": "The Mirage Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_png.png"
+        "id": "collection-set-militia",
+        "name": "The Militia Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_militia_png.png"
       }
     ],
-    "crates": [
-      {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
-      },
-      {
-        "id": "crate-4024",
-        "name": "ESL One Cologne 2014 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2jYbZsJ_XdV2XBlehyteM4HXi1lk124W3UydugdyiROwEoXMRxE-AIsxK5kdG1ZfSiuVL9KRVRdw"
-      },
-      {
-        "id": "crate-4033",
-        "name": "DreamHack 2014 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2jYbZsJ_XdCDCWxbontuA-Gi_gzEVw5mTQwtb6dSqTbA8oC8F2QuEDsRe7moLkN_SiuVLrQkv3xg"
-      },
-      {
-        "id": "crate-4081",
-        "name": "ESL One Katowice 2015 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvzOdkseZsAXqwxEt_5W7SnN34cH6XOw8lWJIiFuACtETrkdLjNujqtgPcjN9AmS3gznQeEFP9n20"
-      },
-      {
-        "id": "crate-4132",
-        "name": "ESL One Cologne 2015 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1idyPx3t-QnTC3lxk4k52_UwtavJ3qRa1ciD5V1R-cO5hnsl4LuN-Lm7gyPgopNnDK-0H0AmNuWng"
-      },
-      {
-        "id": "crate-4177",
-        "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtgKeKSCWLelexy5LlvSXjqwk5352SEnNmsJ36TbQ9zW5YkRe9Z5hm5xIblZeqx7hue1dxO7GJJCg"
-      },
-      {
-        "id": "crate-4226",
-        "name": "MLG Columbus 2016 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsA26CwOlz_uNrTXuxzUki5TnUzougJXyRbQIkDZckFLMOuhLpxoXkMuPl4FCP2ohbjXKpAQ1eHv4"
-      },
-      {
-        "id": "crate-4275",
-        "name": "Cologne 2016 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-eB3WRxus44rNoG37jxRh04G2HyYn7InyWaAdzC8B5TbQLsUHtx9yyY7-w5VePiJUFk3tIqaFIzQ"
-      },
-      {
-        "id": "crate-4345",
-        "name": "Atlanta 2017 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-eB3WRxus4tbU-G3q3zBwhtWyEmdivInPFOgMnWZB0QucM50KxwIbgMeLmsgCL2JUFk3s3nspkuw"
-      },
-      {
-        "id": "crate-4397",
-        "name": "Krakow 2017 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_2aHGaXxKB1tbg5HH_nxE5zsW7TzI2peS7EaAN2CpJ0TbVbsRLukdHjZuLrsQXZlcsbmlwpRn79"
-      },
-      {
-        "id": "crate-4464",
-        "name": "Boston 2018 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_2aHGaXxKAl5eI6Sn3rwB93tWTQz9qocC_GPQMlXpQmQbYCsxfpl9OyZum2tVDblcsbmhcGw3AW"
-      },
-      {
-        "id": "crate-4541",
-        "name": "London 2018 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_2aHGaXxKAm4LhtFnnik0Qm4W3RytiqJS_DO1cnC5NzFOIPtRftxNG2NOzisVbZlcsbmjApZVCi"
-      },
-      {
-        "id": "crate-4591",
-        "name": "Katowice 2019 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsA26CwOlz_uAxTXvqwxl05j7QntyvcimRa1UmX8dzTLFfu0LqkYLvYb-wslTc34hbjXKpsgcPS04"
-      },
-      {
-        "id": "crate-4661",
-        "name": "Berlin 2019 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_2aHGaXxKAn4OI5Hnqywkki4T7WzoyrIn6WPVInC5pzTe4N4BHukYLuN-3ntQfflcsbmlnJCBZK"
-      }
-    ],
+    "crates": [],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7jJk6_O-eKhoH_yaCW-Ej7Yi5LI7F3jrk05y4G-HzY37dCiRPVAnCpZ3R-MI4BnpkICxMLjr5QHAy9USM2Zemfk",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M26Z7ZjIfScMWuZxuZi_rg7H322kxgj62vQn9aheC7BblUgCZolReUNsBXukdLgP77r5A3fid1bjXKp3olIKis",
     "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   },
   {
-    "id": "skin-2ee351c33f47",
-    "name": "P90 | Glacier Mesh",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+    "id": "skin-9973f96c93b5",
+    "name": "MAC-10 | Storm Camo",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a solid blue camo pattern.\\n\\n<i>We all have to do things we don't like</i>",
     "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_smgs",
       "name": "SMGs"
     },
     "pattern": {
-      "id": "sp_mesh_glacier",
-      "name": "Glacier Mesh"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "111",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-vertigo",
-        "name": "The Vertigo Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_vertigo_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4666",
-        "name": "Berlin 2019 Vertigo Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH-aWHHOZxuE457c9S36yxBtz5miEyd3_dy2VZgMmC8YjR-VZ4EawkdGzYrzltQHWipUFk3vMwHfqeQ"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7jJk4ve9YJtqLPGQB2KC_uJ_t-l9AX3ikERzsGiDmYuucijGbVNzXpMhELEOsEG9ldDnM-7n5QfW2dkUmHngznQeLgH7yAw",
-    "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-f9a94b857e5d",
-    "name": "P90 | Teardown",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been spray-painted freehand using mesh fabric as a stencil.",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "sp_mesh_hot_and_cold",
-      "name": "Teardown"
+      "id": "soo_mac10_blueberry",
+      "name": "Storm Camo"
     },
     "min_float": 0,
-    "max_float": 0.6,
+    "max_float": 0.637288,
     "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
     },
     "stattrak": false,
-    "souvenir": true,
-    "paint_index": "244",
+    "souvenir": false,
+    "paint_index": "1269",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -3173,139 +2670,20 @@
     ],
     "collections": [
       {
-        "id": "collection-set-lake",
-        "name": "The Lake Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_lake_png.png"
+        "id": "collection-set-timed-drops-cool",
+        "name": "The Ascent Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
       }
     ],
-    "crates": [
-      {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
-      }
-    ],
+    "crates": [],
     "team": {
-      "id": "both",
-      "name": "Both Teams"
+      "id": "terrorists",
+      "name": "Terrorist"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7jJk4ve9YJtlL-SsD2mU_u15vOVWQyC0nQlp5mjWy4n9cX3FZ1UiApMkQbJZ4BK8ktXnM-zrsgzeg4wQyHr3iiMc5zErvbiseXdBZA",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4P2RZaVucaCsDGuFxOxzovNwcCW6khUz_W7dz9qrJH2XZgYjC5UiQOADshC5x9W1ML_jsg3djIxCnC6oiSsduyx1o7FV5IlAGpg",
     "original": {
-      "name": "weapon_p90"
-    }
-  },
-  {
-    "id": "skin-f3a4c195cc1e",
-    "name": "P90 | Verdant Growth",
-    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been spray-painted with a flower pattern in various shades of green.\\n\\n<i>Some see a nuisance; I see beauty</i>",
-    "weapon": {
-      "id": "weapon_p90",
-      "weapon_id": 19,
-      "name": "P90"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_smgs",
-      "name": "SMGs"
-    },
-    "pattern": {
-      "id": "sp_moro_textile_green_vine",
-      "name": "Verdant Growth"
-    },
-    "min_float": 0,
-    "max_float": 0.47,
-    "rarity": {
-      "id": "rarity_uncommon_weapon",
-      "name": "Industrial Grade",
-      "color": "#5e98d9"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "828",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-mirage-2021",
-        "name": "The 2021 Mirage Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4810",
-        "name": "Stockholm 2021 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_2aHGaXxKB0s7dtHiu3lkl1sTyEyN_7eHmTaA92Dsd4TbQP5hGxxNWzZei05FTalcsbmo3RwBXU"
-      },
-      {
-        "id": "crate-4836",
-        "name": "Antwerp 2022 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-eB3WRxus45udtF3C2wh92sjzcw42teHKXZgNyCcclQbML4EOxwIW1YuO05wTagpUFk3vrzNKexg"
-      },
-      {
-        "id": "crate-4861",
-        "name": "Rio 2022 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6lkMvGUCynAmL5w4bk5F3_qzUwjtW6BmIr7InnCZgMhXJV5ReVctEKxkNfvZOmx-UWA3EHNY_eN"
-      },
-      {
-        "id": "crate-4894",
-        "name": "Paris 2023 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSLfmBD2CVj75z6LM_S322w0l04G7QmYypcX-TZlAoCcN2RLEMukXsk4LvMO2wsVDAy9USqEumK38"
-      },
-      {
-        "id": "crate-4927",
-        "name": "Copenhagen 2024 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6lkMvGUCynAxLxw5rQ-TnywwUQj5GnVnNj9dCjFb1cjWZJ1TO4Itxm6ldbvY--x-UWA3At843U9"
-      },
-      {
-        "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1idyPx3t-QnFy-2lh9x5miEz9ioIHOSbgFzCcMmFrVeshSwxNO2P-Pi4QHZj9pGyjK-0H36I6RBSg"
-      },
-      {
-        "id": "crate-5121",
-        "name": "Austin 2025 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1idyPx3t-QnHH2xkUQk62uBntitdn3DPAdyCJR4RedY5kS_m4W2MLjq51De2YwWzzK-0H0bzeKCgA"
-      },
-      {
-        "id": "crate-5220",
-        "name": "Budapest 2025 Mirage Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7jJk4v28Z5t5JeiHB2uV_ulkteRncD-6mxgYvzSCkpu3eXqUaFMkDZciEeZesxG4w4fgZe3g51HfiY4RmS33jCNMvXpst-gFAr1lpPPtRxOxww",
-    "original": {
-      "name": "weapon_p90"
+      "name": "weapon_mac10"
     }
   }
 ]

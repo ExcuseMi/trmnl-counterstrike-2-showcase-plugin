@@ -1,10 +1,776 @@
 [
   {
-    "id": "crate-5230",
-    "name": "Budapest 2025 Legends Autograph Capsule",
-    "description": "This capsule contains a single Paper, Embroidered, Holo, or Gold sticker autographed by one of the Legends players at Budapest 2025.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "def_index": "5230",
-    "type": "Autograph Capsule",
+    "id": "crate-4904",
+    "name": "Kilowatt Case",
+    "description": null,
+    "def_index": "4904",
+    "type": "Case",
+    "first_sale_date": "2024-01-16",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "skin-8d6879f0a2bc",
+        "name": "Dual Berettas | Hideout",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1169",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6ZoMvWHGmaD_uJzpOloQxa0hxQpjDGMnYftb3-WbQ92WcZ4EeFZs0TtxIfvZr_m7wXW2I0TySv93ywd5yxu5-0FAPE7uvqA-FxXgtE"
+      },
+      {
+        "id": "skin-543d85d8ca60",
+        "name": "MAC-10 | Light Box",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1164",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtkLPyGHW6fz9F6ueZhW2e2lBsk4WvXw974diiSblV1DMBxRrEJu0PrwNy1Mruw4gKK3d0TynmskGoXuUBgCcQQ"
+      },
+      {
+        "id": "skin-baa1adba3189",
+        "name": "Nova | Dark Sigil",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1162",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fORbLZsK_uSHFicyOl-pK8xG3q1lk0l4m2HmI6odXiRbwF1CJchQbEI4RK8kNPiMb-24A3W3YoX02yg2YjfpjSA"
+      },
+      {
+        "id": "skin-c176fd51f6b9",
+        "name": "SSG 08 | Dezastre",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1161",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I_PX-MJtpJeqSHXOCxNF6ueZhW2exwEp2tmmEw9epdCjCalQhX5ImQOZbtRixxNTgN-u24AHb2okTmX2vkGoXuacR7BX3"
+      },
+      {
+        "id": "skin-80f2ee4e940f",
+        "name": "Tec-9 | Slag",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1159",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjZe7KuRYrFjK-mSHGOvxOBxue9sSju6mxoYvzSCkpu3eHPFZwMkWZBzR-cDsEbpm9DvY-yx51fajd8WyXn4hntBvX465OkBVL1lpPMDDuBGag"
+      },
+      {
+        "id": "skin-806137e84f73",
+        "name": "UMP-45 | Motorized",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1175",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1O4uL6PZtsM-OWA2WcxOpJte9uRie2qhEutDWR1N2gcy7DalAhCMd3QucO5EPukN2yN-iw5QyN2IkRzSr6iXtO6StrsL0cEf1y62CUsqE"
+      },
+      {
+        "id": "skin-8c2ae17ac090",
+        "name": "XM1014 | Irezumi",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "1174",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk9___OPU5H_mBC32FzOdJvOhuRz39k0h14juBztapc3-fPVIjWZomFucMtxe9m9zmNOjltQ2N2dgTnCr_3zQJsHjkNdtnHQ"
+      },
+      {
+        "id": "skin-2c04c0201892",
+        "name": "Glock-18 | Block-18",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1167",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tvMvmQBVidzuByouhoQRa_nBovp3PXzov9cyjDbwckXMMkF7IIthOwwNDmY-rq4AzfjItMyH_9iC0YuC04_a9cBk5_kH3q"
+      },
+      {
+        "id": "skin-0e160542d6d4",
+        "name": "M4A4 | Etch Lord",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1165",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRe6psK_WRB3OV_uJ_t-l9AXjnw0Qh5GqGn9b_dH3Cbg4nCcAhRLIM4BW7mtXmM7jjtAXai40WmHngznQeK6EUrpc"
+      },
+      {
+        "id": "skin-204c9ef36369",
+        "name": "Five-SeveN | Hybrid",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1168",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRbq17JeOWGGKe_uZvsvNgSxa_nBovp3OBmd6oJXyeaQ9yCsZxEOICsUO7kdK0Y-qxtFCN2YsQnCv7i39N7ixp_a9cBsh2vVQD"
+      },
+      {
+        "id": "skin-48f9126df040",
+        "name": "MP7 | Just Smile",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1163",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0Pi7e7BSM_2aAmKvzedxuPUnHXrkzU4i4z-Dno6sci3BaQApDpN4R-cCthnqx4W2MunhtgCI3d0QmzK-0H0MYFOvtA"
+      },
+      {
+        "id": "skin-d0653c0aaf2f",
+        "name": "Sawed-Off | Analog Input",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "1160",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29abNoJP-VCFiXwONzot5lRi67gVN3tWTdyNipdCiQPwdxCJV2RuBY4xa_wILgMLu37leK3otMzHmo3H5J8G81tFoL-ETi"
+      },
+      {
+        "id": "skin-63c1d72b8501",
+        "name": "M4A1-S | Black Lotus",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "1166",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_ux6seJicCW8gQg0jDGMnYftb3-eOgEpDcFyQuMMtRG8kIbhMuK051ba2IMQyH6r3yof5ilv4bwLWfU7uvqA7qRNHGA"
+      },
+      {
+        "id": "skin-9eb2feb216c5",
+        "name": "Zeus x27 | Olympus",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "1172",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLln4Xl7x1B6ue9V7BlNf6XC3WvxuFyj-1gSCGn2xl2sm7XnI6hdC-XPAcmXsF2RLIP4xbslty2NLvqswePjYlEySn33S9XrnE8cYTqlUY"
+      },
+      {
+        "id": "skin-803657465fa6",
+        "name": "USP-S | Jawbreaker",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "1173",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSNeODHViUzulxqd5lRi67gVMl62nUyd2scnOVPAcgA5J2TOFY5xLrlN22YbzgsQaI2IlHyiWojnwa8G81tErOD-_J"
+      },
+      {
+        "id": "skin-b986a2456e28",
+        "name": "AWP | Chrome Cannon",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "1170",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OarZbRoMvWXMWuZxuZi_uM6SXngxR5-smTXw4ugIi6RbVcpXsN1ELUDtxPrktOyNL7h4g2P2tpbjXKpKIbjbD4"
+      },
+      {
+        "id": "skin-82dc98e09ba6",
+        "name": "AK-47 | Inheritance",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "1171",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQ0OKheqdoLPGaAFicyOl-pK8xGH_nwUt1sGrSz9ivcHKQOAcjXMYkRu5Yuxe4lYCyZOq25VSM2oMT02yg2UxBSEgA"
+      }
+    ],
+    "contains_rare": [
+      {
+        "id": "skin-vanilla-weapon_knife_kukri",
+        "name": "★ Kukri Knife",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": null,
+        "phase": null,
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2lfa9_Kb6VXmPGwuogsbNvSyi3zR4jsTnQztyqdS6QP1IoXpoiEeAC5Be5l9CxKaq8sIvgdE5J"
+      },
+      {
+        "id": "skin-6dbefc59c1b9",
+        "name": "★ Kukri Knife | Fade",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "38",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZtsIc-VD2OV_uJ_t-l9AXyyzEohsGvVn4moIi-VO1N2CJR1E-UD4BXtkIXhMe2x7lbej4tEnyzgznQeN9c5PgA"
+      },
+      {
+        "id": "skin-0808024a639a",
+        "name": "★ Kukri Knife | Slaughter",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "59",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZtsLc-JC2WCwNF6ueZhW2fmwkwj62TWmdyuc3nEOFB1Csd5ReFZtUTpxtXvYb_k4waPj4wXxXitkGoXuVwivb-T"
+      },
+      {
+        "id": "skin-bc9e87f3c013",
+        "name": "★ Kukri Knife | Blue Steel",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "42",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZtsMc-RAnKVxdF6ueZhW2exzE0h62nVyd6qeXjEbgF0X8EiEbZesRS_wIXkPujq7wPWjNpDyn6vkGoXudm1ivk1"
+      },
+      {
+        "id": "skin-d1ab66316ff3",
+        "name": "★ Kukri Knife | Stained",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "43",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZtsMc-VAXWTxOpJvOhuRz39lkgl52TXzdiscH2TOgAkX8QiRuFftxW6kNW1Yrzr7wOK2YkWxXr43zQJsHia9a0bCA"
+      },
+      {
+        "id": "skin-c6064f381a53",
+        "name": "★ Kukri Knife | Case Hardened",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "44",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZtsMc-cB2uVxdF6ueZhW2fizRsk4G_dzY39eCrCaA51W8QlF-ZZtRK6m4XlPunn71TbjY0QzimokGoXuR84GhWV"
+      },
+      {
+        "id": "skin-cda0246a9c0b",
+        "name": "★ Kukri Knife | Forest DDPAT",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "5",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZtlOc-XCneR1dF6ueZhW2eyw0wk4TuDnI6pdS7BOAcnWMFyEbNYtEa6x9HjPurj4lHajYIWny6vkGoXuZN4gz37"
+      },
+      {
+        "id": "skin-2b40712cfff1",
+        "name": "★ Kukri Knife | Boreal Forest",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "77",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZtlOc-VAXWV0vpJsu57Sii_qhEutDWR1N2vIH7Dbw8jXMZwTecNsEPsmoKzP-Kx5QHZ2YtAniyoi3kb6yht5-ocEf1yVn7b_ls"
+      },
+      {
+        "id": "skin-2f3b8c9ded18",
+        "name": "★ Kukri Knife | Crimson Web",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "12",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZtlOc-EC2WD_uJ_t-l9AS-3x0x15m2Hw4z9eS-QbgQnA5ElFu8OtBfqwIK2NLjg4gbciN8UzirgznQebo7XmtM"
+      },
+      {
+        "id": "skin-238298a88e4a",
+        "name": "★ Kukri Knife | Scorched",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "175",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZt-MM-XD3eAzetJvOhuRz39kUpw42zRnoz7InOeOAd2XpQiQ7Ve5xixm9HhMe3l5wCI2YxHxS_2iDQJsHhKp4l7vg"
+      },
+      {
+        "id": "skin-76a854adcfa8",
+        "name": "★ Kukri Knife | Safari Mesh",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "72",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZt-MM-eC3SY_vp3vt5lRi67gVMit2vVyt-sc3qSalUjAsR1QOQLthKwk9HhYri34gzXg4wXmHmvjiNA8G81tJ681NhB"
+      },
+      {
+        "id": "skin-eefa60947417",
+        "name": "★ Kukri Knife | Night Stripe",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "735",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZt-MM-dB2CY1f1iouh5Sha_nBovp3OHz9ahIynFPQUoDZZ2TbINtRK8lYXuM-nksQbago1FyS_23CNB5ihu_a9cBvtwqC7R"
+      },
+      {
+        "id": "skin-79babeba4169",
+        "name": "★ Kukri Knife | Urban Masked",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "143",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZt-MM-HD3eV_vtksuBncCW6khUz_W2GmdupJ3mfPA8jW5ZwR-QN4UKxmtOyN7y25lfW2YtNziX8jCtN7Xp1o7FVXby906g"
+      }
+    ],
+    "market_hash_name": "Kilowatt Case",
+    "rental": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnEVvqf_a6VoIfGSXz7Hlbwg57QwSS_mxhl15jiGyN37c3_GZw91W8BwRflK7EfKsa2sfw",
+    "model_player": "models/props/crates/csgo_drop_crate_community_33.vmdl",
+    "loot_list": {
+      "name": "★ Kukri Knife ★",
+      "footer": "or an Exceedingly Rare Kukri Knife!",
+      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_rare_item_png.png"
+    },
+    "original": {
+      "item_name": "#CSGO_crate_community_33",
+      "image_inventory": "econ/weapon_cases/crate_community_33"
+    }
+  },
+  {
+    "id": "crate-4905",
+    "name": "Ambush Sticker Capsule",
+    "description": "This capsule contains a variety of stickers from Steam Workshop artists and was released in February 2024.",
+    "def_index": "4905",
+    "type": "Sticker Capsule",
+    "first_sale_date": "2024-01-25",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-7236",
+        "name": "This Is Fine (Chicken)",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72-abRoMs-HBm6D_udlj-dgQSyMlhUusDaAlMH8IyrDagR0X5F3QbUP4Rm5mt3mP-3j5AfbjtkQyy38jC5I6H0-5L1WT-N7rUGF9RRA"
+      },
+      {
+        "id": "sticker-7235",
+        "name": "Retro Zeus",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72-abRoMs-BC3OCztFstfR6AX_iwk8m5mSDydv6di3GalV1A5V3QrRc4BXskdXiZLyxtgCI2otAxHjgznQe55Ubozs"
+      },
+      {
+        "id": "sticker-7237",
+        "name": "Please Return To",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72-abRoMs-DAmKR0utJouR9Wju920Vx4G2Ey9mvcS2SbFMnDJMiEOUKtRW5l93jP-m2slPbj4gWyyn9iS5XrnE88LG-vbQ"
+      },
+      {
+        "id": "sticker-7238",
+        "name": "Peek-A-Boo",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72-abRoMs-DC2Kb_u9Jsu5mAX7jwRhx6m7WytqtJC2WPFcgWZt0E-5ftELtx9blYeKw5wSIiN1BningznQeOXVIj0E"
+      },
+      {
+        "id": "sticker-7239",
+        "name": "AKickflip-47",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72-abRoMs-YB2Sbx-J_oN49GGfhxhkhsj7Sw4msJH6fbQ8pW5IkR7YD4UO-kYHjZerr5g2P3Y9AxXmokGoXuaICRW4Q"
+      },
+      {
+        "id": "sticker-7240",
+        "name": "Easy For Ricksaw",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72-abRoMs-WD3SJ_uh5ot57Riq4hhww_WTRzdn6J3OQag4iCZIjTLMJthK6xtbiPum34wXXgohFmSmsiSMb5yh1o7FV24ZeuH4"
+      },
+      {
+        "id": "sticker-7241",
+        "name": "Bum A Smoke",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72-abRoMs-RG2qvwNFlve5iSmfkwEp_5juGmNihJXiUPFMpDZVzQeJYt0OwmoC1N7nqtQWPg4wUySr-kGoXuTUX_sHl"
+      },
+      {
+        "id": "sticker-7242",
+        "name": "Angry T",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72-abRoMs-SAGCC2NFi_rVqHivjzR8msGncnoytcn7DPFAmDMZ0TONesxPswIXuY7jl4QTZjt5bjXKppvXL7E4"
+      },
+      {
+        "id": "sticker-7251",
+        "name": "Lotus (Glitter)",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72pZK15NPWBMWuf1ftl_uQ9TCjrzE9_62mEnN37d3rEPAYhWZQmFudZ5kSwxofhYe227w3djohbjXKpVdl2900"
+      },
+      {
+        "id": "sticker-7250",
+        "name": "Pushing Smokes (Glitter)",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72pZK15NPWBMXeF0uZ_vuZWXCS8nhg0_WvVwt6qI3mQbwd0XJt1EeUM5EXukNe1P-nj4gTXgo9Fnn6r23scv3p1o7FV3fVUTR4"
+      },
+      {
+        "id": "sticker-7249",
+        "name": "Cedar Creek (Holo)",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72mZ6hiH_OWCmaC_u1kteRiAXuxlh5x5m-GyYr6JHKXaAMiDJd5EbUO5kO9m4fjP-u25QTXj91HxCngznQenKy77C4"
+      },
+      {
+        "id": "sticker-7248",
+        "name": "Lit (Holo)",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72mZ6hiH_yaGinGleoktrlvSi-2kU5wtWjQzdmqcXmQbAVyApN2FucP40OxwYfhZOLj-UWA3Gw9qZok"
+      },
+      {
+        "id": "sticker-7246",
+        "name": "Loving Eyes (Holo)",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72mZ6hiH_ycGG6extFzqeR6ASrllER_5m3QzdugJHiRblIjD8B3ROILtRW-kIK1Mbjh5lfWj4NDzn_gznQeSY6KSCc"
+      },
+      {
+        "id": "sticker-7247",
+        "name": "Try Hard (Holo)",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72mZ6hiH-SBF1iYwPxy_rU_Fn7jzRgi4TyAz478di3DPA5zW8EmR-IOsRC4ltDgMeOw4gDf2ohbjXKp4-O0y2Q"
+      },
+      {
+        "id": "sticker-7234",
+        "name": "Lost In Smoke (Foil)",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72oZ61hH_ycHXOvyOBJo-xmRCz9xU115GWDzdqqJHmXaVJzApVyRbYCsEW6koa1ZOjr4gzdg9lHnySviDQJsHhpreVIRQ"
+      },
+      {
+        "id": "sticker-7253",
+        "name": "On An Eco (Foil)",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72oZ61hH_-dMWKTzqB14OA4GCyyxh8msTnRytuvd3ySblQkD5tyTLQNsxK7lILiNrjltlfWlcsbmil5n8Pm"
+      },
+      {
+        "id": "sticker-7233",
+        "name": "Ouchie (Foil)",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72oZ61hH_-GDW-ZxKBwsudvGXG3xkpw4WXSzN6qcHyQaQUpCZJ0ELMK5hTrx9HlMbvj4AfZlcsbmiifbuUa"
+      },
+      {
+        "id": "sticker-7252",
+        "name": "Factory Sealed (Foil)",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72oZ61hH-OWD2uVxaBy6LlqHnvixEpw4mvVnI2oc32fblAoApsjRbQPthCxkdK2Nr7ksQLZlcsbmsfA8zYQ"
+      },
+      {
+        "id": "sticker-7245",
+        "name": "Dystopian Gaze (Lenticular)",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72ibap5KfOGAmaC_upvo_VmXyCymyIgsieA1NqteXrCbgd1WcEhTLQKuxjsl93mY--xtAffiYhEniuv3HlN7no55uscEf1yT5GiSAk"
+      },
+      {
+        "id": "sticker-7244",
+        "name": "Econometer (Lenticular)",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72ibap5KfOGAmaC_ut1v-9mQiynkA9psGTVzN-tcX2VOAQoDZN3ROcNtxTqm9znM76z4A3c3owXziv7j3hP7TErvbjfV3UJ4A"
+      },
+      {
+        "id": "sticker-7243",
+        "name": "Old School (Lenticular)",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJu72ibap5KfOGAmaC_uF6tN56TCG8mhFp522Dn9n6ci-faQYnAsAhR7NbthO_xtzkM7-24Ffcjd9Cyi2sjHgY7DErvbg06zllFA"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Ambush Sticker Capsule",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2jZbFjKeSKMTXAk7pJs-B5XDy_kFN14mXVz4r4JHuXOAAoXJR2E7UIt0HqwdTuYuKw5gLYjYNAxCn7hi1O8G81tG_FJxt9",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_sticker_pack_community_2024_capsule",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_community_2024_capsule"
+    }
+  },
+  {
+    "id": "crate-4914",
+    "name": "NIGHTMODE Music Kit Box",
+    "description": "This box contains a variety of music kits from \\\"NIGHTMODE\\\" artists.",
+    "def_index": "4914",
+    "type": "Music Kit Box",
+    "first_sale_date": "2024/01/24",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "music_kit-71",
+        "name": "Music Kit | DRYDEN, Feel The Power",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmO4VN7y9elpAiyEUynyZSwrSMOu6v-MaI8cqjCDzXIluwmtLRtHy2wzB4mtzuDyNi3MSXAPV825k0"
+      },
+      {
+        "id": "music_kit-72",
+        "name": "Music Kit | ISOxo, inhuman",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPGiY_VlKpNa671zmERmmy5Pi_3YMtqr5aqBpJaXFWGSRlL916LUxGS3nwBwk52TUz8HpLyyhdGnKfw"
+      },
+      {
+        "id": "music_kit-73",
+        "name": "Music Kit | KILL SCRIPT, All Night",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnKb6UV25o7k_ma3EFPym86wqSAKu_H7PKE4JKiWV2GVx71z57k6Sy3hzURwsWjXyouod3KfcEZ-XaDU2Jmf"
+      },
+      {
+        "id": "music_kit-74",
+        "name": "Music Kit | Knock2, Make U SWEAT!",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnWY5l0ny9empA21F0ijnMS3rXoO6qv2Oac4cKfDXz-Uw7p0tLk9TXHllkVx5W2HzNa3MSXAGLCr2ac"
+      },
+      {
+        "id": "music_kit-75",
+        "name": "Music Kit | Rad Cat, Reason",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ3qT5ldhy9elpFq0FEmgzpDh-3INuaqtaqU0cKmWCzSSlr9ysrI_TCq1xx5ztmqDyd23MSXAcELeXMM"
+      },
+      {
+        "id": "music_kit-76",
+        "name": "Music Kit | TWERL, Ekko & Sidetrack, Under Bright Lights",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWyS91pKpNa6s13lE0-jn8-1pXJauqf4O_xrdaLHDzPBwugh4bgwGHvjxR9-4G6HnMHpLyxvON_2ZA"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "NIGHTMODE Music Kit Box",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj5_0ruQhb4iqnu9CVT-_-hbKFSI_GDHXKcxKAu4eU6GXvrk05zsmTRzd-tc3yVOw8oAppzQeAO5hDtm4bnMuLq51Pelcsbmj2-wiMd",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_musickit_nightmode_capsule",
+      "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_capsule"
+    }
+  },
+  {
+    "id": "crate-4915",
+    "name": "StatTrak™ NIGHTMODE Music Kit Box",
+    "description": "This box contains a variety of StatTrak™ music kits from \\\"NIGHTMODE\\\" artists.",
+    "def_index": "4915",
+    "type": "Music Kit Box",
+    "first_sale_date": "2024/01/24",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "music_kit-71_st",
+        "name": "StatTrak™ Music Kit | DRYDEN, Feel The Power",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmO4VN7y9elpAiyEUynyZSwrSMOu6v-MaI8cqjCDzXIluwmtLRtHy2wzB4mtzuDyNi3MSXAPV825k0"
+      },
+      {
+        "id": "music_kit-72_st",
+        "name": "StatTrak™ Music Kit | ISOxo, inhuman",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPGiY_VlKpNa671zmERmmy5Pi_3YMtqr5aqBpJaXFWGSRlL916LUxGS3nwBwk52TUz8HpLyyhdGnKfw"
+      },
+      {
+        "id": "music_kit-73_st",
+        "name": "StatTrak™ Music Kit | KILL SCRIPT, All Night",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnKb6UV25o7k_ma3EFPym86wqSAKu_H7PKE4JKiWV2GVx71z57k6Sy3hzURwsWjXyouod3KfcEZ-XaDU2Jmf"
+      },
+      {
+        "id": "music_kit-74_st",
+        "name": "StatTrak™ Music Kit | Knock2, Make U SWEAT!",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnWY5l0ny9empA21F0ijnMS3rXoO6qv2Oac4cKfDXz-Uw7p0tLk9TXHllkVx5W2HzNa3MSXAGLCr2ac"
+      },
+      {
+        "id": "music_kit-75_st",
+        "name": "StatTrak™ Music Kit | Rad Cat, Reason",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ3qT5ldhy9elpFq0FEmgzpDh-3INuaqtaqU0cKmWCzSSlr9ysrI_TCq1xx5ztmqDyd23MSXAcELeXMM"
+      },
+      {
+        "id": "music_kit-76_st",
+        "name": "StatTrak™ Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWyS91pKpNa6s13lE0-jn8-1pXJauqf4O_xrdaLHDzPBwugh4bgwGHvjxR9-4G6HnMHpLyxvON_2ZA"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "StatTrak™ NIGHTMODE Music Kit Box",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj5_0ruQhb4iqnu9CVT-_-hbKFSM-SSGnOCwOVJs-B5XDy_kFMlsWyBz9mscnPEagchW5RzQuEMshi4mtDiZum241GIg40TyST_3ysa8G81tG_eJRxT",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_musickit_nightmode_stattrak_capsule",
+      "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_stattrak_capsule"
+    }
+  },
+  {
+    "id": "crate-4923",
+    "name": "Copenhagen 2024 Legends Sticker Capsule",
+    "description": "This capsule contains a single Copenhagen 2024 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4923",
+    "type": "Sticker Capsule",
     "first_sale_date": null,
     "rarity": {
       "id": "rarity_common",
@@ -13,1615 +779,1145 @@
     },
     "contains": [
       {
-        "id": "sticker-9654",
-        "name": "FalleN | Budapest 2025",
+        "id": "sticker-7254",
+        "name": "Natus Vincere | Copenhagen 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_mTRH0kNi4-yNd6vP9a_xoIaaRVjDBx7x0trA6HHDrxRh25mSEnImqdCnGOlVzFNIuEontjUfH"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-obi4xe_F0SpycTm_3NfuauvafFpIfHBXmTImLoj5bVtSSqxkxx04GzQn9esbzvJOV84pacW"
       },
       {
-        "id": "sticker-9658",
-        "name": "KSCERATO | Budapest 2025",
+        "id": "sticker-7258",
+        "name": "Virtus.pro | Copenhagen 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL0Qhjjn4LvsyMN6vP-PPFvdqfGDzWRw-ghsrc6TXHjwUwk4mzTy4yod3PCaVB1XJFuBbldhgmj81Y"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI64pe6ugvkFUWgnc6xrnsKuKP9bPNscqjFDzHHlu90sbM5TX2wxkp14WTUnMHpLyyrjSYF-g"
       },
       {
-        "id": "sticker-9662",
-        "name": "molodoy | Budapest 2025",
+        "id": "sticker-7262",
+        "name": "G2 Esports | Copenhagen 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VToTRL1kY-urXYLvvP_Pv1pc6DBVzTDwr915bhqH3HjzR9xsD6HmNmqIHqeaFMnCowwG7BeYB50RQ"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI689W6vwzjRU3zzZW4rncCuPf_OvY_I6KRX2HEwO0ltuQ8GS_gxUt_4juAnsHpLyxV8rB6kA"
       },
       {
-        "id": "sticker-9666",
-        "name": "YEKINDAR | Budapest 2025",
+        "id": "sticker-7266",
+        "name": "FaZe Clan | Copenhagen 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UDiShT_mpfys3Ffvav5P_BrdanGXWaTmLkk5rE7GHvgzRxz4mzcz42veX3DblJzX8RuBbldWaUVfc4"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68obu7xfjQB7zyMLlqHRdvPSsMaY5I6fDXjLFk-8ls7Y_HH7jlksl4jjcztqhbzvJOdEYnDi_"
       },
       {
-        "id": "sticker-9670",
-        "name": "yuurih | Budapest 2025",
+        "id": "sticker-7270",
+        "name": "Team Spirit | Copenhagen 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UDyVA_4ltjlpHsDv_T2PPVrcfOSDDCUx-gntLFrS3rlzEty62uAztigdHiVbg8hFNIuErBmKuMh"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI655f9-BflEhimnc_i_nID7KD9MPVsIfPBCDCTlLly5LRoTirnzRxx4WzSyt36bzvJOfPBN-a5"
       },
       {
-        "id": "sticker-9674",
-        "name": "apEX | Budapest 2025",
+        "id": "sticker-7274",
+        "name": "Vitality | Copenhagen 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vj3RAW_y5KxrHoOtqH3a_BrcvbDCmSSmb8j4LhsG323wh5w42zUy9j9In3DaxhgVMVb71yvng"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI64o7g6xeyFET3n5Dm_yEDuqqvPPdrcPPCVjfHxblw4LZsH33rxEtz4WrWztehbzvJOfadTm_6"
       },
       {
-        "id": "sticker-9678",
-        "name": "FlameZ | Budapest 2025",
+        "id": "sticker-7278",
+        "name": "MOUZ | Copenhagen 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_rQBD0hNjlrHUIuKX2bfU0I_PHWDPFx-0ls-I_SiuxzURx426Hn4r4cH7COw8iFNIuEr220uCI"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-Yjh8Be0Eh6in8WypHtevaf9PfNsJqPECjLGl-wh57doG3_hk05wsGXRyIqhbzvJOX5ask-j"
       },
       {
-        "id": "sticker-9682",
-        "name": "mezii | Budapest 2025",
+        "id": "sticker-7282",
+        "name": "Complexity Gaming | Copenhagen 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTiWxT40MLh-XpatqeoOPVpcqOVXGaWwr8n57g4GH_mkUh-4WrdmNb8eC2UZlI-SswnBRXfikE"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI695f48he3EEr1yJKxqHECt_esaqU9JaTHDDTHwr8vtbk-GHznlx525GTTw9_8bzvJOSvtUTwO"
       },
       {
-        "id": "sticker-9686",
-        "name": "ropz | Budapest 2025",
+        "id": "sticker-7350",
+        "name": "PGL | Copenhagen 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
           "color": "#4b69ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UvoUQe_mMC0qHUOu_T9avZucaLCXDPBmb9z6OI8GSqwlEgm4j-Awtf8eSmWbxhgVMVUJZvF9g"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID4pFrhR0ilx5C5rXoI6aX4aqZpcfWSVmbAk7l0trE_GHjiwx9-5zjUn4q3MSXAPkkBAAI"
       },
       {
-        "id": "sticker-9690",
-        "name": "ZywOo | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-0M7lrHsPu6CtPqU1I6OQW2aTxL514rc4GSuxkUR-tWjRyNyveHiQaVM-SswnysujApc"
-      },
-      {
-        "id": "sticker-9694",
-        "name": "kyousuke | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL-Tgjii53lsycLtvP6P_c8c_LKCDXFk7su5bJtG3HmlkVy5TjTw4uteHjEbFMhC8RuBbldGqWbDmw"
-      },
-      {
-        "id": "sticker-9698",
-        "name": "kyxsan | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL-WQ7wkNjl_CcD7aX4bvU6cPHFDTLIk-pys7IxSny2lk93sTjTyt6pInvFb1QpFNIuEsjY-kbK"
-      },
-      {
-        "id": "sticker-9702",
-        "name": "m0NESY | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VS3Txjih9ixrCdY7ff4aaE1JvPFWWPGkLcutrk5GXDgwh9xt2qGyd2odX6Wa1UgFNIuEi-iz2yQ"
-      },
-      {
-        "id": "sticker-9706",
-        "name": "NiKo | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VfuShK_y8Cw_CReu6CvOvI7JPKRXjaRxbdzsrYwHXngxEgl6m_Qztj_cHKXPRhgVMXzRaBMSA"
-      },
-      {
-        "id": "sticker-9710",
-        "name": "TeSeS | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3iUhji0JSx_HoP7fH2O6Joc_PBD2PJkOpy5eAxH3ywwkh142vTnIz8cy6RPFA-SswnsAj8UEs"
-      },
-      {
-        "id": "sticker-9714",
-        "name": "910 | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1QC2EVPwypDk_CML7PP_a_I-c6LAC2PBkr1z57YxTnjilBl14TzTw96tdCqWcEZ-XbkPRkdO"
-      },
-      {
-        "id": "sticker-9718",
-        "name": "bLitz | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VvrSAnr0Mfi-XBa6_f9afU_cPTBVjeUkrwmsuAwSi-xlx9_62yAyNr_ci7DZ1c-SswnWG5i3rk"
-      },
-      {
-        "id": "sticker-9722",
-        "name": "mzinho | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VT9SBP5kdizpSYCvKD7PqdpcfHBXDbEmLkl6bAwHXjnwxh_4m-En9f7cHvCb1MoFNIuEhHugc4P"
-      },
-      {
-        "id": "sticker-9726",
-        "name": "Senzu | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UriTwfk0M62qnELvab_MPJpJaPDWGPClbly5ec6Tn7lzRt3t2iEyNqpdHifPwY-Sswn0V4rrYQ"
-      },
-      {
-        "id": "sticker-9730",
-        "name": "Techno4K | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3iQhX_kcLrs3AKvPD4OaZrdKXDXWXClbp35rFvSiuyxBxx5GnVntv9c37EaQMhC5puBbldlHKd_r0"
-      },
-      {
-        "id": "sticker-9734",
-        "name": "Brollan | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vv1ThH9n5iuryEIt6erOPRoJabFDDfAkO9wtbFtHXzmlEoltj7XzNmhICrBag8iXowwG7AKY-nA_A"
-      },
-      {
-        "id": "sticker-9738",
-        "name": "Jimpphat | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VPuTA3hlpf0s3ADt6r9OPI-IvXBCGXJx70k5bFrSyq3wkkjtmqAntqqcnOePANzDJZuBbld0II908E"
-      },
-      {
-        "id": "sticker-9742",
-        "name": "Spinx | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Ur3SBPp0M-wrHENvaX9aqZuJqHAVmPHmbomsuU9F3Djlx92tW2Hz434Iy3FbQM-SswnD3oMV2w"
-      },
-      {
-        "id": "sticker-9746",
-        "name": "torzsi | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3oUwfil9i5-3BYv6b_PPNsdqbAV2XJl-8u5bdtSn6yxUp3t2TSn439I3jEbgMiFNIuEtuM3Net"
-      },
-      {
-        "id": "sticker-9750",
-        "name": "xertioN | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UHiUwn4kZiuqHQCvvP6bvI-dfSWWmORlrYg6bQ7FnvixR5x5WmEzNz4InvEOlIkDYwwG7CR4YkqlQ"
-      },
-      {
-        "id": "sticker-9754",
-        "name": "chopper | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VrvTg3hm4SurHEPu6P2PaE_c6PDW2ORxbchtLU8FiqxxRwi42XUyNuueX6UblcnWYwwG7B9vrrZHw"
-      },
-      {
-        "id": "sticker-9758",
-        "name": "donk | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3oTxa_z8Sxr3MJu_T_bvE6cfPBCzTGlewk4LJsG3zmx08jsTyBz9yvJXKTaxhgVMWcAn3wQw"
-      },
-      {
-        "id": "sticker-9762",
-        "name": "sh1ro | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UrvEA_-0JW3_3UPvfGoMaI-JaXECjaRxO136bJrSS23lBkm6jjXytquJH2WbVM-SswnSGn1iG0"
-      },
-      {
-        "id": "sticker-9766",
-        "name": "zont1x | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UPoTwmghti3q3Vft6P9MKc6daDACDXImewl6LA9Gi3kwh53tTvWyN__eXKVagQkFNIuEsznYRZi"
-      },
-      {
-        "id": "sticker-9770",
-        "name": "zweih | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UPwRBT50M6yq3Ja66H4Ovw7JqXBX2OUxe0vs-Q9Tn6xw0Vztj_VnIysJCiSPwI-SswnVoiV0r0"
-      },
-      {
-        "id": "sticker-9774",
-        "name": "Heavygod | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VHiQAvomZnksyFa7Peoa_NseKLGXmaUwr4vtOVvHy3lxUwlsT_RnIyrJH3GP1AiDMZuBbldMj-hiHM"
-      },
-      {
-        "id": "sticker-9778",
-        "name": "huNter- | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VHyTwn0jNi3-3NY7KuoMfM0IfLKWjGUlLcj4ec-HX7nxERy5zyAyIqsciiSPwNzFNIuEge4sUdx"
-      },
-      {
-        "id": "sticker-9782",
-        "name": "malbsMd | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTmTR_ik5KurXID7KGvOPI_d_LBDT-Wku8jtbVtTSzmxBx2423RnoqreHLGZ1ByWIwwG7Aiu8eTvA"
-      },
-      {
-        "id": "sticker-9786",
-        "name": "MATYS | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTmVQTi0JXj-3cOuaH9MPw-I6eSXjfHx-sg4bdsGXyxxhx1tz-HzN6tJHPBOgU-SswntD90BHE"
-      },
-      {
-        "id": "sticker-9790",
-        "name": "SunPayus | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UryTw3wh4Pzs3MPtqL3bvFvc6jGCjaUw-wv4rExGnHrlEgktzuAzor_InKQalVxC8ZuBbld0brTZWk"
-      },
-      {
-        "id": "sticker-9794",
-        "name": "biguzera | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VvuRgjrm4ThsyYNv6GrMfNpc6DGC2OSmL4h4-c6SnzkxE9-tT-Gmd76I33FaVd1DppuBbldM8dxpyM"
-      },
-      {
-        "id": "sticker-9798",
-        "name": "dav1deuS | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3mV0z1m4PzsyQM6varMfFueaOVX2bEme0i6bg6HXuxx00h5Dvcmdb9ICmXPAEnC5tuBbld_Uoxpy0"
-      },
-      {
-        "id": "sticker-9802",
-        "name": "dgt | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3gVVOnnZO1pSQD7KL9PKZrdvLHCz_BlLkm6bhtH363wkx14TuHwtr6IymecEZ-XacyHZfC"
-      },
-      {
-        "id": "sticker-9806",
-        "name": "NQZ | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vf2W1P3nJe1-yAI6qGoPfM9I6WSVmWRmewltbM9FivlwkVy5DnTyIyrIC-QcEZ-XVdKXkoH"
-      },
-      {
-        "id": "sticker-9810",
-        "name": "snow | Budapest 2025",
-        "rarity": {
-          "id": "rarity_rare",
-          "name": "High Grade",
-          "color": "#4b69ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UrpTgq_y8e4qnECufesPvI4JaXGXjGTwugl47M9Snzqwhkh6j7cwtqgeC-TOxhgVMX7veUWGw"
-      },
-      {
-        "id": "sticker-9655",
-        "name": "FalleN (Embroidered) | Budapest 2025",
+        "id": "sticker-7255",
+        "name": "Natus Vincere (Glitter) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_mTRH0kKnl8CBJ4PuqbbZoJL6WWjXBmOonteBvGHvizERy4jiAnN37cyiQOgMlDJolQbFetBGwwICzKaq8sNfIDsP8"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-obi42bgTRTlipPys3YKuqKrO6c6cPGSDDLGxbcm4eRqGiuxxUsh522BztmuJH-QaQ8hCcNuBblds-7MWqE"
       },
       {
-        "id": "sticker-9659",
-        "name": "KSCERATO (Embroidered) | Budapest 2025",
+        "id": "sticker-7259",
+        "name": "Virtus.pro (Glitter) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL0Qhjjn4LvwidW7eChYaBoMvWXQGPFlLwiseVvSnnnzE0k5mTdzd-gJC7FPVMgW5B1RbRYtRi-kda1Pu78p1uJQjs-E00"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI64pfL7VXuVQn0jNi4pXQPu6r6P_Frd6PADWSUwOsu6bExGC3nwR8i42zUmNmgc3yTPVQnFNIuEja8jiar"
       },
       {
-        "id": "sticker-9663",
-        "name": "molodoy (Embroidered) | Budapest 2025",
+        "id": "sticker-7263",
+        "name": "G2 Esports (Glitter) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VToTRL1kY_f-C9Z_f2nbKF_JfTdXGKTlrp3tblvSyjjkRl_tj_Vn92gIimWaQ4hCpUmRrIDsxC8kIbkZPSiuVJqjBzCBw"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI689XL7VXuVQn0jNjm-3UK6qqobKI4IqjCC2TGmLwv4uJtTCvhwEtxsmXRmNv9eH-fPAMnFNIuEmqGoj_i"
       },
       {
-        "id": "sticker-9667",
-        "name": "YEKINDAR (Embroidered) | Budapest 2025",
+        "id": "sticker-7267",
+        "name": "FaZe Clan (Glitter) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UDiShT_mpfywidW7eChYaBoMvWXQDLCxblw5bBsGHi2zUwktWXVntuudn2TaAIiDpt4EbZfsUXqm9KzPr78p1uJFPYlkXA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68obu72bgTRTlipPys3ZduKr2baFrcajCVzTFlusg6OMwGH2ykBxz5znUzourJHyQPQB2D8BuBbldzWtlyR0"
       },
       {
-        "id": "sticker-9671",
-        "name": "yuurih (Embroidered) | Budapest 2025",
+        "id": "sticker-7271",
+        "name": "Team Spirit (Glitter) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UDyVA_4lqnl8CBJ4PuqbbZoJL7GWzWVl7wmtuU7Hyvml0wk5WmAzI2ud3jGaQQlX8QkTLUOsRPuw4XhKaq8sKXly3UI"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI655f9-GbgTRTlipPysyEJvvSrbqA9IfKRWjHFx7ki4rBqTXqxkxtwsjyGn936cHjBOlchDcNuBbld8Qn2uRM"
       },
       {
-        "id": "sticker-9675",
-        "name": "apEX (Embroidered) | Budapest 2025",
+        "id": "sticker-7275",
+        "name": "Vitality (Glitter) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vj3RAXOm5vi7y1S6_e8baAjcfLADDTCwL8k5bFqGyq3wE4hsTmHyN2peS2TbABxWZt4Q-Be5xS-k8qnab0KHMBTYg"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI64o7g62bgTRTlipPysyYDuqf3bKA7cqKQCGOVxbhw5rY7TnrqkR50tjnTnNatdHmeawYkXJFuBbldcV_h-N4"
       },
       {
-        "id": "sticker-9679",
-        "name": "FlameZ (Embroidered) | Budapest 2025",
+        "id": "sticker-7279",
+        "name": "MOUZ (Glitter) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_rQBD0hKnl8CBJ4PuqbbZoJL7HWjXEw7pws-RtGHCwwB8jtzvTz4qgdHORawJ1W5MiRuQO5xW9xN3gKaq8sAcyhXxM"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-Yjh8GbgTRTlipPys3EI7KD9MPU4IfGVXGSVx7t35LhvFn-2zBki5zjVwoqrc3KUbwZ0DcFuBbldHAfc6Fc"
       },
       {
-        "id": "sticker-9683",
-        "name": "mezii (Embroidered) | Budapest 2025",
+        "id": "sticker-7283",
+        "name": "Complexity Gaming (Glitter) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTiWxT4oZPt_zBU5vareqFpbqHFWjLIwrx3seI_GHixx0pwsGiDzIn9cHPEa1JyW5N2EOZY4UKww4L5d7S1QJ6ckH8"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI695f48mbgTRTlipPys3EPt6qtO_c1cfbGC2WUw-smsuQ9HCy1zEkl4zmGyImhcy6eOAMoWZFuBbldzJ6uHTQ"
       },
       {
-        "id": "sticker-9687",
-        "name": "ropz (Embroidered) | Budapest 2025",
+        "id": "sticker-7351",
+        "name": "PGL (Glitter) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
           "color": "#8847ff"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UvoUQfOm5vi7y1S6_e8baAjJaWXD2GVlO9ztuM7F3qxkx5w4mvUn46td3KePwIpDMcjRbFftkW7k8qnab0qlaYUJA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID41V7rSAnlm4Su-HdYvaL5PaE5canCWTTImLsltLk_S37iwhx162qEyIypci7DbAMjXIwwG7D6XNl3Pg"
       },
       {
-        "id": "sticker-9691",
-        "name": "ZywOo (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-oZPt_zBU5vareqFpbvTGDz7FmOtw5bU6TH62k0wksGTXmIutcX7BbwUgA5YiFOEL5hC-ktT5d7S1oKxwvG0"
-      },
-      {
-        "id": "sticker-9695",
-        "name": "kyousuke (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL-Tgjii53lwidW7eChYaBoMvWXQD_JmLZz6ORoTHvjwU505zuDm46seHvBa1VxW5t1R7QD5hnpmtfiMbn8p1uJewfugsM"
-      },
-      {
-        "id": "sticker-9699",
-        "name": "kyxsan (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL-WQ7wkKnl8CBJ4PuqbbZoJL7CVmXClLkgtrk5GHvmxUxx5mjQz42oICiSbw5xX8NxF-cPuxPpwNPlKaq8sCkXGXF3"
-      },
-      {
-        "id": "sticker-9703",
-        "name": "m0NESY (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VS3Txjih6nl8CBJ4PuqbbZoJL6SX2SVl78jsrQ-Fn3rkR5_4TyEmNeveH6eOwUoDZRwE7YIsEW_wIexKaq8sHxPB2YI"
-      },
-      {
-        "id": "sticker-9707",
-        "name": "NiKo (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VfuShLOm5vi7y1S6_e8baAjcaKVXjWWlOgvtOQxGXGwwUl24m-Entf6eH2XPwd2D5R5RO8J50K5xMqnab0rWw5K_Q"
-      },
-      {
-        "id": "sticker-9711",
-        "name": "TeSeS (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3iUhjioZPt_zBU5vareqFpbqLECzCVlbt1seA5Snq1zUgh62iAydqpJH6UbAcnXMAmROYDukbtl9T5d7S1O99V-ys"
-      },
-      {
-        "id": "sticker-9715",
-        "name": "910 (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1QC2ESL0k5Ty8itf6uCrbOpudKjFWDPDk-8msbc6S3C1zR4i5zmGzdv4eHiePwZzXMAiTbNf5BC9jJS5YIwWhkVh"
-      },
-      {
-        "id": "sticker-9719",
-        "name": "bLitz (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VvrSAnroZPt_zBU5vareqFpbvaSVjCWlb4mtOI5G3i1xExz52nXyNj7In6UPVImDJEiQuQOtRPsw9X5d7S1whu6CL8"
-      },
-      {
-        "id": "sticker-9723",
-        "name": "mzinho (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VT9SBP5kanl8CBJ4PuqbbZoJL6RWzfImbcl4LY4TCy3wk5_4WrWz96udy-WOAdyWJR4QeYP5Ba5wNHgKaq8sKtgArXa"
-      },
-      {
-        "id": "sticker-9727",
-        "name": "Senzu (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UriTwfkoZPt_zBU5vareqFpbqmSWWHAk7ogtrltS3CywkRw4mvUw437JHqWawB1W5UlELRc4EW5l4X5d7S15tj2LaU"
-      },
-      {
-        "id": "sticker-9731",
-        "name": "Techno4K (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3iQhX_kcLrwidW7eChYaBoMvWXQD_JwLsgtrVqGnjkkU506muHwo6odCqfPwZxXMRzFuJc4BjrkYbgNOj8p1uJSm2GGc4"
-      },
-      {
-        "id": "sticker-9735",
-        "name": "Brollan (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vv1ThH9n5jf-C9Z_f2nbKF_JfTdXjOTkrcgtOBoGi_qxE514GvVyIyudH3EOFMjWcZ0RrYOtRHqwYLkZfSiuVIzkS0eHA"
-      },
-      {
-        "id": "sticker-9739",
-        "name": "Jimpphat (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VPuTA3hlpf0widW7eChYaBoMvWXQDXHxLoutedvHSiwzUt-4G-DmN-gI3_Db1QpDZd0E7Fc4Biwl4DkPuP8p1uJjla6EtE"
-      },
-      {
-        "id": "sticker-9743",
-        "name": "Spinx (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Ur3SBPpoZPt_zBU5vareqFpbqPDV2WTmL8utLc_Sn7mxB4j4GWBm4mqcXqQOgV2XMcmFOIJs0TuwNT5d7S1n-0eOQw"
-      },
-      {
-        "id": "sticker-9747",
-        "name": "torzsi (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3oUwfil6nl8CBJ4PuqbbZoJL6VWGKVlOov6OAwHX3lxU12sGzRmY6uJHKfOw8pC5NwEbMPuhe_ktK2Kaq8sB9MgS8o"
-      },
-      {
-        "id": "sticker-9751",
-        "name": "xertioN (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UHiUwn4kZjf-C9Z_f2nbKF_JfTdCDaRw-gl4rZoGSjnkBwk42rVyYuhJHvCOA8iDZIjRecNtBa7wIbmYvSiuVJBVJZwzw"
-      },
-      {
-        "id": "sticker-9755",
-        "name": "chopper (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VrvTg3hm4Tf-C9Z_f2nbKF_JfTdVzTJl78g5rBsFnnnxRkl623cyon9cHyQO1MiXpJwEOUItBm-kdPgM_SiuVIgP4L3GA"
-      },
-      {
-        "id": "sticker-9759",
-        "name": "donk (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3oTxbOm5vi7y1S6_e8baAjI6GRXGaTlLwj6Lc7SXmxw09_sT_VwtetdC6TaFVzDZslFOQN40G-xMqnab2NGChKxw"
-      },
-      {
-        "id": "sticker-9763",
-        "name": "sh1ro (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UrvEA_-oZPt_zBU5vareqFpbqOWVj_EwLt36LRsHnrjw0x1tWjTzdyqJCiQZgYnDJJzELIM4RawwNX5d7S1_Tl5Tk0"
-      },
-      {
-        "id": "sticker-9767",
-        "name": "zont1x (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UPoTwmghqnl8CBJ4PuqbbZoJL6WXjXDw-t36eJrHn_hxhxwsmXcw97_eXrBZlV1XJJ4QrEOuhO6l9a0Kaq8sKjlBXD7"
-      },
-      {
-        "id": "sticker-9771",
-        "name": "zweih (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UPwRBT5oZPt_zBU5vareqFpbvPEXWHHkrcu4LNqHy22lhl04z7WytasciqWZwEjCsAhQ-AK5BPukND5d7S12biavgM"
-      },
-      {
-        "id": "sticker-9775",
-        "name": "Heavygod (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VHiQAvomZnkwidW7eChYaBoMvWXQDKVkuwm4rI-SijgxUsj4jyBnN2gdXqSOAYnC8MlTOcK5ha5ldDjP-L8p1uJNMBwGnA"
-      },
-      {
-        "id": "sticker-9779",
-        "name": "huNter- (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VHyTwn0jKnl8CBJ4PuqbbZoJL7AV2HCmLol4bgwHSyxxk0k4WSGnomqdS7COAN1CMEjTbRcthi5l9PhKaq8sAEGvq2I"
-      },
-      {
-        "id": "sticker-9783",
-        "name": "malbsMd (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTmTR_ik5Lf-C9Z_f2nbKF_JfTdXGXBw7si4rhrSnDjwUty5m7Xzon6JSjFaVckDpN0Qu9c4RK8kYKxNvSiuVIM4FuUgQ"
-      },
-      {
-        "id": "sticker-9787",
-        "name": "MATYS (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTmVQTioZPt_zBU5vareqFpbvWSCGTHxep1tucwSnDqkBtx4mrSzYypJCnEOwZ0C5B1EbVY5ELqkYL5d7S156dSHZ8"
-      },
-      {
-        "id": "sticker-9791",
-        "name": "SunPayus (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UryTw3wh4PzwidW7eChYaBoMvWXQDDJw7xysrQ5GXjkwk8i4DndyoyocS-SZw8hX8EmFrFZ4xmxltKxPun8p1uJxxQ8p6w"
-      },
-      {
-        "id": "sticker-9795",
-        "name": "biguzera (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VvuRgjrm4ThwidW7eChYaBoMvWXQGbGxOovtbZoHnmxxkkltWzcw4z8cCiXbABxApolQLECtBC4k9PjNOv8p1uJksb1sjo"
-      },
-      {
-        "id": "sticker-9799",
-        "name": "dav1deuS (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3mV0z1m4PzwidW7eChYaBoMvWXQDTDleok5uVoGH3ikEV2sGjdntqpcCrBOAIoAsYiTbJesUOxltDhMLv8p1uJFYgCox8"
-      },
-      {
-        "id": "sticker-9803",
-        "name": "dgt (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3gVSL0k5Ty8itf6uCrbOo_daSWWDTBl7cvtLhtTSzrxR4lsWnUn42gdnjEblJyXsd5FuEPsxS5jJS5YFHLXKBN"
-      },
-      {
-        "id": "sticker-9807",
-        "name": "NQZ (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vf2WyL0k5Ty8itf6uCrbOppeaDGXjaWkbp36OM6F3vhlk53t2zdwon7cnqTOFUoX5t5Ee8MuhawjJS5YLM1trbM"
-      },
-      {
-        "id": "sticker-9811",
-        "name": "snow (Embroidered) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_mythical",
-          "name": "Remarkable",
-          "color": "#8847ff"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UrpTgrOm5vi7y1S6_e8baAjJqDEC2LJl-ou4rE_Hy3kwBl_52WEy9mgJ33FP1d2CZR1R-EC4UK-wMqnab0aVx46tw"
-      },
-      {
-        "id": "sticker-9656",
-        "name": "FalleN (Holo) | Budapest 2025",
+        "id": "sticker-7256",
+        "name": "Natus Vincere (Holo) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_mTRH0kKno8i5UoaurMaBscaTLXTeTwr505rlvSn-3k09-tm_Untetci_EOFAnXJJ3RrIU8k7vE-7FSHk"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-obi42bvThH-0M7jrXAJvKeqP6VpJKSRXTfBlO9zs7c4Fyzmlhsi4mrWnN79Ii2QbVI-SswnPM1C-bc"
       },
       {
-        "id": "sticker-9660",
-        "name": "KSCERATO (Holo) | Budapest 2025",
+        "id": "sticker-7260",
+        "name": "Virtus.pro (Holo) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL0Qhjjn4LvwipU4_3gbKA1caeWCDTDkLh047k9SSiwlB9_4GnWy4v9IHnFZwR2WZJ4TeYOtA74zINeKeJGGw"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI64pfL4lbrTlPzmJC0r3YJ7Kf5PPw8JabBXWTAkromtudsTXDmlhwh4jyBmNr6ci6TcEZ-XfFDLlLE"
       },
       {
-        "id": "sticker-9664",
-        "name": "molodoy (Holo) | Budapest 2025",
+        "id": "sticker-7264",
+        "name": "G2 Esports (Holo) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VToTRL1kY_f9S1X4Lz_PaFucPbFCDXEmL10s-NsGiq1l0p_sT-EzYz8cH2fPQF2ApB3QO9frFDmxXukKKCu"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI689XL4lbrTlOhzZWyrHIM7aKtMPA7c6aSXjbAmexw6Lk4GH-1zER24G-Am9b9eX6ScEZ-XeQ8Wj1l"
       },
       {
-        "id": "sticker-9668",
-        "name": "YEKINDAR (Holo) | Budapest 2025",
+        "id": "sticker-7268",
+        "name": "FaZe Clan (Holo) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UDiShT_mpfywipU4_3gPPBoIfTAXTWTkLgv5LU4TXzhwkly5j_TzdipJSnFZ1J0A5ohQuMLtw74zIPtkaLwoA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68obu72bvThH-0MS3pXMKvvaoPvU5cKDEDz7Dme8h5OI8Snrqwxh142XUmdypcXqQbwM-SswnEvHONYg"
       },
       {
-        "id": "sticker-9672",
-        "name": "yuurih (Holo) | Budapest 2025",
+        "id": "sticker-7272",
+        "name": "Team Spirit (Holo) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UDyVA_4lqno8i5UoaL8Ov01daWSWzSUl7wv4OQ6G3zhl0lx4jmAmN6tcHKXZwdyDpt3TbUU8k7vM8OW6bI"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI655f9-GbvThH-0JSy_idZ66r_OfI6IvKRXTHGl7l3s7FrG3zjlkxw4mjXw9j_ci6ePFc-SswnSBZFiI8"
       },
       {
-        "id": "sticker-9676",
-        "name": "apEX (Holo) | Budapest 2025",
+        "id": "sticker-7276",
+        "name": "Vitality (Holo) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vj3RAXOlpns8mxYvaWsPqU0cKXAXGbGkLohtOM8SnqxzB906m-Hn9iqJC2XZlMjX5BwW6dU5TgwfBZC"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI64o7g62bvThH-0MG3_yFfu6f9a_A8daLLWDPAxb10suNqSyzmwRwk5GXTw4r7IimSOFc-SswnJPqK3jc"
       },
       {
-        "id": "sticker-9680",
-        "name": "FlameZ (Holo) | Budapest 2025",
+        "id": "sticker-7280",
+        "name": "MOUZ (Holo) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_rQBD0hKno8i5UoaD6afJuJvXFWD7GmLwutLFrG3m2x0QisjzTwtf9cimWPw8pCpQjQu4U8k7vIrYG0nk"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-Yjh8GbvThH-0JTh-CQDvqesPqE1danDXzSTxLd1tuA_H3Djlx4h6mvSmdiueHOWblI-SswnSxHZK48"
       },
       {
-        "id": "sticker-9684",
-        "name": "mezii (Holo) | Budapest 2025",
+        "id": "sticker-7284",
+        "name": "Complexity Gaming (Holo) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTiWxT4oZ7v8S0VuaP7PvA4dqnCXzDHk7cgtbc5THHix0xw4T7SyImucCqVaVcoCpdyEflK7EdGO5PYNw"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI695f48mbvThH-0MC5q3IK6aT-OqY4JqjGCzWWlbog6bVsTX-ykEhzt2jVy9epcS3FalA-SswnMTt8qQU"
       },
       {
-        "id": "sticker-9688",
-        "name": "ropz (Holo) | Budapest 2025",
+        "id": "sticker-7352",
+        "name": "PGL (Holo) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
           "color": "#d32ce6"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UvoUQfOlpns8mwDuKD-PPI6I6LCXWSVkbYm47hoGijlk0x3smrWnt6scimWOw52DJFyW6dU5VKPfJwr"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID41VHoTRK_zcWz-SBZvautaaZvePGSWmbJmb9z4LNoGS-1xUpw6zjVzd2reH6XZhhgVMUkI5aYEQ"
       },
       {
-        "id": "sticker-9692",
-        "name": "ZywOo (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-oZ7v8S0V7ab8bvI-d6jEXmTBmb4j4rg_F3jgkR4itz7dn9r8IH_CPwQpXsFwRvlK7EfqC1BVpQ"
-      },
-      {
-        "id": "sticker-9696",
-        "name": "kyousuke (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL-Tgjii53lwipU4_3gaaA8IqbHWDTIl7om4uJrGCq3xExxtmnSwtihIyqfPQF1DJomQrRcsg74zIMtkNeIWg"
-      },
-      {
-        "id": "sticker-9700",
-        "name": "kyxsan (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL-WQ7wkKno8i5UoaX6bKBvdfbFWTCVkb0n4-A8Gnvlkx9_tmnQyN38I3-SblV1A8YkQOUU8k7vQm3yaQc"
-      },
-      {
-        "id": "sticker-9704",
-        "name": "m0NESY (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VS3Txjih6no8i5UofH7bKc5caDKXDSUkex357YxFnCykUhy52iHz9uqdiqXP1d2C8B4FuMU8k7vBrHC2M0"
-      },
-      {
-        "id": "sticker-9708",
-        "name": "NiKo (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VfuShLOlpns8mxZtquoa_I-JqTCWDSRlbp14ORqTH3nxkh34D_Xz4usdX6VP1MlXJF0W6dU5e2lPDpi"
-      },
-      {
-        "id": "sticker-9712",
-        "name": "TeSeS (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3iUhjioZ7v8S0V7aasMaA7I6aWD2LCk74ktLc7Si3jwx53tzjRmdr6eS_COlAgD8AjF_lK7Ee8LrxDZg"
-      },
-      {
-        "id": "sticker-9716",
-        "name": "910 (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1QC2ESL5kZrvs3tYvaGsa_Fud_GVVmHAkLwg4bY5HS_rxEty4Wjdm4yocSiWOAJ2CcBuBbldKJcVEMw"
-      },
-      {
-        "id": "sticker-9720",
-        "name": "bLitz (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VvrSAnroZ7v8S0V7vT7PPVvcvTBWzbHwroh5bBsSX23whwk4z7WnNn9JyrDPwQnCJtzEflK7Ee6fbcPrQ"
-      },
-      {
-        "id": "sticker-9724",
-        "name": "mzinho (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VT9SBP5kano8i5Uoab8PKVvdvPAXzTJwO8h4eQwTnnkwU4h6m-Hyon6JS-RPFUoA8F4RuAU8k7v4ZWqiSY"
-      },
-      {
-        "id": "sticker-9728",
-        "name": "Senzu (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UriTwfkoZ7v8S0V7vOqMfM_dfbCXGLCwup35bhqFirnl0sjtjyAzNisdnOWPAdyXMQhQ_lK7EeU98m2zA"
-      },
-      {
-        "id": "sticker-9732",
-        "name": "Techno4K (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3iQhX_kcLrwipU4_3gMfBuJPPGXTXBlLolteI7TX3kw0V2sjjdwtuscHLDP1cmDZEkQrVfuw74zIN8w6Vbkw"
-      },
-      {
-        "id": "sticker-9736",
-        "name": "Brollan (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vv1ThH9n5jf9S1X4Lz6bPw8d_HDWmaSmLxwsrE4TSjgzUgl5G_XydureH-SOFV1XJQiFuZerFDmxbIsdD6Q"
-      },
-      {
-        "id": "sticker-9740",
-        "name": "Jimpphat (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VPuTA3hlpf0wipU4_3gavU6cqiWDD7IlrclteQ5Sy3gzE515D6Gw978IHiQaVJ2A5pwTedfsQ74zIN-w9TT6A"
-      },
-      {
-        "id": "sticker-9744",
-        "name": "Spinx (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Ur3SBPpoZ7v8S0VuqH-PKU8JfXAX2KWx-tw4rNsHXC3wU0msGjTzouqdHyROw9zDsN5RPlK7EfbnblQlQ"
-      },
-      {
-        "id": "sticker-9748",
-        "name": "torzsi (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3oUwfil6no8i5UoaL6a6A9I6fGXTOUw7ohs7RqTXu3zR904m2Eno6gcS6TbgAmDZslTOQU8k7vaALC7As"
-      },
-      {
-        "id": "sticker-9752",
-        "name": "xertioN (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UHiUwn4kZjf9S1X4Lz8MKFpc_HCDTORluhy5bY8FnC3x0px4GnVztb9eHjBbAYgCcZ2FOJbrFDmxTfMtFlV"
-      },
-      {
-        "id": "sticker-9756",
-        "name": "chopper (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VrvTg3hm4Tf9S1X4LyoP_M_IafADWGTx-oi5blqTnu2lxl15DvczY2peXnGaFMgW8EkELYCrFDmxSEBgEQ1"
-      },
-      {
-        "id": "sticker-9760",
-        "name": "donk (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3oTxbOlpns8mxZ7aGvMPFsJPKSCGOSmbsi47ZtGXrqk0Ui52nTyI6pd32SbgclDJsjW6dU5dLf8L2L"
-      },
-      {
-        "id": "sticker-9764",
-        "name": "sh1ro (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UrvEA_-oZ7v8S0V6qSrP_A6d_TCVzCWl7sn6bVvFnvizUsh5W3Xy9quJS-XPVApA5VxRflK7Ec9UB5e9g"
-      },
-      {
-        "id": "sticker-9768",
-        "name": "zont1x (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UPoTwmghqno8i5UoaX2PfE4ePKRWzSTk74msuc4F3rnw0Uh6mTSy9yhJ37Gaw8jA5UjFLEU8k7v3wSBcHE"
-      },
-      {
-        "id": "sticker-9772",
-        "name": "zweih (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UPwRBT5oZ7v8S0V6_GsavI9IfaRWTKUwrp14uI7GC23lhwhtmnXmN78dy7FaQYoDpB1QPlK7EdpnwKAog"
-      },
-      {
-        "id": "sticker-9776",
-        "name": "Heavygod (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VHiQAvomZnkwipU4_3gPPc4c6eVVzXHwOhy5eU5HC_kwUtw5DvQy939I3rFblQiDpd0FOZbtA74zIMwmlP0pQ"
-      },
-      {
-        "id": "sticker-9780",
-        "name": "huNter- (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VHyTwn0jKno8i5UofCoP_ZrcqHDXz_HmbkvsrAxSSi1x0V26mXcz46hcnuVPwMhC5ZzFOEU8k7vtMheyhI"
-      },
-      {
-        "id": "sticker-9784",
-        "name": "malbsMd (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTmTR_ik5Lf9S1X4LyvaqY1JfTKXWXAkr5y6LI-G3vmw0h26jyDzor_ciqQZgUhCJAjROMJrFDmxbDo6Kga"
-      },
-      {
-        "id": "sticker-9788",
-        "name": "MATYS (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTmVQTioZ7v8S0V7KT6Pfxoc6LBWTfBk7h3tOU7TirgwkR252TSm437J3vBbwZyDpB1TflK7EcYBqlQOA"
-      },
-      {
-        "id": "sticker-9792",
-        "name": "SunPayus (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UryTw3wh4PzwipU4_3gbvc_cqDDCGHJxehy5LQ5SXHkwUt_4mzcz9r6dXKeZ1BzW5QhReML4w74zIP8o-fR2A"
-      },
-      {
-        "id": "sticker-9796",
-        "name": "biguzera (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VvuRgjrm4ThwipU4_3gOvY5eKbAVjCTlL8h6bY6HSq1xxh34z_QzYypIn6eOwN0CJV5QucCtA74zIPvIQbXDw"
-      },
-      {
-        "id": "sticker-9800",
-        "name": "dav1deuS (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3mV0z1m4PzwipU4_3gOKY-d6WSCmWTlbch57k_S3_qlBtx5TiHm9egJH-SbQYlD5Z3E7YLsA74zIO34_lnqQ"
-      },
-      {
-        "id": "sticker-9804",
-        "name": "dgt (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3gVSL5kZrvs3cD7qP6OKE4IvPGWGHAxbxy47Q9HXHqxU9252WHnIqpdCnBaQMjAsRuBbldprcsovc"
-      },
-      {
-        "id": "sticker-9808",
-        "name": "NQZ (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vf2WyL5kZrvsyRY7qP2OaA7I_XAVz7HlbZ14uVrH3CxwU8h6muGwt79cyiQOA51WZZuBbld9g0SlXI"
-      },
-      {
-        "id": "sticker-9812",
-        "name": "snow (Holo) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_legendary",
-          "name": "Exotic",
-          "color": "#d32ce6"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UrpTgrOlpns8mwJt6r4bac0JqjFVjeVxe0itrk7FirqkUp35m_dyI34JXOfbgYiDpYmW6dU5b_tjyZo"
-      },
-      {
-        "id": "sticker-9657",
-        "name": "FalleN (Gold) | Budapest 2025",
+        "id": "sticker-7257",
+        "name": "Natus Vincere (Gold) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_mTRH0kKnn8i5foaqtOKVpJfaVXGLIx7wg6LA9HyywzEt04j-Gy96rJX-UZgAkA8EmF7MU8k7vu7YuWwA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-obi42bgThH10JWwqHQDu6f4PPU8IfLFDWLAlOtysuQwSiyywB8hsT6BzYz9c3LDOwY-Sswn4fCOG2o"
       },
       {
-        "id": "sticker-9661",
-        "name": "KSCERATO (Gold) | Budapest 2025",
+        "id": "sticker-7261",
+        "name": "Virtus.pro (Gold) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL0Qhjjn4LvwiVU4_bgPKY8cPHDXWKSw-0g5OA8Gy-wkUpy5m3RmY6rcnqeOlIpDJN1RucCtw74zIOPrp6zwQ"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI64pfL7VbrRVPwyJflqnNfv6StOf05cKmXV2SWxLdytrM7GnHqkU8l52nUmImqd3mWcEZ-XUXT9D_W"
       },
       {
-        "id": "sticker-9665",
-        "name": "molodoy (Gold) | Budapest 2025",
+        "id": "sticker-7265",
+        "name": "G2 Esports (Gold) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VToTRL1kY_f-i1X67z-a6FvcqbKWTTCl7oh6bAwTi_kwkVx5WSAmY6rI3jEOFQnDJZwFLMJrFDmxaH7b5os"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI689XL7VbrRVOnx5WyrnMCv6f6O6U8JfTDDGLBlOols7Y5HH7lxxwj52zTmNn9I3LGcEZ-XZGnokWb"
       },
       {
-        "id": "sticker-9669",
-        "name": "YEKINDAR (Gold) | Budapest 2025",
+        "id": "sticker-7269",
+        "name": "FaZe Clan (Gold) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UDiShT_mpfywiVU4_bgMfw9IaOWXGTBmLok4rk4HXC3wElx5mvVn9r6cS-VZwUnX8B3Q-cJuw74zINtuM4iQA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68obu72bgThH10Meyr3QOvqL6MaI_cKHLX2HHlLgv5uUwH321xk93tzyBy9etJHqSblQ-SswnUCt2els"
       },
       {
-        "id": "sticker-9673",
-        "name": "yuurih (Gold) | Budapest 2025",
+        "id": "sticker-7273",
+        "name": "Team Spirit (Gold) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UDyVA_4lqnn8i5fofT8bfU6dqLCCjKRlLki4LZsTny2zBxw5j-Gz9ahd3yRa1R1A8RxRrMU8k7vif0HyPA"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI655f9-GbgThH10MGw-HIKv6T6baFucfPFC2KUkO905uRvGnrllkp-5TjQzo6qJH6XPFM-SswnKK8h7Zw"
       },
       {
-        "id": "sticker-9677",
-        "name": "apEX (Gold) | Budapest 2025",
+        "id": "sticker-7277",
+        "name": "Vitality (Gold) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vj3RAXOmZns-WxduPOrPfE-eKLHCGLFk7Z35bAxGyrqzElysW_XmdarIn7CaFchX5UlW6dU5fT673ru"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI64o7g62bgThH10M7ipHZdvKT9MPQ6JvWQDz-Sl-pytLQ6GC_gzEtw62zVyY39eH2WbwA-SswneFne1lk"
       },
       {
-        "id": "sticker-9681",
-        "name": "FlameZ (Gold) | Budapest 2025",
+        "id": "sticker-7281",
+        "name": "MOUZ (Gold) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_rQBD0hKnn8i5foaqqbPM4d6WSVzPDlLsk5-U9HnzjzEl14DzWyYyqciiTOFUlD5AkE-8U8k7vPn19pcQ"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-Yjh8GbgThH10MC1qCNfvKavavw6IfLHVzfEkOtyseM_TXjrxkt152qDy9moIyrEOwE-Sswn72P0lHk"
       },
       {
-        "id": "sticker-9685",
-        "name": "mezii (Gold) | Budapest 2025",
+        "id": "sticker-7285",
+        "name": "Complexity Gaming (Gold) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTiWxT4oZHv8SYVt6KsOvQ6eKaWC2aVlL4i6eQxGSzgzEQhsDyHnov9eX-XaFR2WZdwRflK7Ef-4Ui7mQ"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI695f48mbgThH10MLj-3QPuPD-OfRoIqHFWGWSlrcm6OU8GnrqwUgk4miAw9r4J3yWbgQ-SswnLXQLR3o"
       },
       {
-        "id": "sticker-9689",
-        "name": "ropz (Gold) | Budapest 2025",
+        "id": "sticker-7353",
+        "name": "PGL (Gold) | Copenhagen 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
           "color": "#eb4b4b"
         },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UvoUQfOmZns-WxYt_b6PvQ1JPbCC2PBwLsl5ec8THngwUgh5mrUzNmqIinBblJyXpd5W6dU5SEBiqZC"
-      },
-      {
-        "id": "sticker-9693",
-        "name": "ZywOo (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-oZHv8SYV6_f9P6VrJPSRWGXAmLdwtuBqTHi2k0xx52_Rm4yscXKfbAcmDpBzE_lK7EfxXWei4Q"
-      },
-      {
-        "id": "sticker-9697",
-        "name": "kyousuke (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL-Tgjii53lwiVU4_bgO6I1dvbHXWPDmO8js7E7HHCwkBgk6mvVn9epdXLGawMkCpMmTbRe5w74zIOqh5_pVQ"
-      },
-      {
-        "id": "sticker-9701",
-        "name": "kyxsan (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VL-WQ7wkKnn8i5fofP6PPNsdvbGWzCVw7kh4-I9GHDgwUR-6muEn96gIn6TawEpX5ohRLEU8k7vNFf8nXo"
-      },
-      {
-        "id": "sticker-9705",
-        "name": "m0NESY (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VS3Txjih6nn8i5fofaobvE7c6LDXWLEmbt3suVvTHHqxE9y5WrRmd6qIHOTPANzCpNzR-IU8k7vognAOVA"
-      },
-      {
-        "id": "sticker-9709",
-        "name": "NiKo (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VfuShLOmZns-WwJuvP2a6I9dPHEDDLDkbou6LFrSy_mkU9y4jyGmd2peHqTZlIoW5V4W6dU5cukmP6e"
-      },
-      {
-        "id": "sticker-9713",
-        "name": "TeSeS (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3iUhjioZHv8SYV7fD4Pfc9cKHHW2XHxewk5LAwGn61xkx0tj-Hn9qrJX3BbQUhDcNzRflK7EdZSNounQ"
-      },
-      {
-        "id": "sticker-9717",
-        "name": "910 (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1QC2ESL2kZrks3ZZ7POsMP1uIqCXWWLFlO0g5uM_HiuwlBt_52nVztapJHiTOlQnCcZuBbldRwA6ET8"
-      },
-      {
-        "id": "sticker-9721",
-        "name": "bLitz (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VvrSAnroZHv8SYV7POsOvxuePPAXWbElexz57ZsGXnklht36zyEztf8cXOfbVAhXMd1F_lK7EfVNW0o6g"
-      },
-      {
-        "id": "sticker-9725",
-        "name": "mzinho (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VT9SBP5kann8i5foferOPA8d6XLD2HCkeontucwSi_jw0oj4W-Hw9mhJyrCP1dzWJp1Re4U8k7vccUB5c8"
-      },
-      {
-        "id": "sticker-9729",
-        "name": "Senzu (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UriTwfkoZHv8SYVuvD5PqJseKfCDWbEkLgjtOA-F3_hkUpx42yHwtasd3zEPwQiCJElRflK7Ec0vjGi8g"
-      },
-      {
-        "id": "sticker-9733",
-        "name": "Techno4K (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3iQhX_kcLrwiVU4_bgOvc7c_SRXT6Sw78g57A8S3u3wUR25WiDn9z4dnyQaFBxWJJ3QO5Zsw74zIOLDuLpMA"
-      },
-      {
-        "id": "sticker-9737",
-        "name": "Brollan (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vv1ThH9n5jf-i1X67z6OaA7JqLKVzPDwrYh5LJvHSrmwUkj5W7Twoz7eXmVPwN2A5pwROVZrFDmxRtW8PiG"
-      },
-      {
-        "id": "sticker-9741",
-        "name": "Jimpphat (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VPuTA3hlpf0wiVU4_bgPPU6cKDBWTPClbYh6OM7GHnqkUR-tm3cmI2sc3OWOFd0WZp1QbQDsA74zIMoGpXdTg"
-      },
-      {
-        "id": "sticker-9745",
-        "name": "Spinx (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Ur3SBPpoZHv8SYV6quvOKY_d_OQWWLJlbYm4rk-GSjnwER15DyEnN74IHPDaVMoCcd3E_lK7EcuX0HXFg"
-      },
-      {
-        "id": "sticker-9749",
-        "name": "torzsi (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1U3oUwfil6nn8i5fofP5PfQ1dvSWWj-Umbdw6eU6GC3hwxhz422Ent6reSrGOlMhCZYmReAU8k7vWn9tyG8"
-      },
-      {
-        "id": "sticker-9753",
-        "name": "xertioN (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UHiUwn4kZjf-i1X67ysa_E8dqLLWGbDlOojsbIxHS_gxURxtm3cz4v8InKWPFApDpRzF7ZcrFDmxbLYnw46"
-      },
-      {
-        "id": "sticker-9757",
-        "name": "chopper (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VrvTg3hm4Tf-i1X67z9Pac1eaTKXjfBw-0v5rlvF3vgkBx-sTiBw4mvdn2QalAhW8F0QLUNrFDmxeKnzyv3"
-      },
-      {
-        "id": "sticker-9761",
-        "name": "donk (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3oTxbOmZns-WwL7fesPPU0eKSVWzbHw7gjtbRvSSi1kRsisD_dzo6sc3KWZwF2CsR2W6dU5Tuq5_Mq"
-      },
-      {
-        "id": "sticker-9765",
-        "name": "sh1ro (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UrvEA_-oZHv8SYV6aCsaaI6JfKWWTWRmbZ35eI7Tnq1lh915mnQzdqqcnPCOlQoXpIlQ_lK7EcP_E17gw"
-      },
-      {
-        "id": "sticker-9769",
-        "name": "zont1x (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UPoTwmghqnn8i5fofSqbfM_dqDBWD7EwOp0s-IxS3HmxRl25GjWmIyuJX7FbQ4oC5QlROEU8k7v3wyXUxQ"
-      },
-      {
-        "id": "sticker-9773",
-        "name": "zweih (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UPwRBT5oZHv8SYV6af6aqc_daiRCGGTlbsv4edsTCrix0114D_Vzdz9c3LCbw9xD5IlFvlK7EeAxe63gw"
-      },
-      {
-        "id": "sticker-9777",
-        "name": "Heavygod (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VHiQAvomZnkwiVU4_bgbqE8dfPEXTHGl-8l4LdtFnjlxUQk5DzQztb6cX7BOlAgD5V1ELJcsA74zIOjZqbv0A"
-      },
-      {
-        "id": "sticker-9781",
-        "name": "huNter- (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VHyTwn0jKnn8i5foaqoa_A-eKjHXjDExb50sbJrHHrnlE4jtT_Wztj4d32XOg51ApJ1FuYU8k7v499i5JY"
-      },
-      {
-        "id": "sticker-9785",
-        "name": "malbsMd (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTmTR_ik5Lf-i1X67z3MKI_cqnCW2XClegltbJoGy-yxktz62iAm4uocXiVbQQpWMF0E7NerFDmxZi5-o0m"
-      },
-      {
-        "id": "sticker-9789",
-        "name": "MATYS (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTmVQTioZHv8SYVu6v5OPQ8IqPGWTDJxe1w4LU5GnHmzR915DjRm9arJCifagYmWcR5QPlK7EduUiTBNg"
-      },
-      {
-        "id": "sticker-9793",
-        "name": "SunPayus (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UryTw3wh4PzwiVU4_bga6U_cPTGDzGUke0nsbg4GXywzUgi5m3WmYuqcSmRbwJ0WZUiTOJZ5w74zIPaBGMMtA"
-      },
-      {
-        "id": "sticker-9797",
-        "name": "biguzera (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VvuRgjrm4ThwiVU4_bgbqZuc6TCXj_HxO0m6OcwH3nqxR4i4DvUyNeodC3EbFBxWJYiQOADtA74zIOE65O_dg"
-      },
-      {
-        "id": "sticker-9801",
-        "name": "dav1deuS (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3mV0z1m4PzwiVU4_bgafJocqHKWWLJwL9y5OA7TSuywEpw5WzUzouhcXOTOAMjCpd4FuEOtg74zIMCQr1Emw"
-      },
-      {
-        "id": "sticker-9805",
-        "name": "dgt (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V3gVSL2kZrks3YOu_D-MPc1d_aQWDXFw7Yg5LA-Gizmw0h_4jzTmY79eHqUZ1cnXMNuBbld7Yq5PVc"
-      },
-      {
-        "id": "sticker-9809",
-        "name": "NQZ (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vf2WyL2kZrks3Va7Pf3P6c9I6TBXD_Dlu8h47g8TXC1zE524zzRw9uodn_DP1cpWZFuBbldPszbTg0"
-      },
-      {
-        "id": "sticker-9813",
-        "name": "snow (Gold) | Budapest 2025",
-        "rarity": {
-          "id": "rarity_ancient",
-          "name": "Extraordinary",
-          "color": "#eb4b4b"
-        },
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UrpTgrOmZns-WwO6av_Oqc4I_WXXDOUxe8j47E4H37qk0t_5jiBn4v_dH6XPQMnCsZyW6dU5VZ-9coz"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID41V7oTRm_msS5qyAPu6T9OPNvI6PCDzOUmegj6LZtSnixwkom5TmEyN6pcimfOhhgVMU7IsGRlg"
       }
     ],
     "contains_rare": [],
-    "market_hash_name": "Budapest 2025 Legends Autograph Capsule",
+    "market_hash_name": "Copenhagen 2024 Legends Sticker Capsule",
     "rental": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMmRggtjOBicGpdC6QZgAjX8YiQuIJtRe6l9bvMuy04g3Xgo9FmHn_hysc7HtpsuhUT-N7rTVwoDoE",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-fC2CVz-pl_rZvTXDqzRxw523Rm4mocy6QOgUmDcR4Q-8Mu0O5wNPkNuLnsleL3tlbjXKpQyK7hjg",
     "model_player": null,
     "loot_list": null,
     "original": {
-      "item_name": "#CSGO_crate_signature_pack_bud2025_group_legends",
-      "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_legends"
+      "item_name": "#CSGO_crate_sticker_pack_cph2024_legends",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_legends"
+    }
+  },
+  {
+    "id": "crate-4924",
+    "name": "Copenhagen 2024 Challengers Sticker Capsule",
+    "description": "This capsule contains a single Copenhagen 2024 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4924",
+    "type": "Sticker Capsule",
+    "first_sale_date": null,
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-7286",
+        "name": "Cloud9 | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI69966vQuwEEz0y8PiqSdfv6qvPfNpIvKSWzPIkuwntuc_SnHhxkt362SBz8HpLyylZ_A_vA"
+      },
+      {
+        "id": "sticker-7290",
+        "name": "ENCE | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68Yn37xfmRE_zmMK4rXoN7PasafA1I_ORXTPImb4hs7FoSXzixh8h4mrczN6qbzvJOax59TYz"
+      },
+      {
+        "id": "sticker-7294",
+        "name": "FURIA | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68pLm4xe1E0SmnM7l_ycJ7Pb2avRvdKTBV2aSk-wis7g_SXjrwEsm4jyDzNr9bzvJOVt-UqoG"
+      },
+      {
+        "id": "sticker-7298",
+        "name": "Heroic | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_ILm5Re0EhylyZS3_HAKv6b5MfI-JfTLWDeRlr4nsuNsHHnlzUomsm6Gyt3_bzvJOQFPeu2J"
+      },
+      {
+        "id": "sticker-7302",
+        "name": "Eternal Fire | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68ZPx-BflRRymnZW3ryZeu_T2OfNrJKPFWzKRme9y4eJqS3q2wh535z_dzderbzvJOcffn4Ox"
+      },
+      {
+        "id": "sticker-7306",
+        "name": "Apeks | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI69Zfx8hfkEEryn8ey_3ALtvatPvJod_OWXjCWwO8jteUxTSuwkEsk4TiEn9z8bzvJOb-NpFJy"
+      },
+      {
+        "id": "sticker-7310",
+        "name": "GamerLegion | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI684u6sgvmERvyyJS1qydf7aCvbPZveaXBWGOSl7ck5LQ6HXzmwU5-smWHnsHpLyzIXZoZYQ"
+      },
+      {
+        "id": "sticker-7314",
+        "name": "SAW | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI654bjpAq1GEWnyZTjriYJ66f-bPw1I6XACDCUx70v4Oc-Syjhkx5ztW7WnN-3MSXA-TiicYs"
+      },
+      {
+        "id": "sticker-7350",
+        "name": "PGL | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID4pFrhR0ilx5C5rXoI6aX4aqZpcfWSVmbAk7l0trE_GHjiwx9-5zjUn4q3MSXAPkkBAAI"
+      },
+      {
+        "id": "sticker-7287",
+        "name": "Cloud9 (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6997L7VXuVQn0jNjjpCZYt6b9PvVsJafLXDeTkexz6bY_TXHjkxt_5GyEnNr8cymUawAkFNIuEtPZXNZ7"
+      },
+      {
+        "id": "sticker-7291",
+        "name": "ENCE (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68Yn372bgTRTlipPys3QN66SrO6Y7IamWDzCUlOgn6OJqSXzklEx0427Sw4muI32SaQUiCcZuBbldgVezOIA"
+      },
+      {
+        "id": "sticker-7295",
+        "name": "FURIA (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68pLm42bgTRTlipPysyBfvqeobaJoJvbLDTDBmLpy4bU5SnnqkUxx52ncmdytIi-VbAAoX5RuBbld-zSrKvU"
+      },
+      {
+        "id": "sticker-7299",
+        "name": "Heroic (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_ILm5WbgTRTlipPysyENvvOrP_Bsc_XCVjaUk7Yh6bBoTnrnzRtw4WnXnN34eC_FOFAjXJRuBbld5WNlP-k"
+      },
+      {
+        "id": "sticker-7303",
+        "name": "Eternal Fire (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68ZPx-GbgTRTlipPys3YN7vH3aaFucaOWC2KSwrsvsrg6Tnm2lEp-tm2Antj6cnuTPAJyCMBuBbldd06KcBI"
+      },
+      {
+        "id": "sticker-7307",
+        "name": "Apeks (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI69Zfx8mbgTRTlipPys3UM7qb5bvA0IqmXXDfHxL0u5LY9THDjkUp1423Tm4mrJ3rEOgVyDsduBbldVtD-kls"
+      },
+      {
+        "id": "sticker-7311",
+        "name": "GamerLegion (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI684vL7VXuVQn0jNixqyMPt6r-PfdudvbDDWbGlb515eA6Hn_lwxgk5WmDmd2uJ3LCbFQoFNIuEjN3tIPn"
+      },
+      {
+        "id": "sticker-7315",
+        "name": "SAW (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI654bj1V7rSAnlm4SuqnUDt6etOqBveKGWVmaVxehy57Q5SnuxzEp0sDmEno74dHiSbQYkCowwG7CXgFqNuw"
+      },
+      {
+        "id": "sticker-7351",
+        "name": "PGL (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID41V7rSAnlm4Su-HdYvaL5PaE5canCWTTImLsltLk_S37iwhx162qEyIypci7DbAMjXIwwG7D6XNl3Pg"
+      },
+      {
+        "id": "sticker-7288",
+        "name": "Cloud9 (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6997L4lbrTlP0yJCzpHIMtvOsPqJpJKWRCzLCxe0g57c4HnDrxR5_5WSEzYr7ICjBcEZ-XWwjRjro"
+      },
+      {
+        "id": "sticker-7292",
+        "name": "ENCE (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68Yn372bvThH-0MexrHoNtvaoa_ZucaPGVjPEw-8k5bg-Fy3nwk9ysWnVyt6pJ3-UPFM-SswnDJ9GJAM"
+      },
+      {
+        "id": "sticker-7296",
+        "name": "FURIA (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68pLm42bvThH-0JPjqScOtqX9O_E_dKPKDTeVw-1y5Lg8TH_ixkh-5jnXyd2vIyrEbwI-SswnwJSaT2o"
+      },
+      {
+        "id": "sticker-7300",
+        "name": "Heroic (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_ILm5WbvThH-0MS4-3EDu6OsO_E6caSWXzCRkbgj4bBqSXuwxUgk5GTWm4qpI3qUZgc-SswndrGRfrc"
+      },
+      {
+        "id": "sticker-7304",
+        "name": "Eternal Fire (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68ZPx-GbvThH-0Mfk_3ULtqb5bPI_dKaQXjSWxe8htOI6S3vrlEwmtmyGz46teS6UbAU-Sswnkbf6Kog"
+      },
+      {
+        "id": "sticker-7308",
+        "name": "Apeks (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI69Zfx8mbvThH-0MK5rHpY6aWtOaduJPTHXWSVlexz4bU9Ti-xlEVx52SDnNmscXmRPFQ-SswnW502D04"
+      },
+      {
+        "id": "sticker-7312",
+        "name": "GamerLegion (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI684vL4lbrTlOoxpWwpHMI7PaoPP1odaWQVzTIkOh15OdrTXrkk0Vx6j7dnt36cHzGcEZ-XTEsocE_"
+      },
+      {
+        "id": "sticker-7316",
+        "name": "SAW (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI654bj1VHoTRK_m87i_3tevar_a6FseajBW2XDkLol4rk_SirmwR8msDvUntioIHmXbRhgVMXIYtvFuQ"
+      },
+      {
+        "id": "sticker-7352",
+        "name": "PGL (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID41VHoTRK_zcWz-SBZvautaaZvePGSWmbJmb9z4LNoGS-1xUpw6zjVzd2reH6XZhhgVMUkI5aYEQ"
+      },
+      {
+        "id": "sticker-7289",
+        "name": "Cloud9 (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6997L7VbrRVOpycPirCcKuKr-OvY0dvbBX2LGkrlzsuU6G361lE505z-Ezdz8J3mVcEZ-XeuaINlV"
+      },
+      {
+        "id": "sticker-7293",
+        "name": "ENCE (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68Yn372bgThH10MCy_Hdat6v3bvA-daeXWzHJlehw4OVrHCuxwE5_tWyAydqudXnDbgI-SswnumQjZyo"
+      },
+      {
+        "id": "sticker-7297",
+        "name": "FURIA (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68pLm42bgThH10MW0pXtZvKP3afU7c_PLDTfJlLd14rZsGiriwh516z_Rz9f_IH_DOAI-Sswn4QRRip0"
+      },
+      {
+        "id": "sticker-7301",
+        "name": "Heroic (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_ILm5WbgThH10JXirCYCu6v3PvE1cvaSXzTIkrkg6bUwTXmwl013tWTSzI6pIijGaw8-Sswnj8VCO94"
+      },
+      {
+        "id": "sticker-7305",
+        "name": "Eternal Fire (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68ZPx-GbgThH10JDlrCYD7vT9bPxvdaeWW2PGkutws7BtFi3qk05ytjzWyduveX-TZ1A-SswnYUDmNos"
+      },
+      {
+        "id": "sticker-7309",
+        "name": "Apeks (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI69Zfx8mbgThH10JW4-HdftqeobKY5cqPGXDOVluwj4OQ_TnCwxEt_4WXcnIn4InPBZlM-SswneU-VgJY"
+      },
+      {
+        "id": "sticker-7313",
+        "name": "GamerLegion (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI684vL7VbrRVP1x5K1rHoOu6P-PPY6JfHKXTLEmOovs-M4S3HjkElz5DuBydmsJXuVcEZ-XYJJFe58"
+      },
+      {
+        "id": "sticker-7317",
+        "name": "SAW (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI654bj1V7oTRm_zc63qXdf6qD_PP07eKCWVzfClO905uM6F3q3zEgj5TnXy9n_dy-WOxhgVMUdJfc5pQ"
+      },
+      {
+        "id": "sticker-7353",
+        "name": "PGL (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID41V7oTRm_msS5qyAPu6T9OPNvI6PCDzOUmegj6LZtSnixwkom5TmEyN6pcimfOhhgVMU7IsGRlg"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Copenhagen 2024 Challengers Sticker Capsule",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-QBmaczet4t-R7XGfrwEh_tW7TnNagcnyeOAF0DpV0TOAM5ka7ktflYuOz71Dc34hFnyT7kGoXuWbTjaik",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_sticker_pack_cph2024_challengers",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_challengers"
+    }
+  },
+  {
+    "id": "crate-4925",
+    "name": "Copenhagen 2024 Contenders Sticker Capsule",
+    "description": "This capsule contains a single Copenhagen 2024 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4925",
+    "type": "Sticker Capsule",
+    "first_sale_date": null,
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-7318",
+        "name": "paiN Gaming | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65Ib95BfjRRzyysS4rycPvPGtMac9cPTBXmPIxewus7BtH3vjzBxzsTjdnN2sbzvJOU1as8a1"
+      },
+      {
+        "id": "sticker-7322",
+        "name": "Imperial Esports | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_YrkpFyzFBmkypK2_HEK6qD3P_A6cabGWD7Cxb91s-U4TCjjlkQm5mqGz463MSXAkCju25Y"
+      },
+      {
+        "id": "sticker-7326",
+        "name": "The MongolZ | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-Ynz8Be_EEykzpWw_yYP7PeoOqA-JKmRV2GUl7sntOA4H3nglBl152rcm9evbzvJOcX-g18Q"
+      },
+      {
+        "id": "sticker-7330",
+        "name": "AMKAL ESPORTS | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI69Yr_6xe2QEvwxpSxpHAMt6H4bPVoJvPCCD-TlrZz6bU7FivnxUV3tW7XzNaubzvJORC0poUV"
+      },
+      {
+        "id": "sticker-7334",
+        "name": "ECSTATIC | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68YTn_he0FUTznMO1pXUDv6GoMKZuI6nLCz7FkLsg57Q7Fiy1xE5z4mnSzdf9bzvJOS6M3-FO"
+      },
+      {
+        "id": "sticker-7338",
+        "name": "KOI | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_4j9pFjhQ0Woy8Hk-HQO7KP2P_Y5eKTAWDaVwuhy4Lc9SSiyzE5z4WWGnIy3MSXAU4cRGC8"
+      },
+      {
+        "id": "sticker-7342",
+        "name": "Legacy | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-ID38xflGEWlzZTi_HsOtqL5PfRoJaeVW2SWkrtz47gwHXGwx01z6m_RyNn4bzvJOT7pa39k"
+      },
+      {
+        "id": "sticker-7346",
+        "name": "Lynn Vision | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-J765BewFhn0ycTmr3Ff66KvPaU_eaTGWmHGl7ovtLk6Giu1k0sksW-Ewt-tbzvJOUR9ukM-"
+      },
+      {
+        "id": "sticker-7350",
+        "name": "PGL | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID4pFrhR0ilx5C5rXoI6aX4aqZpcfWSVmbAk7l0trE_GHjiwx9-5zjUn4q3MSXAPkkBAAI"
+      },
+      {
+        "id": "sticker-7319",
+        "name": "paiN Gaming (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65Ib95GbgTRTlipPysycJt6OqPv1udafLDzGVmbhys7FsTi-xwkx1623WyIv6cyiSP1BxDMduBbldQ5i3R30"
+      },
+      {
+        "id": "sticker-7323",
+        "name": "Imperial Esports (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_Yrk1V7rSAnlm4Su_3Vauaf3bKBpdvWRDDKSw7x3srE6SXzkw0pz5G3UnN-oeXLGaA4oX4wwG7BIGU-4Iw"
+      },
+      {
+        "id": "sticker-7327",
+        "name": "The MongolZ (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-Ynz8GbgTRTlipPys3AO7av9O6Y9eajBWGTDluonsuJoTnnqzBxzsm7Sw9aseX2QbFBxXptuBbld3M6LIVA"
+      },
+      {
+        "id": "sticker-7331",
+        "name": "AMKAL ESPORTS (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI69Yr_62bgTRTlipPysyYCuaP9OPNoeKDCCjTCkbol47U4Hyzmw0h2t26GzIqoJyqebgB2X5puBbldn7_esmQ"
+      },
+      {
+        "id": "sticker-7335",
+        "name": "ECSTATIC (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68YTn_mbgTRTlipPysyAI7fT8bfI0JqeVDD6Vl-sv4-BtF36wxR8ltmnQyNn9c3_BbwAgA5RuBbldqpnQrsc"
+      },
+      {
+        "id": "sticker-7339",
+        "name": "KOI (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_4j91V7rSAnlm4Su-ScKvKr-MPU-cPPHCzKTlrcjsbZsSnDkwE5_t2iEztv6InmUaFIhW4wwG7CZyGA3GA"
+      },
+      {
+        "id": "sticker-7343",
+        "name": "Legacy (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-ID382bgTRTlipPysyQDvfP7OaU1cqmWCmORk7kl4ONtHiu2xkgm5jiDyN37J3PFZlcgA8BuBbldqDQ_C4w"
+      },
+      {
+        "id": "sticker-7347",
+        "name": "Lynn Vision (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-J765GbgTRTlipPysyFZu6T-MP06c6DEXjeRw-gms-JsTH7jwxlztmTdzYmgdS2XagIoXJBuBbldwN3Kato"
+      },
+      {
+        "id": "sticker-7351",
+        "name": "PGL (Glitter) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID41V7rSAnlm4Su-HdYvaL5PaE5canCWTTImLsltLk_S37iwhx162qEyIypci7DbAMjXIwwG7D6XNl3Pg"
+      },
+      {
+        "id": "sticker-7320",
+        "name": "paiN Gaming (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65Ib95GbvThH-0MK0-yNfvfb7PKc1daTDDDfDkuwg4-IxSnGyzEoitmXRztr6cnyVbgc-SswnJFKZ7n4"
+      },
+      {
+        "id": "sticker-7324",
+        "name": "Imperial Esports (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_Yrk1VHoTRK_n8Gyrnde6_T9aaJpI_bACzPDlepy4bNtSXjgx0h-5m7Uzt2rJXmRbBhgVMX4CmW0ug"
+      },
+      {
+        "id": "sticker-7328",
+        "name": "The MongolZ (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-Ynz8GbvThH-0JC1-CMMuKSqbPU1JPWRWzfDkbcm5rhrTXnhzUkl423XnImgcXjBPQU-SswnCp7SZdI"
+      },
+      {
+        "id": "sticker-7332",
+        "name": "AMKAL ESPORTS (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI69Yr_62bvThH-0M7kqSNZuqb9MPVrcaOXXDOVkusv57U-Snjnw0wi62yByor_cimSZlA-SswnMoob_g0"
+      },
+      {
+        "id": "sticker-7336",
+        "name": "ECSTATIC (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68YTn_mbvThH-0JC2-HoMt6qtbqA7JfbDCzHEx753seBsF3HmwE4m4m7czdz4JSiWZw8-Sswnuyqpt3E"
+      },
+      {
+        "id": "sticker-7340",
+        "name": "KOI (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_4j91VHoTRK_zsew-3oI66L2bvE4caeXDWKUlusi5uQ4H3i2x0px6m3Qyon9dXiWOhhgVMWd7fmupQ"
+      },
+      {
+        "id": "sticker-7344",
+        "name": "Legacy (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-ID382bvThH-0MLi-SZfvKP2aaE8eKKRVjOVmegm4OA5GS-1lEx_52vdzI6oci3GZwY-SswnGlB5x5Y"
+      },
+      {
+        "id": "sticker-7348",
+        "name": "Lynn Vision (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-J765GbvThH-0MfhrXFf6aSvbKFuIaLLX2XIxewu4OBrGC_nxxwk5zzXw9f6J36ROAI-SswnBHedd8Q"
+      },
+      {
+        "id": "sticker-7352",
+        "name": "PGL (Holo) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID41VHoTRK_zcWz-SBZvautaaZvePGSWmbJmb9z4LNoGS-1xUpw6zjVzd2reH6XZhhgVMUkI5aYEQ"
+      },
+      {
+        "id": "sticker-7321",
+        "name": "paiN Gaming (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65Ib95GbgThH10Ma2rSQLvPCrMP01dKPGXjLFlegj6LI7HX-xxxgltzjXzougdnrEPQc-Sswnb4oyj4w"
+      },
+      {
+        "id": "sticker-7325",
+        "name": "Imperial Esports (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_Yrk1V7oTRm_zM7i-3AIvaqqbvw1eaDADDbFkbsi4LY9GH3mw09xtm3Tntardn3CPBhgVMXceYjUDw"
+      },
+      {
+        "id": "sticker-7329",
+        "name": "The MongolZ (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-Ynz8GbgThH10Jfi_yEKt_H_baY8cPKVWT_Bkr4itOJrGHnixkxz52vdwo79cHmXOgA-SswnbxagtWY"
+      },
+      {
+        "id": "sticker-7333",
+        "name": "AMKAL ESPORTS (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI69Yr_62bgThH10JWw-HBe7ff5OPBvdqWSVjeRmLdytOU9GXyxkxlw62zQw939dnqfOwA-SswnJkYHwOI"
+      },
+      {
+        "id": "sticker-7337",
+        "name": "ECSTATIC (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI68YTn_mbgThH10JfjqyEKu6etPfZodfbBDDXIkLgv4bIxG32xw0124DmHwtn_cy_BOAE-SswnGZWXk04"
+      },
+      {
+        "id": "sticker-7341",
+        "name": "KOI (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6_4j91V7oTRm_ncbirnIK7fasaaZscaKSDD7Dxb93tbQ6GXqwwR9-5miHno2pcSieZhhgVMVEvskdHw"
+      },
+      {
+        "id": "sticker-7345",
+        "name": "Legacy (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-ID382bgThH10MfkrXFeuKf6MfxvIqDECDXClrx15eAxSSjjzEUi5T7dn4mgcnqTOFI-SswnK0EZLLk"
+      },
+      {
+        "id": "sticker-7349",
+        "name": "Lynn Vision (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6-J765GbgThH10MTiqyZa6ab2bfw6I_aQVzfBxL8isbcxHi3qwxx1tzmDyNn4cy-RaQY-SswnFoaTor0"
+      },
+      {
+        "id": "sticker-7353",
+        "name": "PGL (Gold) | Copenhagen 2024",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID41V7oTRm_msS5qyAPu6T9OPNvI6PCDzOUmegj6LZtSnixwkom5TmEyN6pcimfOhhgVMU7IsGRlg"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Copenhagen 2024 Contenders Sticker Capsule",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-QAWmExOBytfN6ASzkkB4k4zvdz974In6VbQ8iW5RzFLYOtBC9ltzmMbi3sgHZgoJDmyvgznQeVz5AD80",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_sticker_pack_cph2024_contenders",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_contenders"
     }
   }
 ]

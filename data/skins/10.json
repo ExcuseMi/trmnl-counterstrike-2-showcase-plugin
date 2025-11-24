@@ -1,31 +1,31 @@
 [
   {
-    "id": "skin-e56f49876bdd",
-    "name": "FAMAS | Colony",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has individual parts spray-painted khaki and grey.",
+    "id": "skin-708b065ba04a",
+    "name": "Desert Eagle | Tilted",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. Its aqua-colored base has been tagged with graffiti from different artists.\\n\\n<i>\\\"I want EVERY round\\\"</i>",
     "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
     },
     "pattern": {
-      "id": "so_space_marine",
-      "name": "Colony"
+      "id": "cu_overpass_aqua_deagle",
+      "name": "Tilted"
     },
-    "min_float": 0.06,
-    "max_float": 0.8,
+    "min_float": 0,
+    "max_float": 0.75,
     "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "47",
+    "paint_index": "138",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -50,52 +50,520 @@
     ],
     "collections": [
       {
-        "id": "collection-set-italy",
-        "name": "The Italy Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_italy_png.png"
+        "id": "collection-set-overpass-2024",
+        "name": "The Overpass 2024 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
     "crates": [
       {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
+        "id": "crate-5221",
+        "name": "Budapest 2025 Overpass Souvenir Package",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
       }
     ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I4M29eKVuJc-eD3WZz-tJvOhuRz39xExw5GXTw4qod3uUaQ91ApZ3QbMItxDrxtK2ZbuxtAaLg4hDxS76hjQJsHgze9LmZw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRZ7JoMuCSHXSvwP9jsd5tSii0mRgYvzSCkpu3cH-UOgV2D8RyQrMKsRW-mtWyPunr4VeNjIhMmX6ojigY7y9v5ehUA71lpPMO4MWI5A",
     "original": {
-      "name": "weapon_famas"
+      "name": "weapon_deagle"
     }
   },
   {
-    "id": "skin-97defdf0ce4c",
-    "name": "FAMAS | Yeti Camo",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. A blue and grey camo pattern has been applied.\\n\\n<i>Arctic camo, eh?</i>",
+    "id": "skin-48039a85c871",
+    "name": "Desert Eagle | Calligraffiti",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. The slide of this Desert Eagle has been decorated with silver paint pen calligraphy.\\n\\n<i>These things take time</i>",
     "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
     },
     "pattern": {
-      "id": "soe_blue_famas",
-      "name": "Yeti Camo"
+      "id": "deagle_calligraff",
+      "name": "Calligraffiti"
     },
     "min_float": 0,
-    "max_float": 0.7,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "114",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-34",
+        "name": "The Gallery Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-7003",
+        "name": "Gallery Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnYVuPD5baE6IfTFCmSRme0j5eU5SXrjkRwmt2rWnoqhdnjEPQQiDpRxTflK7EePRV2-Kg"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6_evb6hoH_OSAmuZxvx3tudWQyC0nQlp52rQmNv_IC7DaFR0ApB4QbMKs0W8k9zuPr6xtAGMjoITmymohyMa6jErvbhrxmEjWA",
+    "original": {
+      "name": "weapon_deagle"
+    }
+  },
+  {
+    "id": "skin-4515a7cdcc74",
+    "name": "Desert Eagle | Serpent Strike",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been custom painted with an orange and red snakeskin pattern.\\n\\n<i>Serpentine!</i>",
+    "weapon": {
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "deagle_snake_pattern",
+      "name": "Serpent Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.57,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1189",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-35",
+        "name": "The Fever Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-7007",
+        "name": "Fever Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frncVtqv7MPE8JaHHCj_Dl-wk4-NtFirikURy4jiGwo2udHqVaAEjDZp3EflK7EeSMnMs4w"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6_evb6hoH-OdD2yV_v53pPVsXSeMmRQguynLzdmsIHOVPVciXMN3QuVeuxexmtHuP77m7gDd34kRxXj_3ChKvS9p5fFCD_SJMmxOXA",
+    "original": {
+      "name": "weapon_deagle"
+    }
+  },
+  {
+    "id": "skin-87ee5eacc505",
+    "name": "Desert Eagle | Code Red",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A custom paint job with a bright red base and white detailing has been applied.\\n\\n<i>Man your stations</i>",
+    "weapon": {
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_deagle_aggressor",
+      "name": "Code Red"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "711",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-20",
+        "name": "The Horizon Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_20_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3IV6vSrbfw8eaiWCjWVkewgseM9TXyxl0wi6mSHn9-tIHqUbg5yDpEmEPlK7EcXFmSLsw"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWaXxvxzo_JmXRa_nBovp3PRmNj4c3mTb1RxC5cjF-EItRnrlNzkYrnk5gaI3Y0UmyX52H9K7ixs_a9cBsGEcOCn",
+    "original": {
+      "name": "weapon_deagle"
+    }
+  },
+  {
+    "id": "skin-2a0e222beb58",
+    "name": "Desert Eagle | Light Rail",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. Its custom paint job creates an optical illusion and appears to change the weapon's geometry.\\n\\n<i>Required power supply sold separately</i>",
+    "weapon": {
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_deagle_exo",
+      "name": "Light Rail"
+    },
+    "min_float": 0,
+    "max_float": 0.9,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "841",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-22",
+        "name": "The Prisma Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_22_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4598",
+        "name": "Prisma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWKIztF6ueZhW2fhlhlw6m-GnNyvIiiXOwQoDMR2QbZe5hi5k9KxN-vhtFbciN1FnyqskGoXuU4JtHUo",
+    "original": {
+      "name": "weapon_deagle"
+    }
+  },
+  {
+    "id": "skin-4d9b6a2f7a10",
+    "name": "Desert Eagle | Fennec Fox",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been custom painted with a fennec fox on the barrel. The grip features teal and orange designs.\\n\\n<i>All the better to hear you with</i>",
+    "weapon": {
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_deagle_fennec",
+      "name": "Fennec Fox"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "764",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage-2021",
+        "name": "The 2021 Mirage Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4810",
+        "name": "Stockholm 2021 Mirage Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_2aHGaXxKB0s7dtHiu3lkl1sTyEyN_7eHmTaA92Dsd4TbQP5hGxxNWzZei05FTalcsbmo3RwBXU"
+      },
+      {
+        "id": "crate-4836",
+        "name": "Antwerp 2022 Mirage Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-eB3WRxus45udtF3C2wh92sjzcw42teHKXZgNyCcclQbML4EOxwIW1YuO05wTagpUFk3vrzNKexg"
+      },
+      {
+        "id": "crate-4861",
+        "name": "Rio 2022 Mirage Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6lkMvGUCynAmL5w4bk5F3_qzUwjtW6BmIr7InnCZgMhXJV5ReVctEKxkNfvZOmx-UWA3EHNY_eN"
+      },
+      {
+        "id": "crate-4894",
+        "name": "Paris 2023 Mirage Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSLfmBD2CVj75z6LM_S322w0l04G7QmYypcX-TZlAoCcN2RLEMukXsk4LvMO2wsVDAy9USqEumK38"
+      },
+      {
+        "id": "crate-4927",
+        "name": "Copenhagen 2024 Mirage Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6lkMvGUCynAxLxw5rQ-TnywwUQj5GnVnNj9dCjFb1cjWZJ1TO4Itxm6ldbvY--x-UWA3At843U9"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1idyPx3t-QnFy-2lh9x5miEz9ioIHOSbgFzCcMmFrVeshSwxNO2P-Pi4QHZj9pGyjK-0H36I6RBSg"
+      },
+      {
+        "id": "crate-5121",
+        "name": "Austin 2025 Mirage Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1idyPx3t-QnHH2xkUQk62uBntitdn3DPAdyCJR4RedY5kS_m4W2MLjq51De2YwWzzK-0H0bzeKCgA"
+      },
+      {
+        "id": "crate-5220",
+        "name": "Budapest 2025 Mirage Souvenir Package",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWGVz-Bzs95lRi67gVN14GvRyt77cnKfagRyXsMiTeUNtRO5kYWyYr7i4lfZgoIUzX722CpO8G81tMpbNfMB",
+    "original": {
+      "name": "weapon_deagle"
+    }
+  },
+  {
+    "id": "skin-a79b5b4ad623",
+    "name": "Desert Eagle | Mecha Industries",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. Its white and black design feels both sterile and futuristic.\\n\\n<i>Same technology, now available in a smaller form factor</i>",
+    "weapon": {
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_deagle_mecha",
+      "name": "Mecha Industries"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "805",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-21",
+        "name": "The Danger Zone Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_21_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3MVv_H4a6FucPPBWjDIkbdz4rg4Syyyxxsi5mzRntuvJCqVbwAgDZBwRPlK7EcZJ5GkQA"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWqVwuZ3j-1gSCGn20h042vSyY2tdyjCZwIlXJBxQeNe4EWxxoHkMOq0sQGIid5Fnyr42HtXrnE8p4gbgvE",
+    "original": {
+      "name": "weapon_deagle"
+    }
+  },
+  {
+    "id": "skin-96bbc2859318",
+    "name": "Desert Eagle | Mint Fan",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A teal and brown halftone fan pattern has been applied.\\n\\n<i>Let's clear the air</i>",
+    "weapon": {
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "ht_earth_fans",
+      "name": "Mint Fan"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
     "rarity": {
       "id": "rarity_rare_weapon",
       "name": "Mil-Spec Grade",
@@ -103,7 +571,7 @@
     },
     "stattrak": false,
     "souvenir": false,
-    "paint_index": "1219",
+    "paint_index": "1257",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -135,42 +603,42 @@
     ],
     "crates": [],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I4PeRaqh4Jc-VD2qR0tF6ueZhW2fjk01x5jiBytqveXiWOFcnDJMmQeMLskPrmoCzYrzn7wPd3d1Fnyv8kGoXufV393rw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-aRbaV_NPisCGae0tF6ueZhW2ewlEoktW2AnI2qJHqSPFBxXJp0QrEIsRbpwYC0Purr4w3W3t1CmXiokGoXuVx1ISUO",
     "original": {
-      "name": "weapon_famas"
+      "name": "weapon_deagle"
     }
   },
   {
-    "id": "skin-1a08f20b0116",
-    "name": "FAMAS | Grey Ghost",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. A silver hydrographic pattern has been applied and finished with red accents.\\n\\n<i>Sterling qualities</i>",
+    "id": "skin-c97d7ecf1434",
+    "name": "Desert Eagle | Urban DDPAT",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
     "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
     },
     "pattern": {
-      "id": "soo_famas_grey_ghost",
-      "name": "Grey Ghost"
+      "id": "hy_ddpat_urb",
+      "name": "Urban DDPAT"
     },
-    "min_float": 0,
-    "max_float": 0.637288,
+    "min_float": 0.06,
+    "max_float": 0.8,
     "rarity": {
       "id": "rarity_uncommon_weapon",
       "name": "Industrial Grade",
       "color": "#5e98d9"
     },
     "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1321",
+    "souvenir": true,
+    "paint_index": "17",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -195,262 +663,140 @@
     ],
     "collections": [
       {
-        "id": "collection-set-timed-drops-warm",
-        "name": "The Radiant Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I4P2RbqVgIeOsCXWV2NFxuO56Wxa_nBovp3PXy9j6dX-fOFUoDZB4Q7IIsBTtwNHjN77jtVfdiY1ByyStiigcun0-_a9cBi0W6vWE",
-    "original": {
-      "name": "weapon_famas"
-    }
-  },
-  {
-    "id": "skin-c5816102c9ab",
-    "name": "FAMAS | Crypsis",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been spray painted with a randomized insect pattern in autumn colors.\\n\\n<i>Take a second look</i>",
-    "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_famas_ghost_insects",
-      "name": "Crypsis"
-    },
-    "min_float": 0,
-    "max_float": 0.55,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "835",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-22",
-        "name": "The Prisma Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_22_png.png"
+        "id": "collection-set-overpass",
+        "name": "The Overpass Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
       }
     ],
     "crates": [
       {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+        "id": "crate-4028",
+        "name": "ESL One Cologne 2014 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2hfqF_MPGAHSnIxLYi6bc9Fnrjlx90sT6Byt6qc3PCZ1NzA8ZxTeUOtEK_ktWzP-vn-UWA3B_cRugF"
+      },
+      {
+        "id": "crate-4037",
+        "name": "DreamHack 2014 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2hfqF_MPGAHSmVk74n4rFtHXvixB535mmAydytcC7EZwEjX5ZyRbUItxO-w4ezZOO3-UWA3FVu4DJF"
+      },
+      {
+        "id": "crate-4085",
+        "name": "ESL One Katowice 2015 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvzvhzovFoXDr9k0h26z-Bm9_8cn_Gb1chCJF0Q-cKu0G9xtS2NrnitlaIg9pDmHqqjjQJsHjDVQj_1A"
+      },
+      {
+        "id": "crate-4135",
+        "name": "ESL One Cologne 2015 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1if1-tkoOB6XGewlBkltWvcz9mqcS3FawQnX5VyE-FfsETulNzuZrvj7wOI2IgRn33-kGoXuaDtvDHd"
+      },
+      {
+        "id": "crate-4180",
+        "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtiNvWBHmaD0qB14eQ7Fnu2kBt-tzyAmY2uJHjGbQ9zXpFyQu4JuxCxxoWzYujltAzWlcsbmgdwiYOH"
+      },
+      {
+        "id": "crate-4229",
+        "name": "MLG Columbus 2016 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsAXGV0_53o_InGSqywxsmsjzSn9b7JXOfaw8pW8F5E7MPtBa-kNC1P-iz4wzcjogRnjK-0H0D3guCcQ"
+      },
+      {
+        "id": "crate-4277",
+        "name": "Cologne 2016 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-cGGKC0e9lo69oSn_rwh5xtmmHz92oIHKRbwF1A5pyTOYPsBa-k9HgZr-341bag9kT02yg2RFtcI4d"
+      },
+      {
+        "id": "crate-4347",
+        "name": "Atlanta 2017 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-cGGKC0e9lo688Fn3hwh4jtzzVz9n8JXqSalIkWZB5EbEMthG_w9ziNbzn4VTZ2o8X02yg2WaaSON0"
+      },
+      {
+        "id": "crate-4399",
+        "name": "Krakow 2017 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_-FC3WAwP1l_uQ9Tn-wlB934G_Tz9agInmSPAQpC5F1ReYJ4RPqkNa2Zri35VDW2YtbjXKp_KKsY4E"
+      },
+      {
+        "id": "crate-4466",
+        "name": "Boston 2018 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_-FC3WAwP1l_rE5GnuywERw4GyEzdaoc3qVP1QgCJMkQLEM5ELumtfuY7i34AWMiNlbjXKpg6q8eoQ"
+      },
+      {
+        "id": "crate-4543",
+        "name": "London 2018 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_-FC3WAwP1l_rg8Hii3xU4k5GzVw4r9dnORaw5yA5dxEbJYtRbqwIfgP-rq5wHc2otbjXKpw2xpipc"
+      },
+      {
+        "id": "crate-4593",
+        "name": "Katowice 2019 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsAXGV0_53o_InTC3qlxl24GzSyNuqIn-QZlUjW5J3R-EIs0Wwkd3vP7jh4FSMit8TzDK-0H2AZVR1nA"
+      },
+      {
+        "id": "crate-4663",
+        "name": "Berlin 2019 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_-FC3WAwP1l_rE5HSvjw0t2tm7UzYv7ICiVPwMhC8B5Redb4RDrxNHkYbjrsgfWi4pbjXKpWgdI9Xk"
+      },
+      {
+        "id": "crate-4812",
+        "name": "Stockholm 2021 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_-FC3WAwP1l_uA4G3jlkUxw6z7QzYuvcH3CPVMkDZYlRuECuhHpwdfuMuiz5lHWjY5bjXKp2XQFSpU"
+      },
+      {
+        "id": "crate-4838",
+        "name": "Antwerp 2022 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-cGGKC0e9lo69rG3CyxR4h4GyBzd6rcHqWOlAhXJB0R7ZY4xm7mtDgZOPr4gLYiY4R02yg2Tiu-RW9"
+      },
+      {
+        "id": "crate-4863",
+        "name": "Rio 2022 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6t7JeKDD3SDj-pz47A8SXnqw0t_5DvVzoyveSnDbQR2XsZzRLZfsBW9xtfvMuOxtgPAy9USE77L80k"
+      },
+      {
+        "id": "crate-4896",
+        "name": "Paris 2023 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSL-aWHHeR0v04s-BvHijgkxx1tmiDyt2qeXOVaA50WMYjQ7UN40Wxm9HgYbzhtVDe3pUFk3swwkQ4BA"
+      },
+      {
+        "id": "crate-4929",
+        "name": "Copenhagen 2024 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6t7JeKDD3SDj-wjteAxH3zrwksksmjUyoysJ36fZw4kC5NzFOILsRG5kta2NevjslPAy9USrECBPak"
       }
     ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_82oaalsM8-UBmiD1dF_vvJsTD2gqhEutDWR1IyudXKSOFIkC8QhTbEK5kK8x9C2NOK3slbYg48Rnyr_hixI6i85sr0cEf1yzP52oWI",
-    "original": {
-      "name": "weapon_famas"
-    }
-  },
-  {
-    "id": "skin-72470f196aad",
-    "name": "FAMAS | Macabre",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been spray painted with a green design over a yellow undercoat.\\n\\n<i>A gruesome discovery</i>",
-    "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_famas_macabre",
-      "name": "Macabre"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "659",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-17",
-        "name": "The Operation Hydra Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_17_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4352",
-        "name": "Operation Hydra Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHUVt_b6PfY1JfOSXDXJxbgjtLFqHnDqx0Qmtm_Vzdf4ICmUZlJ2C5F2TPlK7EdjN0FcPg"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_82oaalsM8-eD2SRw_xzj-1gSCGn2xkm5myEzo2sdXPBagInW5pxTLICshnswdOxNrzj71fc2d5CzC76iSJXrnE8xi9ndzw",
-    "original": {
-      "name": "weapon_famas"
-    }
-  },
-  {
-    "id": "skin-c89faba1f03b",
-    "name": "FAMAS | Night Borre",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been spray-painted with a Norse inspired pattern of interlocking blue rings.\\n\\n<i>\\\"It is better to fight and fall than to live without hope\\\"</i>",
-    "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_knots_blue",
-      "name": "Night Borre"
-    },
-    "min_float": 0,
-    "max_float": 0.55,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "863",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-norse",
-        "name": "The Norse Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_82lZqt5M8-RAnKV_uJ_t-l9AXHrxEV-sT-Ez9j7eHuVPQQgXpIhEOQPtxa_wd3gZbnm4QHXi49FxCXgznQeEWoLaGo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRbKB9IeSsG3WS_uJ_t-l9AXm2kxkk42rWn9egc36UOwYiX5N1EOVYsRLtldC0M77g5QXfiN1Fzn_gznQemk8fKYk",
     "original": {
-      "name": "weapon_famas"
+      "name": "weapon_deagle"
     }
   },
   {
-    "id": "skin-466d0513f5e8",
-    "name": "FAMAS | Teardown",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been spray-painted freehand using mesh fabric as a stencil.",
+    "id": "skin-4785ea4beb4c",
+    "name": "Desert Eagle | Mudder",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted in a marbleized pattern.",
     "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
     },
     "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
     },
     "pattern": {
-      "id": "sp_mesh_hot_and_cold",
-      "name": "Teardown"
+      "id": "hy_mottled_sand",
+      "name": "Mudder"
     },
-    "min_float": 0,
-    "max_float": 0.6,
+    "min_float": 0.06,
+    "max_float": 0.8,
     "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "244",
+    "paint_index": "90",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -475,9 +821,9 @@
     ],
     "collections": [
       {
-        "id": "collection-set-safehouse",
-        "name": "The Safehouse Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_safehouse_png.png"
+        "id": "collection-set-lake",
+        "name": "The Lake Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_lake_png.png"
       }
     ],
     "crates": [
@@ -493,1938 +839,31 @@
       }
     ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_82jbbdlH_icGliRz-pJs-5lSxa_nBovp3PQw9r9cXuQZwMjXMF0E7YN4ES9loflPu_htQTX3otGyS3_iCNP6ixq_a9cBmFkCHH9",
-    "original": {
-      "name": "weapon_famas"
-    }
-  },
-  {
-    "id": "skin-5b9bb3d791e6",
-    "name": "FAMAS | Sundown",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. Purple palm fronds have been spray-painted over a blue and pink camo.\\n\\n<i>A E S T H E T I C</i>",
-    "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_palm_sunset",
-      "name": "Sundown"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "869",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-stmarc",
-        "name": "The St. Marc Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_82-aahgH-OGAHSV1dF6ueZhW2frzEQhsWrRzNqoIHjCbgR1C5ZxRuIPsUO9l9XiYrnh7lPdj90Uni__kGoXuWBgr_h1",
-    "original": {
-      "name": "weapon_famas"
-    }
-  },
-  {
-    "id": "skin-6a311da581dc",
-    "name": "FAMAS | Spitfire",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. This memento from Cache has been painted with a shark's mouth in the style of aircraft nose art.\\n\\n<i>Jester's dead</i>",
-    "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_spitfire_famas_bravo",
-      "name": "Spitfire"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "194",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-bravo-ii",
-        "name": "The Alpha Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bravo_ii_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_829eK15JvmBC1iWwON3o95rXSilmiIrujqNjsGhI3ueZwJ1CMZ5ROYLthjqm9TuMeq2tgXWiYlDmy_733wd6S5isOcKT-N7rQ0Sk12j",
-    "original": {
-      "name": "weapon_famas"
-    }
-  },
-  {
-    "id": "skin-38b1b885d5d4",
-    "name": "FAMAS | Contrast Spray",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been spray-painted freehand with short, thick lines in contrasting colors.\\n\\n<i>Perfect for the insurgent on the go</i>",
-    "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_spray",
-      "name": "Contrast Spray"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "22",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-office",
-        "name": "The Office Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_office_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_829eLZsOc-fB2CY1aByseI-THiwxU1-4j7dnI74eHOUaQciC8d4ReEC4RLpwNXmYrjh4wfflcsbmhid3JyN",
-    "original": {
-      "name": "weapon_famas"
-    }
-  },
-  {
-    "id": "skin-eb2b0b6bcfd8",
-    "name": "FAMAS | Palm",
-    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
-    "weapon": {
-      "id": "weapon_famas",
-      "weapon_id": 10,
-      "name": "FAMAS"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "spo_palm",
-      "name": "Palm"
-    },
-    "min_float": 0,
-    "max_float": 0.75,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1302",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-timed-drops-neutral",
-        "name": "The Boreal Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I__2ReKVhLc-fB2CY1aB06LgwSX_qkx914G7UyI2hI3KfaQYhWMRzRbMMshS8wYLkZenk51bdlcsbmgtj5aMJ",
-    "original": {
-      "name": "weapon_famas"
-    }
-  },
-  {
-    "id": "skin-72c4240d9c33",
-    "name": "Five-SeveN | Berries And Cherries",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. The slide has been painted half red and half blue.\\n\\n<i>Woop-woop!</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "aa_fade_red_blue",
-      "name": "Berries And Cherries"
-    },
-    "min_float": 0,
-    "max_float": 0.1,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "1002",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-op10-ct",
-        "name": "The Control Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ct.aaf2dd57a339a610de6f4514a76eb1e846647cc0.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRaaVSJvGXC1iCxOpJsu18Sha_nBovp3OEmY2vIi_FagEoDMMjQuMKthDqm9TjP-O3sVSLio0Qnnr22i0f7C9t_a9cBnO-dw69",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-5a5e6018f632",
-    "name": "Five-SeveN | Copper Galaxy",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted with metal flake paint.\\n\\n<i>Stars are just pin pricks at the darkness</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "am_copper_flecks",
-      "name": "Copper Galaxy"
-    },
-    "min_float": 0,
-    "max_float": 0.2,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "274",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-weapons-iii",
-        "name": "The Arms Deal 3 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_weapons_iii_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4010",
-        "name": "CS:GO Weapon Case 3",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKi0JS0pCZYvaCvOPI0eaHKWjGVmbovs7ZrHH_nl0oj5mXSzNqqdS7BaAc-SswnOWLoN2Y"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRaalSI_-DHmKC_uh6teJiXBa_nBovp3OAnN_6cXvEOwFzDcFzQ7Vc4BPuwNy0M7jk5gWL39pCnC35jShN6S1p_a9cBt8cUyQh",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-45614ab4f605",
-    "name": "Five-SeveN | Silver Quartz",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted with metallic paint and uses a crystallizing mask to create a pattern.\\n\\n<i>Everyone wants to make an impact</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "am_crystallized_silver",
-      "name": "Silver Quartz"
-    },
-    "min_float": 0,
-    "max_float": 0.4,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "252",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-safehouse",
-        "name": "The Safehouse Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_safehouse_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRaalSI-KKHXORzeJ_quRtcDq6mQsioQKJk4jxNWXCP1AmX8Z0EbIP5Be8w4fhNu7r5ATZ3t4Xzn782yJB63o-5bkLA_En5OSJ2KaCxRX6",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRZat5NPyWCliDwOByj-1gSCGn20gj4WrVyNiuJ3OfPVAjCpEmE7MKuxbqmtDmPuu0slDW3Y5GyS-tintXrnE8PKHjtHI",
     "original": {
-      "name": "weapon_fiveseven"
+      "name": "weapon_deagle"
     }
   },
   {
-    "id": "skin-4903c02b2512",
-    "name": "Five-SeveN | Anodized Gunmetal",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. This memento from Siege has been painted with a gunmetal anodized effect paint over a chrome base coat.\\n\\n<i>You don't know Felix Riley like I do... the man is impossible to break - The Traitor and The Truthseeker Part 1</i>",
+    "id": "skin-612659d976ea",
+    "name": "Desert Eagle | Urban Rubble",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
     "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_pistols",
       "name": "Pistols"
     },
     "pattern": {
-      "id": "an_gunmetal_bravo",
-      "name": "Anodized Gunmetal"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "210",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-bravo-ii",
-        "name": "The Alpha Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bravo_ii_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRaapSJ-WdA2KEwOJJsvNoWSaMmRQguynLy9v_J3qTPAYmX8Z5F-YCskG5xtHgNe22sgTYjIIXmSX5jX5L6Ck-t_FCD_SvybkrEQ",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-897d2a01202c",
-    "name": "Five-SeveN | Fowl Play",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted with a pattern of falling feathers.",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "aq_57_feathers",
-      "name": "Fowl Play"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "352",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-4",
-        "name": "The Breakout Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_4_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4018",
-        "name": "Operation Breakout Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqWxdv_b8O_w5eKXBWWXHw-smtrBvTHDmwEsl4jvWn4z_I3qWZwV1X5ZwW6dU5RcRF1o0"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRabVSdaesCGKR1eZzovJWQyC0nQlptm_Vw9ercnOUaA8lA5skFuIPsxPqmtXkNu205lfYiN8XnCyvj3hNvDErvbiIo1idJQ",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-277f6e42830d",
-    "name": "Five-SeveN | Heat Treated",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "aq_case_hardened_fiveseven",
-      "name": "Heat Treated"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "831",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRabVSI_GAC1iYwPxyte9sSxa1nAsioDiTn4HGLSLANkI-D5pxEbIDu0btkoXlNuO24wDZ2YhDmH7923tI7ClrsblWAqMj-KPRiBaBb-NawNZy0w",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-034f9e819612",
-    "name": "Five-SeveN | Scumbria",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been discretely painted with stripes.\\n\\n<i>You can't leave him to die, Felix; you have to save him - The Daughter and the Paladin Part 1</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "aq_five_seven_scumbria",
-      "name": "Scumbria"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "605",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-gamma-2",
-        "name": "The Gamma 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_gamma_2_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4281",
-        "name": "Gamma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjz61TqQCKj0JfipHMN7aX2bfM9eaPDXT7Glbx1s7Y8HHHnw0sltWXSmYmqcH-UaAU-Sswn_16VNj0"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRabVSJvmFC1iDxPhzvt56TDy-lw8usgKJk4jxNWXBP1JzAppxQ-UN5hm_mtLgZbjn5wPdi49Bnyqr3SJPvChq4-tWB6Ak5OSJ2BFWlPNZ",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-133e4c36778f",
-    "name": "Five-SeveN | Case Hardened",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "aq_oiled",
-      "name": "Case Hardened"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "44",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-weapons-ii",
-        "name": "The Arms Deal 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_weapons_ii_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4004",
-        "name": "CS:GO Weapon Case 2",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRabVSL_mfC2OvzedxuPUnH3C1kRsi4jiAw4qtdXjCO1V2WcZxF-EO5xLsxtHmMeKw5g3fit4TnDK-0H1W4XC76Q",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-f971772d4996",
-    "name": "Five-SeveN | Angry Mob",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A brightly colored paint job inspired by street art has been applied.\\n\\n<i>\\\"Inside voices, please\\\"</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_five_seven_angry",
-      "name": "Angry Mob"
-    },
-    "min_float": 0,
-    "max_float": 0.7,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "837",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-22",
-        "name": "The Prisma Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_22_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4598",
-        "name": "Prisma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC1iDxPhzvt5oQS6hjCIrujqNjsH_cy2RagUjA8BwR-de5hjskNflNrnqsgaLiYgRyyythitM7Hw-sekKT-N7rXEld5dH",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-f4418cce494a",
-    "name": "Five-SeveN | Violent Daimyo",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted with a graphic design in violet and black.\\n\\n<i>How will you rule?</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_five_seven_daimyo",
-      "name": "Violent Daimyo"
-    },
-    "min_float": 0,
-    "max_float": 0.7,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "585",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-13",
-        "name": "The Gamma Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_13_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4236",
-        "name": "Gamma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC1iDxPhzvt5tTiC-jBIYvzSCkpu3cXjCPAB2WZMmQ-EK4BTqlNSzNOLk71GI3tpGmX2oii5N6nk667kDWL1lpPNv4wCTtw",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-2e2b5cf9fae7",
-    "name": "Five-SeveN | Fairy Tale",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted with a princess, unicorns, beautiful flowers, and a castle in the distance.\\n\\n<i>\\\"Today's gonna be a good day—I can just feel it\\\"</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_five_seven_diary",
-      "name": "Fairy Tale"
-    },
-    "min_float": 0.02,
-    "max_float": 0.9,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "979",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-27",
-        "name": "The Operation Broken Fang Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_27_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3UVu6P-MPQ0dKbCVzLGx7wgtbM6S3jhw0V25m-EnNj7JS7GaQ4nD8QiRflK7EfH0YGFHg"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC1iDxPhzvt5tRiihjCIrujqNjsGtdi-UbVUgXJAlRrFfuxi-lNbuPr7ltA3cjtkRzyit2H8c7H1t4O9TT-N7rZbBTJfn",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-ee6dee51b1f5",
-    "name": "Five-SeveN | Scrawl",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. Custom designs have been hand-painted using bold strokes over a yellow and teal base.\\n\\n<i>The first and the last</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_fiveseven_alpha_omega",
-      "name": "Scrawl"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1128",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-30",
-        "name": "The Dreams & Nightmares Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_30_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-BlXyGyqhIqtjqEpYPwJiPTcAInA5J0FO9csBSww4bhZruzswLcjIsXmCusjCsbuno_57tXUqB386HJz1aW2pI_m5Q",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-47d923c1512d",
-    "name": "Five-SeveN | Triumvirate",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been given a light blue DDPAT hydrographic as well as a custom painted slide.\\n\\n<i>I don't profit from war, I profit from the human condition... - Booth, Arms Dealer</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_fiveseven_augmented",
-      "name": "Triumvirate"
-    },
-    "min_float": 0,
-    "max_float": 0.61,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "530",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-11",
-        "name": "The Wildfire Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_11_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4187",
-        "name": "Operation Wildfire Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHMVu6r9MaA6ePPAWjbGwrwm47dtTnu2kUl14mzUnomudnqQaQ4iApF5TPlK7Ee3MsZV-w"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-B8SCS2mwkitwKJk4jxNWWXPAZzD5pwTeBetUPtw4C1N7jh5A3bj48RxSyqiiwc7Sg6tr0ABaAk5OSJ2O3yTJMF",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-b2a5203033ee",
-    "name": "Five-SeveN | Monkey Business",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It's a banana.\\n\\n<i>Sometimes it's ok to play with your food</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_fiveseven_banana",
-      "name": "Monkey Business"
-    },
-    "min_float": 0.1,
-    "max_float": 0.9,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "427",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-7",
-        "name": "The Chroma 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_7_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4089",
-        "name": "Chroma 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqmwOuKD2PqI6caDBWDeUkO8uteM9SnDglklw6miEn9j6IHKfblNxA5pxW6dU5UH4LtBe"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-NoQSi9lCIrujqNjsGheXmXPQcoWMFzEO5ZtUOwkILjY7yzsg3ci91DySiohn4buCht4eYET-N7rZVO80Su",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-31de22ad9746",
-    "name": "Five-SeveN | Buddy",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted with camo patterns and a CT beneath the rear sight.\\n\\n<i>I've got your six</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_fiveseven_gsg9",
-      "name": "Buddy"
-    },
-    "min_float": 0,
-    "max_float": 0.55,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "906",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-24",
-        "name": "The CS20 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_24_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4669",
-        "name": "CS20 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3YVvfD9aqVveKaQDDKSl7134bg_HH3hlBty6z7Vn9v6eXmeZgBxWJd0EflK7Efs4hZiKQ"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-Z6SHCMmRQguynLw4r9IHiRbFdzA8FzELYL4xntw9e1Mu7q5laMjN5AzXiqinxI6iw_t_FCD_TZbg2oLg",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-06e2ad662c73",
-    "name": "Five-SeveN | Hyper Beast",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted with a beastly creature in psychedelic colors.\\n\\n<i>We're all monsters</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_fiveseven_hyperbeast",
-      "name": "Hyper Beast"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "660",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-17",
-        "name": "The Operation Hydra Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_17_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4352",
-        "name": "Operation Hydra Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHUVt_b6PfY1JfOSXDXJxbgjtLFqHnDqx0Qmtm_Vzdf4ICmUZlJ2C5F2TPlK7EdjN0FcPg"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-lwXyyhlxgmoCm6lob-KT-JO1QgWZVyELEPu0W4l9KzYbzn5Fbf3YkTzn_8hihIvXxtsOoFUKYirLqX0V_f6-eqCw",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-ef297140e6ea",
-    "name": "Five-SeveN | Retrobution",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It was been custom painted with a retro hydrographic.\\n\\n<i>Some things never go out of style</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_fiveseven_retrobution",
-      "name": "Retrobution"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "510",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-10",
-        "name": "The Revolver Case Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_10_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4186",
-        "name": "Revolver Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHIV7qWvOqE9IqSVWGKVlu8v6eM7Girmxkwl4TnWmIv8J36WagEiCpImQvlK7EclOzxxiQ"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j_NsWzu8lwgzujKLpYPwJiPTcAByWJB4TOULsxS5wNfmPuzjtQHciYpHmCuqhypJvSlr4LsGBaEmr_bJz1aWW-JyGhc",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-d2a66cdb3bf4",
-    "name": "Five-SeveN | Urban Hazard",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted with urban camo and red accents.\\n\\n<i>Every year, Booth gathers the worlds foremost designer gunsmiths to show off their latest designs</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_fiveseven_urban_hazard",
-      "name": "Urban Hazard"
-    },
-    "min_float": 0,
-    "max_float": 0.25,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "387",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-5",
-        "name": "The Vanguard Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_5_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4029",
-        "name": "Operation Vanguard Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fqGwPtvP9MKA_JKOSCGGWmL8useQ6TXywwB8k4T-EyImgeCmXbA4oAsRzW6dU5QwRm5UL"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j_R7TSi9qhUmqTyXnrD1KCzPKhhzXpBwFu9YtxK6k4buYenrtgDWj4NGyX3-2yhBun1qt-YBBKsg_aXWkUifZnLiQ4dl",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-32ee365f968a",
-    "name": "Five-SeveN | Capillary",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>20 over 100</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_fiveseven_vein",
-      "name": "Capillary"
-    },
-    "min_float": 0,
-    "max_float": 0.7,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "646",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-16",
-        "name": "The Spectrum Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_16_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4351",
-        "name": "Spectrum Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j_dsRieMmRQguynLmY79IinFbA90CZN2Q-Bc4UW6x9KyZLnjtQCMjo8WyXr7jy1O6Ck_sfFCD_SqR6qLvA",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-7ee34568efd6",
-    "name": "Five-SeveN | Fall Hazard",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A multicolored custom paint job which reads \\\"FALL\\\" and \\\"CONSTRUCTION\\\" has been applied.\\n\\n<i>Mind the gap</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_vertigo_fiveseven",
-      "name": "Fall Hazard"
-    },
-    "min_float": 0.01,
-    "max_float": 0.52,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "1082",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-vertigo-2021",
-        "name": "The 2021 Vertigo Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4815",
-        "name": "Stockholm 2021 Vertigo Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH-aWHHOZxuE457ExHy3lw0114TzSm4qodXKTagQnA8FwEOdesUW5lNPnZb7r41HX2JUFk3sAS6M-4w"
-      },
-      {
-        "id": "crate-4841",
-        "name": "Antwerp 2022 Vertigo Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-FC3WEyOl5_uM_F3zhlEhzsj_QyoyscnuSZ1IoXpUhTOcDuxjtl9TnMeLgswbe2d5bjXKpW0kdc8A"
-      },
-      {
-        "id": "crate-4866",
-        "name": "Rio 2022 Vertigo Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV7JoMuSaCWjelu0k47hsHXznxBxw5W6Gm4mhcnqTPFIhDJFwF-IN5EO9m4buZevqsxue1dxAqsnDRA"
-      },
-      {
-        "id": "crate-4899",
-        "name": "Paris 2023 Vertigo Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSNvWBGm6XzqBysbM_TCzhlEVz5WyAnNarJXyWPFclW8NwFOEPshLpm9LjMbyw5AbYlcsbmueqdWue"
-      },
-      {
-        "id": "crate-4932",
-        "name": "Copenhagen 2024 Vertigo Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV7JoMuSaCWjemOtysrU8H3iyx08msTnWyYr4JHOTb1MhDcEjQ-II4BC6k9C0ZuqztRue1dzI2NbPyg"
-      },
-      {
-        "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iGxPxiueZmASy3wU9y5z-HyN2pcHqVZ1dzA5IhFuAK5hexlNDjP--04QfWiIhHmH7gznQe8uF5Wjg"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-204c9ef36369",
-    "name": "Five-SeveN | Hybrid",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted with a silver base coat and bright purple stripes.\\n\\n<i>Party in the front, party in the back</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "fiveseven_hybrid",
-      "name": "Hybrid"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1168",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_33_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4904",
-        "name": "Kilowatt Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnEVvqf_a6VoIfGSXz7Hlbwg57QwSS_mxhl15jiGyN37c3_GZw91W8BwRflK7EfKsa2sfw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRbq17JeOWGGKe_uZvsvNgSxa_nBovp3OBmd6oJXyeaQ9yCsZxEOICsUO7kdK0Y-qxtFCN2YsQnCv7i39N7ixp_a9cBsh2vVQD",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-df168db99441",
-    "name": "Five-SeveN | Boost Protocol",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted using high contrast colors. The robot icon beneath the rear sight matches the art on the slide.\\n\\n<i>Callsign: MECHA 0272</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "gs_five_seven_efusion",
-      "name": "Boost Protocol"
-    },
-    "min_float": 0,
-    "max_float": 0.41,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1093",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-29",
-        "name": "The Operation Riptide Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_29_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRb7dSJvmFC1iDxPhzvt5sSTygnBIpjDGMnYftby7FalV1D5QhE-EDthW8xtCyPu63tFPciYhBynn_jykfuCttte4CA6E7uvqAn_5lxU8",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-42a677e4f00a",
-    "name": "Five-SeveN | Flame Test",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A silver flame on the muzzle overlays a purple base with a metal flake finish.\\n\\n<i>Element detected: Cs</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "gs_fiveseven_hot_rod_violet",
-      "name": "Flame Test"
-    },
-    "min_float": 0,
-    "max_float": 0.65,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "693",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-19",
-        "name": "The Clutch Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_19_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4471",
-        "name": "Clutch Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHsVtqr8a_dsdKTAWDWVxLgjsrAwHSvgwEQk4m-ByYuqIC2eO1VyD5QiR_lK7EcxQQPYQA"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRb7dSJvmFC3SV1-t4j-lmWxahmhkYpTSKlortHifOOV5kFJt1FOVYsBC_lobmNe3q4AOK3dhDnimrhyoa7i9ssO4CU6F0rvWBiwvfcepqcNk1MwM",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-4644eea45e85",
-    "name": "Five-SeveN | Crimson Blossom",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A wine colored rose bud hydrographic pattern has been applied.\\n\\n<i>No rose without a thorn</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "hy_bud_red",
-      "name": "Crimson Blossom"
+      "id": "hy_varicamo_urban",
+      "name": "Urban Rubble"
     },
     "min_float": 0,
     "max_float": 0.5,
@@ -2434,271 +873,8 @@
       "color": "#4b69ff"
     },
     "stattrak": false,
-    "souvenir": false,
-    "paint_index": "729",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-stmarc",
-        "name": "The St. Marc Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SIuWXMXWVxdF6ueZhW2ewkE5162rRnNerIy6WagApDptyRuVZshbql9DuMOPj71CI2YoRzyqokGoXufqVyZvA",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-cf50b5bef61d",
-    "name": "Five-SeveN | Coolant",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. The slide features a teal hydrographic pattern of interweaving pipes.\\n\\n<i>A handheld heat rejection device</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "hy_ducts_green",
-      "name": "Coolant"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
     "souvenir": true,
-    "paint_index": "784",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-nuke-2",
-        "name": "The 2018 Nuke Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_nuke_2_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4546",
-        "name": "London 2018 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_6GBWLewrt35LI8GHnlk0om42_Wn92vInmQPQJyDpYlFrMPtha_w9K2N-3n5hue1dz59svyCw"
-      },
-      {
-        "id": "crate-4596",
-        "name": "Katowice 2019 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsAHKbxKAn4eBsTC3mlk53tWqDnNv4di6SaAUjX5NxFuZcuxLrldDkMbzl5QbWlcsbmtmiS4Eu"
-      },
-      {
-        "id": "crate-4665",
-        "name": "Berlin 2019 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_6GBWLexbt1s-NsH3DgkU1-sWnSnt2pcXzCPQAhCcZxReMJ5kXqx4eyNOjrtRue1dxZghH5iQ"
-      },
-      {
-        "id": "crate-4814",
-        "name": "Stockholm 2021 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_6GBWLekOhz4rVtSy2ylxhysWvSmNurJSiQZlB1A8N0F-cP4ELrw9HmNeOxshue1dwR-YfRbg"
-      },
-      {
-        "id": "crate-4840",
-        "name": "Antwerp 2022 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-dG2yVj7oi4rhtSXiwkRwk5W_VzI2rdniTbVUhWJBxTeBe5kS5lYfmYe3h4lfAy9USZI7vLEE"
-      },
-      {
-        "id": "crate-4865",
-        "name": "Rio 2022 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6p4K_XdWTCVmO0m6bQ7THzlwx8i52WHnIqrcy-Wa1B1C8RxTLEO4Rm_l4XlNfSiuVKkZ-_svg"
-      },
-      {
-        "id": "crate-4898",
-        "name": "Paris 2023 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSLuWYCymRlbYgsuI8HX7rlhhxt2_Umdj9JXLGagcnDpIhE-MD5xe8wdXiMOjk-UWA3JoAHXbP"
-      },
-      {
-        "id": "crate-4931",
-        "name": "Copenhagen 2024 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6p4K_XdXmHElrogtLkxGXHgl0lw62-EyIyhcyiTZwUlXJV1TeUP40HpxNG0PvSiuVK0aQmXQA"
-      },
-      {
-        "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1ie1OVz_rA6H3-2kUQltTvRn46qeHmUbw92X5B0FLFe4xW6lYfjPrzjsQDYiINbjXKpXYSSkrU"
-      },
-      {
-        "id": "crate-5125",
-        "name": "Austin 2025 Nuke Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1ie1OVz_rY9S37kwh8h52_Qy92qcnmTOA8lDZNxQLQDsRe6mtW0ZezmtFPX2NpbjXKpvhIYpf8"
-      },
-      {
-        "id": "crate-5224",
-        "name": "Budapest 2025 Nuke Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SJOWQGnSvxvxzte9WQyC0nQlp5m_cmNqueH7EbQAiXpN0FO5YtBK_x4XgMrjmswON2osQzn77iipJ6zErvbgVYFr6QQ",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-aded62e080e7",
-    "name": "Five-SeveN | Nightshade",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted using a hydrographic with a floral pattern in the style of the Arts and Crafts movement.",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "hy_flowers",
-      "name": "Nightshade"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "223",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-esports-ii",
-        "name": "The eSports 2013 Winter Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_esports_ii_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4005",
-        "name": "eSports 2013 Winter Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHFkvqbgafw-JKHKWTGSw7wmtOMxTX2yw0ki5DyGm4ugcirGPQ4nC5B3EbNetw74zIMdBc4CJw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SJvycGWKC0tF6ueZhW2frl08m5mrXyd-seSmVOgUkX5MhReRcsRHsm9LjZe_htACI3oJEzHj6kGoXucu6NwSL",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-d4dd8527d3b1",
-    "name": "Five-SeveN | Forest Night",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "hy_forest_night",
-      "name": "Forest Night"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "78",
+    "paint_index": "237",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2791,107 +967,42 @@
       }
     ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SJv-BC3SE_uB_t-l9cCW6khUz_T7Untv9cXmfPAEnCZFwRLUJtEXtxN3iN-mz7gffjtkRnir-2nkauyx1o7FVpfrK-Xo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRfqV_KfOSA2iv1Px0se9WQyC0nQlp52nWmduhIn-QaQIpX5RyF-ZY5BS4l9TjZOPmsleN34wWnir73yJI7zErvbj27zddPg",
     "original": {
-      "name": "weapon_fiveseven"
+      "name": "weapon_deagle"
     }
   },
   {
-    "id": "skin-592da919e2a7",
-    "name": "Five-SeveN | Kami",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted using a hydrographic in a Japanese manga pattern.\\n\\n<i>Some ghosts won't stay buried</i>",
+    "id": "skin-23f9c7c6a6d9",
+    "name": "Desert Eagle | Crimson Web",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
     "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_pistols",
       "name": "Pistols"
     },
     "pattern": {
-      "id": "hy_kami",
-      "name": "Kami"
+      "id": "hy_webs_darker",
+      "name": "Crimson Web"
     },
-    "min_float": 0,
-    "max_float": 0.3,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "265",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-1",
-        "name": "The Winter Offensive Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_1_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4009",
-        "name": "Winter Offensive Weapon Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frGxZvqX4avxuIabDXDPJxb534uQ-TH-3wk8isGqByIuoIHKRbQRyXpJ2W6dU5a9fuS_R"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SK_GeB1icyOl-pK9oGnHnk012sT_XzNv4eXuUawUlDpEkQOIN40XskIHmP-mx4wOLio1B02yg2SJzf1Vk",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-bbc154da8876",
-    "name": "Five-SeveN | Neon Kimono",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted with a hydrographic in a geometric motif.\\n\\n<i>I know I'm asking a lot of you... Turner was like your son - The Paladin and The Teacher Part 1</i>",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "hy_kimono_diamonds",
-      "name": "Neon Kimono"
-    },
-    "min_float": 0,
+    "min_float": 0.06,
     "max_float": 0.8,
     "rarity": {
       "id": "rarity_mythical_weapon",
       "name": "Restricted",
       "color": "#8847ff"
     },
-    "stattrak": false,
+    "stattrak": true,
     "souvenir": false,
-    "paint_index": "464",
+    "paint_index": "232",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2916,41 +1027,678 @@
     ],
     "collections": [
       {
-        "id": "collection-set-kimono",
-        "name": "The Rising Sun Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kimono.eec9d131eed8efec7910f137cf0cadb710e576c8.png"
+        "id": "collection-set-esports-iii",
+        "name": "The eSports 2014 Summer Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_esports_iii_png.png"
       }
     ],
-    "crates": [],
+    "crates": [
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-UnoUwniocSwrHZk_OejZaF_bvXGWT6Vkughs-A5H321kUQl5myEm9__dHKQaw8gWZtzQ7VYu0a-lYf5d7S1qrUfUsY"
+      }
+    ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SK_meAWmf_up_sexmQS2gqhEutDWR1In4di-TagIkXMMiF-Vcthm5kNbvML604Ffdgt4WzCj22ikau35q4OwcEf1ySWJgvKc",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRf6FvM8-XD3WbxPxJvOhuRz39wEUh5W3Rytyscy7FPAYgWJJzRe4MtUW8loKyZOm3sQzb34lEzyX32zQJsHig-EWd2A",
     "original": {
-      "name": "weapon_fiveseven"
+      "name": "weapon_deagle"
     }
   },
   {
-    "id": "skin-aec4b9b50be0",
-    "name": "Five-SeveN | Midnight Paintover",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A blue and black hydrographic graffiti pattern has been applied.\\n\\n<i>Signed, Doctor Romanov</i>",
+    "id": "skin-07884f77d452",
+    "name": "Desert Eagle | Night",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
     "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_pistols",
       "name": "Pistols"
     },
     "pattern": {
-      "id": "hy_overpass_paintover_teal",
-      "name": "Midnight Paintover"
+      "id": "so_night",
+      "name": "Night"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "40",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-chopshop",
+        "name": "The Chop Shop Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_P2RZq1qKOSsAm6Xyfo4seVrHHjmzRhz42XUm4mgIC6TaQYkXpMjTLIIsRawl9HhYbzktFPfgpUFk3u310nzMg",
+    "original": {
+      "name": "weapon_deagle"
+    }
+  },
+  {
+    "id": "skin-2d7d76a0b8b5",
+    "name": "Desert Eagle | Mulberry",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted with a deep, satin finish purple color.\\n\\n<i>\\\"It's fuchsia, spelled f-u-c-h-s-i-a\\\"</i>",
+    "weapon": {
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "soe_plum",
+      "name": "Mulberry"
+    },
+    "min_float": 0,
+    "max_float": 0.75,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1318",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-warm",
+        "name": "The Radiant Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_P2rV7RhNf2sAm6Xyfo44uIwGC_rx08lsjvdwt_7cinDZ1RyX8ZyRe8NsBexwdDgY-zr5gKI2pUFk3tTfLUzaw",
+    "original": {
+      "name": "weapon_deagle"
+    }
+  },
+  {
+    "id": "skin-be36aa1159cb",
+    "name": "Desert Eagle | Sputnik",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A space themed pattern consisting of stars and satellites has been applied.\\n\\n<i>Send and receive</i>",
+    "weapon": {
+      "id": "weapon_deagle",
+      "weapon_id": 1,
+      "name": "Desert Eagle"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "sp_spacerace_blue",
+      "name": "Sputnik"
     },
     "min_float": 0,
     "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1056",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train-2021",
+        "name": "The 2021 Train Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_OKRe7RsI_WBD2SV_ux6peRWQyC0nQlp5W6Hydz_In7CPQMjWcYmQrZZ5xLumtCxZrnhsQ2I3dkTmCz5jyoaujErvbhRuDcF4A",
+    "original": {
+      "name": "weapon_deagle"
+    }
+  },
+  {
+    "id": "skin-0feaf11a3f2d",
+    "name": "Dual Berettas | Cobalt Quartz",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been painted with metallic paint and uses a crystallizing mask to create a pattern.\\n\\n<i>Everyone wants to make an impact</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_crystallized_blue",
+      "name": "Cobalt Quartz"
+    },
+    "min_float": 0,
+    "max_float": 0.4,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "249",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-lake",
+        "name": "The Lake Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_lake_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4006",
+        "name": "DreamHack 2013 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
+      },
+      {
+        "id": "crate-4013",
+        "name": "EMS One 2014 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1a4s2ter1-NPGfAm6KxOpJsu18Sha_nBovp3OGm92vdXyWOgN2Dcd2E7Zfsxa7kNe2Zbm2slSN2N1HnCmqi39MuCc6_a9cBtlhe-EA",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-9fa2b66165fd",
+    "name": "Dual Berettas | Heist",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. Its base has been painted with a beige anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.\\n\\n<i>Planning is one thing, executing is another</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_heist_plans_green",
+      "name": "Heist"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1005",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-t",
+        "name": "The Havoc Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1a4s2mba1-NM-DAmae0tFxouRsQRa_nBovp3OEn437c3yTZlJ0DpB3QORfshS8xIfjYe3n7wTbi98Wzn2o2ilPuilv_a9cBr2drwX0",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-5eadf3687ff5",
+    "name": "Dual Berettas | Hemoglobin",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been painted using a transparent red abstract hydrographic over a metallic base coat.",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_ossify_red",
+      "name": "Hemoglobin"
+    },
+    "min_float": 0,
+    "max_float": 0.2,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "220",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-weapons-ii",
+        "name": "The Arms Deal 2 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_weapons_ii_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bji61XxRCKj0M-xr3IIvqP5PqI_c6LDCjWUkrdw5LUwTivgkE9wsGnUnNr8InzBP1c-SswnzDatg2g"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1a4s2he7dkJumsHGKU_uJ_t-l9ASjjxEgm4mWHzYuhdi-RPVByD5pxF-ULshS6xofjMrzgs1eIiIxHnnrgznQe0T5dj0k",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-077ca0be4b1f",
+    "name": "Dual Berettas | Emerald",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been painted with a chrome base coat and candied in transparent emerald anodized effect paint.\\n\\n<i>This is what the great Sebastien Hennequet has been reduced to? A nagging school marm?  What happened to you... - The Teacher and The Iconoclast Part 2</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "an_emerald",
+      "name": "Emerald"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "453",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-canals",
+        "name": "The Canals Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1a4c2rZaF_IfyXMWuZxuZi_uBrF3u3zE5xsWjTzIr7eHKeaVIpCpd5QOIC5xi_w9PjY-2x4QDd3opbjXKpzqjop3Y",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-ddc4aeda27ca",
+    "name": "Dual Berettas | Anodized Navy",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "an_navy",
+      "name": "Anodized Navy"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "28",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno",
+        "name": "The Inferno Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_inferno_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4023",
+        "name": "ESL One Cologne 2014 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2nZqJoMv6cQDHClOolteIwHyi2kBwj4GSGy9_6IyqRbAZzXpZwEO4Ns0LtwNzjZev8p1uJf7PEg0g"
+      },
+      {
+        "id": "crate-4032",
+        "name": "DreamHack 2014 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2nZqJoMv6cQDeTkrgktLg7Fyrhx0wh5zvRzNurcnOQbAYoDZYhQ7UL5kbrwNbhNuz8p1uJaNjkAo0"
+      },
+      {
+        "id": "crate-4080",
+        "name": "ESL One Katowice 2015 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvyOBwtfNnQGfhxUtx6z6BnNmpcSjBawAnA5F0QLJfs0Lrw9XvP-jn7wbfiY1CxX2okGoXuS0T9AvV"
+      },
+      {
+        "id": "crate-4133",
+        "name": "ESL One Cologne 2015 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iZz-hzou9mASjjzE9-tm_Smd2vcy6SZ1QlWJNxTO8NthPqwdbmPu627geP2okTmyrgznQe2HY2Zgc"
+      },
+      {
+        "id": "crate-4178",
+        "name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtkLvaWHGmfj713tLJqSXDikBx16mvVz9uvcHmRPFIhC5ZyRLIKtBTpl9PmMb_r5FHAy9USwmSsHgY"
+      },
+      {
+        "id": "crate-4227",
+        "name": "MLG Columbus 2016 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsB2mWxPx4v69rTHi2k08ht2WEw979cH_EaFUiX5UlR7YOthTtkIfnMry3tQHXjo0Q02yg2cWmvhnM"
+      },
+      {
+        "id": "crate-4396",
+        "name": "Krakow 2017 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_mdCGKCz-E457U5HnDiw0xy52jdnI6hcC7CbQFxDsRzQuMIsBDtl4CzNLu27gSL2pUFk3vwmWSPLA"
+      },
+      {
+        "id": "crate-4463",
+        "name": "Boston 2018 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_mdCGKCz-E4teNsHHq2wkR-sW3SzIuqeX-VPAYiWMYkEbQDukK_mteyZuq04laLj5UFk3t9bA-WVQ"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1a4c2gabJ0H_yaCW-Ej7ci4blsTi_kwkki62yAnN6tcHLGZg4iAsF1FLULuhPuxtTiMOnn4gzAy9USUx32_HM",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-df294c189613",
+    "name": "Dual Berettas | Cartel",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been engraved with skeletons, flowers and serpents.\\n\\n<i>That's why Huxley is doing the heavy lifting, all we have to is nudge her forward... - The Serpent and The Truth Seeker, Part 2</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "aq_dualberettas_cartel",
+      "name": "Cartel"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "528",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-11",
+        "name": "The Wildfire Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_11_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4187",
+        "name": "Operation Wildfire Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHMVu6r9MaA6ePPAWjbGwrwm47dtTnu2kUl14mzUnomudnqQaQ4iApF5TPlK7Ee3MsZV-w"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1a_s2qfaVhIvWBC3OEwP1Js-B7Wyy_qhEutDWR1I38I3yROgAmDZIjFuEJ50S6lNLvMuKx5lPbj9gRySz92HhKuiZp5ekcEf1yPnX3Fyc",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-c4a250807703",
+    "name": "Dual Berettas | Stained",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "aq_forced",
+      "name": "Stained"
+    },
+    "min_float": 0,
+    "max_float": 1,
     "rarity": {
       "id": "rarity_uncommon_weapon",
       "name": "Industrial Grade",
@@ -2958,7 +1706,500 @@
     },
     "stattrak": false,
     "souvenir": true,
-    "paint_index": "1062",
+    "paint_index": "43",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-italy",
+        "name": "The Italy Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_italy_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4006",
+        "name": "DreamHack 2013 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
+      },
+      {
+        "id": "crate-4013",
+        "name": "EMS One 2014 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1a_s2oZ7ZuJfSsAm6Xyfo45LVtG3zgzEt-tmWHydutd3nFaVciDJIjFrZZt0OxmoXkMuuz7wbY2pUFk3vnrYa7Ww",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-459ac0342b48",
+    "name": "Dual Berettas | Flora Carnivora",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. Three brightly colored, hungry carnivorous plants have been custom painted on each Dual Beretta.\\n\\n<i>Help them grow up big and strong</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_dual_elites_evil_flora",
+      "name": "Flora Carnivora"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1156",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-31",
+        "name": "The Recoil Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_31_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnMVu6b-avA-JqSSCjSWwuhz47U9TCzlxh9yt2WGnNqgIi-fbgUkWMNxFPlK7EdIJF6a2Q"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1Y-s2qfaVhH_WfB3OV0tFzpuhlcC-_mg8mjDGMnYftbynGOA4lDZd4FOZYuxi6kdPvZuLrsgTW2IIQxXn7iSNJ6ic96-YCB_I7uvqA4cV5qzc",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-248559e8b343",
+    "name": "Dual Berettas | Twin Turbo",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. A custom paint job paying homage to an Italian racing car has been applied.\\n\\n<i>Always an underdog</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_dual_elites_rally",
+      "name": "Twin Turbo"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "747",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno-2",
+        "name": "The 2018 Inferno Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_inferno_2_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4540",
+        "name": "London 2018 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_mdCGKCz-E44LZtTS_mwE9xt2XSm42hd33DPwNxXJd3Q-8I5EbrxoKzMuPh4QePjpUFk3uQG3tvkw"
+      },
+      {
+        "id": "crate-4590",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsB2mWxPx4v69tGivkkUgk5GqHm9j6J3_CaVApCJt2E-8MuxPtl4exZr_m5VPcjY9B02yg2SOGx-2Z"
+      },
+      {
+        "id": "crate-4660",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_mdCGKCz-E44LFoHXzqxk9_5W3SyturcnmVPVcnWcAjQLFfsxbqkIDjNuzgsQDbiJUFk3uBV19lLA"
+      },
+      {
+        "id": "crate-4809",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_mdCGKCz-E4tOM-GH7jlBhxtz-Hz9yveC6fbQYhX8MlRO4Os0bqw4LkM-i07gHfiJUFk3ucTvvj4w"
+      },
+      {
+        "id": "crate-4835",
+        "name": "Antwerp 2022 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-aAGGV0-B5_uNrTi-ywxkk5W7TzI2scimSbFB1CMd1QOcPsha7wdezNeiz7lHb3oNbjXKpZMl3KNA"
+      },
+      {
+        "id": "crate-4860",
+        "name": "Rio 2022 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV61jJvWBAGjembol5rc9GyvqxEQjtTnSmNqpdnyRawElD8NyFuFeuxS_w4XnM-mwsxue1dyMXtmjQw"
+      },
+      {
+        "id": "crate-4893",
+        "name": "Paris 2023 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSKf6VC3WezqAgsrhsFyixwE4m52jUytysI3vBbQ51DJImQ-NbtxO5w9LjY-Lh5ADclcsbmj4tCmqX"
+      },
+      {
+        "id": "crate-4926",
+        "name": "Copenhagen 2024 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV61jJvWBAGjekL9wsudvHHnhzUkm4W2Az96vcX6UZ1N1X5RwROIKsELuwIDuN7y04xue1dxm9sz2hg"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iZz-hzou9mAS3ql0ght2SHn9z6JXKQPQIlXpImF7ZfukTqk4GzM7_n4laK399GyijgznQeCDcguis"
+      },
+      {
+        "id": "crate-5120",
+        "name": "Austin 2025 Inferno Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iZz-hzou9mAXixxUl3t2uAnIysdC2Ub1IoD8dxReAK40Ptl4K2MLzi5VPW3tlGzH_gznQeA9NN0rg"
+      },
+      {
+        "id": "crate-5219",
+        "name": "Budapest 2025 Inferno Souvenir Package",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1Y-s2qfaVhH_WfB3OV0tFkse1lVha_nBovp3OHytv8JCnBbAF1X5MjR7UPsBfrmoHuNr7nsgbfjdlAxSr63CIfuChr_a9cBiuNovOB",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-3b525708df85",
+    "name": "Dual Berettas | Dualing Dragons",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has dragons laser-etched on the slide and barrel.\\n\\n<i>Marian was always cooler than Sylvia</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_dualberretta_dragons",
+      "name": "Dualing Dragons"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "491",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-9",
+        "name": "The Shadow Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_9_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4138",
+        "name": "Shadow Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fpGxet6H-O_Q6dfXCDzfJl7ci6bZoG3zjx0xz4ziEztj8IiiRa1QkWZdwW6dU5RegDbP-"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1Y-s2qfaVhIvWBHGKE1e9JtPNoSCa9hiIrujqNjsGqcn-VZ1JyXMR3RuMK5xDswNXkYbjitgePj91Bynn32y5N7ydtsLoET-N7rXzpOmeh",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-53e4dc76b3e5",
+    "name": "Dual Berettas | Melondrama",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. These berettas have been custom painted with a twisted, frightening depiction of a watermelon over a navy blue background.\\n\\n<i>Sweet dreams...</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_elites_beware",
+      "name": "Melondrama"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1126",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-30",
+        "name": "The Dreams & Nightmares Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_30_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1Y-s2rZK15JeOsDGKHwPxzj-1gSCGn20t_5TiBmdf9Jy-QaQIiW5F1E-BesxG9lIaxNuLj41He340Ryi79ii5XrnE8Xl7Qhlk",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-25ead8f88d62",
+    "name": "Dual Berettas | Urban Shock",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been custom painted with urban camo and blue accents.\\n\\n<i>With lightning always comes thunder</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_elites_urbanstorm",
+      "name": "Urban Shock"
+    },
+    "min_float": 0,
+    "max_float": 0.47,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "396",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-6",
+        "name": "The Chroma Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_6_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1Y-s2rZK15JeOsG3WSwOBlpO57Qha_nBovp3PQzI6pc3iRZ1cjC5dzQe4CsxPtwdHjMevq41CLjIpMm3_5jypN7Cxp_a9cBoxgoAoS",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-6e1eac6f1a57",
+    "name": "Dual Berettas | Sweet Little Angels",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. Two cherubs have been custom painted over a bright-colored graffiti base.\\n\\n<i>Aww, look how… precious they are</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_overpass_baby_dualies",
+      "name": "Sweet Little Angels"
+    },
+    "min_float": 0,
+    "max_float": 0.82,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "139",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -2996,170 +2237,42 @@
       }
     ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SL-aWHHeR0v1JoOBgQT28gxg1jCmAm4PGLSLANkI-X5YmF-QN4EK8wdXgNenrsgDejYNAmS33jHtB6Ctj5esBBKItqKXQhhaBb-MJGErI3w",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1Y-s2hfqF_MPGAHViSwOxvj-V8TiW6kA4YvzSCkpu3dHrEag8oCMd2EeMCtRa5xIbkZuuxtVbb2IhHz3_7hywavH1s6-lTB71lpPNncouquQ",
     "original": {
-      "name": "weapon_fiveseven"
+      "name": "weapon_elite"
     }
   },
   {
-    "id": "skin-0804d7a596cd",
-    "name": "Five-SeveN | Hot Shot",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted solid colors in light grey and hot green.",
+    "id": "skin-011747eede4b",
+    "name": "Dual Berettas | Retribution",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been custom painted in a military themed design.",
     "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_pistols",
       "name": "Pistols"
     },
     "pattern": {
-      "id": "so_grey_nuclear_orange_five_seven",
-      "name": "Hot Shot"
+      "id": "cu_retribution",
+      "name": "Retribution"
     },
     "min_float": 0,
-    "max_float": 1,
+    "max_float": 0.45,
     "rarity": {
-      "id": "rarity_uncommon_weapon",
-      "name": "Industrial Grade",
-      "color": "#5e98d9"
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
     },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "377",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-cache",
-        "name": "The Cache Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4026",
-        "name": "ESL One Cologne 2014 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2taadlJb7AWTOTwLhw6Lk9HijlwB5262TVnIyvJ3mTOARxCpp0FuIIsUXpm4LvKaq8sPTeGzME"
-      },
-      {
-        "id": "crate-4035",
-        "name": "DreamHack 2014 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2taadlJb7CVzbImL0g6bFqGi-3zR5z4m2Bm4mgcniXaQd1A8QmEOUI4Ba9l4HjKaq8sAL7emp8"
-      },
-      {
-        "id": "crate-4083",
-        "name": "ESL One Katowice 2015 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvwu91uOQnSnq3wR4msm7RyIyveHqTbFUgXMB1TLQLs0K5wIG2N-PjsQCM2I9BzDK-0H1by-7mfw"
-      },
-      {
-        "id": "crate-4136",
-        "name": "ESL One Cologne 2015 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iTwO1-ta9qFiq2lEQj426Gytb4eHmUawQkCZV5FuENshbukdziNrmxtALbi98T02yg2ZvtbtKo"
-      },
-      {
-        "id": "crate-4181",
-        "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtuIfObCynDw-gh6LYxGyjrkUsl52SHm939cC-eaw8hDcByELNesxa_x4LiMO2z-UWA3LPI9PnM"
-      },
-      {
-        "id": "crate-4230",
-        "name": "MLG Columbus 2016 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsDWaTyes4trFvHSrml013tT6Ewt2teX3GPwZ0WcEmTbUJ4RK6ktSzZezj7wfWgpUFk3tvzWKpPw"
-      },
-      {
-        "id": "crate-4278",
-        "name": "Cologne 2016 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-QD2SYxKAg4rI6SXC1lkh1sj6DytasdymVbVJzDsBxQ-9cukS-k9WzPrux71bZlcsbmhZVpERH"
-      },
-      {
-        "id": "crate-4348",
-        "name": "Atlanta 2017 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-QD2SYxKAgteI_HSvjzE90tm7Wztj_IC7BZg8hXpIhFrFcsBjpx9fgZeux5lSLlcsbmomGOWpb"
-      },
-      {
-        "id": "crate-4400",
-        "name": "Krakow 2017 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_OSDW-Vj-oktbg-Ti22zURxsmnXm4v7I3zBbwApCJIjEbJYu0PtldXlP-vi5QfAy9USAyhRW9o"
-      },
-      {
-        "id": "crate-4467",
-        "name": "Boston 2018 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_OSDW-Vj7t04-dsTijhw0l062yHmNr8JC-fOAYmWMR4FO9e5BXtxNKzMuPh5gbAy9USzSLZmlM"
-      },
-      {
-        "id": "crate-4544",
-        "name": "London 2018 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_OSDW-Vj-t1suVtGXCwzUh34m-Dn9n_cXLFZgUkApZ1QuVc4US8kdTuPurn4ATAy9USZV4vkGA"
-      },
-      {
-        "id": "crate-4594",
-        "name": "Katowice 2019 Cache Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsDWaTyes4trU8Hy21whl3tznSzdqscC-VOw5xDpV1TeAJtRa4kd3mPr6x7wDWiZUFk3sPJWbqoA"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSJ-KWF1ie1O16teB7cCahlBMgtgKDk5n8HjjCKFN-Zc4pEr9OrBm4xN3vNrix41aIjtkQyH-s2ipMvSY_sOxRBaFx-vCE3AuXYLE_45kdZKHwQRxY8PU",
-    "original": {
-      "name": "weapon_fiveseven"
-    }
-  },
-  {
-    "id": "skin-2cf756866c61",
-    "name": "Five-SeveN | Jungle",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has individual parts spray-painted solid colors in a jungle color scheme.",
-    "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "so_jungle",
-      "name": "Jungle"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
+    "stattrak": true,
     "souvenir": false,
-    "paint_index": "151",
+    "paint_index": "307",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -3176,46 +2289,48 @@
       {
         "id": "SFUI_InvTooltip_Wear_Amount_3",
         "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
       }
     ],
     "collections": [
       {
-        "id": "collection-set-aztec",
-        "name": "The Aztec Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_aztec_png.png"
+        "id": "collection-set-community-3",
+        "name": "The Huntsman Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_3_png.png"
       }
     ],
     "crates": [],
+    "special_notes": [
+      {
+        "source": "https://steamcommunity.com/games/CSGO/announcements/detail/1751086783896069815",
+        "text": "It was removed because one of its creators was also involved with the M4A4 Howl art theft. This is no longer obtainable from the Huntsman Weapon Case, but remains part of The Huntsman Collection and still works with trade-up contracts."
+      }
+    ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
     },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSKuWdCWuV_uJ_t-l9AXy3wEok5G6Gw9uocnKfbQRzXpJzQ-Ne4BLsm9LnNrzk7wWKiIxNxSngznQeNadjO4s",
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnl8StP6ryvOqJpJqjACjbBkb93srg-Fn7ilBhysWXSyNarJSqUZlIpCMclTbMCrFDmxYRwJ9Kk",
     "original": {
-      "name": "weapon_fiveseven"
+      "name": "weapon_elite"
     }
   },
   {
-    "id": "skin-b40e5d3bf2ff",
-    "name": "Five-SeveN | Nitro",
-    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has individual parts spray-painted black and tangerine orange.\\n\\n<i>Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer</i>",
+    "id": "skin-d3c029086736",
+    "name": "Dual Berettas | Black Limba",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. This memento from Agency has a dark patina and grips of black limba wood.\\n\\n<i>Where classic construction meets modern aesthetics</i>",
     "weapon": {
-      "id": "weapon_fiveseven",
-      "weapon_id": 3,
-      "name": "Five-SeveN"
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
     },
     "category": {
       "id": "csgo_inventory_weapon_category_pistols",
       "name": "Pistols"
     },
     "pattern": {
-      "id": "so_orange_accents",
-      "name": "Nitro"
+      "id": "cu_season_elites_bravo",
+      "name": "Black Limba"
     },
     "min_float": 0.06,
     "max_float": 0.8,
@@ -3224,9 +2339,9 @@
       "name": "Mil-Spec Grade",
       "color": "#4b69ff"
     },
-    "stattrak": false,
+    "stattrak": true,
     "souvenir": false,
-    "paint_index": "254",
+    "paint_index": "190",
     "wears": [
       {
         "id": "SFUI_InvTooltip_Wear_Amount_0",
@@ -3251,20 +2366,245 @@
     ],
     "collections": [
       {
-        "id": "collection-set-chopshop",
-        "name": "The Chop Shop Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
+        "id": "collection-set-bravo-i",
+        "name": "The Bravo Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bravo_i_png.png"
       }
     ],
-    "crates": [],
+    "crates": [
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj7-lz1QAn4kZjf9CsVuvf7OfQ5IabBVzbHlb915bcwHCjikEp_sTnTn4z6eH6RblQlC8RwFPlK7EdXSP0Ibg"
+      }
+    ],
     "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1Y-s29baV-L_6sC2uZ1etlj-N7Tj-8qhEutDWR1NyuJC6SPQQoC8N1TLYMthC_kNTmMOKw4gLe2osWmC6vhylB6C5i4OscEf1yNRLqhkE",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-8d6879f0a2bc",
+    "name": "Dual Berettas | Hideout",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been custom painted with a multicolored design.\\n\\n<i>Step right up, don't be shy</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "dual_berettas_lethal_grin",
+      "name": "Hideout"
+    },
+    "min_float": 0,
+    "max_float": 0.698529,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1169",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-33",
+        "name": "The Kilowatt Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_33_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4904",
+        "name": "Kilowatt Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnEVvqf_a6VoIfGSXz7Hlbwg57QwSS_mxhl15jiGyN37c3_GZw91W8BwRflK7EfKsa2sfw"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
     },
     "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSL-KSAGCV_u91s-RnWzqMmRQguynLy9ugci3EZlUpDMYjTOID4EPrxNTvZO224QWM3o9NniWs23lP5nw9tfFCD_Qs49oXvw",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6ZoMvWHGmaD_uJzpOloQxa0hxQpjDGMnYftb3-WbQ92WcZ4EeFZs0TtxIfvZr_m7wXW2I0TySv93ywd5yxu5-0FAPE7uvqA-FxXgtE",
     "original": {
-      "name": "weapon_fiveseven"
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-94f44ac08438",
+    "name": "Dual Berettas | Angel Eyes",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "dual_elite_biblical_angel",
+      "name": "Angel Eyes"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1347",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-36",
+        "name": "The Genesis Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-5176",
+        "name": "Sealed Genesis Terminal",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnRk7P6he6FpbqWXCzSVkL4h6bExTHuwx0wk6mjUmdn_Iy2TbAUkCZslQu8CtBTrkNz5d7S1oNprwEg"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMWWZw-J_s-BlcCi9khgrjDGMnYftb32WZlN1W8B5R7UN50brwYDlPrm3s1CPjYoXmCn3hnlJuCpi574EAqA7uvqAcmHsw_M",
+    "original": {
+      "name": "weapon_elite"
+    }
+  },
+  {
+    "id": "skin-8300a7de7ac6",
+    "name": "Dual Berettas | Hydro Strike",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been custom painted in blue and orange. The droplets imply the weapons may still be wet.\\n\\n<i>The best weapon is the one your enemies least expect</i>",
+    "weapon": {
+      "id": "weapon_elite",
+      "weapon_id": 2,
+      "name": "Dual Berettas"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "dual_elite_hydro_strike",
+      "name": "Hydro Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.801418,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "112",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-34",
+        "name": "The Gallery Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-7003",
+        "name": "Gallery Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnYVuPD5baE6IfTFCmSRme0j5eU5SXrjkRwmt2rWnoqhdnjEPQQiDpRxTflK7EePRV2-Kg"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMW-Jxfx5j_J9XSC4kCIrujqNjsGgeHrGa1B2W5t1Q7NetkOwk4C2Ybzq4FDWjI0TzS6viilLv3tp6rwLT-N7rWtjCU_P",
+    "original": {
+      "name": "weapon_elite"
     }
   }
 ]
