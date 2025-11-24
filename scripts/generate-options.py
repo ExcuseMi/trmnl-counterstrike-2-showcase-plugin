@@ -17,7 +17,6 @@ BASE_URL = "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/e
 # Files to download
 FILES = [
     "agents.json",
-    "all.json",
     "base_weapons.json",
     "collectibles.json",
     "collections.json",
@@ -53,8 +52,7 @@ DISPLAY_NAMES = {
     "base_weapons": "Base Weapons",
     "collections": "Collections",
     "highlights": "Highlights",
-    "tools": "Tools",
-    "all": "All Items",
+    "tools": "Tools"
 }
 
 
@@ -156,37 +154,47 @@ def split_json_data(data, typename, output_dir):
     return len(chunks)
 
 
-def generate_options_yml(file_counts, output_path):
-    """Generate the options.yml file with dynamic file counts."""
-    yml_content = """- keyname: about
-  name: About This Plugin
-  field_type: author_bio
-  github_url: https://github.com/ExcuseMi/trmnl-counterstrike-2-showcase-plugin
-  description: "Showcase every available item in Counter-Strike 2, including skins, crates, collectibles, music kits, and more."
-- keyname: item_types
-  field_type: select
-  name: Item Types to Display
-  description: "Select all the item types you want to display."
-  options:
-"""
+def generate_item_types_json(file_counts, output_path):
+    """Generate the item_types.json file with dynamic file counts."""
+    item_types = []
 
     # Add options for each file type that was successfully downloaded
     for typename, count in sorted(file_counts.items()):
         if typename in DISPLAY_NAMES:
             display_name = DISPLAY_NAMES[typename]
-            max_index = count - 1  # 0-indexed
-            yml_content += f'    - "{display_name}": {typename}|{max_index}\n'
+            value = f"{typename}|{count}"
+            item_types.append({
+                display_name:
+                value
+            })
 
-    yml_content += """  multiple: true
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(item_types, f, ensure_ascii=False, indent=2)
+
+    print(f"\nGenerated {output_path}")
+
+
+def generate_options_yml(output_path):
+    """Generate the options.yml file with xhrSelect reference."""
+    yml_content = """- keyname: about
+  name: About This Plugin
+  field_type: author_bio
+  description: "Showcase every available item in Counter-Strike 2, including skins, crates, collectibles, music kits, and more."
+- keyname: item_types
+  field_type: xhrSelect
+  name: Item Types to Display
+  description: "Select all the item types you want to display."
+  endpoint: https://raw.githubusercontent.com/ExcuseMi/trmnl-counterstrike-2-showcase-plugin/refs/heads/main/data/item_types.json
+  multiple: true
   help_text: "Use <kbd>⌘</kbd>+<kbd>click</kbd> or <kbd>Ctrl</kbd>+<kbd>click</kbd> to select multiple item types.<br />Leave empty to show all item types."
   optional: true
-  default: skins
+  default: skins|0
 """
 
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(yml_content)
 
-    print(f"\nGenerated {output_path}")
+    print(f"Generated {output_path}")
 
 
 def main():
@@ -216,9 +224,13 @@ def main():
 
         print(f"  Split into {chunk_count} file(s)\n")
 
+    # Generate item_types.json
+    item_types_path = data_dir / "item_types.json"
+    generate_item_types_json(file_counts, item_types_path)
+
     # Generate options.yml
     options_path = data_dir / "options.yml"
-    generate_options_yml(file_counts, options_path)
+    generate_options_yml(options_path)
 
     print("\nDownload and split complete!")
     print(f"Total file types processed: {len(file_counts)}")
