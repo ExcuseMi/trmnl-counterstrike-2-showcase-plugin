@@ -1,0 +1,2826 @@
+{
+  "skin-884cb5d4bb22_3_st": {
+    "id": "skin-884cb5d4bb22_3_st",
+    "skin_id": "skin-884cb5d4bb22",
+    "name": "★ StatTrak™ Navaja Knife | Safari Mesh (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_mesh_tan",
+      "name": "Safari Mesh"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "72",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Safari Mesh (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQiygnSIzsjO6l4r9KD7KcAAlWJYjQrVctBG-wYfkMLjm7wzYit1AyX7-jXxB7i1r5-xQU6N0_KHJz1aWWGA81RM",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_mesh_tan_medium"
+    }
+  },
+  "skin-884cb5d4bb22_4_st": {
+    "id": "skin-884cb5d4bb22_4_st",
+    "skin_id": "skin-884cb5d4bb22",
+    "name": "★ StatTrak™ Navaja Knife | Safari Mesh (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_mesh_tan",
+      "name": "Safari Mesh"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "72",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Safari Mesh (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQiygnSIzsjO6kor4NzKJOAAmXMZ2RO8L4xbuwYXmZuPk7wDWiIpAxC2sjCtBvS49trtWUKUtr7qX0V8fqad9Fg",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_mesh_tan_heavy"
+    }
+  },
+  "skin-a478cdeae1a7_0": {
+    "id": "skin-a478cdeae1a7_0",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ Navaja Knife | Night Stripe (Factory New)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Night Stripe (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGLSLANkI-AsF1FrUI4US9wdeyZujg5lOIiIwTzHn823hO7X5rsrlUWatxqKWEjRaBb-NTNYcBTg",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_light"
+    }
+  },
+  "skin-a478cdeae1a7_1": {
+    "id": "skin-a478cdeae1a7_1",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ Navaja Knife | Night Stripe (Minimal Wear)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Night Stripe (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGLSLANkI-AsF1FrUI4US9wdeyZujg5lOIiIwTzHn823hO7X5rsrlUWatxqKWEjRaBb-NTNYcBTg",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_light"
+    }
+  },
+  "skin-a478cdeae1a7_2": {
+    "id": "skin-a478cdeae1a7_2",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ Navaja Knife | Night Stripe (Field-Tested)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Night Stripe (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGLC7DN0N9FJomQbNZtxaxkoe2N7m24VCPjY4RnCX5j3lKvCtq4boBV_Jz-KbQhwnfcepq0jpAiXE",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_medium"
+    }
+  },
+  "skin-a478cdeae1a7_3": {
+    "id": "skin-a478cdeae1a7_3",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ Navaja Knife | Night Stripe (Well-Worn)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Night Stripe (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGLC7DN0N9FJomQbNZtxaxkoe2N7m24VCPjY4RnCX5j3lKvCtq4boBV_Jz-KbQhwnfcepq0jpAiXE",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_medium"
+    }
+  },
+  "skin-a478cdeae1a7_4": {
+    "id": "skin-a478cdeae1a7_4",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ Navaja Knife | Night Stripe (Battle-Scarred)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Night Stripe (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGKS7GKE8-DpV5E7UL5Be6xNLvMbnn4gfc2YxAnnmt3SNA7Chv4L1QU6pw-KDT2RaBb-PIB-FLRQ",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_heavy"
+    }
+  },
+  "skin-a478cdeae1a7_0_st": {
+    "id": "skin-a478cdeae1a7_0_st",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGLSLANkI-AsF1FrUI4US9wdeyZujg5lOIiIwTzHn823hO7X5rsrlUWatxqKWEjRaBb-NTNYcBTg",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_light"
+    }
+  },
+  "skin-a478cdeae1a7_1_st": {
+    "id": "skin-a478cdeae1a7_1_st",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGLSLANkI-AsF1FrUI4US9wdeyZujg5lOIiIwTzHn823hO7X5rsrlUWatxqKWEjRaBb-NTNYcBTg",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_light"
+    }
+  },
+  "skin-a478cdeae1a7_2_st": {
+    "id": "skin-a478cdeae1a7_2_st",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGLC7DN0N9FJomQbNZtxaxkoe2N7m24VCPjY4RnCX5j3lKvCtq4boBV_Jz-KbQhwnfcepq0jpAiXE",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_medium"
+    }
+  },
+  "skin-a478cdeae1a7_3_st": {
+    "id": "skin-a478cdeae1a7_3_st",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGLC7DN0N9FJomQbNZtxaxkoe2N7m24VCPjY4RnCX5j3lKvCtq4boBV_Jz-KbQhwnfcepq0jpAiXE",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_medium"
+    }
+  },
+  "skin-a478cdeae1a7_4_st": {
+    "id": "skin-a478cdeae1a7_4_st",
+    "skin_id": "skin-a478cdeae1a7",
+    "name": "★ StatTrak™ Navaja Knife | Night Stripe (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "735",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWQSC0nQk0py-MiorGKS7GKE8-DpV5E7UL5Be6xNLvMbnn4gfc2YxAnnmt3SNA7Chv4L1QU6pw-KDT2RaBb-PIB-FLRQ",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_heavy"
+    }
+  },
+  "skin-3d4e243e5850_0": {
+    "id": "skin-3d4e243e5850_0",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ Navaja Knife | Urban Masked (Factory New)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Urban Masked (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLD1KCzPKhggC5p4EeIPtkTtkdy2Y-7mtAOMg9pEnCr8iyIf6C8-sL5TWfYh_aCGkUifZi7Rx6Sa",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_light"
+    }
+  },
+  "skin-3d4e243e5850_1": {
+    "id": "skin-3d4e243e5850_1",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ Navaja Knife | Urban Masked (Minimal Wear)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Urban Masked (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLD1KCzPKhggC5p4EeIPtkTtkdy2Y-7mtAOMg9pEnCr8iyIf6C8-sL5TWfYh_aCGkUifZi7Rx6Sa",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_light"
+    }
+  },
+  "skin-3d4e243e5850_2": {
+    "id": "skin-3d4e243e5850_2",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ Navaja Knife | Urban Masked (Field-Tested)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Urban Masked (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLD0JC_OK1s-WMciROMNuhaxm9exYurj7wyM34JGyX7_3C5AuHxs5-sBV6tzq_KBjxaBb-OZGA7_gw",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_medium"
+    }
+  },
+  "skin-3d4e243e5850_3": {
+    "id": "skin-3d4e243e5850_3",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ Navaja Knife | Urban Masked (Well-Worn)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Urban Masked (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLD0JC_OK1s-WMciROMNuhaxm9exYurj7wyM34JGyX7_3C5AuHxs5-sBV6tzq_KBjxaBb-OZGA7_gw",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_medium"
+    }
+  },
+  "skin-3d4e243e5850_4": {
+    "id": "skin-3d4e243e5850_4",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ Navaja Knife | Urban Masked (Battle-Scarred)",
+    "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Navaja Knife | Urban Masked (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLDxJCrRJxggWJYiRrRf50Htmt3vP-jjtA2Mi44Qyy7_jC0YvSY55-lQVKYi_vHekUifZraVcWu_",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_heavy"
+    }
+  },
+  "skin-3d4e243e5850_0_st": {
+    "id": "skin-3d4e243e5850_0_st",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ StatTrak™ Navaja Knife | Urban Masked (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLD1KCzPKhggC5p4EeIPtkTtkdy2Y-7mtAOMg9pEnCr8iyIf6C8-sL5TWfYh_aCGkUifZi7Rx6Sa",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_light"
+    }
+  },
+  "skin-3d4e243e5850_1_st": {
+    "id": "skin-3d4e243e5850_1_st",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ StatTrak™ Navaja Knife | Urban Masked (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLD1KCzPKhggC5p4EeIPtkTtkdy2Y-7mtAOMg9pEnCr8iyIf6C8-sL5TWfYh_aCGkUifZi7Rx6Sa",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_light"
+    }
+  },
+  "skin-3d4e243e5850_2_st": {
+    "id": "skin-3d4e243e5850_2_st",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ StatTrak™ Navaja Knife | Urban Masked (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLD0JC_OK1s-WMciROMNuhaxm9exYurj7wyM34JGyX7_3C5AuHxs5-sBV6tzq_KBjxaBb-OZGA7_gw",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_medium"
+    }
+  },
+  "skin-3d4e243e5850_3_st": {
+    "id": "skin-3d4e243e5850_3_st",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ StatTrak™ Navaja Knife | Urban Masked (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLD0JC_OK1s-WMciROMNuhaxm9exYurj7wyM34JGyX7_3C5AuHxs5-sBV6tzq_KBjxaBb-OZGA7_gw",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_medium"
+    }
+  },
+  "skin-3d4e243e5850_4_st": {
+    "id": "skin-3d4e243e5850_4_st",
+    "skin_id": "skin-3d4e243e5850",
+    "name": "★ StatTrak™ Navaja Knife | Urban Masked (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+    "weapon": {
+      "id": "weapon_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "143",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Navaja Knife | Urban Masked (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo_FWWyijkCIyoT-ElLDxJCrRJxggWJYiRrRf50Htmt3vP-jjtA2Mi44Qyy7_jC0YvSY55-lQVKYi_vHekUifZraVcWu_",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_heavy"
+    }
+  },
+  "skin-657a59e6566b_0": {
+    "id": "skin-657a59e6566b_0",
+    "skin_id": "skin-657a59e6566b",
+    "name": "★ Karambit | Fade (Factory New)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aa_fade",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "38",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Karambit | Fade (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SD1iWwOpzj-1gSCGn20tztm_UyIn_JHKUbgYlWMcmQ-ZcskSwldS0MOnntAfd3YlMzH35jntXrnE8SOGRGG8",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_aa_fade_light"
+    }
+  },
+  "skin-657a59e6566b_1": {
+    "id": "skin-657a59e6566b_1",
+    "skin_id": "skin-657a59e6566b",
+    "name": "★ Karambit | Fade (Minimal Wear)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aa_fade",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "38",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Karambit | Fade (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SD1iWwOpzj-1gSCGn20tztm_UyIn_JHKUbgYlWMcmQ-ZcskSwldS0MOnntAfd3YlMzH35jntXrnE8SOGRGG8",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_aa_fade_light"
+    }
+  },
+  "skin-657a59e6566b_0_st": {
+    "id": "skin-657a59e6566b_0_st",
+    "skin_id": "skin-657a59e6566b",
+    "name": "★ StatTrak™ Karambit | Fade (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aa_fade",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "38",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Karambit | Fade (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SD1iWwOpzj-1gSCGn20tztm_UyIn_JHKUbgYlWMcmQ-ZcskSwldS0MOnntAfd3YlMzH35jntXrnE8SOGRGG8",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_aa_fade_light"
+    }
+  },
+  "skin-657a59e6566b_1_st": {
+    "id": "skin-657a59e6566b_1_st",
+    "skin_id": "skin-657a59e6566b",
+    "name": "★ StatTrak™ Karambit | Fade (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aa_fade",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "38",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Karambit | Fade (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SD1iWwOpzj-1gSCGn20tztm_UyIn_JHKUbgYlWMcmQ-ZcskSwldS0MOnntAfd3YlMzH35jntXrnE8SOGRGG8",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_aa_fade_light"
+    }
+  },
+  "skin-525ac56c082c_0": {
+    "id": "skin-525ac56c082c_0",
+    "skin_id": "skin-525ac56c082c",
+    "name": "★ Karambit | Doppler (Factory New)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_blackpearl_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "417",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Black Pearl",
+    "market_hash_name": "★ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iSze91u_FsTju_qhAmoT-Jn4bjJC_4Ml93UtZuRLQPsBawkNfiMbnl5AKMiopCnin7iCJBv31j4rkBBKEg-6zUjV3GY6p9v8dpLWT3Fg",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_blackpearl_marbleized_light"
+    }
+  },
+  "skin-525ac56c082c_1": {
+    "id": "skin-525ac56c082c_1",
+    "skin_id": "skin-525ac56c082c",
+    "name": "★ Karambit | Doppler (Minimal Wear)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_blackpearl_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "417",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Black Pearl",
+    "market_hash_name": "★ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iSze91u_FsTju_qhAmoT-Jn4bjJC_4Ml93UtZuRLQPsBawkNfiMbnl5AKMiopCnin7iCJBv31j4rkBBKEg-6zUjV3GY6p9v8dpLWT3Fg",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_blackpearl_marbleized_light"
+    }
+  },
+  "skin-525ac56c082c_0_st": {
+    "id": "skin-525ac56c082c_0_st",
+    "skin_id": "skin-525ac56c082c",
+    "name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_blackpearl_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "417",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Black Pearl",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iSze91u_FsTju_qhAmoT-Jn4bjJC_4Ml93UtZuRLQPsBawkNfiMbnl5AKMiopCnin7iCJBv31j4rkBBKEg-6zUjV3GY6p9v8dpLWT3Fg",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_blackpearl_marbleized_light"
+    }
+  },
+  "skin-525ac56c082c_1_st": {
+    "id": "skin-525ac56c082c_1_st",
+    "skin_id": "skin-525ac56c082c",
+    "name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_blackpearl_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "417",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Black Pearl",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iSze91u_FsTju_qhAmoT-Jn4bjJC_4Ml93UtZuRLQPsBawkNfiMbnl5AKMiopCnin7iCJBv31j4rkBBKEg-6zUjV3GY6p9v8dpLWT3Fg",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_blackpearl_marbleized_light"
+    }
+  },
+  "skin-a7465b45d267_0": {
+    "id": "skin-a7465b45d267_0",
+    "skin_id": "skin-a7465b45d267",
+    "name": "★ Karambit | Doppler (Factory New)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase1",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "418",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 1",
+    "market_hash_name": "★ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4gKJk4jxNWXFb1cpDJR2FOFbsBTql9bjYbzq7gPZiN1MxH7_2ytNuCdpte1UB_Ui5OSJ2GbkVqni",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase1_light"
+    }
+  },
+  "skin-a7465b45d267_1": {
+    "id": "skin-a7465b45d267_1",
+    "skin_id": "skin-a7465b45d267",
+    "name": "★ Karambit | Doppler (Minimal Wear)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase1",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "418",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 1",
+    "market_hash_name": "★ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4gKJk4jxNWXFb1cpDJR2FOFbsBTql9bjYbzq7gPZiN1MxH7_2ytNuCdpte1UB_Ui5OSJ2GbkVqni",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase1_light"
+    }
+  },
+  "skin-a7465b45d267_0_st": {
+    "id": "skin-a7465b45d267_0_st",
+    "skin_id": "skin-a7465b45d267",
+    "name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase1",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "418",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 1",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4gKJk4jxNWXFb1cpDJR2FOFbsBTql9bjYbzq7gPZiN1MxH7_2ytNuCdpte1UB_Ui5OSJ2GbkVqni",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase1_light"
+    }
+  },
+  "skin-a7465b45d267_1_st": {
+    "id": "skin-a7465b45d267_1_st",
+    "skin_id": "skin-a7465b45d267",
+    "name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase1",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "418",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 1",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4gKJk4jxNWXFb1cpDJR2FOFbsBTql9bjYbzq7gPZiN1MxH7_2ytNuCdpte1UB_Ui5OSJ2GbkVqni",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase1_light"
+    }
+  },
+  "skin-e7fd9a1907bb_0": {
+    "id": "skin-e7fd9a1907bb_0",
+    "skin_id": "skin-e7fd9a1907bb",
+    "name": "★ Karambit | Doppler (Factory New)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase2",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "419",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 2",
+    "market_hash_name": "★ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4QKJk4jxNWWXawUgA8dxRLEO40KwkobnMbnj5QKL348Qmy-sji5K7i466uxUUKQn5OSJ2KBZjkQR",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase2_light"
+    }
+  },
+  "skin-e7fd9a1907bb_1": {
+    "id": "skin-e7fd9a1907bb_1",
+    "skin_id": "skin-e7fd9a1907bb",
+    "name": "★ Karambit | Doppler (Minimal Wear)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase2",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "419",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 2",
+    "market_hash_name": "★ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4QKJk4jxNWWXawUgA8dxRLEO40KwkobnMbnj5QKL348Qmy-sji5K7i466uxUUKQn5OSJ2KBZjkQR",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase2_light"
+    }
+  },
+  "skin-e7fd9a1907bb_0_st": {
+    "id": "skin-e7fd9a1907bb_0_st",
+    "skin_id": "skin-e7fd9a1907bb",
+    "name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase2",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "419",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 2",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4QKJk4jxNWWXawUgA8dxRLEO40KwkobnMbnj5QKL348Qmy-sji5K7i466uxUUKQn5OSJ2KBZjkQR",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase2_light"
+    }
+  },
+  "skin-e7fd9a1907bb_1_st": {
+    "id": "skin-e7fd9a1907bb_1_st",
+    "skin_id": "skin-e7fd9a1907bb",
+    "name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase2",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "419",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 2",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4QKJk4jxNWWXawUgA8dxRLEO40KwkobnMbnj5QKL348Qmy-sji5K7i466uxUUKQn5OSJ2KBZjkQR",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase2_light"
+    }
+  },
+  "skin-1905a0ed952b_0": {
+    "id": "skin-1905a0ed952b_0",
+    "skin_id": "skin-1905a0ed952b",
+    "name": "★ Karambit | Doppler (Factory New)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase3",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "420",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 3",
+    "market_hash_name": "★ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4AKJk4jxNWWebgAlA8dwQLMOshmwm9y0Puni5Qba3ohEni-r33xA7X5o4uZTV6ch5OSJ2C8W7sST",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase3_light"
+    }
+  },
+  "skin-1905a0ed952b_1": {
+    "id": "skin-1905a0ed952b_1",
+    "skin_id": "skin-1905a0ed952b",
+    "name": "★ Karambit | Doppler (Minimal Wear)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase3",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "420",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 3",
+    "market_hash_name": "★ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4AKJk4jxNWWebgAlA8dwQLMOshmwm9y0Puni5Qba3ohEni-r33xA7X5o4uZTV6ch5OSJ2C8W7sST",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase3_light"
+    }
+  },
+  "skin-1905a0ed952b_0_st": {
+    "id": "skin-1905a0ed952b_0_st",
+    "skin_id": "skin-1905a0ed952b",
+    "name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase3",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "420",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 3",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4AKJk4jxNWWebgAlA8dwQLMOshmwm9y0Puni5Qba3ohEni-r33xA7X5o4uZTV6ch5OSJ2C8W7sST",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase3_light"
+    }
+  },
+  "skin-1905a0ed952b_1_st": {
+    "id": "skin-1905a0ed952b_1_st",
+    "skin_id": "skin-1905a0ed952b",
+    "name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase3",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "420",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 3",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i4AKJk4jxNWWebgAlA8dwQLMOshmwm9y0Puni5Qba3ohEni-r33xA7X5o4uZTV6ch5OSJ2C8W7sST",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase3_light"
+    }
+  },
+  "skin-d79f9a05870e_0": {
+    "id": "skin-d79f9a05870e_0",
+    "skin_id": "skin-d79f9a05870e",
+    "name": "★ Karambit | Doppler (Factory New)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase4",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "421",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 4",
+    "market_hash_name": "★ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i5wKJk4jxNWXCaQQnA5B5Q-8O4xnpltazNri37gGPgtlDzin7iXhN6y44tb0GUaYg5OSJ2A0QBM1-",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase4_light"
+    }
+  },
+  "skin-d79f9a05870e_1": {
+    "id": "skin-d79f9a05870e_1",
+    "skin_id": "skin-d79f9a05870e",
+    "name": "★ Karambit | Doppler (Minimal Wear)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase4",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "421",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 4",
+    "market_hash_name": "★ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i5wKJk4jxNWXCaQQnA5B5Q-8O4xnpltazNri37gGPgtlDzin7iXhN6y44tb0GUaYg5OSJ2A0QBM1-",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase4_light"
+    }
+  },
+  "skin-d79f9a05870e_0_st": {
+    "id": "skin-d79f9a05870e_0_st",
+    "skin_id": "skin-d79f9a05870e",
+    "name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase4",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "421",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 4",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i5wKJk4jxNWXCaQQnA5B5Q-8O4xnpltazNri37gGPgtlDzin7iXhN6y44tb0GUaYg5OSJ2A0QBM1-",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase4_light"
+    }
+  },
+  "skin-d79f9a05870e_1_st": {
+    "id": "skin-d79f9a05870e_1_st",
+    "skin_id": "skin-d79f9a05870e",
+    "name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase4",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "421",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 4",
+    "market_hash_name": "★ StatTrak™ Karambit | Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iUzv5mvOR7cDm7lA4i5wKJk4jxNWXCaQQnA5B5Q-8O4xnpltazNri37gGPgtlDzin7iXhN6y44tb0GUaYg5OSJ2A0QBM1-",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_doppler_phase4_light"
+    }
+  },
+  "skin-6bd8a366ec88_0": {
+    "id": "skin-6bd8a366ec88_0",
+    "skin_id": "skin-6bd8a366ec88",
+    "name": "★ Karambit | Gamma Doppler (Factory New)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_emerald_marbleized",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "568",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Emerald",
+    "market_hash_name": "★ Karambit | Gamma Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iVzOtkse1tcCSyhx8rtjSfn4vGLSLANkI-X8MjTLFYskTsw9bnZOuwsgSIj4sTniz-2i5A7yY6tbwGV6Nx-qGEjxaBb-MuPavopw",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_emerald_marbleized_light"
+    }
+  },
+  "skin-6bd8a366ec88_1": {
+    "id": "skin-6bd8a366ec88_1",
+    "skin_id": "skin-6bd8a366ec88",
+    "name": "★ Karambit | Gamma Doppler (Minimal Wear)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_emerald_marbleized",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "568",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Emerald",
+    "market_hash_name": "★ Karambit | Gamma Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iVzOtkse1tcCSyhx8rtjSfn4vGLSLANkI-X8MjTLFYskTsw9bnZOuwsgSIj4sTniz-2i5A7yY6tbwGV6Nx-qGEjxaBb-MuPavopw",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_emerald_marbleized_light"
+    }
+  },
+  "skin-6bd8a366ec88_0_st": {
+    "id": "skin-6bd8a366ec88_0_st",
+    "skin_id": "skin-6bd8a366ec88",
+    "name": "★ StatTrak™ Karambit | Gamma Doppler (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_emerald_marbleized",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "568",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Emerald",
+    "market_hash_name": "★ StatTrak™ Karambit | Gamma Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iVzOtkse1tcCSyhx8rtjSfn4vGLSLANkI-X8MjTLFYskTsw9bnZOuwsgSIj4sTniz-2i5A7yY6tbwGV6Nx-qGEjxaBb-MuPavopw",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_emerald_marbleized_light"
+    }
+  },
+  "skin-6bd8a366ec88_1_st": {
+    "id": "skin-6bd8a366ec88_1_st",
+    "skin_id": "skin-6bd8a366ec88",
+    "name": "★ StatTrak™ Karambit | Gamma Doppler (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_emerald_marbleized",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "568",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Emerald",
+    "market_hash_name": "★ StatTrak™ Karambit | Gamma Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iVzOtkse1tcCSyhx8rtjSfn4vGLSLANkI-X8MjTLFYskTsw9bnZOuwsgSIj4sTniz-2i5A7yY6tbwGV6Nx-qGEjxaBb-MuPavopw",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_emerald_marbleized_light"
+    }
+  },
+  "skin-832ba955af19_0": {
+    "id": "skin-832ba955af19_0",
+    "skin_id": "skin-832ba955af19",
+    "name": "★ Karambit | Gamma Doppler (Factory New)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase1",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "569",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 1",
+    "market_hash_name": "★ Karambit | Gamma Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cBTLN1F4TowkROZctEXqxNO2Nevn4QzZ2I9Mz3r62C9L634_5uhTWKEh_fKD2w7HL_RjthCBcAWy",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase1_light"
+    }
+  },
+  "skin-832ba955af19_1": {
+    "id": "skin-832ba955af19_1",
+    "skin_id": "skin-832ba955af19",
+    "name": "★ Karambit | Gamma Doppler (Minimal Wear)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase1",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "569",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 1",
+    "market_hash_name": "★ Karambit | Gamma Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cBTLN1F4TowkROZctEXqxNO2Nevn4QzZ2I9Mz3r62C9L634_5uhTWKEh_fKD2w7HL_RjthCBcAWy",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase1_light"
+    }
+  },
+  "skin-832ba955af19_0_st": {
+    "id": "skin-832ba955af19_0_st",
+    "skin_id": "skin-832ba955af19",
+    "name": "★ StatTrak™ Karambit | Gamma Doppler (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase1",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "569",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 1",
+    "market_hash_name": "★ StatTrak™ Karambit | Gamma Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cBTLN1F4TowkROZctEXqxNO2Nevn4QzZ2I9Mz3r62C9L634_5uhTWKEh_fKD2w7HL_RjthCBcAWy",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase1_light"
+    }
+  },
+  "skin-832ba955af19_1_st": {
+    "id": "skin-832ba955af19_1_st",
+    "skin_id": "skin-832ba955af19",
+    "name": "★ StatTrak™ Karambit | Gamma Doppler (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase1",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "569",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 1",
+    "market_hash_name": "★ StatTrak™ Karambit | Gamma Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cBTLN1F4TowkROZctEXqxNO2Nevn4QzZ2I9Mz3r62C9L634_5uhTWKEh_fKD2w7HL_RjthCBcAWy",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase1_light"
+    }
+  },
+  "skin-39379db61b54_0": {
+    "id": "skin-39379db61b54_0",
+    "skin_id": "skin-39379db61b54",
+    "name": "★ Karambit | Gamma Doppler (Factory New)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase2",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "570",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 2",
+    "market_hash_name": "★ Karambit | Gamma Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cxTLN1F4ToxzRbQMukK6k4HnZe3k4gPW34hFmCWrjCgd5yk55-1RBfB0rq2D2w7FL_RjtjtuH2jv",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase2_light"
+    }
+  },
+  "skin-39379db61b54_1": {
+    "id": "skin-39379db61b54_1",
+    "skin_id": "skin-39379db61b54",
+    "name": "★ Karambit | Gamma Doppler (Minimal Wear)",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase2",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "570",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 2",
+    "market_hash_name": "★ Karambit | Gamma Doppler (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cxTLN1F4ToxzRbQMukK6k4HnZe3k4gPW34hFmCWrjCgd5yk55-1RBfB0rq2D2w7FL_RjtjtuH2jv",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase2_light"
+    }
+  },
+  "skin-39379db61b54_0_st": {
+    "id": "skin-39379db61b54_0_st",
+    "skin_id": "skin-39379db61b54",
+    "name": "★ StatTrak™ Karambit | Gamma Doppler (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase2",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "570",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "phase": "Phase 2",
+    "market_hash_name": "★ StatTrak™ Karambit | Gamma Doppler (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cxTLN1F4ToxzRbQMukK6k4HnZe3k4gPW34hFmCWrjCgd5yk55-1RBfB0rq2D2w7FL_RjtjtuH2jv",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase2_light"
+    }
+  }
+}

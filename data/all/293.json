@@ -1,0 +1,3040 @@
+{
+  "skin-fd5699e808a0_1_st": {
+    "id": "skin-fd5699e808a0_1_st",
+    "skin_id": "skin-fd5699e808a0",
+    "name": "StatTrak™ Negev | Man-o'-war (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been given a base coat of blue metallic paint then hand-painted with metallic gold swirls and accents.\\n\\n<i>Turn some heads before you take them off</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "am_negev_glory",
+      "name": "Man-o'-war"
+    },
+    "min_float": 0.1,
+    "max_float": 0.2,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "432",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Man-o'-war (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1a4s2gbaNoNs-UAmiC2NF7teVgWiT9wkt24jnXnNivI3PCOAFzDZt4TbEP4UHrmtznMunn4gGKjYJAxSWt2jQJsHhtfOjzsQ",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_am_negev_glory_medium"
+    }
+  },
+  "skin-0eafc66d4417_0": {
+    "id": "skin-0eafc66d4417_0",
+    "skin_id": "skin-0eafc66d4417",
+    "name": "Negev | Anodized Navy (Factory New)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "an_navy",
+      "name": "Anodized Navy"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "28",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Anodized Navy (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 4,
+      "name": "Anodized",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodized"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1a4c2gabJ0H_yaCW-Ej7cu4rJrSXzikUh04G2Em9yteS-SagAkDsQlEOMP4RexldKzM7ix4lPAy9USZWBsgPo",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_an_navy_light"
+    }
+  },
+  "skin-0eafc66d4417_1": {
+    "id": "skin-0eafc66d4417_1",
+    "skin_id": "skin-0eafc66d4417",
+    "name": "Negev | Anodized Navy (Minimal Wear)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "an_navy",
+      "name": "Anodized Navy"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "28",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Anodized Navy (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 4,
+      "name": "Anodized",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodized"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1a4c2gabJ0H_yaCW-Ej7cu4rJrSXzikUh04G2Em9yteS-SagAkDsQlEOMP4RexldKzM7ix4lPAy9USZWBsgPo",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_an_navy_light"
+    }
+  },
+  "skin-3e77fbc7c6c1_0": {
+    "id": "skin-3e77fbc7c6c1_0",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "Negev | Bratatat (Factory New)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Bratatat (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5lRi67gVN2sDzUwtevIy_EZwZ1DZclEOANu0brmtDuPriw5lTejdlHxSv3iilA8G81tKRsmgNk",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_light"
+    }
+  },
+  "skin-3e77fbc7c6c1_1": {
+    "id": "skin-3e77fbc7c6c1_1",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "Negev | Bratatat (Minimal Wear)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Bratatat (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5lRi67gVN2sDzUwtevIy_EZwZ1DZclEOANu0brmtDuPriw5lTejdlHxSv3iilA8G81tKRsmgNk",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_light"
+    }
+  },
+  "skin-3e77fbc7c6c1_2": {
+    "id": "skin-3e77fbc7c6c1_2",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "Negev | Bratatat (Field-Tested)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Bratatat (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5kSi26gBBp42TQzo2seX-XOgcpXJAmF-4K5kWwloCyMuPltVTdiY1Dnin5iS8b5jErvbhCbhRqAg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_medium"
+    }
+  },
+  "skin-3e77fbc7c6c1_3": {
+    "id": "skin-3e77fbc7c6c1_3",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "Negev | Bratatat (Well-Worn)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Bratatat (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5kSi26gBBp42TQzo2seX-XOgcpXJAmF-4K5kWwloCyMuPltVTdiY1Dnin5iS8b5jErvbhCbhRqAg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_medium"
+    }
+  },
+  "skin-3e77fbc7c6c1_4": {
+    "id": "skin-3e77fbc7c6c1_4",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "Negev | Bratatat (Battle-Scarred)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Bratatat (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5hSiiljFMm4zjUy9v7cnySbQYnApp3QLMOs0K8wIfmZOuws1aPid1HmH79iytJ8G81tKG-Frz2",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_heavy"
+    }
+  },
+  "skin-3e77fbc7c6c1_0_st": {
+    "id": "skin-3e77fbc7c6c1_0_st",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "StatTrak™ Negev | Bratatat (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Bratatat (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5lRi67gVN2sDzUwtevIy_EZwZ1DZclEOANu0brmtDuPriw5lTejdlHxSv3iilA8G81tKRsmgNk",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_light"
+    }
+  },
+  "skin-3e77fbc7c6c1_1_st": {
+    "id": "skin-3e77fbc7c6c1_1_st",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "StatTrak™ Negev | Bratatat (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Bratatat (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5lRi67gVN2sDzUwtevIy_EZwZ1DZclEOANu0brmtDuPriw5lTejdlHxSv3iilA8G81tKRsmgNk",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_light"
+    }
+  },
+  "skin-3e77fbc7c6c1_2_st": {
+    "id": "skin-3e77fbc7c6c1_2_st",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "StatTrak™ Negev | Bratatat (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Bratatat (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5kSi26gBBp42TQzo2seX-XOgcpXJAmF-4K5kWwloCyMuPltVTdiY1Dnin5iS8b5jErvbhCbhRqAg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_medium"
+    }
+  },
+  "skin-3e77fbc7c6c1_3_st": {
+    "id": "skin-3e77fbc7c6c1_3_st",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "StatTrak™ Negev | Bratatat (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Bratatat (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5kSi26gBBp42TQzo2seX-XOgcpXJAmF-4K5kWwloCyMuPltVTdiY1Dnin5iS8b5jErvbhCbhRqAg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_medium"
+    }
+  },
+  "skin-3e77fbc7c6c1_4_st": {
+    "id": "skin-3e77fbc7c6c1_4_st",
+    "skin_id": "skin-3e77fbc7c6c1",
+    "name": "StatTrak™ Negev | Bratatat (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_bratatat_negev",
+      "name": "Bratatat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "317",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Bratatat (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2seqV5IeSSGliexOlzpt5hSiiljFMm4zjUy9v7cnySbQYnApp3QLMOs0K8wIfmZOuws1aPid1HmH79iytJ8G81tKG-Frz2",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_bratatat_negev_heavy"
+    }
+  },
+  "skin-4af8cd1ab41d_0": {
+    "id": "skin-4af8cd1ab41d_0",
+    "skin_id": "skin-4af8cd1ab41d",
+    "name": "Negev | Loudmouth (Minimal Wear)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a monstrous design and then distressed.\\n\\n<i>Get back here, I'm talking to you!</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_annihilator",
+      "name": "Loudmouth"
+    },
+    "min_float": 0.14,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "483",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | Loudmouth (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-SAGmZyed6sfVmXRa_nBovp3PXzousdnrBbgEiX5QjTbICsEa7ktTnNOPrsQLW3YoQyS33jygbuHts_a9cBgJfeVOc",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_annihilator_light"
+    }
+  },
+  "skin-4af8cd1ab41d_1": {
+    "id": "skin-4af8cd1ab41d_1",
+    "skin_id": "skin-4af8cd1ab41d",
+    "name": "Negev | Loudmouth (Field-Tested)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a monstrous design and then distressed.\\n\\n<i>Get back here, I'm talking to you!</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_annihilator",
+      "name": "Loudmouth"
+    },
+    "min_float": 0.14,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "483",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | Loudmouth (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-SAGmZyed6sfVmXRa-kBkupjDLntarJCrCPw8mDpN2Q7QLshG9ldbmYr_r5VOIiYgQzij-hn8f5yxj4vFCD_QZs5eAIA",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_annihilator_medium"
+    }
+  },
+  "skin-4af8cd1ab41d_2": {
+    "id": "skin-4af8cd1ab41d_2",
+    "skin_id": "skin-4af8cd1ab41d",
+    "name": "Negev | Loudmouth (Well-Worn)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a monstrous design and then distressed.\\n\\n<i>Get back here, I'm talking to you!</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_annihilator",
+      "name": "Loudmouth"
+    },
+    "min_float": 0.14,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "483",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | Loudmouth (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-SAGmZyed6sfVmXRa-kBkupjDLntarJCrCPw8mDpN2Q7QLshG9ldbmYr_r5VOIiYgQzij-hn8f5yxj4vFCD_QZs5eAIA",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_annihilator_medium"
+    }
+  },
+  "skin-4af8cd1ab41d_3": {
+    "id": "skin-4af8cd1ab41d_3",
+    "skin_id": "skin-4af8cd1ab41d",
+    "name": "Negev | Loudmouth (Battle-Scarred)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a monstrous design and then distressed.\\n\\n<i>Get back here, I'm talking to you!</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_annihilator",
+      "name": "Loudmouth"
+    },
+    "min_float": 0.14,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "483",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | Loudmouth (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-SAGmZyed6sfVmXRa7kBwxqnPWm9yqJHzFZ1B2D5J2FuYNsUG6kYfvMevh7wSPiY9Bm3r6iiwb6Ctq_a9cBkmo68RD",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_annihilator_heavy"
+    }
+  },
+  "skin-4af8cd1ab41d_0_st": {
+    "id": "skin-4af8cd1ab41d_0_st",
+    "skin_id": "skin-4af8cd1ab41d",
+    "name": "StatTrak™ Negev | Loudmouth (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a monstrous design and then distressed.\\n\\n<i>Get back here, I'm talking to you!</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_annihilator",
+      "name": "Loudmouth"
+    },
+    "min_float": 0.14,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "483",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Loudmouth (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-SAGmZyed6sfVmXRa_nBovp3PXzousdnrBbgEiX5QjTbICsEa7ktTnNOPrsQLW3YoQyS33jygbuHts_a9cBgJfeVOc",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_annihilator_light"
+    }
+  },
+  "skin-4af8cd1ab41d_1_st": {
+    "id": "skin-4af8cd1ab41d_1_st",
+    "skin_id": "skin-4af8cd1ab41d",
+    "name": "StatTrak™ Negev | Loudmouth (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a monstrous design and then distressed.\\n\\n<i>Get back here, I'm talking to you!</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_annihilator",
+      "name": "Loudmouth"
+    },
+    "min_float": 0.14,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "483",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Loudmouth (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-SAGmZyed6sfVmXRa-kBkupjDLntarJCrCPw8mDpN2Q7QLshG9ldbmYr_r5VOIiYgQzij-hn8f5yxj4vFCD_QZs5eAIA",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_annihilator_medium"
+    }
+  },
+  "skin-4af8cd1ab41d_2_st": {
+    "id": "skin-4af8cd1ab41d_2_st",
+    "skin_id": "skin-4af8cd1ab41d",
+    "name": "StatTrak™ Negev | Loudmouth (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a monstrous design and then distressed.\\n\\n<i>Get back here, I'm talking to you!</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_annihilator",
+      "name": "Loudmouth"
+    },
+    "min_float": 0.14,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "483",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Loudmouth (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-SAGmZyed6sfVmXRa-kBkupjDLntarJCrCPw8mDpN2Q7QLshG9ldbmYr_r5VOIiYgQzij-hn8f5yxj4vFCD_QZs5eAIA",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_annihilator_medium"
+    }
+  },
+  "skin-4af8cd1ab41d_3_st": {
+    "id": "skin-4af8cd1ab41d_3_st",
+    "skin_id": "skin-4af8cd1ab41d",
+    "name": "StatTrak™ Negev | Loudmouth (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a monstrous design and then distressed.\\n\\n<i>Get back here, I'm talking to you!</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_annihilator",
+      "name": "Loudmouth"
+    },
+    "min_float": 0.14,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "483",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Loudmouth (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-SAGmZyed6sfVmXRa7kBwxqnPWm9yqJHzFZ1B2D5J2FuYNsUG6kYfvMevh7wSPiY9Bm3r6iiwb6Ctq_a9cBkmo68RD",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_annihilator_heavy"
+    }
+  },
+  "skin-128166c2642e_0": {
+    "id": "skin-128166c2642e_0",
+    "skin_id": "skin-128166c2642e",
+    "name": "Negev | Drop Me (Factory New)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Drop Me (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWQyC0nQlpsDnVy4mpcSiQOlB2CJRxR-AK4BDrw4azN-225lfc2t0Tznr6iX4f6zErvbg1B8-kIw",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_light"
+    }
+  },
+  "skin-128166c2642e_1": {
+    "id": "skin-128166c2642e_1",
+    "skin_id": "skin-128166c2642e",
+    "name": "Negev | Drop Me (Minimal Wear)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Drop Me (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWQyC0nQlpsDnVy4mpcSiQOlB2CJRxR-AK4BDrw4azN-225lfc2t0Tznr6iX4f6zErvbg1B8-kIw",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_light"
+    }
+  },
+  "skin-128166c2642e_2": {
+    "id": "skin-128166c2642e_2",
+    "skin_id": "skin-128166c2642e",
+    "name": "Negev | Drop Me (Field-Tested)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Drop Me (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWQiy3nAgq_T7cwt-vInuWPQIhCpB3TeEKtUbqxNXgZO-w5gGK2okQz333j3xM6ix1o7FVFI1jOiw",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_medium"
+    }
+  },
+  "skin-128166c2642e_3": {
+    "id": "skin-128166c2642e_3",
+    "skin_id": "skin-128166c2642e",
+    "name": "Negev | Drop Me (Well-Worn)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Drop Me (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWQiy3nAgq_T7cwt-vInuWPQIhCpB3TeEKtUbqxNXgZO-w5gGK2okQz333j3xM6ix1o7FVFI1jOiw",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_medium"
+    }
+  },
+  "skin-128166c2642e_4": {
+    "id": "skin-128166c2642e_4",
+    "skin_id": "skin-128166c2642e",
+    "name": "Negev | Drop Me (Battle-Scarred)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Drop Me (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWRyyygwRptW2GzNysdHqRblckCJB1F-VYshTskobjP-7i4AHZjN4WmXmvjihP6DErvbghUM-GVg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_heavy"
+    }
+  },
+  "skin-128166c2642e_0_st": {
+    "id": "skin-128166c2642e_0_st",
+    "skin_id": "skin-128166c2642e",
+    "name": "StatTrak™ Negev | Drop Me (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Drop Me (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWQyC0nQlpsDnVy4mpcSiQOlB2CJRxR-AK4BDrw4azN-225lfc2t0Tznr6iX4f6zErvbg1B8-kIw",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_light"
+    }
+  },
+  "skin-128166c2642e_1_st": {
+    "id": "skin-128166c2642e_1_st",
+    "skin_id": "skin-128166c2642e",
+    "name": "StatTrak™ Negev | Drop Me (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Drop Me (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWQyC0nQlpsDnVy4mpcSiQOlB2CJRxR-AK4BDrw4azN-225lfc2t0Tznr6iX4f6zErvbg1B8-kIw",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_light"
+    }
+  },
+  "skin-128166c2642e_2_st": {
+    "id": "skin-128166c2642e_2_st",
+    "skin_id": "skin-128166c2642e",
+    "name": "StatTrak™ Negev | Drop Me (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Drop Me (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWQiy3nAgq_T7cwt-vInuWPQIhCpB3TeEKtUbqxNXgZO-w5gGK2okQz333j3xM6ix1o7FVFI1jOiw",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_medium"
+    }
+  },
+  "skin-128166c2642e_3_st": {
+    "id": "skin-128166c2642e_3_st",
+    "skin_id": "skin-128166c2642e",
+    "name": "StatTrak™ Negev | Drop Me (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Drop Me (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWQiy3nAgq_T7cwt-vInuWPQIhCpB3TeEKtUbqxNXgZO-w5gGK2okQz333j3xM6ix1o7FVFI1jOiw",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_medium"
+    }
+  },
+  "skin-128166c2642e_4_st": {
+    "id": "skin-128166c2642e_4_st",
+    "skin_id": "skin-128166c2642e",
+    "name": "StatTrak™ Negev | Drop Me (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\\n\\n<i>If the stop sign doesn't convince you the stream of bullets will</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_clear_sky",
+      "name": "Drop Me"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1152",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Drop Me (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-QAmKR09Flu_hWRyyygwRptW2GzNysdHqRblckCJB1F-VYshTskobjP-7i4AHZjN4WmXmvjihP6DErvbghUM-GVg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_clear_sky_heavy"
+    }
+  },
+  "skin-bce9af58ff21_0": {
+    "id": "skin-bce9af58ff21_0",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "Negev | dev_texture (Factory New)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | dev_texture (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCW6khUz_W_QzdmhJy7EOFAkWMdzF-dbtEK9moGyZbi37gTZi4xMxH36iipK73p1o7FVNCisfvA",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_light"
+    }
+  },
+  "skin-bce9af58ff21_1": {
+    "id": "skin-bce9af58ff21_1",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "Negev | dev_texture (Minimal Wear)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | dev_texture (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCW6khUz_W_QzdmhJy7EOFAkWMdzF-dbtEK9moGyZbi37gTZi4xMxH36iipK73p1o7FVNCisfvA",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_light"
+    }
+  },
+  "skin-bce9af58ff21_2": {
+    "id": "skin-bce9af58ff21_2",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "Negev | dev_texture (Field-Tested)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | dev_texture (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCS2kRQyvnPTwtv7InieOFJ1DpZ2F7YCskXultC1MOnktlaI344WxCX62ntB7i46_a9cBrXKNorP",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_medium"
+    }
+  },
+  "skin-bce9af58ff21_3": {
+    "id": "skin-bce9af58ff21_3",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "Negev | dev_texture (Well-Worn)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | dev_texture (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCS2kRQyvnPTwtv7InieOFJ1DpZ2F7YCskXultC1MOnktlaI344WxCX62ntB7i46_a9cBrXKNorP",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_medium"
+    }
+  },
+  "skin-bce9af58ff21_4": {
+    "id": "skin-bce9af58ff21_4",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "Negev | dev_texture (Battle-Scarred)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | dev_texture (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCG2lAs-_TzVzY2qInmUa1J2DpdwTeULtxS6k9XmYejjtFHZiIsTzij823wcvy51o7FVmNC5I1o",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_heavy"
+    }
+  },
+  "skin-bce9af58ff21_0_st": {
+    "id": "skin-bce9af58ff21_0_st",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "StatTrak™ Negev | dev_texture (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | dev_texture (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCW6khUz_W_QzdmhJy7EOFAkWMdzF-dbtEK9moGyZbi37gTZi4xMxH36iipK73p1o7FVNCisfvA",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_light"
+    }
+  },
+  "skin-bce9af58ff21_1_st": {
+    "id": "skin-bce9af58ff21_1_st",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "StatTrak™ Negev | dev_texture (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | dev_texture (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCW6khUz_W_QzdmhJy7EOFAkWMdzF-dbtEK9moGyZbi37gTZi4xMxH36iipK73p1o7FVNCisfvA",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_light"
+    }
+  },
+  "skin-bce9af58ff21_2_st": {
+    "id": "skin-bce9af58ff21_2_st",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "StatTrak™ Negev | dev_texture (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | dev_texture (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCS2kRQyvnPTwtv7InieOFJ1DpZ2F7YCskXultC1MOnktlaI344WxCX62ntB7i46_a9cBrXKNorP",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_medium"
+    }
+  },
+  "skin-bce9af58ff21_3_st": {
+    "id": "skin-bce9af58ff21_3_st",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "StatTrak™ Negev | dev_texture (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | dev_texture (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCS2kRQyvnPTwtv7InieOFJ1DpZ2F7YCskXultC1MOnktlaI344WxCX62ntB7i46_a9cBrXKNorP",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_medium"
+    }
+  },
+  "skin-bce9af58ff21_4_st": {
+    "id": "skin-bce9af58ff21_4_st",
+    "skin_id": "skin-bce9af58ff21",
+    "name": "StatTrak™ Negev | dev_texture (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_devtexture",
+      "name": "dev_texture"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1043",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | dev_texture (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-XC3GExPZipfNscCG2lAs-_TzVzY2qInmUa1J2DpdwTeULtxS6k9XmYejjtFHZiIsTzij823wcvy51o7FVmNC5I1o",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_devtexture_heavy"
+    }
+  },
+  "skin-69c57b0e17a5_0": {
+    "id": "skin-69c57b0e17a5_0",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "Negev | Power Loader (Factory New)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | Power Loader (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJvOhuRz39lE914j-HyYmscHLBZ1J1X5NyEbYI5Be8k4DmYuzh4AGIgo0QzSqs3TQJsHgPf9N5RQ",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_light"
+    }
+  },
+  "skin-69c57b0e17a5_1": {
+    "id": "skin-69c57b0e17a5_1",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "Negev | Power Loader (Minimal Wear)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | Power Loader (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJvOhuRz39lE914j-HyYmscHLBZ1J1X5NyEbYI5Be8k4DmYuzh4AGIgo0QzSqs3TQJsHgPf9N5RQ",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_light"
+    }
+  },
+  "skin-69c57b0e17a5_2": {
+    "id": "skin-69c57b0e17a5_2",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "Negev | Power Loader (Field-Tested)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | Power Loader (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJveRtRjy-2x904DiEmd-hJC6SaFB1XppxEeVfsRO-xofjPrmw5wbaiY9DzS3-jntXrnE8OK0B-_c",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_medium"
+    }
+  },
+  "skin-69c57b0e17a5_3": {
+    "id": "skin-69c57b0e17a5_3",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "Negev | Power Loader (Well-Worn)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | Power Loader (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJveRtRjy-2x904DiEmd-hJC6SaFB1XppxEeVfsRO-xofjPrmw5wbaiY9DzS3-jntXrnE8OK0B-_c",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_medium"
+    }
+  },
+  "skin-69c57b0e17a5_4": {
+    "id": "skin-69c57b0e17a5_4",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "Negev | Power Loader (Battle-Scarred)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Negev | Power Loader (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJuORoWTD9l0ly62_Tzd6gcC2RaA90WJZxQeUN5kTrlNbjYr_r5wCI39pDxS363DQJsHgICfEM7w",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_heavy"
+    }
+  },
+  "skin-69c57b0e17a5_0_st": {
+    "id": "skin-69c57b0e17a5_0_st",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "StatTrak™ Negev | Power Loader (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Power Loader (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJvOhuRz39lE914j-HyYmscHLBZ1J1X5NyEbYI5Be8k4DmYuzh4AGIgo0QzSqs3TQJsHgPf9N5RQ",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_light"
+    }
+  },
+  "skin-69c57b0e17a5_1_st": {
+    "id": "skin-69c57b0e17a5_1_st",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "StatTrak™ Negev | Power Loader (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Power Loader (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJvOhuRz39lE914j-HyYmscHLBZ1J1X5NyEbYI5Be8k4DmYuzh4AGIgo0QzSqs3TQJsHgPf9N5RQ",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_light"
+    }
+  },
+  "skin-69c57b0e17a5_2_st": {
+    "id": "skin-69c57b0e17a5_2_st",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "StatTrak™ Negev | Power Loader (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Power Loader (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJveRtRjy-2x904DiEmd-hJC6SaFB1XppxEeVfsRO-xofjPrmw5wbaiY9DzS3-jntXrnE8OK0B-_c",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_medium"
+    }
+  },
+  "skin-69c57b0e17a5_3_st": {
+    "id": "skin-69c57b0e17a5_3_st",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "StatTrak™ Negev | Power Loader (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Power Loader (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJveRtRjy-2x904DiEmd-hJC6SaFB1XppxEeVfsRO-xofjPrmw5wbaiY9DzS3-jntXrnE8OK0B-_c",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_medium"
+    }
+  },
+  "skin-69c57b0e17a5_4_st": {
+    "id": "skin-69c57b0e17a5_4_st",
+    "skin_id": "skin-69c57b0e17a5",
+    "name": "StatTrak™ Negev | Power Loader (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_impact",
+      "name": "Power Loader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "514",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Power Loader (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-aA3eRwvpJuORoWTD9l0ly62_Tzd6gcC2RaA90WJZxQeUN5kTrlNbjYr_r5wCI39pDxS363DQJsHgICfEM7w",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_impact_heavy"
+    }
+  },
+  "skin-c31f180e6a50_0": {
+    "id": "skin-c31f180e6a50_0",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "Negev | Prototype (Factory New)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Prototype (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWQyC0nQlp6juDydugcHvEawVxApB3F7JftxTsloDgZOqx51PY345AxXr33SNPuzErvbi5RDlayg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_light"
+    }
+  },
+  "skin-c31f180e6a50_1": {
+    "id": "skin-c31f180e6a50_1",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "Negev | Prototype (Minimal Wear)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Prototype (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWQyC0nQlp6juDydugcHvEawVxApB3F7JftxTsloDgZOqx51PY345AxXr33SNPuzErvbi5RDlayg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_light"
+    }
+  },
+  "skin-c31f180e6a50_2": {
+    "id": "skin-c31f180e6a50_2",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "Negev | Prototype (Field-Tested)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Prototype (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWQiy3nAgq_TvdnIysc3rGalJ2CpJ3FOcPsUHpwNa0ZL7n71PZi45NyXj7iCpB6S51o7FVQve-AXY",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_medium"
+    }
+  },
+  "skin-c31f180e6a50_3": {
+    "id": "skin-c31f180e6a50_3",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "Negev | Prototype (Well-Worn)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Prototype (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWQiy3nAgq_TvdnIysc3rGalJ2CpJ3FOcPsUHpwNa0ZL7n71PZi45NyXj7iCpB6S51o7FVQve-AXY",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_medium"
+    }
+  },
+  "skin-c31f180e6a50_4": {
+    "id": "skin-c31f180e6a50_4",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "Negev | Prototype (Battle-Scarred)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Prototype (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWRyyygwRp5GvcyY77d3yQOlMkD5d0FrUNukK9loW0Nuzl4g3f3YIQxCv52C1MuDErvbi9z1qkeg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_heavy"
+    }
+  },
+  "skin-c31f180e6a50_0_st": {
+    "id": "skin-c31f180e6a50_0_st",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "StatTrak™ Negev | Prototype (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Prototype (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWQyC0nQlp6juDydugcHvEawVxApB3F7JftxTsloDgZOqx51PY345AxXr33SNPuzErvbi5RDlayg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_light"
+    }
+  },
+  "skin-c31f180e6a50_1_st": {
+    "id": "skin-c31f180e6a50_1_st",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "StatTrak™ Negev | Prototype (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Prototype (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWQyC0nQlp6juDydugcHvEawVxApB3F7JftxTsloDgZOqx51PY345AxXr33SNPuzErvbi5RDlayg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_light"
+    }
+  },
+  "skin-c31f180e6a50_2_st": {
+    "id": "skin-c31f180e6a50_2_st",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "StatTrak™ Negev | Prototype (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Prototype (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWQiy3nAgq_TvdnIysc3rGalJ2CpJ3FOcPsUHpwNa0ZL7n71PZi45NyXj7iCpB6S51o7FVQve-AXY",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_medium"
+    }
+  },
+  "skin-c31f180e6a50_3_st": {
+    "id": "skin-c31f180e6a50_3_st",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "StatTrak™ Negev | Prototype (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Prototype (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWQiy3nAgq_TvdnIysc3rGalJ2CpJ3FOcPsUHpwNa0ZL7n71PZi45NyXj7iCpB6S51o7FVQve-AXY",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_medium"
+    }
+  },
+  "skin-c31f180e6a50_4_st": {
+    "id": "skin-c31f180e6a50_4_st",
+    "skin_id": "skin-c31f180e6a50",
+    "name": "StatTrak™ Negev | Prototype (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted in white and red, a temporary paint job while its design is finalized.\\n\\n<i>v1.2.1, PAT. 3422107</i>",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_prototype",
+      "name": "Prototype"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "950",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ Negev | Prototype (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-DHGiEzvpvoORWRyyygwRp5GvcyY77d3yQOlMkD5d0FrUNukK9loW0Nuzl4g3f3YIQxCv52C1MuDErvbi9z1qkeg",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_prototype_heavy"
+    }
+  },
+  "skin-a3cdd0b6440e_0": {
+    "id": "skin-a3cdd0b6440e_0",
+    "skin_id": "skin-a3cdd0b6440e",
+    "name": "Negev | Desert-Strike (Factory New)",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_negev",
+      "weapon_id": 28,
+      "name": "Negev"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_negev_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "355",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Negev | Desert-Strike (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2gbaNoNs-HB3ORz_1iv_NkcCW6khUz_WnUz42tI3-WOw5zDpAmQOQD4ELskoDlMeni4gTWjoNNmSj_33kcvC51o7FVXp6G1h4",
+    "original": {
+      "name": "weapon_negev",
+      "image_inventory": "econ/default_generated/weapon_negev_cu_negev_titanstorm_light"
+    }
+  }
+}

@@ -1,0 +1,3187 @@
+{
+  "skin-63ed7bb762a0_4_st": {
+    "id": "skin-63ed7bb762a0_4_st",
+    "skin_id": "skin-63ed7bb762a0",
+    "name": "StatTrak™ MP5-SD | Statics (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted with a black and blue design.\\n\\n<i>Black and blue and bloody all over</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5_statics_blue",
+      "name": "Statics"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1180",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP5-SD | Statics (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6eRe7BsNPmQHViSzftzj-lsTj-q2xxw523QyIn4cnPBaVMoAsB1E-8PtBS5w4LnNezltACP2IxNyC_72iNXrnE89gnxcsA",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5_statics_blue_heavy"
+    }
+  },
+  "skin-e051c197f5af_0": {
+    "id": "skin-e051c197f5af_0",
+    "skin_id": "skin-e051c197f5af",
+    "name": "MP5-SD | Focus (Factory New)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP5-SD | Focus (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzedxuPUnG3rmxU525WTdztqhIH-XOwYiA8QjR-AOtRC6kIfhNuPntgbfio1EmzK-0H16sAwJOA",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_light"
+    }
+  },
+  "skin-e051c197f5af_1": {
+    "id": "skin-e051c197f5af_1",
+    "skin_id": "skin-e051c197f5af",
+    "name": "MP5-SD | Focus (Minimal Wear)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP5-SD | Focus (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzedxuPUnG3rmxU525WTdztqhIH-XOwYiA8QjR-AOtRC6kIfhNuPntgbfio1EmzK-0H16sAwJOA",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_light"
+    }
+  },
+  "skin-e051c197f5af_2": {
+    "id": "skin-e051c197f5af_2",
+    "skin_id": "skin-e051c197f5af",
+    "name": "MP5-SD | Focus (Field-Tested)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP5-SD | Focus (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzOtyufRkAXG2l09-tm-AmIqvdS7EZgB2Wcd4ELRYukO-ktPnZuLq5APe39pHxCvgznQe-6Bb5MM",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_medium"
+    }
+  },
+  "skin-e051c197f5af_3": {
+    "id": "skin-e051c197f5af_3",
+    "skin_id": "skin-e051c197f5af",
+    "name": "MP5-SD | Focus (Well-Worn)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP5-SD | Focus (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzOtyufRkAXG2l09-tm-AmIqvdS7EZgB2Wcd4ELRYukO-ktPnZuLq5APe39pHxCvgznQe-6Bb5MM",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_medium"
+    }
+  },
+  "skin-e051c197f5af_4": {
+    "id": "skin-e051c197f5af_4",
+    "skin_id": "skin-e051c197f5af",
+    "name": "MP5-SD | Focus (Battle-Scarred)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP5-SD | Focus (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2Kvyet3pvgnGXDkwUlz42WAyYuqc3iRbAEpD8NwEeZb5hfswNXvYb6z4gyIi98XnjK-0H0fSCFZeg",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_heavy"
+    }
+  },
+  "skin-e051c197f5af_0_st": {
+    "id": "skin-e051c197f5af_0_st",
+    "skin_id": "skin-e051c197f5af",
+    "name": "StatTrak™ MP5-SD | Focus (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP5-SD | Focus (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzedxuPUnG3rmxU525WTdztqhIH-XOwYiA8QjR-AOtRC6kIfhNuPntgbfio1EmzK-0H16sAwJOA",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_light"
+    }
+  },
+  "skin-e051c197f5af_1_st": {
+    "id": "skin-e051c197f5af_1_st",
+    "skin_id": "skin-e051c197f5af",
+    "name": "StatTrak™ MP5-SD | Focus (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP5-SD | Focus (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzedxuPUnG3rmxU525WTdztqhIH-XOwYiA8QjR-AOtRC6kIfhNuPntgbfio1EmzK-0H16sAwJOA",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_light"
+    }
+  },
+  "skin-e051c197f5af_2_st": {
+    "id": "skin-e051c197f5af_2_st",
+    "skin_id": "skin-e051c197f5af",
+    "name": "StatTrak™ MP5-SD | Focus (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP5-SD | Focus (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzOtyufRkAXG2l09-tm-AmIqvdS7EZgB2Wcd4ELRYukO-ktPnZuLq5APe39pHxCvgznQe-6Bb5MM",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_medium"
+    }
+  },
+  "skin-e051c197f5af_3_st": {
+    "id": "skin-e051c197f5af_3_st",
+    "skin_id": "skin-e051c197f5af",
+    "name": "StatTrak™ MP5-SD | Focus (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP5-SD | Focus (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzOtyufRkAXG2l09-tm-AmIqvdS7EZgB2Wcd4ELRYukO-ktPnZuLq5APe39pHxCvgznQe-6Bb5MM",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_medium"
+    }
+  },
+  "skin-e051c197f5af_4_st": {
+    "id": "skin-e051c197f5af_4_st",
+    "skin_id": "skin-e051c197f5af",
+    "name": "StatTrak™ MP5-SD | Focus (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "mp5sd_chrome",
+      "name": "Focus"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1344",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP5-SD | Focus (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2Kvyet3pvgnGXDkwUlz42WAyYuqc3iRbAEpD8NwEeZb5hfswNXvYb6z4gyIi98XnjK-0H0fSCFZeg",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_mp5sd_chrome_heavy"
+    }
+  },
+  "skin-9a6d2fd4886e_0": {
+    "id": "skin-9a6d2fd4886e_0",
+    "skin_id": "skin-9a6d2fd4886e",
+    "name": "MP5-SD | Nitro (Factory New)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has individual parts spray-painted black and tangerine orange.\\n\\n<i>Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_orange_accents3",
+      "name": "Nitro"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "798",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP5-SD | Nitro (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I4M2heqVjJ_WsD2STxOBio7JWQyC0nQlp42yEzImsdH3EaAEgC8N2EeYJtRbuxtDjYr_q7weI3d5FzCz43ChOvDErvbiO5Zd60w",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_so_orange_accents3_light"
+    }
+  },
+  "skin-9a6d2fd4886e_1": {
+    "id": "skin-9a6d2fd4886e_1",
+    "skin_id": "skin-9a6d2fd4886e",
+    "name": "MP5-SD | Nitro (Minimal Wear)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has individual parts spray-painted black and tangerine orange.\\n\\n<i>Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_orange_accents3",
+      "name": "Nitro"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "798",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP5-SD | Nitro (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I4M2heqVjJ_WsD2STxOBio7JWQyC0nQlp42yEzImsdH3EaAEgC8N2EeYJtRbuxtDjYr_q7weI3d5FzCz43ChOvDErvbiO5Zd60w",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_so_orange_accents3_light"
+    }
+  },
+  "skin-9a6d2fd4886e_2": {
+    "id": "skin-9a6d2fd4886e_2",
+    "skin_id": "skin-9a6d2fd4886e",
+    "name": "MP5-SD | Nitro (Field-Tested)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has individual parts spray-painted black and tangerine orange.\\n\\n<i>Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_orange_accents3",
+      "name": "Nitro"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "798",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP5-SD | Nitro (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I4M2heqVjJ_WsD2STxOBio7JWQiy3nAgq_W_Szdj8dSqeawNzXpF3FOAPuhS-w4blMujhtQSKj9hGzi332nxA6Hl1o7FV9urSSW0",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_so_orange_accents3_medium"
+    }
+  },
+  "skin-9a6d2fd4886e_3": {
+    "id": "skin-9a6d2fd4886e_3",
+    "skin_id": "skin-9a6d2fd4886e",
+    "name": "MP5-SD | Nitro (Well-Worn)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has individual parts spray-painted black and tangerine orange.\\n\\n<i>Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_orange_accents3",
+      "name": "Nitro"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "798",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP5-SD | Nitro (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I4M2heqVjJ_WsD2STxOBio7JWQiy3nAgq_W_Szdj8dSqeawNzXpF3FOAPuhS-w4blMujhtQSKj9hGzi332nxA6Hl1o7FV9urSSW0",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_so_orange_accents3_medium"
+    }
+  },
+  "skin-9a6d2fd4886e_4": {
+    "id": "skin-9a6d2fd4886e_4",
+    "skin_id": "skin-9a6d2fd4886e",
+    "name": "MP5-SD | Nitro (Battle-Scarred)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has individual parts spray-painted black and tangerine orange.\\n\\n<i>Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_orange_accents3",
+      "name": "Nitro"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "798",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP5-SD | Nitro (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I4M2heqVjJ_WsD2STxOBio7JWRyyygwRp5mXRn4r7dS2QPw8lX8chQecI4xTulNPmN7zj4wbYio1AznqqhilIuzErvbisZ8bfpA",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_so_orange_accents3_heavy"
+    }
+  },
+  "skin-e6401ef3f5b7_0": {
+    "id": "skin-e6401ef3f5b7_0",
+    "skin_id": "skin-e6401ef3f5b7",
+    "name": "MP5-SD | Lime Hex (Factory New)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been spray-painted with a blue and green hex pattern.\\n\\n<i>Hex marks the spot</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_lime_hex",
+      "name": "Lime Hex"
+    },
+    "min_float": 0,
+    "max_float": 0.638225,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1274",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Lime Hex (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82iYaloH_iWFlicyOl-pK8_HH22xxl34DiHz9mreS-TblN2C5FwFOQN4Rjpx9C1Yunh4gfbg91M02yg2SHKjRF4",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_lime_hex_light"
+    }
+  },
+  "skin-e6401ef3f5b7_1": {
+    "id": "skin-e6401ef3f5b7_1",
+    "skin_id": "skin-e6401ef3f5b7",
+    "name": "MP5-SD | Lime Hex (Minimal Wear)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been spray-painted with a blue and green hex pattern.\\n\\n<i>Hex marks the spot</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_lime_hex",
+      "name": "Lime Hex"
+    },
+    "min_float": 0,
+    "max_float": 0.638225,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1274",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Lime Hex (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82iYaloH_iWFlicyOl-pK8_HH22xxl34DiHz9mreS-TblN2C5FwFOQN4Rjpx9C1Yunh4gfbg91M02yg2SHKjRF4",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_lime_hex_light"
+    }
+  },
+  "skin-e6401ef3f5b7_2": {
+    "id": "skin-e6401ef3f5b7_2",
+    "skin_id": "skin-e6401ef3f5b7",
+    "name": "MP5-SD | Lime Hex (Field-Tested)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been spray-painted with a blue and green hex pattern.\\n\\n<i>Hex marks the spot</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_lime_hex",
+      "name": "Lime Hex"
+    },
+    "min_float": 0,
+    "max_float": 0.638225,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1274",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Lime Hex (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82iYaloH_iWFlidxOp_pewnHyjqw0R-6m_UmY6qc3yWbw8hDcAkTLVZ4xG5m9bnMb7m5QyIi95MmDK-0H0n3UM9qw",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_lime_hex_medium"
+    }
+  },
+  "skin-e6401ef3f5b7_3": {
+    "id": "skin-e6401ef3f5b7_3",
+    "skin_id": "skin-e6401ef3f5b7",
+    "name": "MP5-SD | Lime Hex (Well-Worn)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been spray-painted with a blue and green hex pattern.\\n\\n<i>Hex marks the spot</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_lime_hex",
+      "name": "Lime Hex"
+    },
+    "min_float": 0,
+    "max_float": 0.638225,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1274",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Lime Hex (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82iYaloH_iWFlidxOp_pewnHyjqw0R-6m_UmY6qc3yWbw8hDcAkTLVZ4xG5m9bnMb7m5QyIi95MmDK-0H0n3UM9qw",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_lime_hex_medium"
+    }
+  },
+  "skin-e6401ef3f5b7_4": {
+    "id": "skin-e6401ef3f5b7_4",
+    "skin_id": "skin-e6401ef3f5b7",
+    "name": "MP5-SD | Lime Hex (Battle-Scarred)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been spray-painted with a blue and green hex pattern.\\n\\n<i>Hex marks the spot</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_lime_hex",
+      "name": "Lime Hex"
+    },
+    "min_float": 0,
+    "max_float": 0.638225,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1274",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Lime Hex (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82iYaloH_iWFliYxO9gqa9tSXi2k00isGXXwoyhc3OVZwFzXpp4QeQCsBS-ldTkN77n5wWKg4pD02yg2fStoNLz",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_lime_hex_heavy"
+    }
+  },
+  "skin-d26c8acd0505_0": {
+    "id": "skin-d26c8acd0505_0",
+    "skin_id": "skin-d26c8acd0505",
+    "name": "MP5-SD | Neon Squeezer (Field-Tested)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Neon-colored paint pen graffiti doodles have been applied over a dark base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_overpass_paint_pen_neon",
+      "name": "Neon Squeezer"
+    },
+    "min_float": 0.2,
+    "max_float": 0.9,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "161",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP5-SD | Neon Squeezer (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82hfqF_MPGAHViAwOd4pN55SieMmxgovQKIn4vwNCaJPAN2DZJ2Te9Y50a-wYW1Menh41fZi9oRni6sii1P6idu4usHUqUi87qX0V_tTvsQDw",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_overpass_paint_pen_neon_medium"
+    }
+  },
+  "skin-d26c8acd0505_1": {
+    "id": "skin-d26c8acd0505_1",
+    "skin_id": "skin-d26c8acd0505",
+    "name": "MP5-SD | Neon Squeezer (Well-Worn)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Neon-colored paint pen graffiti doodles have been applied over a dark base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_overpass_paint_pen_neon",
+      "name": "Neon Squeezer"
+    },
+    "min_float": 0.2,
+    "max_float": 0.9,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "161",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP5-SD | Neon Squeezer (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82hfqF_MPGAHViAwOd4pN55SieMmxgovQKIn4vwNCaJPAN2DZJ2Te9Y50a-wYW1Menh41fZi9oRni6sii1P6idu4usHUqUi87qX0V_tTvsQDw",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_overpass_paint_pen_neon_medium"
+    }
+  },
+  "skin-d26c8acd0505_2": {
+    "id": "skin-d26c8acd0505_2",
+    "skin_id": "skin-d26c8acd0505",
+    "name": "MP5-SD | Neon Squeezer (Battle-Scarred)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Neon-colored paint pen graffiti doodles have been applied over a dark base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_overpass_paint_pen_neon",
+      "name": "Neon Squeezer"
+    },
+    "min_float": 0.2,
+    "max_float": 0.9,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "161",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP5-SD | Neon Squeezer (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82hfqF_MPGAHViAwOd4pN55SieMmxgovQKNn47vOGWTagchDZImF-IM4EO-w9LmMum35FGL3tpFyn3-jXxK6Clo6-kAUKZx5OSJ2I1Adte6",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_overpass_paint_pen_neon_heavy"
+    }
+  },
+  "skin-d26c8acd0505_0_so": {
+    "id": "skin-d26c8acd0505_0_so",
+    "skin_id": "skin-d26c8acd0505",
+    "name": "Souvenir MP5-SD | Neon Squeezer (Field-Tested)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Neon-colored paint pen graffiti doodles have been applied over a dark base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_overpass_paint_pen_neon",
+      "name": "Neon Squeezer"
+    },
+    "min_float": 0.2,
+    "max_float": 0.9,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "161",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "Souvenir MP5-SD | Neon Squeezer (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82hfqF_MPGAHViAwOd4pN55SieMmxgovQKIn4vwNCaJPAN2DZJ2Te9Y50a-wYW1Menh41fZi9oRni6sii1P6idu4usHUqUi87qX0V_tTvsQDw",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_overpass_paint_pen_neon_medium"
+    }
+  },
+  "skin-d26c8acd0505_1_so": {
+    "id": "skin-d26c8acd0505_1_so",
+    "skin_id": "skin-d26c8acd0505",
+    "name": "Souvenir MP5-SD | Neon Squeezer (Well-Worn)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Neon-colored paint pen graffiti doodles have been applied over a dark base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_overpass_paint_pen_neon",
+      "name": "Neon Squeezer"
+    },
+    "min_float": 0.2,
+    "max_float": 0.9,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "161",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "Souvenir MP5-SD | Neon Squeezer (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82hfqF_MPGAHViAwOd4pN55SieMmxgovQKIn4vwNCaJPAN2DZJ2Te9Y50a-wYW1Menh41fZi9oRni6sii1P6idu4usHUqUi87qX0V_tTvsQDw",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_overpass_paint_pen_neon_medium"
+    }
+  },
+  "skin-d26c8acd0505_2_so": {
+    "id": "skin-d26c8acd0505_2_so",
+    "skin_id": "skin-d26c8acd0505",
+    "name": "Souvenir MP5-SD | Neon Squeezer (Battle-Scarred)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Neon-colored paint pen graffiti doodles have been applied over a dark base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_overpass_paint_pen_neon",
+      "name": "Neon Squeezer"
+    },
+    "min_float": 0.2,
+    "max_float": 0.9,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "161",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "Souvenir MP5-SD | Neon Squeezer (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_82hfqF_MPGAHViAwOd4pN55SieMmxgovQKNn47vOGWTagchDZImF-IM4EO-w9LmMum35FGL3tpFyn3-jXxK6Clo6-kAUKZx5OSJ2I1Adte6",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_overpass_paint_pen_neon_heavy"
+    }
+  },
+  "skin-fd68b9a223c0_0": {
+    "id": "skin-fd68b9a223c0_0",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "MP5-SD | Dirt Drop (Factory New)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Dirt Drop (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCW6khUz_W_TydqocinDPwYlW8MhQuMMs0LsxNblN7_jtVCM2I9Cz3_43Hsd7il1o7FV674h8n8",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_light"
+    }
+  },
+  "skin-fd68b9a223c0_1": {
+    "id": "skin-fd68b9a223c0_1",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "MP5-SD | Dirt Drop (Minimal Wear)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Dirt Drop (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCW6khUz_W_TydqocinDPwYlW8MhQuMMs0LsxNblN7_jtVCM2I9Cz3_43Hsd7il1o7FV674h8n8",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_light"
+    }
+  },
+  "skin-fd68b9a223c0_2": {
+    "id": "skin-fd68b9a223c0_2",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "MP5-SD | Dirt Drop (Field-Tested)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Dirt Drop (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCS2kRQyvnPdy9__dy-QbAF2D5IjRuADtRW-ktG0Yu7jsgfeidoQxC2riy1M63xr_a9cBiDVvxL7",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_medium"
+    }
+  },
+  "skin-fd68b9a223c0_3": {
+    "id": "skin-fd68b9a223c0_3",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "MP5-SD | Dirt Drop (Well-Worn)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Dirt Drop (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCS2kRQyvnPdy9__dy-QbAF2D5IjRuADtRW-ktG0Yu7jsgfeidoQxC2riy1M63xr_a9cBiDVvxL7",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_medium"
+    }
+  },
+  "skin-fd68b9a223c0_4": {
+    "id": "skin-fd68b9a223c0_4",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "MP5-SD | Dirt Drop (Battle-Scarred)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "MP5-SD | Dirt Drop (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCG2lAs-_TuByI6uJXqTaVJxXJAkQrII5EO8ldK2N-vh41bbjtlEmSqqjX5A6iZ1o7FV_9W_1_Q",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_heavy"
+    }
+  },
+  "skin-fd68b9a223c0_0_so": {
+    "id": "skin-fd68b9a223c0_0_so",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "Souvenir MP5-SD | Dirt Drop (Factory New)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "Souvenir MP5-SD | Dirt Drop (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCW6khUz_W_TydqocinDPwYlW8MhQuMMs0LsxNblN7_jtVCM2I9Cz3_43Hsd7il1o7FV674h8n8",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_light"
+    }
+  },
+  "skin-fd68b9a223c0_1_so": {
+    "id": "skin-fd68b9a223c0_1_so",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "Souvenir MP5-SD | Dirt Drop (Minimal Wear)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "Souvenir MP5-SD | Dirt Drop (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCW6khUz_W_TydqocinDPwYlW8MhQuMMs0LsxNblN7_jtVCM2I9Cz3_43Hsd7il1o7FV674h8n8",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_light"
+    }
+  },
+  "skin-fd68b9a223c0_2_so": {
+    "id": "skin-fd68b9a223c0_2_so",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "Souvenir MP5-SD | Dirt Drop (Field-Tested)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "Souvenir MP5-SD | Dirt Drop (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCS2kRQyvnPdy9__dy-QbAF2D5IjRuADtRW-ktG0Yu7jsgfeidoQxC2riy1M63xr_a9cBiDVvxL7",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_medium"
+    }
+  },
+  "skin-fd68b9a223c0_3_so": {
+    "id": "skin-fd68b9a223c0_3_so",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "Souvenir MP5-SD | Dirt Drop (Well-Worn)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "Souvenir MP5-SD | Dirt Drop (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCS2kRQyvnPdy9__dy-QbAF2D5IjRuADtRW-ktG0Yu7jsgfeidoQxC2riy1M63xr_a9cBiDVvxL7",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_medium"
+    }
+  },
+  "skin-fd68b9a223c0_4_so": {
+    "id": "skin-fd68b9a223c0_4_so",
+    "skin_id": "skin-fd68b9a223c0",
+    "name": "Souvenir MP5-SD | Dirt Drop (Battle-Scarred)",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Black streaks have been spray painted over a dark base.\\n\\n<i>Dirt don't hurt… until it does</i>",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "weapon_id": 23,
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "753",
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "market_hash_name": "Souvenir MP5-SD | Dirt Drop (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I_826abRoH-ObAXWE_vx3vO1wcCG2lAs-_TuByI6uJXqTaVJxXJAkQrII5EO8ldK2N-vh41bbjtlEmSqqjX5A6iZ1o7FV_9W_1_Q",
+    "original": {
+      "name": "weapon_mp5sd",
+      "image_inventory": "econ/default_generated/weapon_mp5sd_sp_tape_short_rally_heavy"
+    }
+  },
+  "skin-7036be1d6dd2_0": {
+    "id": "skin-7036be1d6dd2_0",
+    "skin_id": "skin-7036be1d6dd2",
+    "name": "MP7 | Fade (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_fade_mp7",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.25,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "752",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Fade (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_CNk6fOqbZtgMKesAm6Xyfo45LQ7Fy3rzR536j6HyYn6J3zFaAcjA5RwQ-9fs0O5m93nMe2x5QHfjZUFk3sMNd5yQw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aa_fade_mp7_light"
+    }
+  },
+  "skin-7036be1d6dd2_1": {
+    "id": "skin-7036be1d6dd2_1",
+    "skin_id": "skin-7036be1d6dd2",
+    "name": "MP7 | Fade (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_fade_mp7",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.25,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "752",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Fade (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_CNk6fOqbZtgMKesAm6Xyfo45LQ7Fy3rzR536j6HyYn6J3zFaAcjA5RwQ-9fs0O5m93nMe2x5QHfjZUFk3sMNd5yQw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aa_fade_mp7_light"
+    }
+  },
+  "skin-7036be1d6dd2_2": {
+    "id": "skin-7036be1d6dd2_2",
+    "skin_id": "skin-7036be1d6dd2",
+    "name": "MP7 | Fade (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_fade_mp7",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.25,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "752",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Fade (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_CNk6fOqbZtgMKesA2KUyPt7_rM8HnHmxUkltj7Qntb4c3vFZlUhCpckFO9c5hLqlICzPuPjtVTZ2IpbjXKprk5pPbw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aa_fade_mp7_medium"
+    }
+  },
+  "skin-7036be1d6dd2_0_so": {
+    "id": "skin-7036be1d6dd2_0_so",
+    "skin_id": "skin-7036be1d6dd2",
+    "name": "Souvenir MP7 | Fade (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_fade_mp7",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.25,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "752",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Souvenir MP7 | Fade (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_CNk6fOqbZtgMKesAm6Xyfo45LQ7Fy3rzR536j6HyYn6J3zFaAcjA5RwQ-9fs0O5m93nMe2x5QHfjZUFk3sMNd5yQw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aa_fade_mp7_light"
+    }
+  },
+  "skin-7036be1d6dd2_1_so": {
+    "id": "skin-7036be1d6dd2_1_so",
+    "skin_id": "skin-7036be1d6dd2",
+    "name": "Souvenir MP7 | Fade (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_fade_mp7",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.25,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "752",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Souvenir MP7 | Fade (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_CNk6fOqbZtgMKesAm6Xyfo45LQ7Fy3rzR536j6HyYn6J3zFaAcjA5RwQ-9fs0O5m93nMe2x5QHfjZUFk3sMNd5yQw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aa_fade_mp7_light"
+    }
+  },
+  "skin-7036be1d6dd2_2_so": {
+    "id": "skin-7036be1d6dd2_2_so",
+    "skin_id": "skin-7036be1d6dd2",
+    "name": "Souvenir MP7 | Fade (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_fade_mp7",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.25,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "752",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Souvenir MP7 | Fade (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 6,
+      "name": "Anodized Airbrushed",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_CNk6fOqbZtgMKesA2KUyPt7_rM8HnHmxUkltj7Qntb4c3vFZlUhCpckFO9c5hLqlICzPuPjtVTZ2IpbjXKprk5pPbw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aa_fade_mp7_medium"
+    }
+  },
+  "skin-1b2de32446fe_0": {
+    "id": "skin-1b2de32446fe_0",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "MP7 | Motherboard (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Motherboard (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCW6khUz_T7Wm9-vJHmWbAVzDJZzFuMP5hKwxIDiP7jlsQGI2Y9CzSr_j3tJ6i51o7FV2fbsGVQ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_light"
+    }
+  },
+  "skin-1b2de32446fe_1": {
+    "id": "skin-1b2de32446fe_1",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "MP7 | Motherboard (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Motherboard (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCW6khUz_T7Wm9-vJHmWbAVzDJZzFuMP5hKwxIDiP7jlsQGI2Y9CzSr_j3tJ6i51o7FV2fbsGVQ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_light"
+    }
+  },
+  "skin-1b2de32446fe_2": {
+    "id": "skin-1b2de32446fe_2",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "MP7 | Motherboard (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Motherboard (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCS2kRQyvnPRzI77cnPDblUiXJRzTORb4ELtk4bjMbjrtlGP3Y8UxS2rjCsf7C1o_a9cBhEleRIZ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_medium"
+    }
+  },
+  "skin-1b2de32446fe_3": {
+    "id": "skin-1b2de32446fe_3",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "MP7 | Motherboard (Well-Worn)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Motherboard (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCS2kRQyvnPRzI77cnPDblUiXJRzTORb4ELtk4bjMbjrtlGP3Y8UxS2rjCsf7C1o_a9cBhEleRIZ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_medium"
+    }
+  },
+  "skin-1b2de32446fe_4": {
+    "id": "skin-1b2de32446fe_4",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "MP7 | Motherboard (Battle-Scarred)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Motherboard (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCG2lAs-_WrTn9z9dSjDO1IgWJYmEeYL4EWwx9PmZr-x5wXejo5AySSr2n9L6SZ1o7FVn2Vmj7o",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_heavy"
+    }
+  },
+  "skin-1b2de32446fe_0_so": {
+    "id": "skin-1b2de32446fe_0_so",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "Souvenir MP7 | Motherboard (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "Souvenir MP7 | Motherboard (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCW6khUz_T7Wm9-vJHmWbAVzDJZzFuMP5hKwxIDiP7jlsQGI2Y9CzSr_j3tJ6i51o7FV2fbsGVQ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_light"
+    }
+  },
+  "skin-1b2de32446fe_1_so": {
+    "id": "skin-1b2de32446fe_1_so",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "Souvenir MP7 | Motherboard (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "Souvenir MP7 | Motherboard (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCW6khUz_T7Wm9-vJHmWbAVzDJZzFuMP5hKwxIDiP7jlsQGI2Y9CzSr_j3tJ6i51o7FV2fbsGVQ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_light"
+    }
+  },
+  "skin-1b2de32446fe_2_so": {
+    "id": "skin-1b2de32446fe_2_so",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "Souvenir MP7 | Motherboard (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "Souvenir MP7 | Motherboard (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCS2kRQyvnPRzI77cnPDblUiXJRzTORb4ELtk4bjMbjrtlGP3Y8UxS2rjCsf7C1o_a9cBhEleRIZ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_medium"
+    }
+  },
+  "skin-1b2de32446fe_3_so": {
+    "id": "skin-1b2de32446fe_3_so",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "Souvenir MP7 | Motherboard (Well-Worn)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "Souvenir MP7 | Motherboard (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCS2kRQyvnPRzI77cnPDblUiXJRzTORb4ELtk4bjMbjrtlGP3Y8UxS2rjCsf7C1o_a9cBhEleRIZ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_medium"
+    }
+  },
+  "skin-1b2de32446fe_4_so": {
+    "id": "skin-1b2de32446fe_4_so",
+    "skin_id": "skin-1b2de32446fe",
+    "name": "Souvenir MP7 | Motherboard (Battle-Scarred)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green and white circuit board pattern has been applied.\\n\\n<i>Stay connected</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_green",
+      "name": "Motherboard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "782",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "Souvenir MP7 | Motherboard (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCG2lAs-_WrTn9z9dSjDO1IgWJYmEeYL4EWwx9PmZr-x5wXejo5AySSr2n9L6SZ1o7FVn2Vmj7o",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_circuitboard_green_heavy"
+    }
+  },
+  "skin-e62ed52e566d_0": {
+    "id": "skin-e62ed52e566d_0",
+    "skin_id": "skin-e62ed52e566d",
+    "name": "MP7 | Vault Heist (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. Its base has been painted with a grey anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.\\n\\n<i>Planning is one thing, executing is another</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_heist_plans_yellow",
+      "name": "Vault Heist"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1007",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Vault Heist (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k5_ene7BSMPySAHSv2Ot6vO5-cCW6khUz_Wrcydz9di2WPAApA5EmF-MCtRDpktznNri35FeLithAzSuqiHxM7iZ1o7FVdAUc4V4",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_heist_plans_yellow_light"
+    }
+  },
+  "skin-e62ed52e566d_1": {
+    "id": "skin-e62ed52e566d_1",
+    "skin_id": "skin-e62ed52e566d",
+    "name": "MP7 | Vault Heist (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. Its base has been painted with a grey anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.\\n\\n<i>Planning is one thing, executing is another</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_heist_plans_yellow",
+      "name": "Vault Heist"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1007",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Vault Heist (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k5_ene7BSMPySAHSv2Ot6vO5-cCW6khUz_Wrcydz9di2WPAApA5EmF-MCtRDpktznNri35FeLithAzSuqiHxM7iZ1o7FVdAUc4V4",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_heist_plans_yellow_light"
+    }
+  },
+  "skin-e62ed52e566d_2": {
+    "id": "skin-e62ed52e566d_2",
+    "skin_id": "skin-e62ed52e566d",
+    "name": "MP7 | Vault Heist (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. Its base has been painted with a grey anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.\\n\\n<i>Planning is one thing, executing is another</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_heist_plans_yellow",
+      "name": "Vault Heist"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1007",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Vault Heist (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k5_ene7BSMPySAHSv2Ot6vO5-cCS2kRQyvnPQy9_4eXzCZwYhCMAhQrUNshXukNK2Yenl41DejoxEnH2q2iMb7no9_a9cBpF88qK8",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_heist_plans_yellow_medium"
+    }
+  },
+  "skin-e62ed52e566d_3": {
+    "id": "skin-e62ed52e566d_3",
+    "skin_id": "skin-e62ed52e566d",
+    "name": "MP7 | Vault Heist (Well-Worn)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. Its base has been painted with a grey anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.\\n\\n<i>Planning is one thing, executing is another</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_heist_plans_yellow",
+      "name": "Vault Heist"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1007",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Vault Heist (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k5_ene7BSMPySAHSv2Ot6vO5-cCS2kRQyvnPQy9_4eXzCZwYhCMAhQrUNshXukNK2Yenl41DejoxEnH2q2iMb7no9_a9cBpF88qK8",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_heist_plans_yellow_medium"
+    }
+  },
+  "skin-e62ed52e566d_4": {
+    "id": "skin-e62ed52e566d_4",
+    "skin_id": "skin-e62ed52e566d",
+    "name": "MP7 | Vault Heist (Battle-Scarred)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. Its base has been painted with a grey anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.\\n\\n<i>Planning is one thing, executing is another</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_heist_plans_yellow",
+      "name": "Vault Heist"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1007",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MP7 | Vault Heist (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k5_ene7BSMPySAHSv2Ot6vO5-cCG2lAs-_W6Hmd2uJy-WbAcpW8B3F-Bc4BbpwYWzMu3h5gXZjIIXmX_6hy1NuHl1o7FVaNt7HT8",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_heist_plans_yellow_heavy"
+    }
+  },
+  "skin-0596698b2488_0": {
+    "id": "skin-0596698b2488_0",
+    "skin_id": "skin-0596698b2488",
+    "name": "MP7 | Ocean Foam (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted using a transparent blue abstract hydrographic over a metallic base coat.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_ossify_blue",
+      "name": "Ocean Foam"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "213",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Ocean Foam (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k4OG9YaJ0H_KfG2KvzedxuPUnGX6xlEl2tWmEzdyrd32RbQ5yXpB5RuIK4xaxxIGzY7zl5gza2YITnzK-0H3lsKvKCA",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_ossify_blue_light"
+    }
+  },
+  "skin-0596698b2488_1": {
+    "id": "skin-0596698b2488_1",
+    "skin_id": "skin-0596698b2488",
+    "name": "MP7 | Ocean Foam (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted using a transparent blue abstract hydrographic over a metallic base coat.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_ossify_blue",
+      "name": "Ocean Foam"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "213",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Ocean Foam (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k4OG9YaJ0H_KfG2KvzedxuPUnGX6xlEl2tWmEzdyrd32RbQ5yXpB5RuIK4xaxxIGzY7zl5gza2YITnzK-0H3lsKvKCA",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_ossify_blue_light"
+    }
+  },
+  "skin-0596698b2488_0_st": {
+    "id": "skin-0596698b2488_0_st",
+    "skin_id": "skin-0596698b2488",
+    "name": "StatTrak™ MP7 | Ocean Foam (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted using a transparent blue abstract hydrographic over a metallic base coat.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_ossify_blue",
+      "name": "Ocean Foam"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "213",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Ocean Foam (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k4OG9YaJ0H_KfG2KvzedxuPUnGX6xlEl2tWmEzdyrd32RbQ5yXpB5RuIK4xaxxIGzY7zl5gza2YITnzK-0H3lsKvKCA",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_ossify_blue_light"
+    }
+  },
+  "skin-0596698b2488_1_st": {
+    "id": "skin-0596698b2488_1_st",
+    "skin_id": "skin-0596698b2488",
+    "name": "StatTrak™ MP7 | Ocean Foam (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted using a transparent blue abstract hydrographic over a metallic base coat.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_ossify_blue",
+      "name": "Ocean Foam"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "213",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Ocean Foam (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k4OG9YaJ0H_KfG2KvzedxuPUnGX6xlEl2tWmEzdyrd32RbQ5yXpB5RuIK4xaxxIGzY7zl5gza2YITnzK-0H3lsKvKCA",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_am_ossify_blue_light"
+    }
+  },
+  "skin-16044409b9f9_0": {
+    "id": "skin-16044409b9f9_0",
+    "skin_id": "skin-16044409b9f9",
+    "name": "MP7 | Anodized Navy (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "an_navy",
+      "name": "Anodized Navy"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "28",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Anodized Navy (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 4,
+      "name": "Anodized",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodized"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_Cxk4fO4cZthKfebGinIw-0v5-cxS33kwEh2tz-HyYugJC7FZwVyXJZ2FO4CtBa4xtPkN-nn-UWA3HYryggq",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_an_navy_light"
+    }
+  },
+  "skin-16044409b9f9_1": {
+    "id": "skin-16044409b9f9_1",
+    "skin_id": "skin-16044409b9f9",
+    "name": "MP7 | Anodized Navy (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "an_navy",
+      "name": "Anodized Navy"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "28",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Anodized Navy (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 4,
+      "name": "Anodized",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodized"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_Cxk4fO4cZthKfebGinIw-0v5-cxS33kwEh2tz-HyYugJC7FZwVyXJZ2FO4CtBa4xtPkN-nn-UWA3HYryggq",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_an_navy_light"
+    }
+  },
+  "skin-16044409b9f9_0_so": {
+    "id": "skin-16044409b9f9_0_so",
+    "skin_id": "skin-16044409b9f9",
+    "name": "Souvenir MP7 | Anodized Navy (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "an_navy",
+      "name": "Anodized Navy"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "28",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Souvenir MP7 | Anodized Navy (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 4,
+      "name": "Anodized",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodized"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_Cxk4fO4cZthKfebGinIw-0v5-cxS33kwEh2tz-HyYugJC7FZwVyXJZ2FO4CtBa4xtPkN-nn-UWA3HYryggq",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_an_navy_light"
+    }
+  }
+}

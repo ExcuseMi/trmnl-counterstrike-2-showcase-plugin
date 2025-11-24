@@ -1,0 +1,3187 @@
+{
+  "skin-9b16f88ae206_4_st": {
+    "id": "skin-9b16f88ae206_4_st",
+    "skin_id": "skin-9b16f88ae206",
+    "name": "StatTrak™ MAC-10 | Oceanic (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been given a black base coat and accented with blue designs.\\n\\n<i>The shapeless void</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_mac10_oceani",
+      "name": "Oceanic"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "682",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Oceanic (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2jaac8cM-cDWKRz-dJuORoWTD9xhsktmrTnNuhJ3_EbAJyDpN0EbUD5hjskYHuZOqz5FDXjdpFxCr72zQJsHjpEHx-yw",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_mac10_oceani_heavy"
+    }
+  },
+  "skin-9f0f8f333aaa_0": {
+    "id": "skin-9f0f8f333aaa_0",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "MAC-10 | Nuclear Garden (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Nuclear Garden (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvzSCkpu3Ii_COw4jDsMkEbYJsxe5xNezPu-3swCN3dhEz3_33XlA63lo6-8DWL1lpPMiXZ_jZw",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_light"
+    }
+  },
+  "skin-9f0f8f333aaa_1": {
+    "id": "skin-9f0f8f333aaa_1",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "MAC-10 | Nuclear Garden (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Nuclear Garden (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvzSCkpu3Ii_COw4jDsMkEbYJsxe5xNezPu-3swCN3dhEz3_33XlA63lo6-8DWL1lpPMiXZ_jZw",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_light"
+    }
+  },
+  "skin-9f0f8f333aaa_2": {
+    "id": "skin-9f0f8f333aaa_2",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "MAC-10 | Nuclear Garden (Field-Tested)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Nuclear Garden (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvjiBk5r0b3uUbAV0DcQmQLMPsUPsl4G2Yu7n5gCIjI4QmC6sj3kf7HxosL4FAqU7uvqAqND7cEg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_medium"
+    }
+  },
+  "skin-9f0f8f333aaa_3": {
+    "id": "skin-9f0f8f333aaa_3",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "MAC-10 | Nuclear Garden (Well-Worn)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Nuclear Garden (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvjiBk5r0b3uUbAV0DcQmQLMPsUPsl4G2Yu7n5gCIjI4QmC6sj3kf7HxosL4FAqU7uvqAqND7cEg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_medium"
+    }
+  },
+  "skin-9f0f8f333aaa_4": {
+    "id": "skin-9f0f8f333aaa_4",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "MAC-10 | Nuclear Garden (Battle-Scarred)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Nuclear Garden (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YuziEjJa3J3KXaAcpDJN1TLYI4UW7lYbvZb7is1aLgo9DmCWv3CwY735i6-5RUr1lpPOrrH3AXg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_heavy"
+    }
+  },
+  "skin-9f0f8f333aaa_0_so": {
+    "id": "skin-9f0f8f333aaa_0_so",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "Souvenir MAC-10 | Nuclear Garden (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvzSCkpu3Ii_COw4jDsMkEbYJsxe5xNezPu-3swCN3dhEz3_33XlA63lo6-8DWL1lpPMiXZ_jZw",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_light"
+    }
+  },
+  "skin-9f0f8f333aaa_1_so": {
+    "id": "skin-9f0f8f333aaa_1_so",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "Souvenir MAC-10 | Nuclear Garden (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvzSCkpu3Ii_COw4jDsMkEbYJsxe5xNezPu-3swCN3dhEz3_33XlA63lo6-8DWL1lpPMiXZ_jZw",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_light"
+    }
+  },
+  "skin-9f0f8f333aaa_2_so": {
+    "id": "skin-9f0f8f333aaa_2_so",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "Souvenir MAC-10 | Nuclear Garden (Field-Tested)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvjiBk5r0b3uUbAV0DcQmQLMPsUPsl4G2Yu7n5gCIjI4QmC6sj3kf7HxosL4FAqU7uvqAqND7cEg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_medium"
+    }
+  },
+  "skin-9f0f8f333aaa_3_so": {
+    "id": "skin-9f0f8f333aaa_3_so",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "Souvenir MAC-10 | Nuclear Garden (Well-Worn)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvjiBk5r0b3uUbAV0DcQmQLMPsUPsl4G2Yu7n5gCIjI4QmC6sj3kf7HxosL4FAqU7uvqAqND7cEg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_medium"
+    }
+  },
+  "skin-9f0f8f333aaa_4_so": {
+    "id": "skin-9f0f8f333aaa_4_so",
+    "skin_id": "skin-9f0f8f333aaa",
+    "name": "Souvenir MAC-10 | Nuclear Garden (Battle-Scarred)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_nuclear_skulls3_mac10",
+      "name": "Nuclear Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "372",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YuziEjJa3J3KXaAcpDJN1TLYI4UW7lYbvZb7is1aLgo9DmCWv3CwY735i6-5RUr1lpPOrrH3AXg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_heavy"
+    }
+  },
+  "skin-ed43fbef2a5f_0": {
+    "id": "skin-ed43fbef2a5f_0",
+    "skin_id": "skin-ed43fbef2a5f",
+    "name": "MAC-10 | Red Filigree (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A red millefleur hydrographic has been applied.\\n\\n<i>Perhaps this is one piece of art better left in the past</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_ren_red",
+      "name": "Red Filigree"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "742",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Red Filigree (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s28bapSMvWXMWuZxuZi_rk6F3DixUt_5W3Vn96odS-fO1N0D8MkQu4NukG4kdbiN7yw5gyLjdpbjXKp1e3DB44",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_ren_red_light"
+    }
+  },
+  "skin-ed43fbef2a5f_1": {
+    "id": "skin-ed43fbef2a5f_1",
+    "skin_id": "skin-ed43fbef2a5f",
+    "name": "MAC-10 | Red Filigree (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A red millefleur hydrographic has been applied.\\n\\n<i>Perhaps this is one piece of art better left in the past</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_ren_red",
+      "name": "Red Filigree"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "742",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Red Filigree (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s28bapSMvWXMWuZxuZi_rk6F3DixUt_5W3Vn96odS-fO1N0D8MkQu4NukG4kdbiN7yw5gyLjdpbjXKp1e3DB44",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_ren_red_light"
+    }
+  },
+  "skin-ed43fbef2a5f_2": {
+    "id": "skin-ed43fbef2a5f_2",
+    "skin_id": "skin-ed43fbef2a5f",
+    "name": "MAC-10 | Red Filigree (Field-Tested)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A red millefleur hydrographic has been applied.\\n\\n<i>Perhaps this is one piece of art better left in the past</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_ren_red",
+      "name": "Red Filigree"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "742",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Red Filigree (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s28bapSMvWXMWqVxedjva9sGSqxl05-62_cyNesIi7GaVMmD8F1RLRYukO8ldKyYejr5w2MjN8X02yg2RkfpcJ5",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_ren_red_medium"
+    }
+  },
+  "skin-ed43fbef2a5f_3": {
+    "id": "skin-ed43fbef2a5f_3",
+    "skin_id": "skin-ed43fbef2a5f",
+    "name": "MAC-10 | Red Filigree (Well-Worn)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A red millefleur hydrographic has been applied.\\n\\n<i>Perhaps this is one piece of art better left in the past</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_ren_red",
+      "name": "Red Filigree"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "742",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Red Filigree (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s28bapSMvWXMWqVxedjva9sGSqxl05-62_cyNesIi7GaVMmD8F1RLRYukO8ldKyYejr5w2MjN8X02yg2RkfpcJ5",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_ren_red_medium"
+    }
+  },
+  "skin-ed43fbef2a5f_4": {
+    "id": "skin-ed43fbef2a5f_4",
+    "skin_id": "skin-ed43fbef2a5f",
+    "name": "MAC-10 | Red Filigree (Battle-Scarred)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A red millefleur hydrographic has been applied.\\n\\n<i>Perhaps this is one piece of art better left in the past</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_ren_red",
+      "name": "Red Filigree"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "742",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Red Filigree (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 5,
+      "name": "Anodized Multicolored",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s28bapSMvWXMW-VwPhv_rY6TnGylk4hsD6EyI2rJHzDb1AjWZEkELECsUa6mtflNb_k71bc2otbjXKpYYe43XM",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_am_ren_red_heavy"
+    }
+  },
+  "skin-47412dd518bb_0": {
+    "id": "skin-47412dd518bb_0",
+    "skin_id": "skin-47412dd518bb",
+    "name": "MAC-10 | Silver (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.\\n\\n<i>There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "an_silver",
+      "name": "Silver"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "32",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MAC-10 | Silver (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 4,
+      "name": "Anodized",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodized"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4c29Yah7JeKsAm6Xyfo44-UwS32xwkUjsGzSwtqoJCjCOABxD8AkFu5bsha7wdGyM-rn4wzWjpUFk3tFRcHXeg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_an_silver_light"
+    }
+  },
+  "skin-47412dd518bb_1": {
+    "id": "skin-47412dd518bb_1",
+    "skin_id": "skin-47412dd518bb",
+    "name": "MAC-10 | Silver (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.\\n\\n<i>There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "an_silver",
+      "name": "Silver"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "32",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MAC-10 | Silver (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 4,
+      "name": "Anodized",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodized"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4c29Yah7JeKsAm6Xyfo44-UwS32xwkUjsGzSwtqoJCjCOABxD8AkFu5bsha7wdGyM-rn4wzWjpUFk3tFRcHXeg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_an_silver_light"
+    }
+  },
+  "skin-2af390dd512c_0": {
+    "id": "skin-2af390dd512c_0",
+    "skin_id": "skin-2af390dd512c",
+    "name": "MAC-10 | Graven (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Graven (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMmRQguynLztytdHieOA92W8N5Re4D4ELtk9O2Nbnq5FfWjIkRn333hn9O731j4_FCD_RXlm8jng",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_light"
+    }
+  },
+  "skin-2af390dd512c_1": {
+    "id": "skin-2af390dd512c_1",
+    "skin_id": "skin-2af390dd512c",
+    "name": "MAC-10 | Graven (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Graven (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMmRQguynLztytdHieOA92W8N5Re4D4ELtk9O2Nbnq5FfWjIkRn333hn9O731j4_FCD_RXlm8jng",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_light"
+    }
+  },
+  "skin-2af390dd512c_2": {
+    "id": "skin-2af390dd512c_2",
+    "skin_id": "skin-2af390dd512c",
+    "name": "MAC-10 | Graven (Field-Tested)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Graven (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMmBgjuiiI1N6gdX-UOwV1W8Z3Q-8MtUPumoXkYr7n4VfbiN9NxCn823wc6Sdp5eocEf1ytubss2g",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_medium"
+    }
+  },
+  "skin-2af390dd512c_3": {
+    "id": "skin-2af390dd512c_3",
+    "skin_id": "skin-2af390dd512c",
+    "name": "MAC-10 | Graven (Well-Worn)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Graven (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMmBgjuiiI1N6gdX-UOwV1W8Z3Q-8MtUPumoXkYr7n4VfbiN9NxCn823wc6Sdp5eocEf1ytubss2g",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_medium"
+    }
+  },
+  "skin-2af390dd512c_4": {
+    "id": "skin-2af390dd512c_4",
+    "skin_id": "skin-2af390dd512c",
+    "name": "MAC-10 | Graven (Battle-Scarred)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Graven (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMnRgmpSTLz9v6cSjCPVMgAsZ0QOENtUTqktCxP-Ow51CMjt0XxX74jSxK7CdtsPFCD_QYnpIEgg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_heavy"
+    }
+  },
+  "skin-2af390dd512c_0_st": {
+    "id": "skin-2af390dd512c_0_st",
+    "skin_id": "skin-2af390dd512c",
+    "name": "StatTrak™ MAC-10 | Graven (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Graven (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMmRQguynLztytdHieOA92W8N5Re4D4ELtk9O2Nbnq5FfWjIkRn333hn9O731j4_FCD_RXlm8jng",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_light"
+    }
+  },
+  "skin-2af390dd512c_1_st": {
+    "id": "skin-2af390dd512c_1_st",
+    "skin_id": "skin-2af390dd512c",
+    "name": "StatTrak™ MAC-10 | Graven (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Graven (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMmRQguynLztytdHieOA92W8N5Re4D4ELtk9O2Nbnq5FfWjIkRn333hn9O731j4_FCD_RXlm8jng",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_light"
+    }
+  },
+  "skin-2af390dd512c_2_st": {
+    "id": "skin-2af390dd512c_2_st",
+    "skin_id": "skin-2af390dd512c",
+    "name": "StatTrak™ MAC-10 | Graven (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Graven (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMmBgjuiiI1N6gdX-UOwV1W8Z3Q-8MtUPumoXkYr7n4VfbiN9NxCn823wc6Sdp5eocEf1ytubss2g",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_medium"
+    }
+  },
+  "skin-2af390dd512c_3_st": {
+    "id": "skin-2af390dd512c_3_st",
+    "skin_id": "skin-2af390dd512c",
+    "name": "StatTrak™ MAC-10 | Graven (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Graven (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMmBgjuiiI1N6gdX-UOwV1W8Z3Q-8MtUPumoXkYr7n4VfbiN9NxCn823wc6Sdp5eocEf1ytubss2g",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_medium"
+    }
+  },
+  "skin-2af390dd512c_4_st": {
+    "id": "skin-2af390dd512c_4_st",
+    "skin_id": "skin-2af390dd512c",
+    "name": "StatTrak™ MAC-10 | Graven (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This memento from Gwalior has engraved brass parts.\\n\\n<i>It breaks two commandments at the same time</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_etched_mac10_bravo",
+      "name": "Graven"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "188",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Graven (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMnRgmpSTLz9v6cSjCPVMgAsZ0QOENtUTqktCxP-Ow51CMjt0XxX74jSxK7CdtsPFCD_QYnpIEgg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_heavy"
+    }
+  },
+  "skin-5c202c8939b2_0": {
+    "id": "skin-5c202c8939b2_0",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "MAC-10 | Carnivore (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Carnivore (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa_nBovp3PSmdqpcy2fPwEoWMciQLYKtBa9lYDmN-zlsVDXiNpAnnmqiHwcv3w5_a9cBiTJtAYY",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_light"
+    }
+  },
+  "skin-5c202c8939b2_1": {
+    "id": "skin-5c202c8939b2_1",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "MAC-10 | Carnivore (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Carnivore (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa_nBovp3PSmdqpcy2fPwEoWMciQLYKtBa9lYDmN-zlsVDXiNpAnnmqiHwcv3w5_a9cBiTJtAYY",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_light"
+    }
+  },
+  "skin-5c202c8939b2_2": {
+    "id": "skin-5c202c8939b2_2",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "MAC-10 | Carnivore (Field-Tested)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Carnivore (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa-kBkupjDLmN38JXqeZ1cmDJAlFOdetEHrwNfvNbmz51GIiYpCyC_93ClJ6H44tfFCD_Ssxm2BuQ",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_medium"
+    }
+  },
+  "skin-5c202c8939b2_3": {
+    "id": "skin-5c202c8939b2_3",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "MAC-10 | Carnivore (Well-Worn)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Carnivore (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa-kBkupjDLmN38JXqeZ1cmDJAlFOdetEHrwNfvNbmz51GIiYpCyC_93ClJ6H44tfFCD_Ssxm2BuQ",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_medium"
+    }
+  },
+  "skin-5c202c8939b2_4": {
+    "id": "skin-5c202c8939b2_4",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "MAC-10 | Carnivore (Battle-Scarred)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Carnivore (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa7kBwxqnPSztyvIy_EOAR1DMNxF7IIshWwltPhMO2wsgba2d9HzyiviCNI7Hs-_a9cBi-qjeKk",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_heavy"
+    }
+  },
+  "skin-5c202c8939b2_0_st": {
+    "id": "skin-5c202c8939b2_0_st",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "StatTrak™ MAC-10 | Carnivore (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa_nBovp3PSmdqpcy2fPwEoWMciQLYKtBa9lYDmN-zlsVDXiNpAnnmqiHwcv3w5_a9cBiTJtAYY",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_light"
+    }
+  },
+  "skin-5c202c8939b2_1_st": {
+    "id": "skin-5c202c8939b2_1_st",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "StatTrak™ MAC-10 | Carnivore (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa_nBovp3PSmdqpcy2fPwEoWMciQLYKtBa9lYDmN-zlsVDXiNpAnnmqiHwcv3w5_a9cBiTJtAYY",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_light"
+    }
+  },
+  "skin-5c202c8939b2_2_st": {
+    "id": "skin-5c202c8939b2_2_st",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "StatTrak™ MAC-10 | Carnivore (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa-kBkupjDLmN38JXqeZ1cmDJAlFOdetEHrwNfvNbmz51GIiYpCyC_93ClJ6H44tfFCD_Ssxm2BuQ",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_medium"
+    }
+  },
+  "skin-5c202c8939b2_3_st": {
+    "id": "skin-5c202c8939b2_3_st",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "StatTrak™ MAC-10 | Carnivore (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa-kBkupjDLmN38JXqeZ1cmDJAlFOdetEHrwNfvNbmz51GIiYpCyC_93ClJ6H44tfFCD_Ssxm2BuQ",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_medium"
+    }
+  },
+  "skin-5c202c8939b2_4_st": {
+    "id": "skin-5c202c8939b2_4_st",
+    "skin_id": "skin-5c202c8939b2",
+    "name": "StatTrak™ MAC-10 | Carnivore (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mac_10_alien_camo",
+      "name": "Carnivore"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "589",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa7kBwxqnPSztyvIy_EOAR1DMNxF7IIshWwltPhMO2wsgba2d9HzyiviCNI7Hs-_a9cBi-qjeKk",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_heavy"
+    }
+  },
+  "skin-af29d4349bcd_0": {
+    "id": "skin-af29d4349bcd_0",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "MAC-10 | Case Hardened (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Case Hardened (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-fB2CY1aAituJtTnvjkUx3tziGmd6hJy-VZlAoWZtwFLRZ5EbpwNLvYb-zsgOKlcsbmn9_3b1O",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_light"
+    }
+  },
+  "skin-af29d4349bcd_1": {
+    "id": "skin-af29d4349bcd_1",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "MAC-10 | Case Hardened (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Case Hardened (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-fB2CY1aAituJtTnvjkUx3tziGmd6hJy-VZlAoWZtwFLRZ5EbpwNLvYb-zsgOKlcsbmn9_3b1O",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_light"
+    }
+  },
+  "skin-af29d4349bcd_2": {
+    "id": "skin-af29d4349bcd_2",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "MAC-10 | Case Hardened (Field-Tested)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Case Hardened (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-eC2OZ1OM45bU8GSyyxEV3smrdn9v_cC3Daw90WMN3EeBYsxXukoK2ZeLnsgaLjZUFk3shgl9eMg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_medium"
+    }
+  },
+  "skin-af29d4349bcd_3": {
+    "id": "skin-af29d4349bcd_3",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "MAC-10 | Case Hardened (Well-Worn)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Case Hardened (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-eC2OZ1OM45bU8GSyyxEV3smrdn9v_cC3Daw90WMN3EeBYsxXukoK2ZeLnsgaLjZUFk3shgl9eMg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_medium"
+    }
+  },
+  "skin-af29d4349bcd_4": {
+    "id": "skin-af29d4349bcd_4",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "MAC-10 | Case Hardened (Battle-Scarred)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Case Hardened (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-bC2aG2KAltbE6GHDqzU0m6jzQntapd3vFZw5yWJEiR7QDsRXpx4LkZezg4gCNlcsbmjGyUKWk",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_heavy"
+    }
+  },
+  "skin-af29d4349bcd_0_so": {
+    "id": "skin-af29d4349bcd_0_so",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "Souvenir MAC-10 | Case Hardened (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Case Hardened (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-fB2CY1aAituJtTnvjkUx3tziGmd6hJy-VZlAoWZtwFLRZ5EbpwNLvYb-zsgOKlcsbmn9_3b1O",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_light"
+    }
+  },
+  "skin-af29d4349bcd_1_so": {
+    "id": "skin-af29d4349bcd_1_so",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "Souvenir MAC-10 | Case Hardened (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Case Hardened (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-fB2CY1aAituJtTnvjkUx3tziGmd6hJy-VZlAoWZtwFLRZ5EbpwNLvYb-zsgOKlcsbmn9_3b1O",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_light"
+    }
+  },
+  "skin-af29d4349bcd_2_so": {
+    "id": "skin-af29d4349bcd_2_so",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "Souvenir MAC-10 | Case Hardened (Field-Tested)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Case Hardened (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-eC2OZ1OM45bU8GSyyxEV3smrdn9v_cC3Daw90WMN3EeBYsxXukoK2ZeLnsgaLjZUFk3shgl9eMg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_medium"
+    }
+  },
+  "skin-af29d4349bcd_3_so": {
+    "id": "skin-af29d4349bcd_3_so",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "Souvenir MAC-10 | Case Hardened (Well-Worn)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Case Hardened (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-eC2OZ1OM45bU8GSyyxEV3smrdn9v_cC3Daw90WMN3EeBYsxXukoK2ZeLnsgaLjZUFk3shgl9eMg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_medium"
+    }
+  },
+  "skin-af29d4349bcd_4_so": {
+    "id": "skin-af29d4349bcd_4_so",
+    "skin_id": "skin-af29d4349bcd",
+    "name": "Souvenir MAC-10 | Case Hardened (Battle-Scarred)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "Souvenir MAC-10 | Case Hardened (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-bC2aG2KAltbE6GHDqzU0m6jzQntapd3vFZw5yWJEiR7QDsRXpx4LkZezg4gCNlcsbmjGyUKWk",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_aq_oiled_heavy"
+    }
+  },
+  "skin-148586fd3375_0": {
+    "id": "skin-148586fd3375_0",
+    "skin_id": "skin-148586fd3375",
+    "name": "MAC-10 | Tatter (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Tatter (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsAm6Xyfo4tbY7H3q1xRt152TWyt6tc3ifaVcmDppxReVethawlYHmNO6ztQbciJUFk3uxmhdQIQ",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_light"
+    }
+  },
+  "skin-148586fd3375_1": {
+    "id": "skin-148586fd3375_1",
+    "skin_id": "skin-148586fd3375",
+    "name": "MAC-10 | Tatter (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Tatter (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsAm6Xyfo4tbY7H3q1xRt152TWyt6tc3ifaVcmDppxReVethawlYHmNO6ztQbciJUFk3uxmhdQIQ",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_light"
+    }
+  },
+  "skin-148586fd3375_2": {
+    "id": "skin-148586fd3375_2",
+    "skin_id": "skin-148586fd3375",
+    "name": "MAC-10 | Tatter (Field-Tested)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Tatter (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsA2KUyPt7_rg4S3HjxRtx4GrQmdmhJSrGbw8nWJdzTbUNu0HtldblMbnjtA2P2YNbjXKpl2YdH98",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_medium"
+    }
+  },
+  "skin-148586fd3375_3": {
+    "id": "skin-148586fd3375_3",
+    "skin_id": "skin-148586fd3375",
+    "name": "MAC-10 | Tatter (Well-Worn)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Tatter (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsA2KUyPt7_rg4S3HjxRtx4GrQmdmhJSrGbw8nWJdzTbUNu0HtldblMbnjtA2P2YNbjXKpl2YdH98",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_medium"
+    }
+  },
+  "skin-148586fd3375_4": {
+    "id": "skin-148586fd3375_4",
+    "skin_id": "skin-148586fd3375",
+    "name": "MAC-10 | Tatter (Battle-Scarred)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MAC-10 | Tatter (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsBmKR1_c4tOI9Gnixl0om4jvSyIn4dXzDPQVxDMdxRuNf5hO9xoDgM7ix4wTa2JUFk3vkqRfTlg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_heavy"
+    }
+  },
+  "skin-148586fd3375_0_st": {
+    "id": "skin-148586fd3375_0_st",
+    "skin_id": "skin-148586fd3375",
+    "name": "StatTrak™ MAC-10 | Tatter (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Tatter (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsAm6Xyfo4tbY7H3q1xRt152TWyt6tc3ifaVcmDppxReVethawlYHmNO6ztQbciJUFk3uxmhdQIQ",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_light"
+    }
+  },
+  "skin-148586fd3375_1_st": {
+    "id": "skin-148586fd3375_1_st",
+    "skin_id": "skin-148586fd3375",
+    "name": "StatTrak™ MAC-10 | Tatter (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Tatter (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsAm6Xyfo4tbY7H3q1xRt152TWyt6tc3ifaVcmDppxReVethawlYHmNO6ztQbciJUFk3uxmhdQIQ",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_light"
+    }
+  },
+  "skin-148586fd3375_2_st": {
+    "id": "skin-148586fd3375_2_st",
+    "skin_id": "skin-148586fd3375",
+    "name": "StatTrak™ MAC-10 | Tatter (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Tatter (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsA2KUyPt7_rg4S3HjxRtx4GrQmdmhJSrGbw8nWJdzTbUNu0HtldblMbnjtA2P2YNbjXKpl2YdH98",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_medium"
+    }
+  },
+  "skin-148586fd3375_3_st": {
+    "id": "skin-148586fd3375_3_st",
+    "skin_id": "skin-148586fd3375",
+    "name": "StatTrak™ MAC-10 | Tatter (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Tatter (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsA2KUyPt7_rg4S3HjxRtx4GrQmdmhJSrGbw8nWJdzTbUNu0HtldblMbnjtA2P2YNbjXKpl2YdH98",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_medium"
+    }
+  },
+  "skin-148586fd3375_4_st": {
+    "id": "skin-148586fd3375_4_st",
+    "skin_id": "skin-148586fd3375",
+    "name": "StatTrak™ MAC-10 | Tatter (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_korupt",
+      "name": "Tatter"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "337",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MAC-10 | Tatter (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsBmKR1_c4tOI9Gnixl0om4jvSyIn4dXzDPQVxDMdxRuNf5hO9xoDgM7ix4wTa2JUFk3vkqRfTlg",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_korupt_heavy"
+    }
+  },
+  "skin-d2a72f7cdb9e_0": {
+    "id": "skin-d2a72f7cdb9e_0",
+    "skin_id": "skin-d2a72f7cdb9e",
+    "name": "MAC-10 | Commuter (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a plaid hydrographic and partly wrapped in faux crocodile leather.\\n\\n<i>They took the bait, let's move... - Elliott Kingsman, Mercenary</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_luggage_mac10",
+      "name": "Commuter"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "343",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MAC-10 | Commuter (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2ifaNqIfeWMWqRwr8mj-1gSCGn2xlwsT6Byt__cHOePwAkCZEjF7VYuhewmtDuZby0slON3o8WxC7_3H5XrnE86gO55vs",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_luggage_mac10_light"
+    }
+  },
+  "skin-d2a72f7cdb9e_1": {
+    "id": "skin-d2a72f7cdb9e_1",
+    "skin_id": "skin-d2a72f7cdb9e",
+    "name": "MAC-10 | Commuter (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a plaid hydrographic and partly wrapped in faux crocodile leather.\\n\\n<i>They took the bait, let's move... - Elliott Kingsman, Mercenary</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_luggage_mac10",
+      "name": "Commuter"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "343",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MAC-10 | Commuter (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2ifaNqIfeWMWqRwr8mj-1gSCGn2xlwsT6Byt__cHOePwAkCZEjF7VYuhewmtDuZby0slON3o8WxC7_3H5XrnE86gO55vs",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_luggage_mac10_light"
+    }
+  },
+  "skin-d2a72f7cdb9e_2": {
+    "id": "skin-d2a72f7cdb9e_2",
+    "skin_id": "skin-d2a72f7cdb9e",
+    "name": "MAC-10 | Commuter (Field-Tested)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a plaid hydrographic and partly wrapped in faux crocodile leather.\\n\\n<i>They took the bait, let's move... - Elliott Kingsman, Mercenary</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_luggage_mac10",
+      "name": "Commuter"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "343",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MAC-10 | Commuter (Field-Tested)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2ifaNqIfeWMWqRwr8mj-xsSyCmmFNx426HzompeH_CZgAkXJtzFrMO4RC-m9PiYeLjtQKK3o4Qnyr_iC8d8G81tICYxYwy",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_luggage_mac10_medium"
+    }
+  },
+  "skin-d2a72f7cdb9e_3": {
+    "id": "skin-d2a72f7cdb9e_3",
+    "skin_id": "skin-d2a72f7cdb9e",
+    "name": "MAC-10 | Commuter (Well-Worn)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a plaid hydrographic and partly wrapped in faux crocodile leather.\\n\\n<i>They took the bait, let's move... - Elliott Kingsman, Mercenary</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_luggage_mac10",
+      "name": "Commuter"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "343",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MAC-10 | Commuter (Well-Worn)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2ifaNqIfeWMWqRwr8mj-xsSyCmmFNx426HzompeH_CZgAkXJtzFrMO4RC-m9PiYeLjtQKK3o4Qnyr_iC8d8G81tICYxYwy",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_luggage_mac10_medium"
+    }
+  },
+  "skin-d2a72f7cdb9e_4": {
+    "id": "skin-d2a72f7cdb9e_4",
+    "skin_id": "skin-d2a72f7cdb9e",
+    "name": "MAC-10 | Commuter (Battle-Scarred)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a plaid hydrographic and partly wrapped in faux crocodile leather.\\n\\n<i>They took the bait, let's move... - Elliott Kingsman, Mercenary</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_luggage_mac10",
+      "name": "Commuter"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "343",
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "market_hash_name": "MAC-10 | Commuter (Battle-Scarred)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2ifaNqIfeWMWqRwr8mj-lsTj-q2x526jvcz46uIC-VbgQoC8RwRu4K4UXum9fnP-m0swTbiIIXnHn3hihXrnE8YO7YeDM",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_luggage_mac10_heavy"
+    }
+  },
+  "skin-3bf986f6377c_0": {
+    "id": "skin-3bf986f6377c_0",
+    "skin_id": "skin-3bf986f6377c",
+    "name": "MAC-10 | Rangeen (Factory New)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with an Ancient Egyptian motif.\\n\\n<i>Can you stand against it's wrathful gaze?</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_alekhya_duo",
+      "name": "Rangeen"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "498",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Rangeen (Factory New)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-SAmKbyfd3j-V8QBa_nBovp3PWztqtJXqWPVdzX8d3EbUDtkS_w9bmYui04gbYiolGnH_833xM6C5o_a9cBlensHEx",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_mac10_alekhya_duo_light"
+    }
+  },
+  "skin-3bf986f6377c_1": {
+    "id": "skin-3bf986f6377c_1",
+    "skin_id": "skin-3bf986f6377c",
+    "name": "MAC-10 | Rangeen (Minimal Wear)",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with an Ancient Egyptian motif.\\n\\n<i>Can you stand against it's wrathful gaze?</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mac10_alekhya_duo",
+      "name": "Rangeen"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "498",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MAC-10 | Rangeen (Minimal Wear)",
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-SAmKbyfd3j-V8QBa_nBovp3PWztqtJXqWPVdzX8d3EbUDtkS_w9bmYui04gbYiolGnH_833xM6C5o_a9cBlensHEx",
+    "original": {
+      "name": "weapon_mac10",
+      "image_inventory": "econ/default_generated/weapon_mac10_cu_mac10_alekhya_duo_light"
+    }
+  }
+}

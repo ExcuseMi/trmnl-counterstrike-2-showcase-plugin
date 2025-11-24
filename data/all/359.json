@@ -1,0 +1,2622 @@
+{
+  "skin-vanilla-weapon_knife_css_st": {
+    "id": "skin-vanilla-weapon_knife_css_st",
+    "skin_id": "skin-vanilla-weapon_knife_css",
+    "name": "★ StatTrak™ Classic Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> A classic of the Counter-Strike series, the edge of this knife is press-fit Stellite perfectly held in place due to its precise fit with the titanium on the blade's cheek and spine. The handle is fossilized mastodon ivory held in a carbon fibre pocket.",
+    "weapon": {
+      "id": "sfui_wpnhud_knifecss",
+      "weapon_id": 503,
+      "name": "Classic Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Classic Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2te7cjd6HHXmHBxep157VtTi_rzUR-5WiHnt39c3_EZg4pW5UjQOZbsBCxw8qnab32FBG7RA",
+    "original": {
+      "name": "weapon_knife_css",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_css"
+    }
+  },
+  "skin-vanilla-weapon_knife_flip_st": {
+    "id": "skin-vanilla-weapon_knife_flip_st",
+    "skin_id": "skin-vanilla-weapon_knife_flip",
+    "name": "★ StatTrak™ Flip Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable.",
+    "weapon": {
+      "id": "sfui_wpnhud_knifeflip",
+      "weapon_id": 505,
+      "name": "Flip Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Flip Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oZK19bqjKVjbDkbtwtbU4S3jhwElw4DvVzomhd3_CblV1CZd2TO5f4RG4lID5d7S15Y9TpQQ",
+    "original": {
+      "name": "weapon_knife_flip",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_flip"
+    }
+  },
+  "skin-vanilla-weapon_knife_gut_st": {
+    "id": "skin-vanilla-weapon_knife_gut_st",
+    "skin_id": "skin-vanilla-weapon_knife_gut",
+    "name": "★ StatTrak™ Gut Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> The most notable feature of a gut knife is the gut hook on the spine of the blade.  Originally popularized as an aid for field dressing game, the gut hook is also effective at  cutting through fibrous materials like rope, webbing, or safety belts with ease.",
+    "weapon": {
+      "id": "sfui_wpnhud_knifegut",
+      "weapon_id": 506,
+      "name": "Gut Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Gut Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pfbAjd6TAXDSSkeh3trdtTCy1zUV2t2vTyoyrIHzDalAgCsN1ROcO40O6wMqnab0rKy1qHw",
+    "original": {
+      "name": "weapon_knife_gut",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_gut"
+    }
+  },
+  "skin-vanilla-weapon_knife_karambit_st": {
+    "id": "skin-vanilla-weapon_knife_karambit_st",
+    "skin_id": "skin-vanilla-weapon_knife_karambit",
+    "name": "★ StatTrak™ Karambit",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "sfui_wpnhud_knifekaram",
+      "weapon_id": 507,
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Karambit",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2labZsLfKaGinEx-0u5LhqGHrjlElz52jRmN2sd3yfb1NzWZVwRbNeu0S5k9WxMuvh-UWA3ObnwJvj",
+    "original": {
+      "name": "weapon_knife_karambit",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_karambit"
+    }
+  },
+  "skin-vanilla-weapon_knife_m9_bayonet_st": {
+    "id": "skin-vanilla-weapon_knife_m9_bayonet_st",
+    "skin_id": "skin-vanilla-weapon_knife_m9_bayonet",
+    "name": "★ StatTrak™ M9 Bayonet",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat.",
+    "weapon": {
+      "id": "sfui_wpnhud_knifem9",
+      "weapon_id": 508,
+      "name": "M9 Bayonet"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ M9 Bayonet",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2jMZtvIemcAGKEj7ojtOIwSnrrkEt25WiEw438cXuUaQB0WcBxFrUItxa6lNezMOKzsVPAy9USYWigJ8Q",
+    "original": {
+      "name": "weapon_knife_m9_bayonet",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_m9_bayonet"
+    }
+  },
+  "skin-vanilla-weapon_knife_tactical_st": {
+    "id": "skin-vanilla-weapon_knife_tactical_st",
+    "skin_id": "skin-vanilla-weapon_knife_tactical",
+    "name": "★ StatTrak™ Huntsman Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces.",
+    "weapon": {
+      "id": "sfui_wpnhud_knifetactical",
+      "weapon_id": 509,
+      "name": "Huntsman Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Huntsman Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s26aad5KfOSAimVlugu47U5HSrmzEp14zncz4ygICiealIiAsF2EOdYtkTpwNXuYbjk-UWA3JpY_ZDP",
+    "original": {
+      "name": "weapon_knife_tactical",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_tactical"
+    }
+  },
+  "skin-vanilla-weapon_knife_falchion_st": {
+    "id": "skin-vanilla-weapon_knife_falchion_st",
+    "skin_id": "skin-vanilla-weapon_knife_falchion",
+    "name": "★ StatTrak™ Falchion Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_falchion_advanced",
+      "weapon_id": 512,
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Falchion Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oaahuKPmcACmSlL4u5uVqG37klhh24DnUytaqJXKQbgcmX5RyF-4Puha8xofmZejg-UWA3FLkEz9H",
+    "original": {
+      "name": "weapon_knife_falchion",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_falchion"
+    }
+  },
+  "skin-vanilla-weapon_knife_survival_bowie_st": {
+    "id": "skin-vanilla-weapon_knife_survival_bowie_st",
+    "skin_id": "skin-vanilla-weapon_knife_survival_bowie",
+    "name": "★ StatTrak™ Bowie Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This full-tang sawback Bowie knife is designed for heavy use in brutal survival situations.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_survival_bowie",
+      "weapon_id": 514,
+      "name": "Bowie Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Bowie Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fbZ7KeaSAliSzvl_ta88TX61xExyt2nTz9eveHjEPQRzXMcjFuYIuhHtkIKyNLnmtACLg4sX02yg2XbF4Kcv",
+    "original": {
+      "name": "weapon_knife_survival_bowie",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_survival_bowie"
+    }
+  },
+  "skin-vanilla-weapon_knife_butterfly_st": {
+    "id": "skin-vanilla-weapon_knife_butterfly_st",
+    "skin_id": "skin-vanilla-weapon_knife_butterfly",
+    "name": "★ StatTrak™ Butterfly Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_butterfly",
+      "weapon_id": 515,
+      "name": "Butterfly Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Butterfly Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2sfbB5JeKVAn7elO8l6LRoF3_hzBsmtWSDzt-rcy3BP1AnXsR4FOJZskG6xtDkM7627xue1dy94mNpNQ",
+    "original": {
+      "name": "weapon_knife_butterfly",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_butterfly"
+    }
+  },
+  "skin-vanilla-weapon_knife_push_st": {
+    "id": "skin-vanilla-weapon_knife_push_st",
+    "skin_id": "skin-vanilla-weapon_knife_push",
+    "name": "★ StatTrak™ Shadow Daggers",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Designed for efficient brutality, using a push dagger is as simple as throwing a punch or two.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_push",
+      "weapon_id": 516,
+      "name": "Shadow Daggers"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Shadow Daggers",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2-fbdlbvXKWWXIlbh15bdrTnvmwkt34z_Qz46hdnjFbAIkCJdzR-Zctxi5kNb5d7S1mgn3amY",
+    "original": {
+      "name": "weapon_knife_push",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_push"
+    }
+  },
+  "skin-vanilla-weapon_knife_cord_st": {
+    "id": "skin-vanilla-weapon_knife_cord_st",
+    "skin_id": "skin-vanilla-weapon_knife_cord",
+    "name": "★ StatTrak™ Paracord Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This fixed-blade survival knife is designed to withstand being used as both a weapon and a tool, such as for setting traps, hunting animals or cutting foliage. The handle is wrapped in a length of multi-purpose paracord.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_cord",
+      "weapon_id": 517,
+      "name": "Paracord Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Paracord Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2tZ7ZpbqWRXmWTmbsm5bU5TXu3lkR_5j_Swor8JC_BPFVxWJd1FuID4RW7w9b5d7S1z-U4Rao",
+    "original": {
+      "name": "weapon_knife_cord",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_cord"
+    }
+  },
+  "skin-vanilla-weapon_knife_canis_st": {
+    "id": "skin-vanilla-weapon_knife_canis_st",
+    "skin_id": "skin-vanilla-weapon_knife_canis",
+    "name": "★ StatTrak™ Survival Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Survival Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2taapkM77CDzbIlrsms-NsHHGxzUwj5G6En4yuIy_BbQAjC5VxQLRc5hm8x4HvKaq8sEukLuHu",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_canis"
+    }
+  },
+  "skin-vanilla-weapon_knife_ursus_st": {
+    "id": "skin-vanilla-weapon_knife_ursus_st",
+    "skin_id": "skin-vanilla-weapon_knife_ursus",
+    "name": "★ StatTrak™ Ursus Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_ursus",
+      "weapon_id": 519,
+      "name": "Ursus Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Ursus Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s27erd4M77AXWWWx7h3tOA5SyvilEkj5WuGw42qc3zEOg4iDJEjQu9b4xa6w4DgKaq8sDVgNcPY",
+    "original": {
+      "name": "weapon_knife_ursus",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_ursus"
+    }
+  },
+  "skin-vanilla-weapon_knife_gypsy_jackknife_st": {
+    "id": "skin-vanilla-weapon_knife_gypsy_jackknife_st",
+    "skin_id": "skin-vanilla-weapon_knife_gypsy_jackknife",
+    "name": "★ StatTrak™ Navaja Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This marble-enamel-handled flip knife conceals a small but viciously tapered blade.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_gypsy_jackknife",
+      "weapon_id": 520,
+      "name": "Navaja Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Navaja Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pcbR-Oc-ZD2SbyuB_tuQnGXu1kBxw62_dwtird3qXZwQgXJV0E-4PtESxl4ezYr6x4FaMjI4UyzK-0H1iy36efQ",
+    "original": {
+      "name": "weapon_knife_gypsy_jackknife",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_gypsy_jackknife"
+    }
+  },
+  "skin-vanilla-weapon_knife_outdoor_st": {
+    "id": "skin-vanilla-weapon_knife_outdoor_st",
+    "skin_id": "skin-vanilla-weapon_knife_outdoor",
+    "name": "★ StatTrak™ Nomad Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_outdoor",
+      "weapon_id": 521,
+      "name": "Nomad Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Nomad Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2hfbBpL_-BQDPEw-hz57cxTnCxkEh_5jnVzor8dymXbgAiAsFyEOEMsBW8l9O1Ne38p1uJmh0Kkm0",
+    "original": {
+      "name": "weapon_knife_outdoor",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_outdoor"
+    }
+  },
+  "skin-vanilla-weapon_knife_stiletto_st": {
+    "id": "skin-vanilla-weapon_knife_stiletto_st",
+    "skin_id": "skin-vanilla-weapon_knife_stiletto",
+    "name": "★ StatTrak™ Stiletto Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_stiletto",
+      "weapon_id": 522,
+      "name": "Stiletto Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Stiletto Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fK1hJeSHASnCmO8v4bc_HCjilkkismTWyNutciqealMhDsR5F7MM4UWwlYC1Zr7n-UWA3E6ZCYCt",
+    "original": {
+      "name": "weapon_knife_stiletto",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_stiletto"
+    }
+  },
+  "skin-vanilla-weapon_knife_widowmaker_st": {
+    "id": "skin-vanilla-weapon_knife_widowmaker_st",
+    "skin_id": "skin-vanilla-weapon_knife_widowmaker",
+    "name": "★ StatTrak™ Talon Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_widowmaker",
+      "weapon_id": 523,
+      "name": "Talon Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Talon Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s25YaBiN_2SBWKCj7ghsrRrTHDnzB8h4mTRw9iudC_DPFVyCsF3R-Zc4xK_ldXgNb7qsgDAy9USS1NPX9M",
+    "original": {
+      "name": "weapon_knife_widowmaker",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_widowmaker"
+    }
+  },
+  "skin-vanilla-weapon_knife_skeleton_st": {
+    "id": "skin-vanilla-weapon_knife_skeleton_st",
+    "skin_id": "skin-vanilla-weapon_knife_skeleton",
+    "name": "★ StatTrak™ Skeleton Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_skeleton",
+      "weapon_id": 525,
+      "name": "Skeleton Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Skeleton Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29Y6FhJeScACnDkL8j6LU8GS3mwUh24G-Bno2tIymeblMgC5R3F-ECsBK6k4XuN-Lh-UWA3P3GyEv9",
+    "original": {
+      "name": "weapon_knife_skeleton",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_skeleton"
+    }
+  },
+  "skin-vanilla-weapon_knife_kukri_st": {
+    "id": "skin-vanilla-weapon_knife_kukri_st",
+    "skin_id": "skin-vanilla-weapon_knife_kukri",
+    "name": "★ StatTrak™ Kukri Knife",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Used in traditional rituals, such as weddings or stabbings.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_kukri",
+      "weapon_id": 526,
+      "name": "Kukri Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "market_hash_name": "★ StatTrak™ Kukri Knife",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 0,
+      "name": "None",
+      "url": null
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2lfa9_Kb6VXmPGwuogsbNvSyi3zR4jsTnQztyqdS6QP1IoXpoiEeAC5Be5l9CxKaq8sIvgdE5J",
+    "original": {
+      "name": "weapon_knife_kukri",
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_kukri"
+    }
+  },
+  "sticker-1": {
+    "id": "sticker-1",
+    "name": "Sticker | Shooter",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "1",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Other",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_gologo1.9cb84d29f38fe347f001e7057a188696bda6f67b.png",
+    "original": {
+      "name": "dh_gologo1",
+      "image_inventory": "econ/stickers/dreamhack/dh_gologo1"
+    }
+  },
+  "sticker-2": {
+    "id": "sticker-2",
+    "name": "Sticker | Shooter (Foil)",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "2",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Foil",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_gologo1_holo.b36272bc491f7df2964deede00ec90cb95c4de6a.png",
+    "original": {
+      "name": "dh_gologo1_holo",
+      "image_inventory": "econ/stickers/dreamhack/dh_gologo1_holo"
+    }
+  },
+  "sticker-3": {
+    "id": "sticker-3",
+    "name": "Sticker | Shooter Close",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "3",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Other",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_gologo2.7ffff249a85ef09b52f9a708d156b9c17e35adaa.png",
+    "original": {
+      "name": "dh_gologo2",
+      "image_inventory": "econ/stickers/dreamhack/dh_gologo2"
+    }
+  },
+  "sticker-4": {
+    "id": "sticker-4",
+    "name": "Sticker | Shooter Close (Foil)",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Foil",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_gologo2_holo.708ec98e0d3256d32e45d68d8ebdd527f6627dcb.png",
+    "original": {
+      "name": "dh_gologo2_holo",
+      "image_inventory": "econ/stickers/dreamhack/dh_gologo2_holo"
+    }
+  },
+  "sticker-5": {
+    "id": "sticker-5",
+    "name": "Sticker | Blue Snowflake",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "5",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Other",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_snowflake2.806f44cd8fc0fd47869cabe85e4b75ca9cdd04b0.png",
+    "original": {
+      "name": "dh_snowflake2",
+      "image_inventory": "econ/stickers/dreamhack/dh_snowflake2"
+    }
+  },
+  "sticker-6": {
+    "id": "sticker-6",
+    "name": "Sticker | Blue Snowflake (Foil)",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "6",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Foil",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_snowflake3.f54af72447dd90e11b64e097cd6ff0bcc0ddf28b.png",
+    "original": {
+      "name": "dh_snowflake3",
+      "image_inventory": "econ/stickers/dreamhack/dh_snowflake3"
+    }
+  },
+  "sticker-7": {
+    "id": "sticker-7",
+    "name": "Sticker | Polar Bears",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "7",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Other",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_bears.928002e08dc7f5a4cd1295febf05a481b2a83ae6.png",
+    "original": {
+      "name": "dh_bears",
+      "image_inventory": "econ/stickers/dreamhack/dh_bears"
+    }
+  },
+  "sticker-8": {
+    "id": "sticker-8",
+    "name": "Sticker | Polar Bears (Foil)",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "8",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Foil",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_bears_holo.ecdd51be5d57bd8ac8ea359ac895a090cf991a5a.png",
+    "original": {
+      "name": "dh_bears_holo",
+      "image_inventory": "econ/stickers/dreamhack/dh_bears_holo"
+    }
+  },
+  "sticker-9": {
+    "id": "sticker-9",
+    "name": "Sticker | Mountain",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "9",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Other",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_mountain.6525110ca2bfe335997b07265a8fb08ca8262764.png",
+    "original": {
+      "name": "dh_mountain",
+      "image_inventory": "econ/stickers/dreamhack/dh_mountain"
+    }
+  },
+  "sticker-10": {
+    "id": "sticker-10",
+    "name": "Sticker | Mountain (Foil)",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "10",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Foil",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_mountain_holo.4ba34bb6e1ff2776070b8fbc47fdc6512d62b4fe.png",
+    "original": {
+      "name": "dh_mountain_holo",
+      "image_inventory": "econ/stickers/dreamhack/dh_mountain_holo"
+    }
+  },
+  "sticker-11": {
+    "id": "sticker-11",
+    "name": "Sticker | Frosty the Hitman",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "11",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Other",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_snowman.1e17bac140a6b7f8e4a27b4a20244d20a4c7307e.png",
+    "original": {
+      "name": "dh_snowman",
+      "image_inventory": "econ/stickers/dreamhack/dh_snowman"
+    }
+  },
+  "sticker-12": {
+    "id": "sticker-12",
+    "name": "Sticker | Frosty the Hitman (Foil)",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "12",
+    "rarity": {
+      "id": "rarity_default",
+      "name": "Default",
+      "color": "#ded6cc"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": null,
+    "effect": "Foil",
+    "tournament": {
+      "id": 1,
+      "name": "2013 DreamHack Winter"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/dreamhack/dh_snowman_holo.45260ad35d4d902edf5795ec90764f520517f379.png",
+    "original": {
+      "name": "dh_snowman_holo",
+      "image_inventory": "econ/stickers/dreamhack/dh_snowman_holo"
+    }
+  },
+  "sticker-13": {
+    "id": "sticker-13",
+    "name": "Sticker | Lucky 13",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "13",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Lucky 13",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu5P840vzRBj_0JPlqiYP6ff6OPM0cvLBDGORmbYhs7NsTii2zBt_tT_Qn9iscH3GO1A-SswnhsokpHo",
+    "original": {
+      "name": "std_thirteen",
+      "image_inventory": "econ/stickers/standard/thirteen"
+    }
+  },
+  "sticker-14": {
+    "id": "sticker-14",
+    "name": "Sticker | Aces High",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "14",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Aces High",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4b370rYSRT2ltjlriQMvPOrafI1c6mXXDCSlL515rg-Hi3gl0V052TTz9_8cHiTbVdxFNIuEvTpD7o7",
+    "original": {
+      "name": "std_aces_high",
+      "image_inventory": "econ/stickers/standard/aces_high"
+    }
+  },
+  "sticker-15": {
+    "id": "sticker-15",
+    "name": "Sticker | Aces High (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "15",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Aces High (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4b370rYSRT2lqno8i5UoaH8OaU6c6SVX2bIx7lz6eAxTXnizUVx4GTXnompcSjEPQR1A5slEe4U8k7vp1iwRKc",
+    "original": {
+      "name": "std_aces_high_holo",
+      "image_inventory": "econ/stickers/standard/aces_high_holo"
+    }
+  },
+  "sticker-16": {
+    "id": "sticker-16",
+    "name": "Sticker | I Conquered",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "16",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | I Conquered",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4T75EjyRA_0mtjk_yZdtquqPqc-IaXGXjKTwOgj5rg7TXy3wh5152_Sy4ugdymWbgEiFNIuEt4TmcQ2",
+    "original": {
+      "name": "std_conquered",
+      "image_inventory": "econ/stickers/standard/conquered"
+    }
+  },
+  "sticker-17": {
+    "id": "sticker-17",
+    "name": "Sticker | Seek & Destroy",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "17",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Seek & Destroy",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4Px-U31TgS_m8-xqCAIuaX4OKI6dKPLWWPHwr905eM8G3mylE10tW_cmdb8IHyVOhhgVMXsEjxLBQ",
+    "original": {
+      "name": "std_destroy",
+      "image_inventory": "econ/stickers/standard/destroy"
+    }
+  },
+  "sticker-18": {
+    "id": "sticker-18",
+    "name": "Sticker | Black Dog",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "18",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Black Dog",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4P9-UnmVR750MTm-yMCvfT_PPI1caXKVjTDxb1w5uNrF3zrlE0k6mSDntepcHjFaVQ-SswnqwuJhOA",
+    "original": {
+      "name": "std_dispatch",
+      "image_inventory": "econ/stickers/standard/dispatch"
+    }
+  },
+  "sticker-19": {
+    "id": "sticker-19",
+    "name": "Sticker | Fearsome",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "19",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Fearsome",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4Hx60v0ThD00MDk_3IK7qT6PqFsI_OVCj_Bl7Z3s7FrSijrxxkl62WAyIn4dCmfP1c-SswnLVkRVWg",
+    "original": {
+      "name": "std_fearsome",
+      "image_inventory": "econ/stickers/standard/fearsome"
+    }
+  },
+  "sticker-20": {
+    "id": "sticker-20",
+    "name": "Sticker | Fearsome (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "20",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Fearsome (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4Hx60v0ThD0oZ7v8S0V6fb2PKI8dfbGWzSSxbcisbg6Siq1wU9y4T6DzoqpIy-Vbw8pApRyQ_lK7EcfSGVkVQ",
+    "original": {
+      "name": "std_fearsome_holo",
+      "image_inventory": "econ/stickers/standard/fearsome_holo"
+    }
+  },
+  "sticker-21": {
+    "id": "sticker-21",
+    "name": "Sticker | Cerberus",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "21",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Cerberus",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4Dh60vjSBP2oZ7l8S4V7Kr7OaI9IaSRXj6VmLol6LM5Si-2wxtwsGndmdiqcyiUPwYlWcdxEflK7Ed9mnInlw",
+    "original": {
+      "name": "std_guarding_hell",
+      "image_inventory": "econ/stickers/standard/guarding_hell"
+    }
+  },
+  "sticker-22": {
+    "id": "sticker-22",
+    "name": "Sticker | Easy Peasy",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "22",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Easy Peasy",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4vx51bpD0-mzMGwrnIPuaKsbvNoc_HACzCVk-gvs-NsSSu3wUR0t2XRzN-pc3uJLlh3__EBqhw",
+    "original": {
+      "name": "std_lemon",
+      "image_inventory": "econ/stickers/standard/lemon"
+    }
+  },
+  "sticker-23": {
+    "id": "sticker-23",
+    "name": "Sticker | Luck Skill",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "23",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Luck Skill",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4vh6VKpRBuinMPkridZtqH9O6U0c6bKVjHEk7oltOM9TS-2zRlx5mWBz42pJGXXMFG8bOpJZQ",
+    "original": {
+      "name": "std_luck",
+      "image_inventory": "econ/stickers/standard/luck"
+    }
+  },
+  "sticker-24": {
+    "id": "sticker-24",
+    "name": "Sticker | Vigilance",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "24",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Vigilance",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu5H97VDrQBPym9jhqCNYuvP8avM9JaSQCmaTx-su6bc5G33hxht-5D6Dy9n_I3ifbFcnFNIuEloXV6pw",
+    "original": {
+      "name": "std_vigilance",
+      "image_inventory": "econ/stickers/standard/vigilance"
+    }
+  },
+  "sticker-25": {
+    "id": "sticker-25",
+    "name": "Sticker | Vigilance (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "25",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Vigilance (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu5H97VDrQBPym6no8i5UofP9OfQ0JfGSDDTDlr8h4LVsTn7rxEt34mqAyYypIyrGZgMnXJBxFuIU8k7vtISZw6w",
+    "original": {
+      "name": "std_vigilance_holo",
+      "image_inventory": "econ/stickers/standard/vigilance_holo"
+    }
+  },
+  "sticker-26": {
+    "id": "sticker-26",
+    "name": "Sticker | Lucky 13 (Foil)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "26",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Lucky 13 (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu5P840vzRBj_oZDv9C4Vu_f6aaVvJvaQDGXAw7kh47M6SS3nxh905GzczNb4eHmWawQkWJdzE_lK7Ec5rlHnLA",
+    "original": {
+      "name": "std_thirteen_foil",
+      "image_inventory": "econ/stickers/standard/thirteen_foil"
+    }
+  },
+  "sticker-27": {
+    "id": "sticker-27",
+    "name": "Sticker | Luck Skill (Foil)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "27",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4007",
+        "name": "Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvrz-PfRpcKeQCzPEk-p147M_SXrglx8l4m2EnoqvJS2eagchCZQiQeADrFDmxXUYlhnp"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Luck Skill (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1NHWT5ERxu4vh6VLYRxL4ktiz-HUKvPOtP6c_dPPCWD7Glb4ltec5Gnu3zEt04T6GzN2hdn-VOwJxFNIuEm3vzl3z",
+    "original": {
+      "name": "std_luck_foil",
+      "image_inventory": "econ/stickers/standard/luck_foil"
+    }
+  },
+  "sticker-28": {
+    "id": "sticker-28",
+    "name": "Sticker | Blacksite (Foil)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "28",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": null,
+    "effect": "Foil",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/danger_zone/blacksite_foil.76f1c993f53cf402064cd35d757e85772506c985.png",
+    "original": {
+      "name": "dz_blacksite_foil",
+      "image_inventory": "econ/stickers/danger_zone/blacksite_foil"
+    }
+  },
+  "sticker-31": {
+    "id": "sticker-31",
+    "name": "Sticker | Bish (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "31",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Bish (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj240rvfhX-kpmu-yBevqP2O_E4I6mVDTCWlLYjtblvG3vglEt-4m3VzdmpIimSOAImWIwwG7DEtAgJ5w",
+    "original": {
+      "name": "std2_bish_holo",
+      "image_inventory": "econ/stickers/stickers2/bish_holo"
+    }
+  },
+  "sticker-32": {
+    "id": "sticker-32",
+    "name": "Sticker | Bash (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "32",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Bash (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj260rvfhX-kpmuqHdf6vP5PKI1IaTGVj6Vkuhws-BoFnnnzUgltmmGyY77IyjEaFJxXowwG7CRGcYc-g",
+    "original": {
+      "name": "std2_bash_holo",
+      "image_inventory": "econ/stickers/stickers2/bash_holo"
+    }
+  },
+  "sticker-33": {
+    "id": "sticker-33",
+    "name": "Sticker | Bosh (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "33",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Bosh (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj25UrvfhX-kpmuqiQL7aSqO_I6JabFDTaUlrwlseI-G3uwxUUhtWvTzIz8d3mWbFd1C4wwG7C3RapAzQ",
+    "original": {
+      "name": "std2_bosh_holo",
+      "image_inventory": "econ/stickers/stickers2/bosh_holo"
+    }
+  },
+  "sticker-34": {
+    "id": "sticker-34",
+    "name": "Sticker | Banana",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "34",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Banana",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj261fmTxy_ncWypXde6aL7aqJvcaiXDDGUwLYv5uNvGHC2l0l0sj-ByN2sIHrBaBhgVMXwKPP2hQ",
+    "original": {
+      "name": "std2_banana",
+      "image_inventory": "econ/stickers/stickers2/banana"
+    }
+  },
+  "sticker-35": {
+    "id": "sticker-35",
+    "name": "Sticker | Bomb Code",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "35",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Bomb Code",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj25VTlfh7-mpOu-yQDu_asbPQ7cfOXXmPIkboh5-AxHX3lx0tw62XczdyucXnCaQQhD4wwG7B88LNKHw",
+    "original": {
+      "name": "std2_bomb_code",
+      "image_inventory": "econ/stickers/stickers2/bomb_code"
+    }
+  },
+  "sticker-36": {
+    "id": "sticker-36",
+    "name": "Sticker | Chicken Lover",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "36",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Chicken Lover",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj34lDkShj_oZrv6ydJoab4MPZpc_PBDzXDl-ggs7M4Hy-ylhhyt22Amdj8JX_FZ1UnA8QmE-YU8k7vYJs36dk",
+    "original": {
+      "name": "std2_chicken_lover",
+      "image_inventory": "econ/stickers/stickers2/chicken_lover"
+    }
+  },
+  "sticker-37": {
+    "id": "sticker-37",
+    "name": "Sticker | Crown (Foil)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "37",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Crown (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj3-FbwTyL3kZ_ssycDt6v4PvU_dvTGDWGWl-xwtLZoS36ykB4ltTvXy42seS_EPFQpC8BuBbldJQkRI1c",
+    "original": {
+      "name": "std_crown_foil",
+      "image_inventory": "econ/stickers/stickers2/crown_foil"
+    }
+  },
+  "sticker-38": {
+    "id": "sticker-38",
+    "name": "Sticker | Good Game",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "38",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Good Game",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsjz5VbjRhz8m9jlrXAOtvb_PKI6cvOVCmLFle0nseM4H3DrlEkl42WHmd78dXyVbA4oFNIuEhUNvd1i",
+    "original": {
+      "name": "std2_goodgame",
+      "image_inventory": "econ/stickers/stickers2/goodgame"
+    }
+  },
+  "sticker-39": {
+    "id": "sticker-39",
+    "name": "Sticker | Good Luck",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "39",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Good Luck",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsjz5VbjTQjyldjhqXYDufH5aaFseabLD2aTw-gi5bgxSnvqwkwit2vTztasc3uUOgJ2FNIuEnevrBpg",
+    "original": {
+      "name": "std2_goodluck",
+      "image_inventory": "econ/stickers/stickers2/goodluck"
+    }
+  },
+  "sticker-40": {
+    "id": "sticker-40",
+    "name": "Sticker | Have Fun",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "40",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Have Fun",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj860_iRwj_0JWy-HoJ6fH2a_0_ePaXDGPFxLsktec9FnrlkUkm6jvcyYqpdXuVOg8-Sswnnu8cDqY",
+    "original": {
+      "name": "std2_havefun",
+      "image_inventory": "econ/stickers/stickers2/havefun"
+    }
+  },
+  "sticker-41": {
+    "id": "sticker-41",
+    "name": "Sticker | Let's Roll-oll",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "41",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Let's Roll-oll",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj47030fg_-kprf8i5Xoav3PvNoJaCSVjHGmeoktbUwGHnmw0ok4mSBwtmvcn-fOgMmCZR0EeAU8k7vZOsCOqc",
+    "original": {
+      "name": "std2_lets_roll_oll",
+      "image_inventory": "econ/stickers/stickers2/lets_roll_oll"
+    }
+  },
+  "sticker-42": {
+    "id": "sticker-42",
+    "name": "Sticker | Let's Roll-oll (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "42",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Let's Roll-oll (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj47030fg_-kprf8i5X0PqhZKsjeKmXXjDGmLcj4OcwH32ywkR04m7TytuoIHvBO1d1CccjQ7INtBO_k8qnab1UOa6C3g",
+    "original": {
+      "name": "std2_lets_roll_oll_holo",
+      "image_inventory": "econ/stickers/stickers2/lets_roll_oll_holo"
+    }
+  },
+  "sticker-43": {
+    "id": "sticker-43",
+    "name": "Sticker | Metal",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "43",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Metal",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj5703mTVOmn5firCNZu6r8bPZvJKSXWD-Rl-sltrk8G3vqzUgl4WrQmNmpdHKRcEZ-XU9JdaNk",
+    "original": {
+      "name": "std2_metal",
+      "image_inventory": "econ/stickers/stickers2/metal"
+    }
+  },
+  "sticker-44": {
+    "id": "sticker-44",
+    "name": "Sticker | Nice Shot",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "44",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Nice Shot",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsj641rifg75kYKuqSNf66b5Pvc9cKKVWjHElLch6LY8Gn_gw0si5WuDmN6vJ3_BOlR1CowwG7Av-d9Y7g",
+    "original": {
+      "name": "std2_nice_shot",
+      "image_inventory": "econ/stickers/stickers2/nice_shot"
+    }
+  },
+  "sticker-46": {
+    "id": "sticker-46",
+    "name": "Sticker | Stupid Banana (Foil)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "46",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Stupid Banana (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsjn_kz3SBnOnJfu_Cxa0PShYagjJPSXXTbJwL0utLltGnq3whwi5G-Azt-oIH2RO1VyDZRxRbNf4Rjrlcqnab352TE6HQ",
+    "original": {
+      "name": "std2_stupid_banana_foil",
+      "image_inventory": "econ/stickers/stickers2/stupid_banana_foil"
+    }
+  },
+  "sticker-47": {
+    "id": "sticker-47",
+    "name": "Sticker | Welcome to the Clutch",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "47",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4012",
+        "name": "Sticker Capsule 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ikLvbz6Mac1c_SWCjaUk7tytblqTH3rwxki527Sw9j7c32XbQAhWMYlE7ENrFDmxQkjC0Ti"
+      }
+    ],
+    "collections": [],
+    "type": "Other",
+    "market_hash_name": "Sticker | Welcome to the Clutch",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1PHic4ERmpsjj71XkThD0oZXs6DZY57z6bKI5eKTFDGXDwL9wteBtFirrwEsmsTjQm96ocS3EPVAhAsB1F7QIrFDmxRUFa3Qh",
+    "original": {
+      "name": "std2_welcome_clutch",
+      "image_inventory": "econ/stickers/stickers2/welcome_clutch"
+    }
+  },
+  "sticker-48": {
+    "id": "sticker-48",
+    "name": "Sticker | 3DMAX | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "48",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4014",
+        "name": "EMS Katowice 2014 Challengers",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXynCkLkv6LJrSSrilkRw4GzSw9-qIHmSPFNxWJR2TeIMt0HsltXgYrzq-UWA3Meo50Y4"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | 3DMAX | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 28,
+      "tag": "3DM",
+      "geo": "FI",
+      "name": "3DMAX"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVKimpvh5WxZuab6MfY1cPPKXj7JmegmtLZtGXyyxhlz6mrUztv7cSifPwUpXpR4W6dU5eKAn36h",
+    "original": {
+      "name": "kat2014_3dmax",
+      "image_inventory": "econ/stickers/emskatowice2014/3dmax"
+    }
+  },
+  "sticker-49": {
+    "id": "sticker-49",
+    "name": "Sticker | 3DMAX (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "49",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4014",
+        "name": "EMS Katowice 2014 Challengers",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXynCkLkv6LJrSSrilkRw4GzSw9-qIHmSPFNxWJR2TeIMt0HsltXgYrzq-UWA3Meo50Y4"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | 3DMAX (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 28,
+      "tag": "3DM",
+      "geo": "FI",
+      "name": "3DMAX"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVKimpvh5R1T4P6hJvxvI6HKD2KWletzs7drHyrqwEx-sjmAmdz4cy_CZlcpDMchELQOt0Om0oqw6utmJzg",
+    "original": {
+      "name": "kat2014_3dmax_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/3dmax_holo"
+    }
+  },
+  "sticker-50": {
+    "id": "sticker-50",
+    "name": "Sticker | compLexity Gaming | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "50",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | compLexity Gaming | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 3,
+      "tag": "CoL",
+      "geo": "US",
+      "name": "compLexity Gaming"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVLykZvw8SdD5ua3Jv08d_XGXzeVl7906bhvGn62xhkjsTiEzIv6IinEbgEnCJZ3RuZc5hWm0oqwz9ycayY",
+    "original": {
+      "name": "kat2014_complexity",
+      "image_inventory": "econ/stickers/emskatowice2014/complexity"
+    }
+  },
+  "sticker-51": {
+    "id": "sticker-51",
+    "name": "Sticker | compLexity Gaming (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "51",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | compLexity Gaming (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 3,
+      "tag": "CoL",
+      "geo": "US",
+      "name": "compLexity Gaming"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVLykZvw8SdD5ua3V6xiLP_dWWHGw71z6LY9Fijkwkx14GnVw476dX-XaVV0X8d0TLRc5kHpxNbvYfSiuVK5KAR_yA",
+    "original": {
+      "name": "kat2014_complexity_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/complexity_holo"
+    }
+  },
+  "sticker-52": {
+    "id": "sticker-52",
+    "name": "Sticker | Team Dignitas | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "52",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | Team Dignitas | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 24,
+      "tag": "DIG",
+      "geo": "DK",
+      "name": "Team Dignitas"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL1l5Hu9DZa_LyrOaA8dvKWVjLAkLp05Oc5Gy-yzE4h42uEzN34dnuRZgQjD8QkQOFcrFDmxY_voY8V",
+    "original": {
+      "name": "kat2014_dignitas",
+      "image_inventory": "econ/stickers/emskatowice2014/dignitas"
+    }
+  },
+  "sticker-53": {
+    "id": "sticker-53",
+    "name": "Sticker | Team Dignitas (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "53",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | Team Dignitas (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 24,
+      "tag": "DIG",
+      "geo": "DK",
+      "name": "Team Dignitas"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL1l5Hu9DZa_M2mZ6hibvGSCmbGmbol5bk5Hyvnl0kktT_Xn4mreHLGPFAnXJpxFLQP4UG5kNP5d7S1RHgEpV4",
+    "original": {
+      "name": "kat2014_dignitas_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/dignitas_holo"
+    }
+  },
+  "sticker-55": {
+    "id": "sticker-55",
+    "name": "Sticker | Fnatic | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "55",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | Fnatic | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 6,
+      "tag": "Fntc",
+      "geo": "SE",
+      "name": "Fnatic"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL3kJf09CEVvqStP6Y6JaaSWjfGlb8mtrM4Ti-wzE12sDjWm4mrdC6WZwMmW5JyQflK7EfDL65HwA",
+    "original": {
+      "name": "kat2014_fnatic",
+      "image_inventory": "econ/stickers/emskatowice2014/fnatic"
+    }
+  },
+  "sticker-56": {
+    "id": "sticker-56",
+    "name": "Sticker | Fnatic (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "56",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | Fnatic (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 6,
+      "tag": "Fntc",
+      "geo": "SE",
+      "name": "Fnatic"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL3kJf09CFk5_2iZ-o_IqTAWDDBwLsn4eQ6HiiyzU915GvXwtqsJH3Eag8lA5VxTeUD4RC8jJS5YFS-xO2Q",
+    "original": {
+      "name": "kat2014_fnatic_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/fnatic_holo"
+    }
+  },
+  "sticker-57": {
+    "id": "sticker-57",
+    "name": "Sticker | HellRaisers | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "57",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | HellRaisers | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 25,
+      "tag": "HLR",
+      "geo": "EU",
+      "name": "HellRaisers"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL5m5rs7yNS_Pe8e-o1cqaWXDeWwLhy6bZsG3vlkBt2tWqEn9f4eHyRPAAoWcRxRu8NukTqjJS5YFwAHIOk",
+    "original": {
+      "name": "kat2014_hellraisers",
+      "image_inventory": "econ/stickers/emskatowice2014/hellraisers"
+    }
+  },
+  "sticker-58": {
+    "id": "sticker-58",
+    "name": "Sticker | HellRaisers (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "58",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | HellRaisers (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 25,
+      "tag": "HLR",
+      "geo": "EU",
+      "name": "HellRaisers"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL5m5rs7yNS_Pe8e5tlL_ycQGWRxbgh4rg-HyyxxUh15z6Hyd6tcirBagB1A5t3Ee8J4BCxldziYeL8p1uJW10TqV0",
+    "original": {
+      "name": "kat2014_hellraisers_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/hellraisers_holo"
+    }
+  },
+  "sticker-59": {
+    "id": "sticker-59",
+    "name": "Sticker | iBUYPOWER | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "59",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4014",
+        "name": "EMS Katowice 2014 Challengers",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXynCkLkv6LJrSSrilkRw4GzSw9-qIHmSPFNxWJR2TeIMt0HsltXgYrzq-UWA3Meo50Y4"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | iBUYPOWER | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 5,
+      "tag": "iBP",
+      "geo": "US",
+      "name": "iBUYPOWER"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL4nIP57S1M6uDgOaA0cKjFD2bDl-8hsbZqTnDrlEsj5mzWn9uhdi7FalImXMF4F7UKuw74zIM3Z7kOtQ",
+    "original": {
+      "name": "kat2014_ibuypower",
+      "image_inventory": "econ/stickers/emskatowice2014/ibuypower"
+    }
+  },
+  "sticker-60": {
+    "id": "sticker-60",
+    "name": "Sticker | iBUYPOWER (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "60",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4014",
+        "name": "EMS Katowice 2014 Challengers",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXynCkLkv6LJrSSrilkRw4GzSw9-qIHmSPFNxWJR2TeIMt0HsltXgYrzq-UWA3Meo50Y4"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | iBUYPOWER (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 5,
+      "tag": "iBP",
+      "geo": "US",
+      "name": "iBUYPOWER"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL4nIP57S1M6uCRYKthL77KW2XAkr91tLQ-S33iwhly62jcn9yrcy2fOlBxA5JyRuVf40W7xoC2Kaq8sK3FB_Eg",
+    "original": {
+      "name": "kat2014_ibuypower_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/ibuypower_holo"
+    }
+  },
+  "sticker-61": {
+    "id": "sticker-61",
+    "name": "Sticker | Team LDLC.com | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "61",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | Team LDLC.com | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 26,
+      "tag": "LDLC",
+      "geo": "FR",
+      "name": "Team LDLC.com"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL9mprjsyAD6fb2P6Y9eKmRCzPBwOt3s7MwG3rlxEwj5mmEzdaqdCqfPQIjAsNuBbldhnvSCr8",
+    "original": {
+      "name": "kat2014_ldlc",
+      "image_inventory": "econ/stickers/emskatowice2014/ldlc"
+    }
+  },
+  "sticker-62": {
+    "id": "sticker-62",
+    "name": "Sticker | Team LDLC.com (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "62",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | Team LDLC.com (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 26,
+      "tag": "LDLC",
+      "geo": "FR",
+      "name": "Team LDLC.com"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL9mprjwipU4_3gbfU1c_bAXDKTwu8u4bhvG3qwxk1x4WXRyYuteXrDPFUnWJtwEbYJsQ74zIN29ZviPw",
+    "original": {
+      "name": "kat2014_ldlc_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/ldlc_holo"
+    }
+  },
+  "sticker-63": {
+    "id": "sticker-63",
+    "name": "Sticker | LGB eSports | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "63",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | LGB eSports | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 9,
+      "tag": "LGB",
+      "geo": "NO",
+      "name": "LGB eSports"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL9mZSuqyQK7qD8Pvc0dvTFXD-Vluxzs7hqGn3mzU0k5DmHm4ypd3uSbQIiXIwwG7Ckzoj_bQ",
+    "original": {
+      "name": "kat2014_lgb",
+      "image_inventory": "econ/stickers/emskatowice2014/lgb"
+    }
+  },
+  "sticker-64": {
+    "id": "sticker-64",
+    "name": "Sticker | LGB eSports (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "64",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4015",
+        "name": "EMS Katowice 2014 Legends",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXCnHkOgktbhoHyqxxRh0tWiDnIr4dnKSOAUoC5J1TbJZ4Bi8k9HlY-Li-UWA3NcCqy5X"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | LGB eSports (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 9,
+      "tag": "LGB",
+      "geo": "NO",
+      "name": "LGB eSports"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL9mZTf9S1X4Lz3a_Q0damXDDGWl-olsbdtGy3hl0h06j7cz9ivdnmUb1IiX5VzTe4MrFDmxdFt4nC-",
+    "original": {
+      "name": "kat2014_lgb_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/lgb_holo"
+    }
+  },
+  "sticker-65": {
+    "id": "sticker-65",
+    "name": "Sticker | mousesports | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "65",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4014",
+        "name": "EMS Katowice 2014 Challengers",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXynCkLkv6LJrSSrilkRw4GzSw9-qIHmSPFNxWJR2TeIMt0HsltXgYrzq-UWA3Meo50Y4"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | mousesports | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL8kYPz-DFL4OC6e-o5JKTCXGaSwLxzsrc_Gi-xxxsktmXUyNf6dCqXaVQlDMN5Q-JbsRLrjJS5YIc8_oYw",
+    "original": {
+      "name": "kat2014_mousesports",
+      "image_inventory": "econ/stickers/emskatowice2014/mousesports"
+    }
+  },
+  "sticker-66": {
+    "id": "sticker-66",
+    "name": "Sticker | mousesports (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "66",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4014",
+        "name": "EMS Katowice 2014 Challengers",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXynCkLkv6LJrSSrilkRw4GzSw9-qIHmSPFNxWJR2TeIMt0HsltXgYrzq-UWA3Meo50Y4"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | mousesports (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 29,
+      "tag": "mss",
+      "geo": "EU",
+      "name": "mousesports"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL8kYPz-DFL4OC6e5tlL_ycQGTHwu0ktrQ6TSu2wEoi4Gvdydz_dy2RO1dyAsR1E-BetBa8w9zgZbn8p1uJ-rzeGxs",
+    "original": {
+      "name": "kat2014_mousesports_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/mousesports_holo"
+    }
+  },
+  "sticker-67": {
+    "id": "sticker-67",
+    "name": "Sticker | Clan-Mystik | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "67",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4014",
+        "name": "EMS Katowice 2014 Challengers",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXynCkLkv6LJrSSrilkRw4GzSw9-qIHmSPFNxWJR2TeIMt0HsltXgYrzq-UWA3Meo50Y4"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | Clan-Mystik | Katowice 2014",
+    "effect": "Other",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 7,
+      "tag": "CM",
+      "geo": "FR",
+      "name": "Clan-Mystik"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL8h4X09CkVu6f2bPE8ePTGVz_Fxbku4LQ8Hiyyw00ktm-GwoygJy2ebA4jCscmEPlK7Efyj5HByQ",
+    "original": {
+      "name": "kat2014_mystik",
+      "image_inventory": "econ/stickers/emskatowice2014/mystik"
+    }
+  },
+  "sticker-68": {
+    "id": "sticker-68",
+    "name": "Sticker | Clan-Mystik (Holo) | Katowice 2014",
+    "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "68",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4014",
+        "name": "EMS Katowice 2014 Challengers",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6OvQ8dM_DXynCkLkv6LJrSSrilkRw4GzSw9-qIHmSPFNxWJR2TeIMt0HsltXgYrzq-UWA3Meo50Y4"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker | Clan-Mystik (Holo) | Katowice 2014",
+    "effect": "Holo",
+    "tournament": {
+      "id": 3,
+      "name": "2014 EMS One Katowice"
+    },
+    "team": {
+      "id": 7,
+      "tag": "CM",
+      "geo": "FR",
+      "name": "Clan-Mystik"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjM-sJnCW8Vli_YTxuAm2FVL8h4X09Clk5_2iZ-o1cfaSXWLFlesisblqGS2wx0l0sW7Rntj8J3nGOAIgCpZ4EbIOsEG5jJS5YDNvjHnm",
+    "original": {
+      "name": "kat2014_mystik_holo",
+      "image_inventory": "econ/stickers/emskatowice2014/mystik_holo"
+    }
+  }
+}

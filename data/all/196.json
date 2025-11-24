@@ -1,0 +1,2795 @@
+{
+  "skin-7bb2453ebc78_4_st": {
+    "id": "skin-7bb2453ebc78_4_st",
+    "skin_id": "skin-7bb2453ebc78",
+    "name": "★ StatTrak™ Survival Knife | Case Hardened (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "44",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tsMc-cB2uVxdF-teB_Vmexw0V26juDzdz7ci-faAJyCpt2EbRcshDsm4W1P-zl5lPeiN5NmHj2kGoXuQZU8X36",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_aq_oiled_heavy"
+    }
+  },
+  "skin-0e190498bba1_0": {
+    "id": "skin-0e190498bba1_0",
+    "skin_id": "skin-0e190498bba1",
+    "name": "★ Survival Knife | Rust Coat (Well-Worn)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_steel_knife",
+      "name": "Rust Coat"
+    },
+    "min_float": 0.4,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "414",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Rust Coat (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tsMc-AGmKVzdF9vuhvSha-kBkupjDLn9ytc36QZwByCJpwE-4I4UW9kNy0NO3mtQHdj4xFxSr6j35Lu35s6vFCD_SeoZUIGw",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_aq_steel_knife_medium"
+    }
+  },
+  "skin-0e190498bba1_1": {
+    "id": "skin-0e190498bba1_1",
+    "skin_id": "skin-0e190498bba1",
+    "name": "★ Survival Knife | Rust Coat (Battle-Scarred)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_steel_knife",
+      "name": "Rust Coat"
+    },
+    "min_float": 0.4,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "414",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Rust Coat (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tsMc-AGmKVzdF9vuhvSha7kBwxqnPSyN_9eSqeOFInC5J2RO8N5BO6mtPgM-zgtgfe3dpDmCv6in5Mv3xj_a9cBlUl8w3F",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_aq_steel_knife_heavy"
+    }
+  },
+  "skin-0e190498bba1_0_st": {
+    "id": "skin-0e190498bba1_0_st",
+    "skin_id": "skin-0e190498bba1",
+    "name": "★ StatTrak™ Survival Knife | Rust Coat (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_steel_knife",
+      "name": "Rust Coat"
+    },
+    "min_float": 0.4,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "414",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Rust Coat (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tsMc-AGmKVzdF9vuhvSha-kBkupjDLn9ytc36QZwByCJpwE-4I4UW9kNy0NO3mtQHdj4xFxSr6j35Lu35s6vFCD_SeoZUIGw",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_aq_steel_knife_medium"
+    }
+  },
+  "skin-0e190498bba1_1_st": {
+    "id": "skin-0e190498bba1_1_st",
+    "skin_id": "skin-0e190498bba1",
+    "name": "★ StatTrak™ Survival Knife | Rust Coat (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_steel_knife",
+      "name": "Rust Coat"
+    },
+    "min_float": 0.4,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "414",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Rust Coat (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tsMc-AGmKVzdF9vuhvSha7kBwxqnPSyN_9eSqeOFInC5J2RO8N5BO6mtPgM-zgtgfe3dpDmCv6in5Mv3xj_a9cBlUl8w3F",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_aq_steel_knife_heavy"
+    }
+  },
+  "skin-b862260eaab4_0": {
+    "id": "skin-b862260eaab4_0",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ Survival Knife | Forest DDPAT (Factory New)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Forest DDPAT (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF6ueZhW2frxE106zzQztb6Jy2TaQYoCpQiEO5Y4xOwldfjZurg5QTdid5GxCj-kGoXucz3RTaX",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_light"
+    }
+  },
+  "skin-b862260eaab4_1": {
+    "id": "skin-b862260eaab4_1",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ Survival Knife | Forest DDPAT (Minimal Wear)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Forest DDPAT (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF6ueZhW2frxE106zzQztb6Jy2TaQYoCpQiEO5Y4xOwldfjZurg5QTdid5GxCj-kGoXucz3RTaX",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_light"
+    }
+  },
+  "skin-b862260eaab4_2": {
+    "id": "skin-b862260eaab4_2",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ Survival Knife | Forest DDPAT (Field-Tested)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Forest DDPAT (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF7teVgWiT9kExy42TVn979cinFaQ5xDMNxFLVfthnukYaxZu2w4VDeio0QzyWqjjQJsHgIyqUDIw",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_medium"
+    }
+  },
+  "skin-b862260eaab4_3": {
+    "id": "skin-b862260eaab4_3",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ Survival Knife | Forest DDPAT (Well-Worn)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Forest DDPAT (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF7teVgWiT9kExy42TVn979cinFaQ5xDMNxFLVfthnukYaxZu2w4VDeio0QzyWqjjQJsHgIyqUDIw",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_medium"
+    }
+  },
+  "skin-b862260eaab4_4": {
+    "id": "skin-b862260eaab4_4",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ Survival Knife | Forest DDPAT (Battle-Scarred)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Forest DDPAT (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF-teB_Vmfqxkh24jnWw9usIHuUPAAoXMRxR7MDtxjskYaxNb634Azb2I0QynmskGoXufpaX7yh",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_heavy"
+    }
+  },
+  "skin-b862260eaab4_0_st": {
+    "id": "skin-b862260eaab4_0_st",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ StatTrak™ Survival Knife | Forest DDPAT (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF6ueZhW2frxE106zzQztb6Jy2TaQYoCpQiEO5Y4xOwldfjZurg5QTdid5GxCj-kGoXucz3RTaX",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_light"
+    }
+  },
+  "skin-b862260eaab4_1_st": {
+    "id": "skin-b862260eaab4_1_st",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ StatTrak™ Survival Knife | Forest DDPAT (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF6ueZhW2frxE106zzQztb6Jy2TaQYoCpQiEO5Y4xOwldfjZurg5QTdid5GxCj-kGoXucz3RTaX",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_light"
+    }
+  },
+  "skin-b862260eaab4_2_st": {
+    "id": "skin-b862260eaab4_2_st",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ StatTrak™ Survival Knife | Forest DDPAT (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF7teVgWiT9kExy42TVn979cinFaQ5xDMNxFLVfthnukYaxZu2w4VDeio0QzyWqjjQJsHgIyqUDIw",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_medium"
+    }
+  },
+  "skin-b862260eaab4_3_st": {
+    "id": "skin-b862260eaab4_3_st",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ StatTrak™ Survival Knife | Forest DDPAT (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF7teVgWiT9kExy42TVn979cinFaQ5xDMNxFLVfthnukYaxZu2w4VDeio0QzyWqjjQJsHgIyqUDIw",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_medium"
+    }
+  },
+  "skin-b862260eaab4_4_st": {
+    "id": "skin-b862260eaab4_4_st",
+    "skin_id": "skin-b862260eaab4",
+    "name": "★ StatTrak™ Survival Knife | Forest DDPAT (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "5",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-XCneR1dF-teB_Vmfqxkh24jnWw9usIHuUPAAoXMRxR7MDtxjskYaxNb634Azb2I0QynmskGoXufpaX7yh",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_ddpat_heavy"
+    }
+  },
+  "skin-ab09205a25f2_0": {
+    "id": "skin-ab09205a25f2_0",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ Survival Knife | Boreal Forest (Factory New)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Boreal Forest (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhEutDWR1Ir9d3KSbgFxDJQiRe8O4ESxm9HiZu_k4lCP2NhBz3-tji1N6Hlv470cEf1yxrD6pCc",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_light"
+    }
+  },
+  "skin-ab09205a25f2_1": {
+    "id": "skin-ab09205a25f2_1",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ Survival Knife | Boreal Forest (Minimal Wear)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Boreal Forest (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhEutDWR1Ir9d3KSbgFxDJQiRe8O4ESxm9HiZu_k4lCP2NhBz3-tji1N6Hlv470cEf1yxrD6pCc",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_light"
+    }
+  },
+  "skin-ab09205a25f2_2": {
+    "id": "skin-ab09205a25f2_2",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ Survival Knife | Boreal Forest (Field-Tested)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Boreal Forest (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhAitzSQl8GtJHmQb1MoXpJ2EOcL5BHsltTnYePgtgff2IlGn36viypL7nlt5-sAT-N7rTTFvngz",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_medium"
+    }
+  },
+  "skin-ab09205a25f2_3": {
+    "id": "skin-ab09205a25f2_3",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ Survival Knife | Boreal Forest (Well-Worn)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Boreal Forest (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhAitzSQl8GtJHmQb1MoXpJ2EOcL5BHsltTnYePgtgff2IlGn36viypL7nlt5-sAT-N7rTTFvngz",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_medium"
+    }
+  },
+  "skin-ab09205a25f2_4": {
+    "id": "skin-ab09205a25f2_4",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ Survival Knife | Boreal Forest (Battle-Scarred)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Boreal Forest (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhUisiuc1Nz8JSrEaQIhCJV0QuEJ5kGxwdbuZe-z51Ddio4Xzy383Xgc5ixpsekcEf1y0FjIJTY",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_heavy"
+    }
+  },
+  "skin-ab09205a25f2_0_st": {
+    "id": "skin-ab09205a25f2_0_st",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhEutDWR1Ir9d3KSbgFxDJQiRe8O4ESxm9HiZu_k4lCP2NhBz3-tji1N6Hlv470cEf1yxrD6pCc",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_light"
+    }
+  },
+  "skin-ab09205a25f2_1_st": {
+    "id": "skin-ab09205a25f2_1_st",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhEutDWR1Ir9d3KSbgFxDJQiRe8O4ESxm9HiZu_k4lCP2NhBz3-tji1N6Hlv470cEf1yxrD6pCc",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_light"
+    }
+  },
+  "skin-ab09205a25f2_2_st": {
+    "id": "skin-ab09205a25f2_2_st",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhAitzSQl8GtJHmQb1MoXpJ2EOcL5BHsltTnYePgtgff2IlGn36viypL7nlt5-sAT-N7rTTFvngz",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_medium"
+    }
+  },
+  "skin-ab09205a25f2_3_st": {
+    "id": "skin-ab09205a25f2_3_st",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhAitzSQl8GtJHmQb1MoXpJ2EOcL5BHsltTnYePgtgff2IlGn36viypL7nlt5-sAT-N7rTTFvngz",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_medium"
+    }
+  },
+  "skin-ab09205a25f2_4_st": {
+    "id": "skin-ab09205a25f2_4_st",
+    "skin_id": "skin-ab09205a25f2",
+    "name": "★ StatTrak™ Survival Knife | Boreal Forest (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "77",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-VAXWV0vpJsu57Sii_qhUisiuc1Nz8JSrEaQIhCJV0QuEJ5kGxwdbuZe-z51Ddio4Xzy383Xgc5ixpsekcEf1y0FjIJTY",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_heavy"
+    }
+  },
+  "skin-4b24c320cc23_0": {
+    "id": "skin-4b24c320cc23_0",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ Survival Knife | Crimson Web (Factory New)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Crimson Web (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uJ_t-l9AXqxlEtytzzXwo2pJSnBb1InC5dzQrVYsRK5ktOzNenn7gXdi95FzX3gznQeN2X8HrE",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_light"
+    }
+  },
+  "skin-4b24c320cc23_1": {
+    "id": "skin-4b24c320cc23_1",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ Survival Knife | Crimson Web (Minimal Wear)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Crimson Web (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uJ_t-l9AXqxlEtytzzXwo2pJSnBb1InC5dzQrVYsRK5ktOzNenn7gXdi95FzX3gznQeN2X8HrE",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_light"
+    }
+  },
+  "skin-4b24c320cc23_2": {
+    "id": "skin-4b24c320cc23_2",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ Survival Knife | Crimson Web (Field-Tested)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Crimson Web (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uNztOh8Qmfkx0p24GXTztirIC6SOAQpXpQlELIJtRi-ktfhYr_qsVeN3d5HyHj_kGoXuaztfw0x",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_medium"
+    }
+  },
+  "skin-4b24c320cc23_3": {
+    "id": "skin-4b24c320cc23_3",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ Survival Knife | Crimson Web (Well-Worn)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Crimson Web (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uNztOh8Qmfkx0p24GXTztirIC6SOAQpXpQlELIJtRi-ktfhYr_qsVeN3d5HyHj_kGoXuaztfw0x",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_medium"
+    }
+  },
+  "skin-4b24c320cc23_4": {
+    "id": "skin-4b24c320cc23_4",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ Survival Knife | Crimson Web (Battle-Scarred)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Crimson Web (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uZzsfdwAS_klEh042nVn92tJ32fPANyDpJzELJYtEbqmoLgNrm24QaLgtpFnizgznQeEYrQ0FU",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_heavy"
+    }
+  },
+  "skin-4b24c320cc23_0_st": {
+    "id": "skin-4b24c320cc23_0_st",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ StatTrak™ Survival Knife | Crimson Web (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uJ_t-l9AXqxlEtytzzXwo2pJSnBb1InC5dzQrVYsRK5ktOzNenn7gXdi95FzX3gznQeN2X8HrE",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_light"
+    }
+  },
+  "skin-4b24c320cc23_1_st": {
+    "id": "skin-4b24c320cc23_1_st",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ StatTrak™ Survival Knife | Crimson Web (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uJ_t-l9AXqxlEtytzzXwo2pJSnBb1InC5dzQrVYsRK5ktOzNenn7gXdi95FzX3gznQeN2X8HrE",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_light"
+    }
+  },
+  "skin-4b24c320cc23_2_st": {
+    "id": "skin-4b24c320cc23_2_st",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ StatTrak™ Survival Knife | Crimson Web (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uNztOh8Qmfkx0p24GXTztirIC6SOAQpXpQlELIJtRi-ktfhYr_qsVeN3d5HyHj_kGoXuaztfw0x",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_medium"
+    }
+  },
+  "skin-4b24c320cc23_3_st": {
+    "id": "skin-4b24c320cc23_3_st",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ StatTrak™ Survival Knife | Crimson Web (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uNztOh8Qmfkx0p24GXTztirIC6SOAQpXpQlELIJtRi-ktfhYr_qsVeN3d5HyHj_kGoXuaztfw0x",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_medium"
+    }
+  },
+  "skin-4b24c320cc23_4_st": {
+    "id": "skin-4b24c320cc23_4_st",
+    "skin_id": "skin-4b24c320cc23",
+    "name": "★ StatTrak™ Survival Knife | Crimson Web (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "12",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 2,
+      "name": "Hydrographic",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tlOc-EC2WD_uZzsfdwAS_klEh042nVn92tJ32fPANyDpJzELJYtEbqmoLgNrm24QaLgtpFnizgznQeEYrQ0FU",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_hy_webs_heavy"
+    }
+  },
+  "skin-34931416e76d_0": {
+    "id": "skin-34931416e76d_0",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ Survival Knife | Ultraviolet (Factory New)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Ultraviolet (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJvOhuRz39k0104GnVzor_InqfPQ9xDZJ0E7JfuxDql4XhPryxtg2MiI5An3-r2zQJsHhQRDEjrg",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_light"
+    }
+  },
+  "skin-34931416e76d_1": {
+    "id": "skin-34931416e76d_1",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ Survival Knife | Ultraviolet (Minimal Wear)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Ultraviolet (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJvOhuRz39k0104GnVzor_InqfPQ9xDZJ0E7JfuxDql4XhPryxtg2MiI5An3-r2zQJsHhQRDEjrg",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_light"
+    }
+  },
+  "skin-34931416e76d_2": {
+    "id": "skin-34931416e76d_2",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ Survival Knife | Ultraviolet (Field-Tested)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Ultraviolet (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJveRtRjy-2052tmrWntb7JXiWaQYnDpBxTeQO4BbqkdzmZu3qsVCPit0QzCT9ii5XrnE8z77Qaxk",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_medium"
+    }
+  },
+  "skin-34931416e76d_3": {
+    "id": "skin-34931416e76d_3",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ Survival Knife | Ultraviolet (Well-Worn)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Ultraviolet (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJveRtRjy-2052tmrWntb7JXiWaQYnDpBxTeQO4BbqkdzmZu3qsVCPit0QzCT9ii5XrnE8z77Qaxk",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_medium"
+    }
+  },
+  "skin-34931416e76d_4": {
+    "id": "skin-34931416e76d_4",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ Survival Knife | Ultraviolet (Battle-Scarred)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Ultraviolet (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJuORoWTD9k0tw5miDntuvcXqeZwQpDJRwQuUJ4BHuw4e0N-vn5gPc2YNCnn34iTQJsHjnkBQy0A",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_heavy"
+    }
+  },
+  "skin-34931416e76d_0_st": {
+    "id": "skin-34931416e76d_0_st",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ StatTrak™ Survival Knife | Ultraviolet (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJvOhuRz39k0104GnVzor_InqfPQ9xDZJ0E7JfuxDql4XhPryxtg2MiI5An3-r2zQJsHhQRDEjrg",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_light"
+    }
+  },
+  "skin-34931416e76d_1_st": {
+    "id": "skin-34931416e76d_1_st",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ StatTrak™ Survival Knife | Ultraviolet (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJvOhuRz39k0104GnVzor_InqfPQ9xDZJ0E7JfuxDql4XhPryxtg2MiI5An3-r2zQJsHhQRDEjrg",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_light"
+    }
+  },
+  "skin-34931416e76d_2_st": {
+    "id": "skin-34931416e76d_2_st",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ StatTrak™ Survival Knife | Ultraviolet (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJveRtRjy-2052tmrWntb7JXiWaQYnDpBxTeQO4BbqkdzmZu3qsVCPit0QzCT9ii5XrnE8z77Qaxk",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_medium"
+    }
+  },
+  "skin-34931416e76d_3_st": {
+    "id": "skin-34931416e76d_3_st",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ StatTrak™ Survival Knife | Ultraviolet (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJveRtRjy-2052tmrWntb7JXiWaQYnDpBxTeQO4BbqkdzmZu3qsVCPit0QzCT9ii5XrnE8z77Qaxk",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_medium"
+    }
+  },
+  "skin-34931416e76d_4_st": {
+    "id": "skin-34931416e76d_4_st",
+    "skin_id": "skin-34931416e76d",
+    "name": "★ StatTrak™ Survival Knife | Ultraviolet (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "98",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 1,
+      "name": "Solid Color",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-L8-DG3WAzetJuORoWTD9k0tw5miDntuvcXqeZwQpDJRwQuUJ4BHuw4e0N-vn5gPc2YNCnn34iTQJsHjnkBQy0A",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_so_purple_heavy"
+    }
+  },
+  "skin-a98faf349245_0": {
+    "id": "skin-a98faf349245_0",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ Survival Knife | Scorched (Factory New)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Scorched (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJvOhuRz39k09w5WnVyI34cnqUb1R2AsN5FuAPtha-m4CyMejitlfYiYpNmH392jQJsHiJvqHvqQ",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_light"
+    }
+  },
+  "skin-a98faf349245_1": {
+    "id": "skin-a98faf349245_1",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ Survival Knife | Scorched (Minimal Wear)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Scorched (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJvOhuRz39k09w5WnVyI34cnqUb1R2AsN5FuAPtha-m4CyMejitlfYiYpNmH392jQJsHiJvqHvqQ",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_light"
+    }
+  },
+  "skin-a98faf349245_2": {
+    "id": "skin-a98faf349245_2",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ Survival Knife | Scorched (Field-Tested)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Scorched (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJveRtRjy-2xtw42mHwoz9cnzBblUjA5N5EOEOsBHsw9K1Zr_l7waPi49AmSWsjC9XrnE8pLhHytk",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_medium"
+    }
+  },
+  "skin-a98faf349245_3": {
+    "id": "skin-a98faf349245_3",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ Survival Knife | Scorched (Well-Worn)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Scorched (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJveRtRjy-2xtw42mHwoz9cnzBblUjA5N5EOEOsBHsw9K1Zr_l7waPi49AmSWsjC9XrnE8pLhHytk",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_medium"
+    }
+  },
+  "skin-a98faf349245_4": {
+    "id": "skin-a98faf349245_4",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ Survival Knife | Scorched (Battle-Scarred)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Scorched (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJuORoWTD9w0gk6muHzIyvcnjCag90X8ciFOVb5xi7lYLgN77h4gHdj4xMyCj92zQJsHjfuHNjIw",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_heavy"
+    }
+  },
+  "skin-a98faf349245_0_st": {
+    "id": "skin-a98faf349245_0_st",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ StatTrak™ Survival Knife | Scorched (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJvOhuRz39k09w5WnVyI34cnqUb1R2AsN5FuAPtha-m4CyMejitlfYiYpNmH392jQJsHiJvqHvqQ",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_light"
+    }
+  },
+  "skin-a98faf349245_1_st": {
+    "id": "skin-a98faf349245_1_st",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ StatTrak™ Survival Knife | Scorched (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJvOhuRz39k09w5WnVyI34cnqUb1R2AsN5FuAPtha-m4CyMejitlfYiYpNmH392jQJsHiJvqHvqQ",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_light"
+    }
+  },
+  "skin-a98faf349245_2_st": {
+    "id": "skin-a98faf349245_2_st",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ StatTrak™ Survival Knife | Scorched (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJveRtRjy-2xtw42mHwoz9cnzBblUjA5N5EOEOsBHsw9K1Zr_l7waPi49AmSWsjC9XrnE8pLhHytk",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_medium"
+    }
+  },
+  "skin-a98faf349245_3_st": {
+    "id": "skin-a98faf349245_3_st",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ StatTrak™ Survival Knife | Scorched (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJveRtRjy-2xtw42mHwoz9cnzBblUjA5N5EOEOsBHsw9K1Zr_l7waPi49AmSWsjC9XrnE8pLhHytk",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_medium"
+    }
+  },
+  "skin-a98faf349245_4_st": {
+    "id": "skin-a98faf349245_4_st",
+    "skin_id": "skin-a98faf349245",
+    "name": "★ StatTrak™ Survival Knife | Scorched (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "175",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-XD3eAzetJuORoWTD9w0gk6muHzIyvcnjCag90X8ciFOVb5xi7lYLgN77h4gHdj4xMyCj92zQJsHjfuHNjIw",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_dapple_heavy"
+    }
+  },
+  "skin-a2359eb57d47_0": {
+    "id": "skin-a2359eb57d47_0",
+    "skin_id": "skin-a2359eb57d47",
+    "name": "★ Survival Knife | Safari Mesh (Factory New)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_mesh_tan",
+      "name": "Safari Mesh"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "72",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Safari Mesh (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-eC3SY_vp3vt5lRi67gVNztTmBydj4I32fZ1UpDMAiEecMuxXqxN2zN7zi5Abdg4hDxSj5iywf8G81tEchNhm2",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_mesh_tan_light"
+    }
+  },
+  "skin-a2359eb57d47_1": {
+    "id": "skin-a2359eb57d47_1",
+    "skin_id": "skin-a2359eb57d47",
+    "name": "★ Survival Knife | Safari Mesh (Minimal Wear)",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "weapon_id": 518,
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_mesh_tan",
+      "name": "Safari Mesh"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "72",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "★ Survival Knife | Safari Mesh (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 3,
+      "name": "Spray-Paint",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-eC3SY_vp3vt5lRi67gVNztTmBydj4I32fZ1UpDMAiEecMuxXqxN2zN7zi5Abdg4hDxSj5iywf8G81tEchNhm2",
+    "original": {
+      "name": "weapon_knife_canis",
+      "image_inventory": "econ/default_generated/weapon_knife_canis_sp_mesh_tan_light"
+    }
+  }
+}

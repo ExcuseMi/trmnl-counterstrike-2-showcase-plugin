@@ -1,0 +1,3138 @@
+{
+  "skin-e8144faeae9f_4_st": {
+    "id": "skin-e8144faeae9f_4_st",
+    "skin_id": "skin-e8144faeae9f",
+    "name": "StatTrak™ M4A4 | Neo-Noir (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a stylized blue-magenta woman over a grayscale background.\\n\\n<i>\\\"She grabbed what she could and disappeared into a decaying dystopia\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_neo_noir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.9,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "695",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Neo-Noir (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSLvWcMWmfyPxJuORoWTD9xktz5DyEzdmhdSnCaA8gX5N3ReANtkTrktXmMezi4wTb34xAyCX8izQJsHj42P1awg",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_neo_noir_heavy"
+    }
+  },
+  "skin-1e9229953491_0": {
+    "id": "skin-1e9229953491_0",
+    "skin_id": "skin-1e9229953491",
+    "name": "M4A4 | Tooth Fairy (Factory New)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Tooth Fairy (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5lRi67gVN35WyDwtv8IC-RblVxCpchQLIOuhK8xNG2YbnktAXZjthFxCiohntP8G81tOVu8Qhw",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_light"
+    }
+  },
+  "skin-1e9229953491_1": {
+    "id": "skin-1e9229953491_1",
+    "skin_id": "skin-1e9229953491",
+    "name": "M4A4 | Tooth Fairy (Minimal Wear)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Tooth Fairy (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5lRi67gVN35WyDwtv8IC-RblVxCpchQLIOuhK8xNG2YbnktAXZjthFxCiohntP8G81tOVu8Qhw",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_light"
+    }
+  },
+  "skin-1e9229953491_2": {
+    "id": "skin-1e9229953491_2",
+    "skin_id": "skin-1e9229953491",
+    "name": "M4A4 | Tooth Fairy (Field-Tested)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Tooth Fairy (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5kSi26gBBp4G7dm4qtJ3yTbVMpCcNyFLEJ5xHqlNfvZOKwtlHWjIIRxCT5hi4b6zErvbhXXMLnPQ",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_medium"
+    }
+  },
+  "skin-1e9229953491_3": {
+    "id": "skin-1e9229953491_3",
+    "skin_id": "skin-1e9229953491",
+    "name": "M4A4 | Tooth Fairy (Well-Worn)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Tooth Fairy (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5kSi26gBBp4G7dm4qtJ3yTbVMpCcNyFLEJ5xHqlNfvZOKwtlHWjIIRxCT5hi4b6zErvbhXXMLnPQ",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_medium"
+    }
+  },
+  "skin-1e9229953491_4": {
+    "id": "skin-1e9229953491_4",
+    "skin_id": "skin-1e9229953491",
+    "name": "M4A4 | Tooth Fairy (Battle-Scarred)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Tooth Fairy (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5hSiiljFN-62-Dn96tcCrEaVIiXJp1F7ZZuxPsk9exNLu04AWM391DxCj3iitO8G81tGLkxKms",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_heavy"
+    }
+  },
+  "skin-1e9229953491_0_st": {
+    "id": "skin-1e9229953491_0_st",
+    "skin_id": "skin-1e9229953491",
+    "name": "StatTrak™ M4A4 | Tooth Fairy (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5lRi67gVN35WyDwtv8IC-RblVxCpchQLIOuhK8xNG2YbnktAXZjthFxCiohntP8G81tOVu8Qhw",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_light"
+    }
+  },
+  "skin-1e9229953491_1_st": {
+    "id": "skin-1e9229953491_1_st",
+    "skin_id": "skin-1e9229953491",
+    "name": "StatTrak™ M4A4 | Tooth Fairy (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5lRi67gVN35WyDwtv8IC-RblVxCpchQLIOuhK8xNG2YbnktAXZjthFxCiohntP8G81tOVu8Qhw",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_light"
+    }
+  },
+  "skin-1e9229953491_2_st": {
+    "id": "skin-1e9229953491_2_st",
+    "skin_id": "skin-1e9229953491",
+    "name": "StatTrak™ M4A4 | Tooth Fairy (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5kSi26gBBp4G7dm4qtJ3yTbVMpCcNyFLEJ5xHqlNfvZOKwtlHWjIIRxCT5hi4b6zErvbhXXMLnPQ",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_medium"
+    }
+  },
+  "skin-1e9229953491_3_st": {
+    "id": "skin-1e9229953491_3_st",
+    "skin_id": "skin-1e9229953491",
+    "name": "StatTrak™ M4A4 | Tooth Fairy (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5kSi26gBBp4G7dm4qtJ3yTbVMpCcNyFLEJ5xHqlNfvZOKwtlHWjIIRxCT5hi4b6zErvbhXXMLnPQ",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_medium"
+    }
+  },
+  "skin-1e9229953491_4_st": {
+    "id": "skin-1e9229953491_4_st",
+    "skin_id": "skin-1e9229953491",
+    "name": "StatTrak™ M4A4 | Tooth Fairy (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_queenfairy",
+      "name": "Tooth Fairy"
+    },
+    "min_float": 0,
+    "max_float": 0.73,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "971",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSMeWWC2mWwOdkqd5hSiiljFN-62-Dn96tcCrEaVIiXJp1F7ZZuxPsk9exNLu04AWM391DxCj3iitO8G81tGLkxKms",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_heavy"
+    }
+  },
+  "skin-1aba3ea9ecc5_0": {
+    "id": "skin-1aba3ea9ecc5_0",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "M4A4 | Temukau (Factory New)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Temukau (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF6ueZhW2ewlBtx5W6AmYv9JS6XaAV1CJEmTeUL4UTpxNzjZO3jtgaIjN9ExCuskGoXuRnyRhBA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_light"
+    }
+  },
+  "skin-1aba3ea9ecc5_1": {
+    "id": "skin-1aba3ea9ecc5_1",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "M4A4 | Temukau (Minimal Wear)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Temukau (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF6ueZhW2ewlBtx5W6AmYv9JS6XaAV1CJEmTeUL4UTpxNzjZO3jtgaIjN9ExCuskGoXuRnyRhBA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_light"
+    }
+  },
+  "skin-1aba3ea9ecc5_2": {
+    "id": "skin-1aba3ea9ecc5_2",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "M4A4 | Temukau (Field-Tested)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Temukau (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF7teVgWiT9xxgktm7RnNyqIHmfZwV2XsdwEOYNuxaxmobkZOvl51OMj9lHzCn-jDQJsHjG6ok51w",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_medium"
+    }
+  },
+  "skin-1aba3ea9ecc5_3": {
+    "id": "skin-1aba3ea9ecc5_3",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "M4A4 | Temukau (Well-Worn)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Temukau (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF7teVgWiT9xxgktm7RnNyqIHmfZwV2XsdwEOYNuxaxmobkZOvl51OMj9lHzCn-jDQJsHjG6ok51w",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_medium"
+    }
+  },
+  "skin-1aba3ea9ecc5_4": {
+    "id": "skin-1aba3ea9ecc5_4",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "M4A4 | Temukau (Battle-Scarred)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Temukau (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF-teB_Vmfrl0Ql5j6AntegIinGbQ51A8MmTe4MukLplYflZbnn5ATe3d5GmH73kGoXuZku8dEc",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_heavy"
+    }
+  },
+  "skin-1aba3ea9ecc5_0_st": {
+    "id": "skin-1aba3ea9ecc5_0_st",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "StatTrak™ M4A4 | Temukau (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Temukau (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF6ueZhW2ewlBtx5W6AmYv9JS6XaAV1CJEmTeUL4UTpxNzjZO3jtgaIjN9ExCuskGoXuRnyRhBA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_light"
+    }
+  },
+  "skin-1aba3ea9ecc5_1_st": {
+    "id": "skin-1aba3ea9ecc5_1_st",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "StatTrak™ M4A4 | Temukau (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Temukau (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF6ueZhW2ewlBtx5W6AmYv9JS6XaAV1CJEmTeUL4UTpxNzjZO3jtgaIjN9ExCuskGoXuRnyRhBA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_light"
+    }
+  },
+  "skin-1aba3ea9ecc5_2_st": {
+    "id": "skin-1aba3ea9ecc5_2_st",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "StatTrak™ M4A4 | Temukau (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Temukau (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF7teVgWiT9xxgktm7RnNyqIHmfZwV2XsdwEOYNuxaxmobkZOvl51OMj9lHzCn-jDQJsHjG6ok51w",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_medium"
+    }
+  },
+  "skin-1aba3ea9ecc5_3_st": {
+    "id": "skin-1aba3ea9ecc5_3_st",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "StatTrak™ M4A4 | Temukau (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Temukau (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF7teVgWiT9xxgktm7RnNyqIHmfZwV2XsdwEOYNuxaxmobkZOvl51OMj9lHzCn-jDQJsHjG6ok51w",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_medium"
+    }
+  },
+  "skin-1aba3ea9ecc5_4_st": {
+    "id": "skin-1aba3ea9ecc5_4_st",
+    "skin_id": "skin-1aba3ea9ecc5",
+    "name": "StatTrak™ M4A4 | Temukau (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.\\n\\n<i>\\\"Stand your ground!\\\"</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_temukau",
+      "name": "Temukau"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1228",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Temukau (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF-teB_Vmfrl0Ql5j6AntegIinGbQ51A8MmTe4MukLplYflZbnn5ATe3d5GmH73kGoXuZku8dEc",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_temukau_heavy"
+    }
+  },
+  "skin-e7d48237eb0f_0": {
+    "id": "skin-e7d48237eb0f_0",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "M4A4 | Hellish (Factory New)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Hellish (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5lRi67gVMj5W_VyNb7Ii-TPFdxCpskQOMDsEOxxNHgYb-xswKKgo8WyH2t3X9J8G81tMARX_8e",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_light"
+    }
+  },
+  "skin-e7d48237eb0f_1": {
+    "id": "skin-e7d48237eb0f_1",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "M4A4 | Hellish (Minimal Wear)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Hellish (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5lRi67gVMj5W_VyNb7Ii-TPFdxCpskQOMDsEOxxNHgYb-xswKKgo8WyH2t3X9J8G81tMARX_8e",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_light"
+    }
+  },
+  "skin-e7d48237eb0f_2": {
+    "id": "skin-e7d48237eb0f_2",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "M4A4 | Hellish (Field-Tested)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Hellish (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5kSi26gBBp5GrVz92vc3iQaQ4kWMZ0R-ADtxa4xtblZr7q7lbfjIsUyir7iXtIvTErvbh1q_vGrg",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_medium"
+    }
+  },
+  "skin-e7d48237eb0f_3": {
+    "id": "skin-e7d48237eb0f_3",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "M4A4 | Hellish (Well-Worn)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Hellish (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5kSi26gBBp5GrVz92vc3iQaQ4kWMZ0R-ADtxa4xtblZr7q7lbfjIsUyir7iXtIvTErvbh1q_vGrg",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_medium"
+    }
+  },
+  "skin-e7d48237eb0f_4": {
+    "id": "skin-e7d48237eb0f_4",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "M4A4 | Hellish (Battle-Scarred)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Hellish (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5hSiiljFMht2zTmYureX2SaFInDMYiReUOuxi_k93kZr607gHdj4pNz333iSJJ8G81tLD11n5R",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_heavy"
+    }
+  },
+  "skin-e7d48237eb0f_0_so": {
+    "id": "skin-e7d48237eb0f_0_so",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "Souvenir M4A4 | Hellish (Factory New)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Souvenir M4A4 | Hellish (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5lRi67gVMj5W_VyNb7Ii-TPFdxCpskQOMDsEOxxNHgYb-xswKKgo8WyH2t3X9J8G81tMARX_8e",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_light"
+    }
+  },
+  "skin-e7d48237eb0f_1_so": {
+    "id": "skin-e7d48237eb0f_1_so",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "Souvenir M4A4 | Hellish (Minimal Wear)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Souvenir M4A4 | Hellish (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5lRi67gVMj5W_VyNb7Ii-TPFdxCpskQOMDsEOxxNHgYb-xswKKgo8WyH2t3X9J8G81tMARX_8e",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_light"
+    }
+  },
+  "skin-e7d48237eb0f_2_so": {
+    "id": "skin-e7d48237eb0f_2_so",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "Souvenir M4A4 | Hellish (Field-Tested)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Souvenir M4A4 | Hellish (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5kSi26gBBp5GrVz92vc3iQaQ4kWMZ0R-ADtxa4xtblZr7q7lbfjIsUyir7iXtIvTErvbh1q_vGrg",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_medium"
+    }
+  },
+  "skin-e7d48237eb0f_3_so": {
+    "id": "skin-e7d48237eb0f_3_so",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "Souvenir M4A4 | Hellish (Well-Worn)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Souvenir M4A4 | Hellish (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5kSi26gBBp5GrVz92vc3iQaQ4kWMZ0R-ADtxa4xtblZr7q7lbfjIsUyir7iXtIvTErvbh1q_vGrg",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_medium"
+    }
+  },
+  "skin-e7d48237eb0f_4_so": {
+    "id": "skin-e7d48237eb0f_4_so",
+    "skin_id": "skin-e7d48237eb0f",
+    "name": "Souvenir M4A4 | Hellish (Battle-Scarred)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with orange and yellow flames over a black glitter base.\\n\\n<i>Like hell...</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_m4a4_train_hell",
+      "name": "Hellish"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1209",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "Souvenir M4A4 | Hellish (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNOKSB2mvyet6vN5hSiiljFMht2zTmYureX2SaFInDMYiReUOuxi_k93kZr607gHdj4pNz333iSJJ8G81tLD11n5R",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_m4a4_train_hell_heavy"
+    }
+  },
+  "skin-ad324799f97c_0": {
+    "id": "skin-ad324799f97c_0",
+    "skin_id": "skin-ad324799f97c",
+    "name": "M4A4 | Poseidon (Factory New)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a depiction of a battle between Pisces and Poseidon.\\n\\n<i>Three can keep a secret if two of them are dead</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_poseidon",
+      "name": "Poseidon"
+    },
+    "min_float": 0,
+    "max_float": 0.33,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "449",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Poseidon (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OKhe6FkJP-dMWuZxuZi_uM9Sn23xkx_sG3VyNyqcnnFZgchDMYjQuMJtRHuw9PvZuPjtlCI3d9bjXKpHL2aoaM",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_poseidon_light"
+    }
+  },
+  "skin-ad324799f97c_1": {
+    "id": "skin-ad324799f97c_1",
+    "skin_id": "skin-ad324799f97c",
+    "name": "M4A4 | Poseidon (Minimal Wear)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a depiction of a battle between Pisces and Poseidon.\\n\\n<i>Three can keep a secret if two of them are dead</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_poseidon",
+      "name": "Poseidon"
+    },
+    "min_float": 0,
+    "max_float": 0.33,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "449",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Poseidon (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OKhe6FkJP-dMWuZxuZi_uM9Sn23xkx_sG3VyNyqcnnFZgchDMYjQuMJtRHuw9PvZuPjtlCI3d9bjXKpHL2aoaM",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_poseidon_light"
+    }
+  },
+  "skin-ad324799f97c_2": {
+    "id": "skin-ad324799f97c_2",
+    "skin_id": "skin-ad324799f97c",
+    "name": "M4A4 | Poseidon (Field-Tested)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a depiction of a battle between Pisces and Poseidon.\\n\\n<i>Three can keep a secret if two of them are dead</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_poseidon",
+      "name": "Poseidon"
+    },
+    "min_float": 0,
+    "max_float": 0.33,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "449",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "M4A4 | Poseidon (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OKhe6FkJP-dMWqVxedjva85GCvlxkxy52SHz9ioJy2eaAcjA8d3RbMM5xXpk4buYu6z4VeK3YlC02yg2Z1-v5Pf",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_poseidon_medium"
+    }
+  },
+  "skin-e3516262b49a_0": {
+    "id": "skin-e3516262b49a_0",
+    "skin_id": "skin-e3516262b49a",
+    "name": "M4A4 | Desert-Strike (Factory New)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Desert-Strike (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvzedxuPUnHnjnxEsi4WTTntqucnuUaA92CZR2E-IDtRa-mobnYeLksQbXg4hDyTK-0H1Bbz5yqg",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_light"
+    }
+  },
+  "skin-e3516262b49a_1": {
+    "id": "skin-e3516262b49a_1",
+    "skin_id": "skin-e3516262b49a",
+    "name": "M4A4 | Desert-Strike (Minimal Wear)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Desert-Strike (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvzedxuPUnHnjnxEsi4WTTntqucnuUaA92CZR2E-IDtRa-mobnYeLksQbXg4hDyTK-0H1Bbz5yqg",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_light"
+    }
+  },
+  "skin-e3516262b49a_2": {
+    "id": "skin-e3516262b49a_2",
+    "skin_id": "skin-e3516262b49a",
+    "name": "M4A4 | Desert-Strike (Field-Tested)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Desert-Strike (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvzOtyufRkAXrmxkx1sTiHz92pdn2SbwN0A8Z2FuZbuxPsk9S0Mrzm4AXbiIgQmy7gznQep5RNmuk",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_medium"
+    }
+  },
+  "skin-e3516262b49a_3": {
+    "id": "skin-e3516262b49a_3",
+    "skin_id": "skin-e3516262b49a",
+    "name": "M4A4 | Desert-Strike (Well-Worn)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Desert-Strike (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvzOtyufRkAXrmxkx1sTiHz92pdn2SbwN0A8Z2FuZbuxPsk9S0Mrzm4AXbiIgQmy7gznQep5RNmuk",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_medium"
+    }
+  },
+  "skin-e3516262b49a_4": {
+    "id": "skin-e3516262b49a_4",
+    "skin_id": "skin-e3516262b49a",
+    "name": "M4A4 | Desert-Strike (Battle-Scarred)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | Desert-Strike (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvyet3pvgnSiy1wU8ksTmBy9ygciiVPw8gAsRxTO4C40awxIDhYujj5wPZ2Y9MmzK-0H2g61exZA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_heavy"
+    }
+  },
+  "skin-e3516262b49a_0_st": {
+    "id": "skin-e3516262b49a_0_st",
+    "skin_id": "skin-e3516262b49a",
+    "name": "StatTrak™ M4A4 | Desert-Strike (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvzedxuPUnHnjnxEsi4WTTntqucnuUaA92CZR2E-IDtRa-mobnYeLksQbXg4hDyTK-0H1Bbz5yqg",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_light"
+    }
+  },
+  "skin-e3516262b49a_1_st": {
+    "id": "skin-e3516262b49a_1_st",
+    "skin_id": "skin-e3516262b49a",
+    "name": "StatTrak™ M4A4 | Desert-Strike (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvzedxuPUnHnjnxEsi4WTTntqucnuUaA92CZR2E-IDtRa-mobnYeLksQbXg4hDyTK-0H1Bbz5yqg",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_light"
+    }
+  },
+  "skin-e3516262b49a_2_st": {
+    "id": "skin-e3516262b49a_2_st",
+    "skin_id": "skin-e3516262b49a",
+    "name": "StatTrak™ M4A4 | Desert-Strike (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvzOtyufRkAXrmxkx1sTiHz92pdn2SbwN0A8Z2FuZbuxPsk9S0Mrzm4AXbiIgQmy7gznQep5RNmuk",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_medium"
+    }
+  },
+  "skin-e3516262b49a_3_st": {
+    "id": "skin-e3516262b49a_3_st",
+    "skin_id": "skin-e3516262b49a",
+    "name": "StatTrak™ M4A4 | Desert-Strike (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvzOtyufRkAXrmxkx1sTiHz92pdn2SbwN0A8Z2FuZbuxPsk9S0Mrzm4AXbiIgQmy7gznQep5RNmuk",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_medium"
+    }
+  },
+  "skin-e3516262b49a_4_st": {
+    "id": "skin-e3516262b49a_4_st",
+    "skin_id": "skin-e3516262b49a",
+    "name": "StatTrak™ M4A4 | Desert-Strike (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_titanstorm",
+      "name": "Desert-Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "336",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OanfKVjM-ScHGqvyet3pvgnSiy1wU8ksTmBy9ygciiVPw8gAsRxTO4C40awxIDhYujj5wPZ2Y9MmzK-0H2g61exZA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_titanstorm_heavy"
+    }
+  },
+  "skin-ea15a4e5483d_0": {
+    "id": "skin-ea15a4e5483d_0",
+    "skin_id": "skin-ea15a4e5483d",
+    "name": "M4A4 | X-Ray (Factory New)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom painted M4 showing its internals with an X-Ray",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_xray_m4",
+      "name": "X-Ray"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "215",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | X-Ray (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0Oq8ab1SLaSsAm6Xyfo46LAxTHrgxU8lt2WHmNf7cS-Ub1JxDpQkQecO40OwxN2yZbvg41DciJUFk3vXysuZ3Q",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_xray_m4_light"
+    }
+  },
+  "skin-ea15a4e5483d_1": {
+    "id": "skin-ea15a4e5483d_1",
+    "skin_id": "skin-ea15a4e5483d",
+    "name": "M4A4 | X-Ray (Minimal Wear)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom painted M4 showing its internals with an X-Ray",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_xray_m4",
+      "name": "X-Ray"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "215",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | X-Ray (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0Oq8ab1SLaSsAm6Xyfo46LAxTHrgxU8lt2WHmNf7cS-Ub1JxDpQkQecO40OwxN2yZbvg41DciJUFk3vXysuZ3Q",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_xray_m4_light"
+    }
+  },
+  "skin-ea15a4e5483d_2": {
+    "id": "skin-ea15a4e5483d_2",
+    "skin_id": "skin-ea15a4e5483d",
+    "name": "M4A4 | X-Ray (Field-Tested)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom painted M4 showing its internals with an X-Ray",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_xray_m4",
+      "name": "X-Ray"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "215",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "M4A4 | X-Ray (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0Oq8ab1SLaSsA2KUyPt7_rE8Hnzgkx9z62-Ay4n_IHrGaQAnX5ZwTeNe5EawlNLuPr_q5geMjoJbjXKpa_DIP24",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_xray_m4_medium"
+    }
+  },
+  "skin-ea15a4e5483d_0_st": {
+    "id": "skin-ea15a4e5483d_0_st",
+    "skin_id": "skin-ea15a4e5483d",
+    "name": "StatTrak™ M4A4 | X-Ray (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom painted M4 showing its internals with an X-Ray",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_xray_m4",
+      "name": "X-Ray"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "215",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | X-Ray (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0Oq8ab1SLaSsAm6Xyfo46LAxTHrgxU8lt2WHmNf7cS-Ub1JxDpQkQecO40OwxN2yZbvg41DciJUFk3vXysuZ3Q",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_xray_m4_light"
+    }
+  },
+  "skin-ea15a4e5483d_1_st": {
+    "id": "skin-ea15a4e5483d_1_st",
+    "skin_id": "skin-ea15a4e5483d",
+    "name": "StatTrak™ M4A4 | X-Ray (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom painted M4 showing its internals with an X-Ray",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_xray_m4",
+      "name": "X-Ray"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "215",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | X-Ray (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0Oq8ab1SLaSsAm6Xyfo46LAxTHrgxU8lt2WHmNf7cS-Ub1JxDpQkQecO40OwxN2yZbvg41DciJUFk3vXysuZ3Q",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_xray_m4_light"
+    }
+  },
+  "skin-ea15a4e5483d_2_st": {
+    "id": "skin-ea15a4e5483d_2_st",
+    "skin_id": "skin-ea15a4e5483d",
+    "name": "StatTrak™ M4A4 | X-Ray (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom painted M4 showing its internals with an X-Ray",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_xray_m4",
+      "name": "X-Ray"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "215",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | X-Ray (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0Oq8ab1SLaSsA2KUyPt7_rE8Hnzgkx9z62-Ay4n_IHrGaQAnX5ZwTeNe5EawlNLuPr_q5geMjoJbjXKpa_DIP24",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_cu_xray_m4_medium"
+    }
+  },
+  "skin-d303b15d1f4f_0": {
+    "id": "skin-d303b15d1f4f_0",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "M4A4 | Spider Lily (Factory New)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "M4A4 | Spider Lily (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvzedxuPUnHXiwlk4lsTvUz477ICiRPw52WJNxROICtxK-wYDhZejm5gCP2I9MzjK-0H1trtkVHA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_light"
+    }
+  },
+  "skin-d303b15d1f4f_1": {
+    "id": "skin-d303b15d1f4f_1",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "M4A4 | Spider Lily (Minimal Wear)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "M4A4 | Spider Lily (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvzedxuPUnHXiwlk4lsTvUz477ICiRPw52WJNxROICtxK-wYDhZejm5gCP2I9MzjK-0H1trtkVHA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_light"
+    }
+  },
+  "skin-d303b15d1f4f_2": {
+    "id": "skin-d303b15d1f4f_2",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "M4A4 | Spider Lily (Field-Tested)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "M4A4 | Spider Lily (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvzOtyufRkASzllE0h5TvXn4v6dHLGPw4kXJoiEOVcsxG4wIG0Nbu371TX2oMTxXjgznQej8mgNU4",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_medium"
+    }
+  },
+  "skin-d303b15d1f4f_3": {
+    "id": "skin-d303b15d1f4f_3",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "M4A4 | Spider Lily (Well-Worn)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "M4A4 | Spider Lily (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvzOtyufRkASzllE0h5TvXn4v6dHLGPw4kXJoiEOVcsxG4wIG0Nbu371TX2oMTxXjgznQej8mgNU4",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_medium"
+    }
+  },
+  "skin-d303b15d1f4f_4": {
+    "id": "skin-d303b15d1f4f_4",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "M4A4 | Spider Lily (Battle-Scarred)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "M4A4 | Spider Lily (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvyet3pvgnGXy1kEp34TmHmYuodn-TalIgCpp4RLRf5kKxm9fgZe625gHYjo5GzTK-0H3FWRLm1w",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_heavy"
+    }
+  },
+  "skin-d303b15d1f4f_0_st": {
+    "id": "skin-d303b15d1f4f_0_st",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "StatTrak™ M4A4 | Spider Lily (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Spider Lily (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvzedxuPUnHXiwlk4lsTvUz477ICiRPw52WJNxROICtxK-wYDhZejm5gCP2I9MzjK-0H1trtkVHA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_light"
+    }
+  },
+  "skin-d303b15d1f4f_1_st": {
+    "id": "skin-d303b15d1f4f_1_st",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "StatTrak™ M4A4 | Spider Lily (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Spider Lily (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvzedxuPUnHXiwlk4lsTvUz477ICiRPw52WJNxROICtxK-wYDhZejm5gCP2I9MzjK-0H1trtkVHA",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_light"
+    }
+  },
+  "skin-d303b15d1f4f_2_st": {
+    "id": "skin-d303b15d1f4f_2_st",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "StatTrak™ M4A4 | Spider Lily (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Spider Lily (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvzOtyufRkASzllE0h5TvXn4v6dHLGPw4kXJoiEOVcsxG4wIG0Nbu371TX2oMTxXjgznQej8mgNU4",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_medium"
+    }
+  },
+  "skin-d303b15d1f4f_3_st": {
+    "id": "skin-d303b15d1f4f_3_st",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "StatTrak™ M4A4 | Spider Lily (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Spider Lily (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvzOtyufRkASzllE0h5TvXn4v6dHLGPw4kXJoiEOVcsxG4wIG0Nbu371TX2oMTxXjgznQej8mgNU4",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_medium"
+    }
+  },
+  "skin-d303b15d1f4f_4_st": {
+    "id": "skin-d303b15d1f4f_4_st",
+    "skin_id": "skin-d303b15d1f4f",
+    "name": "StatTrak™ M4A4 | Spider Lily (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a dark blue base and red spider lilies above the magazine and trigger.\\n\\n<i>Bright colors are a warning, not an invitation</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4_flowers",
+      "name": "Spider Lily"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1097",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ M4A4 | Spider Lily (Battle-Scarred)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6V6JhL-eWHHSvyet3pvgnGXy1kEp34TmHmYuodn-TalIgCpp4RLRf5kKxm9fgZe625gHYjo5GzTK-0H3FWRLm1w",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4_flowers_heavy"
+    }
+  },
+  "skin-a5017daf162c_0": {
+    "id": "skin-a5017daf162c_0",
+    "skin_id": "skin-a5017daf162c",
+    "name": "M4A4 | Magnesium (Factory New)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been hand painted with flames and a winged defuser in white atop a dark grey base.\\n\\n<i>For those who live fast</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4a4_chopper_ghost",
+      "name": "Magnesium"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "811",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "M4A4 | Magnesium (Factory New)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6afBSI_icHneV09FxuO56Wxa_nBovp3OAzo2vdHPFPFUmCJRxRbNZ4xewx9W1Nb7j4gzXg99Ayy73iC1Aun1q_a9cBiEfMG3G",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4a4_chopper_ghost_light"
+    }
+  },
+  "skin-a5017daf162c_1": {
+    "id": "skin-a5017daf162c_1",
+    "skin_id": "skin-a5017daf162c",
+    "name": "M4A4 | Magnesium (Minimal Wear)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been hand painted with flames and a winged defuser in white atop a dark grey base.\\n\\n<i>For those who live fast</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4a4_chopper_ghost",
+      "name": "Magnesium"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "811",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "M4A4 | Magnesium (Minimal Wear)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6afBSI_icHneV09FxuO56Wxa_nBovp3OAzo2vdHPFPFUmCJRxRbNZ4xewx9W1Nb7j4gzXg99Ayy73iC1Aun1q_a9cBiEfMG3G",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4a4_chopper_ghost_light"
+    }
+  },
+  "skin-a5017daf162c_2": {
+    "id": "skin-a5017daf162c_2",
+    "skin_id": "skin-a5017daf162c",
+    "name": "M4A4 | Magnesium (Field-Tested)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been hand painted with flames and a winged defuser in white atop a dark grey base.\\n\\n<i>For those who live fast</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4a4_chopper_ghost",
+      "name": "Magnesium"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "811",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "M4A4 | Magnesium (Field-Tested)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6afBSI_icHneV09FxuO56Wxa-kBkupjDLz9iociifaQRzDZJ1FO4P5xPpkoDmM-_qsQCP34hNzyX7jH5Buylv4vFCD_TKZqpzVQ",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4a4_chopper_ghost_medium"
+    }
+  },
+  "skin-a5017daf162c_3": {
+    "id": "skin-a5017daf162c_3",
+    "skin_id": "skin-a5017daf162c",
+    "name": "M4A4 | Magnesium (Well-Worn)",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been hand painted with flames and a winged defuser in white atop a dark grey base.\\n\\n<i>For those who live fast</i>",
+    "weapon": {
+      "id": "weapon_m4a1",
+      "weapon_id": 16,
+      "name": "M4A4"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_m4a4_chopper_ghost",
+      "name": "Magnesium"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "811",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "M4A4 | Magnesium (Well-Worn)",
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "style": {
+      "id": 9,
+      "name": "Gunsmith",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6afBSI_icHneV09FxuO56Wxa-kBkupjDLz9iociifaQRzDZJ1FO4P5xPpkoDmM-_qsQCP34hNzyX7jH5Buylv4vFCD_TKZqpzVQ",
+    "original": {
+      "name": "weapon_m4a1",
+      "image_inventory": "econ/default_generated/weapon_m4a1_gs_m4a4_chopper_ghost_medium"
+    }
+  }
+}

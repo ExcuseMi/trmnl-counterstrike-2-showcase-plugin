@@ -1,0 +1,3089 @@
+{
+  "skin-f787cc672771_4_st": {
+    "id": "skin-f787cc672771_4_st",
+    "skin_id": "skin-f787cc672771",
+    "name": "StatTrak™ AWP | Hyper Beast (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with a beastly creature in psychedelic colors.\\n\\n<i>You really want to impress me Booth? Make this black light sensitive - Rona Sabri, Rising Star</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_hyper_beast",
+      "name": "Hyper Beast"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "475",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Hyper Beast (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6x0MPWBMWWVwP1ij-lsTj-q2xshtWXVyN76eX-fOgF2XJN4TOdetUTtxtThNb6x4wGLiY0TzH78hn5XrnE82uKZ8n8",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_hyper_beast_heavy"
+    }
+  },
+  "skin-f2cdadd8b557_0": {
+    "id": "skin-f2cdadd8b557_0",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "AWP | Elite Build (Factory New)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Elite Build (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vzedxuPUnSnHmk0Qh4G6HmN-scXmSaQRxXJpwRuZYsxTqxtTnM7nl4gTW2dlFyjK-0H0d8XeEBg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_light"
+    }
+  },
+  "skin-f2cdadd8b557_1": {
+    "id": "skin-f2cdadd8b557_1",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "AWP | Elite Build (Minimal Wear)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Elite Build (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vzedxuPUnSnHmk0Qh4G6HmN-scXmSaQRxXJpwRuZYsxTqxtTnM7nl4gTW2dlFyjK-0H0d8XeEBg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_light"
+    }
+  },
+  "skin-f2cdadd8b557_2": {
+    "id": "skin-f2cdadd8b557_2",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "AWP | Elite Build (Field-Tested)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Elite Build (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vzOtyufRkAXnjzRx15WrWmd37JC7FZgEoCsFzFOQM4UHqm4a0YrnrtAXWg4IUmyTgznQe9p8sU8k",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_medium"
+    }
+  },
+  "skin-f2cdadd8b557_3": {
+    "id": "skin-f2cdadd8b557_3",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "AWP | Elite Build (Well-Worn)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Elite Build (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vzOtyufRkAXnjzRx15WrWmd37JC7FZgEoCsFzFOQM4UHqm4a0YrnrtAXWg4IUmyTgznQe9p8sU8k",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_medium"
+    }
+  },
+  "skin-f2cdadd8b557_4": {
+    "id": "skin-f2cdadd8b557_4",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "AWP | Elite Build (Battle-Scarred)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Elite Build (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vyet3pvgnGX7glBxz42WAnN_9eHqSbVMnCsNwReVethm5kILjNe205QzW2dhEyDK-0H0K27hBOQ",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_heavy"
+    }
+  },
+  "skin-f2cdadd8b557_0_st": {
+    "id": "skin-f2cdadd8b557_0_st",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "StatTrak™ AWP | Elite Build (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Elite Build (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vzedxuPUnSnHmk0Qh4G6HmN-scXmSaQRxXJpwRuZYsxTqxtTnM7nl4gTW2dlFyjK-0H0d8XeEBg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_light"
+    }
+  },
+  "skin-f2cdadd8b557_1_st": {
+    "id": "skin-f2cdadd8b557_1_st",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "StatTrak™ AWP | Elite Build (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Elite Build (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vzedxuPUnSnHmk0Qh4G6HmN-scXmSaQRxXJpwRuZYsxTqxtTnM7nl4gTW2dlFyjK-0H0d8XeEBg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_light"
+    }
+  },
+  "skin-f2cdadd8b557_2_st": {
+    "id": "skin-f2cdadd8b557_2_st",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "StatTrak™ AWP | Elite Build (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Elite Build (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vzOtyufRkAXnjzRx15WrWmd37JC7FZgEoCsFzFOQM4UHqm4a0YrnrtAXWg4IUmyTgznQe9p8sU8k",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_medium"
+    }
+  },
+  "skin-f2cdadd8b557_3_st": {
+    "id": "skin-f2cdadd8b557_3_st",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "StatTrak™ AWP | Elite Build (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Elite Build (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vzOtyufRkAXnjzRx15WrWmd37JC7FZgEoCsFzFOQM4UHqm4a0YrnrtAXWg4IUmyTgznQe9p8sU8k",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_medium"
+    }
+  },
+  "skin-f2cdadd8b557_4_st": {
+    "id": "skin-f2cdadd8b557_4_st",
+    "skin_id": "skin-f2cdadd8b557",
+    "name": "StatTrak™ AWP | Elite Build (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_mastery",
+      "name": "Elite Build"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "525",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Elite Build (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6lsM-SWHH6vyet3pvgnGX7glBxz42WAnN_9eHqSbVMnCsNwReVethm5kILjNe205QzW2dhEyDK-0H0K27hBOQ",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_mastery_heavy"
+    }
+  },
+  "skin-7b1ef066823d_0": {
+    "id": "skin-7b1ef066823d_0",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "AWP | Neo-Noir (Factory New)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Neo-Noir (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzedxuPUnHirrxR4l423SyI39I3KXPwdxWZclQeNZ5EXskYfnNeyw71OMi9lNzDK-0H3r66pOTw",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_light"
+    }
+  },
+  "skin-7b1ef066823d_1": {
+    "id": "skin-7b1ef066823d_1",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "AWP | Neo-Noir (Minimal Wear)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Neo-Noir (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzedxuPUnHirrxR4l423SyI39I3KXPwdxWZclQeNZ5EXskYfnNeyw71OMi9lNzDK-0H3r66pOTw",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_light"
+    }
+  },
+  "skin-7b1ef066823d_2": {
+    "id": "skin-7b1ef066823d_2",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "AWP | Neo-Noir (Field-Tested)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Neo-Noir (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzOtyufRkAS3rwE4h5D-Am939eXrGa1d1DJMlRe8Dshi-ltPvNbjr5AfWiIhHyX3gznQey5gGLwk",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_medium"
+    }
+  },
+  "skin-7b1ef066823d_3": {
+    "id": "skin-7b1ef066823d_3",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "AWP | Neo-Noir (Well-Worn)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Neo-Noir (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzOtyufRkAS3rwE4h5D-Am939eXrGa1d1DJMlRe8Dshi-ltPvNbjr5AfWiIhHyX3gznQey5gGLwk",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_medium"
+    }
+  },
+  "skin-7b1ef066823d_4": {
+    "id": "skin-7b1ef066823d_4",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "AWP | Neo-Noir (Battle-Scarred)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Neo-Noir (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3Wvyet3pvgnSn-wzUhx5jmGz976eC-XbAMpDcQiRuYKsBa6ldfuMuq351Hd2IMQyzK-0H2Gh4bBEw",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_heavy"
+    }
+  },
+  "skin-7b1ef066823d_0_st": {
+    "id": "skin-7b1ef066823d_0_st",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "StatTrak™ AWP | Neo-Noir (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Neo-Noir (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzedxuPUnHirrxR4l423SyI39I3KXPwdxWZclQeNZ5EXskYfnNeyw71OMi9lNzDK-0H3r66pOTw",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_light"
+    }
+  },
+  "skin-7b1ef066823d_1_st": {
+    "id": "skin-7b1ef066823d_1_st",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "StatTrak™ AWP | Neo-Noir (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Neo-Noir (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzedxuPUnHirrxR4l423SyI39I3KXPwdxWZclQeNZ5EXskYfnNeyw71OMi9lNzDK-0H3r66pOTw",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_light"
+    }
+  },
+  "skin-7b1ef066823d_2_st": {
+    "id": "skin-7b1ef066823d_2_st",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "StatTrak™ AWP | Neo-Noir (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Neo-Noir (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzOtyufRkAS3rwE4h5D-Am939eXrGa1d1DJMlRe8Dshi-ltPvNbjr5AfWiIhHyX3gznQey5gGLwk",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_medium"
+    }
+  },
+  "skin-7b1ef066823d_3_st": {
+    "id": "skin-7b1ef066823d_3_st",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "StatTrak™ AWP | Neo-Noir (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Neo-Noir (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzOtyufRkAS3rwE4h5D-Am939eXrGa1d1DJMlRe8Dshi-ltPvNbjr5AfWiIhHyX3gznQey5gGLwk",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_medium"
+    }
+  },
+  "skin-7b1ef066823d_4_st": {
+    "id": "skin-7b1ef066823d_4_st",
+    "skin_id": "skin-7b1ef066823d",
+    "name": "StatTrak™ AWP | Neo-Noir (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\\n\\n<i>\\\"They took comfort in each other's despair\\\"</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_neonoir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "803",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Neo-Noir (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3Wvyet3pvgnSn-wzUhx5jmGz976eC-XbAMpDcQiRuYKsBa6ldfuMuq351Hd2IMQyzK-0H2Gh4bBEw",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_neonoir_heavy"
+    }
+  },
+  "skin-d85f6159fe4a_0": {
+    "id": "skin-d85f6159fe4a_0",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "AWP | Fever Dream (Factory New)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Fever Dream (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJvOhuRz39kE1w4jiAzNiod3qTOgcgXpAlQ-ML5hjqxtHjZOrrtlHWit9EyCj9iDQJsHhCZP-wUg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_light"
+    }
+  },
+  "skin-d85f6159fe4a_1": {
+    "id": "skin-d85f6159fe4a_1",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "AWP | Fever Dream (Minimal Wear)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Fever Dream (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJvOhuRz39kE1w4jiAzNiod3qTOgcgXpAlQ-ML5hjqxtHjZOrrtlHWit9EyCj9iDQJsHhCZP-wUg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_light"
+    }
+  },
+  "skin-d85f6159fe4a_2": {
+    "id": "skin-d85f6159fe4a_2",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "AWP | Fever Dream (Field-Tested)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Fever Dream (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJveRtRjy-2xsk626DzdesdiqQbVIgWMZ5QrIDsxnrwNTkPurg5AeKiN0Xyir8iypXrnE800aE0Zs",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_medium"
+    }
+  },
+  "skin-d85f6159fe4a_3": {
+    "id": "skin-d85f6159fe4a_3",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "AWP | Fever Dream (Well-Worn)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Fever Dream (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJveRtRjy-2xsk626DzdesdiqQbVIgWMZ5QrIDsxnrwNTkPurg5AeKiN0Xyir8iypXrnE800aE0Zs",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_medium"
+    }
+  },
+  "skin-d85f6159fe4a_4": {
+    "id": "skin-d85f6159fe4a_4",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "AWP | Fever Dream (Battle-Scarred)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "AWP | Fever Dream (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJuORoWTD9w0QltjjXwt_8d3iVbwIgCcF1QeYLuxKww9KyZOnm4ALWg4wQniiq2jQJsHhLDc973A",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_heavy"
+    }
+  },
+  "skin-d85f6159fe4a_0_st": {
+    "id": "skin-d85f6159fe4a_0_st",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "StatTrak™ AWP | Fever Dream (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Fever Dream (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJvOhuRz39kE1w4jiAzNiod3qTOgcgXpAlQ-ML5hjqxtHjZOrrtlHWit9EyCj9iDQJsHhCZP-wUg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_light"
+    }
+  },
+  "skin-d85f6159fe4a_1_st": {
+    "id": "skin-d85f6159fe4a_1_st",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "StatTrak™ AWP | Fever Dream (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Fever Dream (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJvOhuRz39kE1w4jiAzNiod3qTOgcgXpAlQ-ML5hjqxtHjZOrrtlHWit9EyCj9iDQJsHhCZP-wUg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_light"
+    }
+  },
+  "skin-d85f6159fe4a_2_st": {
+    "id": "skin-d85f6159fe4a_2_st",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "StatTrak™ AWP | Fever Dream (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Fever Dream (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJveRtRjy-2xsk626DzdesdiqQbVIgWMZ5QrIDsxnrwNTkPurg5AeKiN0Xyir8iypXrnE800aE0Zs",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_medium"
+    }
+  },
+  "skin-d85f6159fe4a_3_st": {
+    "id": "skin-d85f6159fe4a_3_st",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "StatTrak™ AWP | Fever Dream (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Fever Dream (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJveRtRjy-2xsk626DzdesdiqQbVIgWMZ5QrIDsxnrwNTkPurg5AeKiN0Xyir8iypXrnE800aE0Zs",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_medium"
+    }
+  },
+  "skin-d85f6159fe4a_4_st": {
+    "id": "skin-d85f6159fe4a_4_st",
+    "skin_id": "skin-d85f6159fe4a",
+    "name": "StatTrak™ AWP | Fever Dream (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with pink, blue, and purple drawings atop a black base.\\n\\n<i>Delirium is a dangerous thing</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_psychopath",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "640",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ AWP | Fever Dream (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJuORoWTD9w0QltjjXwt_8d3iVbwIgCcF1QeYLuxKww9KyZOnm4ALWg4wQniiq2jQJsHhLDc973A",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_psychopath_heavy"
+    }
+  },
+  "skin-29f83d73bb6a_0": {
+    "id": "skin-29f83d73bb6a_0",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "AWP | Capillary (Factory New)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "AWP | Capillary (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sAm6Xyfo44bE5HSrmlx5z4GTUzt__I3yebQAgA8R3FuFfsBTqx9W2Y7vq5lbfjZUFk3ugIlCuqg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_light"
+    }
+  },
+  "skin-29f83d73bb6a_1": {
+    "id": "skin-29f83d73bb6a_1",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "AWP | Capillary (Minimal Wear)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "AWP | Capillary (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sAm6Xyfo44bE5HSrmlx5z4GTUzt__I3yebQAgA8R3FuFfsBTqx9W2Y7vq5lbfjZUFk3ugIlCuqg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_light"
+    }
+  },
+  "skin-29f83d73bb6a_2": {
+    "id": "skin-29f83d73bb6a_2",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "AWP | Capillary (Field-Tested)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "AWP | Capillary (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sA2KUyPt7_uU6Hijnxxkj62XVmdb8cnuRawEoXsEjFu8P4EPsm4G2Pu3r4QfW3olbjXKpPMTi5z4",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_medium"
+    }
+  },
+  "skin-29f83d73bb6a_3": {
+    "id": "skin-29f83d73bb6a_3",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "AWP | Capillary (Well-Worn)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "AWP | Capillary (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sA2KUyPt7_uU6Hijnxxkj62XVmdb8cnuRawEoXsEjFu8P4EPsm4G2Pu3r4QfW3olbjXKpPMTi5z4",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_medium"
+    }
+  },
+  "skin-29f83d73bb6a_4": {
+    "id": "skin-29f83d73bb6a_4",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "AWP | Capillary (Battle-Scarred)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "AWP | Capillary (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sBmKR1_c4tbM_SXzml0gltjjVwoyreHPCbQZ0WMN4EOJb4RjrkdflNOPq71SLjpUFk3s_6ARfpQ",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_heavy"
+    }
+  },
+  "skin-29f83d73bb6a_0_st": {
+    "id": "skin-29f83d73bb6a_0_st",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "StatTrak™ AWP | Capillary (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Capillary (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sAm6Xyfo44bE5HSrmlx5z4GTUzt__I3yebQAgA8R3FuFfsBTqx9W2Y7vq5lbfjZUFk3ugIlCuqg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_light"
+    }
+  },
+  "skin-29f83d73bb6a_1_st": {
+    "id": "skin-29f83d73bb6a_1_st",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "StatTrak™ AWP | Capillary (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Capillary (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sAm6Xyfo44bE5HSrmlx5z4GTUzt__I3yebQAgA8R3FuFfsBTqx9W2Y7vq5lbfjZUFk3ugIlCuqg",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_light"
+    }
+  },
+  "skin-29f83d73bb6a_2_st": {
+    "id": "skin-29f83d73bb6a_2_st",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "StatTrak™ AWP | Capillary (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Capillary (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sA2KUyPt7_uU6Hijnxxkj62XVmdb8cnuRawEoXsEjFu8P4EPsm4G2Pu3r4QfW3olbjXKpPMTi5z4",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_medium"
+    }
+  },
+  "skin-29f83d73bb6a_3_st": {
+    "id": "skin-29f83d73bb6a_3_st",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "StatTrak™ AWP | Capillary (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Capillary (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sA2KUyPt7_uU6Hijnxxkj62XVmdb8cnuRawEoXsEjFu8P4EPsm4G2Pu3r4QfW3olbjXKpPMTi5z4",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_medium"
+    }
+  },
+  "skin-29f83d73bb6a_4_st": {
+    "id": "skin-29f83d73bb6a_4_st",
+    "skin_id": "skin-29f83d73bb6a",
+    "name": "StatTrak™ AWP | Capillary (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0.05,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "943",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Capillary (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JoKf6sBmKR1_c4tbM_SXzml0gltjjVwoyreHPCbQZ0WMN4EOJb4RjrkdflNOPq71SLjpUFk3s_6ARfpQ",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_vein_heavy"
+    }
+  },
+  "skin-d6cf8565026b_0": {
+    "id": "skin-d6cf8565026b_0",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "AWP | Atheris (Factory New)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "AWP | Atheris (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMWuZxuZi_rZsS3zgzU8isW3dnIr6eHKfPVAhDpojEe9YsUW4xta1Nuzm5FDci4NbjXKpmWVQppo",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_light"
+    }
+  },
+  "skin-d6cf8565026b_1": {
+    "id": "skin-d6cf8565026b_1",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "AWP | Atheris (Minimal Wear)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "AWP | Atheris (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMWuZxuZi_rZsS3zgzU8isW3dnIr6eHKfPVAhDpojEe9YsUW4xta1Nuzm5FDci4NbjXKpmWVQppo",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_light"
+    }
+  },
+  "skin-d6cf8565026b_2": {
+    "id": "skin-d6cf8565026b_2",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "AWP | Atheris (Field-Tested)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "AWP | Atheris (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMWqVxedjva85Girklhl2sWuAmYusICqWbQJxCcclRe4C4Ba5ldOyYeri7gKLg95E02yg2f7FnVOo",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_medium"
+    }
+  },
+  "skin-d6cf8565026b_3": {
+    "id": "skin-d6cf8565026b_3",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "AWP | Atheris (Well-Worn)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "AWP | Atheris (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMWqVxedjva85Girklhl2sWuAmYusICqWbQJxCcclRe4C4Ba5ldOyYeri7gKLg95E02yg2f7FnVOo",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_medium"
+    }
+  },
+  "skin-d6cf8565026b_4": {
+    "id": "skin-d6cf8565026b_4",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "AWP | Atheris (Battle-Scarred)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "AWP | Atheris (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMW-VwPhv_rJvSn7ilxkj422GyYmoIi_CbQ5yW5J1E-QDtEKxkYWyY-Lm4FHdiopbjXKpfVTg_m8",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_heavy"
+    }
+  },
+  "skin-d6cf8565026b_0_st": {
+    "id": "skin-d6cf8565026b_0_st",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "StatTrak™ AWP | Atheris (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Atheris (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMWuZxuZi_rZsS3zgzU8isW3dnIr6eHKfPVAhDpojEe9YsUW4xta1Nuzm5FDci4NbjXKpmWVQppo",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_light"
+    }
+  },
+  "skin-d6cf8565026b_1_st": {
+    "id": "skin-d6cf8565026b_1_st",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "StatTrak™ AWP | Atheris (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Atheris (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMWuZxuZi_rZsS3zgzU8isW3dnIr6eHKfPVAhDpojEe9YsUW4xta1Nuzm5FDci4NbjXKpmWVQppo",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_light"
+    }
+  },
+  "skin-d6cf8565026b_2_st": {
+    "id": "skin-d6cf8565026b_2_st",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "StatTrak™ AWP | Atheris (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Atheris (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMWqVxedjva85Girklhl2sWuAmYusICqWbQJxCcclRe4C4Ba5ldOyYeri7gKLg95E02yg2f7FnVOo",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_medium"
+    }
+  },
+  "skin-d6cf8565026b_3_st": {
+    "id": "skin-d6cf8565026b_3_st",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "StatTrak™ AWP | Atheris (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Atheris (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMWqVxedjva85Girklhl2sWuAmYusICqWbQJxCcclRe4C4Ba5ldOyYeri7gKLg95E02yg2f7FnVOo",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_medium"
+    }
+  },
+  "skin-d6cf8565026b_4_st": {
+    "id": "skin-d6cf8565026b_4_st",
+    "skin_id": "skin-d6cf8565026b",
+    "name": "StatTrak™ AWP | Atheris (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_viper",
+      "name": "Atheris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "838",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ AWP | Atheris (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMW-VwPhv_rJvSn7ilxkj422GyYmoIi_CbQ5yW5J1E-QDtEKxkYWyY-Lm4FHdiopbjXKpfVTg_m8",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_viper_heavy"
+    }
+  },
+  "skin-f8cd1aa7fa55_0": {
+    "id": "skin-f8cd1aa7fa55_0",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "AWP | Containment Breach (Factory New)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Containment Breach (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMWuZxuZi_rQ6SXq1xURysj_Vw4uhJHOVPQ8oCZt4QrRbtRi6ldPlPu_g4FHaiYNbjXKpcPI_17A",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_light"
+    }
+  },
+  "skin-f8cd1aa7fa55_1": {
+    "id": "skin-f8cd1aa7fa55_1",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "AWP | Containment Breach (Minimal Wear)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Containment Breach (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMWuZxuZi_rQ6SXq1xURysj_Vw4uhJHOVPQ8oCZt4QrRbtRi6ldPlPu_g4FHaiYNbjXKpcPI_17A",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_light"
+    }
+  },
+  "skin-f8cd1aa7fa55_2": {
+    "id": "skin-f8cd1aa7fa55_2",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "AWP | Containment Breach (Field-Tested)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Containment Breach (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMWqVxedjva9vHX-1zUoj4DvWyd-ocX3GPAMnDpNyRucMtBe_moDiN-K34VHeg9lG02yg2eA4_jB5",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_medium"
+    }
+  },
+  "skin-f8cd1aa7fa55_3": {
+    "id": "skin-f8cd1aa7fa55_3",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "AWP | Containment Breach (Well-Worn)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Containment Breach (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMWqVxedjva9vHX-1zUoj4DvWyd-ocX3GPAMnDpNyRucMtBe_moDiN-K34VHeg9lG02yg2eA4_jB5",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_medium"
+    }
+  },
+  "skin-f8cd1aa7fa55_4": {
+    "id": "skin-f8cd1aa7fa55_4",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "AWP | Containment Breach (Battle-Scarred)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Containment Breach (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMW-VwPhv_uNsG3C2xR5-5mvXzYn6dnvEbgclDsd5FucItBa5m4LvMevitgXZi45bjXKpvvwoCqc",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_heavy"
+    }
+  },
+  "skin-f8cd1aa7fa55_0_st": {
+    "id": "skin-f8cd1aa7fa55_0_st",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "StatTrak™ AWP | Containment Breach (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Containment Breach (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMWuZxuZi_rQ6SXq1xURysj_Vw4uhJHOVPQ8oCZt4QrRbtRi6ldPlPu_g4FHaiYNbjXKpcPI_17A",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_light"
+    }
+  },
+  "skin-f8cd1aa7fa55_1_st": {
+    "id": "skin-f8cd1aa7fa55_1_st",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "StatTrak™ AWP | Containment Breach (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Containment Breach (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMWuZxuZi_rQ6SXq1xURysj_Vw4uhJHOVPQ8oCZt4QrRbtRi6ldPlPu_g4FHaiYNbjXKpcPI_17A",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_light"
+    }
+  },
+  "skin-f8cd1aa7fa55_2_st": {
+    "id": "skin-f8cd1aa7fa55_2_st",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "StatTrak™ AWP | Containment Breach (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Containment Breach (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMWqVxedjva9vHX-1zUoj4DvWyd-ocX3GPAMnDpNyRucMtBe_moDiN-K34VHeg9lG02yg2eA4_jB5",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_medium"
+    }
+  },
+  "skin-f8cd1aa7fa55_3_st": {
+    "id": "skin-f8cd1aa7fa55_3_st",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "StatTrak™ AWP | Containment Breach (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Containment Breach (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMWqVxedjva9vHX-1zUoj4DvWyd-ocX3GPAMnDpNyRucMtBe_moDiN-K34VHeg9lG02yg2eA4_jB5",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_medium"
+    }
+  },
+  "skin-f8cd1aa7fa55_4_st": {
+    "id": "skin-f8cd1aa7fa55_4_st",
+    "skin_id": "skin-f8cd1aa7fa55",
+    "name": "StatTrak™ AWP | Containment Breach (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted to depict mutated rats trying to escape a radioactive, neon green forest.\\n\\n<i>Who knows what radioactive diseases they carry…</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_virus",
+      "name": "Containment Breach"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "887",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "StatTrak™ AWP | Containment Breach (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMW-VwPhv_uNsG3C2xR5-5mvXzYn6dnvEbgclDsd5FucItBa5m4LvMevitgXZi45bjXKpvvwoCqc",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_virus_heavy"
+    }
+  },
+  "skin-db4de1c248fa_0": {
+    "id": "skin-db4de1c248fa_0",
+    "skin_id": "skin-db4de1c248fa",
+    "name": "AWP | Wildfire (Factory New)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The Operation Wildfire logo has been hand painted over a black and red base.\\n\\n<i>The nail that sticks out gets the hammer</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_wildfire",
+      "name": "Wildfire"
+    },
+    "min_float": 0.01,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "917",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Wildfire (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7NkLPSVB3WV_uJ_t-l9AX7rxhl-tmzSwomtdC6TPwQnW5UkR-YD5kK-ltCzP-Ox4FfXiNoQyyrgznQeu9L0PzQ",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_wildfire_light"
+    }
+  },
+  "skin-db4de1c248fa_1": {
+    "id": "skin-db4de1c248fa_1",
+    "skin_id": "skin-db4de1c248fa",
+    "name": "AWP | Wildfire (Minimal Wear)",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The Operation Wildfire logo has been hand painted over a black and red base.\\n\\n<i>The nail that sticks out gets the hammer</i>",
+    "weapon": {
+      "id": "weapon_awp",
+      "weapon_id": 9,
+      "name": "AWP"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_awp_wildfire",
+      "name": "Wildfire"
+    },
+    "min_float": 0.01,
+    "max_float": 0.7,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "917",
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "market_hash_name": "AWP | Wildfire (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7NkLPSVB3WV_uJ_t-l9AX7rxhl-tmzSwomtdC6TPwQnW5UkR-YD5kK-ltCzP-Ox4FfXiNoQyyrgznQeu9L0PzQ",
+    "original": {
+      "name": "weapon_awp",
+      "image_inventory": "econ/default_generated/weapon_awp_cu_awp_wildfire_light"
+    }
+  }
+}

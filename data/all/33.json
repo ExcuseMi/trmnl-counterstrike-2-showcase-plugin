@@ -1,0 +1,2493 @@
+{
+  "crate-4288": {
+    "id": "crate-4288",
+    "name": "Glove Case",
+    "description": null,
+    "def_index": "4288",
+    "type": "Case",
+    "first_sale_date": "2016-11-02",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "skin-6f20b68a8c63",
+        "name": "CZ75-Auto | Polymer",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "622",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2tcrI_H_2VMWuZxuZi_rcwSnHjwxgh527SzI6oIHKUZ1dxA8ckTbUCskG6ldTuY-nh5FTf34JbjXKpj6qz0B4"
+      },
+      {
+        "id": "skin-19a7e921eb77",
+        "name": "Glock-18 | Ironwork",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "623",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a_s2pZKtuK8-XD3WbjOh3vO1WQyC0nQlp5jmEmNaodH6VbwMnApshEOcPskOww4e0N-qz5lPZ2YlGyCSviika6zErvbhhWFzqpw"
+      },
+      {
+        "id": "skin-df49957ef56b",
+        "name": "MP7 | Cirrus",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "627",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf-jFk6fugaahSMP-cAmOVwOpg4t5lRi67gVMj5j6Dwtaocy6UOAIgApNyQrQOshS7lIXlMbvqslHfi41Eyi7823xK8G81tHGGql6L"
+      },
+      {
+        "id": "skin-2c0ae1658110",
+        "name": "Galil AR | Black Sand",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "629",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0PG7V6NsLPmfMWaCjO13ve5WQyC0nQlp5T7dzoqpeX3FZ1R2DZd4Qe4CtRS_k9y0Ye7qtQOP2oxAyX73iytK6TErvbi0QhR0PQ"
+      },
+      {
+        "id": "skin-40273e06d839",
+        "name": "MP9 | Sand Scale",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "630",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_CNk5_uqbelgMKmsAm6Xyfo4tuA9TnDrzB5w5GTczo74cnyTblAkWcclRuYIuhXplde2ZePl4FTc2ZUFk3tXKn8xpQ"
+      },
+      {
+        "id": "skin-cc6ec471ea94",
+        "name": "MAG-7 | Sonar",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "633",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0P-vb_NSLfGfCGiCzNF6ueZhW2fgxEol4TnQyo2qd3qTPwQhD5d0F-YPuhHpwNHlZLvi5VTY3dhAy339kGoXufaFAiYQ"
+      },
+      {
+        "id": "skin-d044427dd6f6",
+        "name": "P2000 | Turf",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "635",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PW9V7Q_cKDDQ3SAzvxij-1gSCGn20h14mSByd6vJXmUagQoXpMkQecN40Xsm4DhM-3k4lTY340UxCn53HhXrnE88VIlnLo"
+      },
+      {
+        "id": "skin-54963e630d31",
+        "name": "Dual Berettas | Royal Consorts",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "625",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1c_M2qfaVhH_KWHGKE1e9lj-ZmQy22myIxtjOMmYrGLSLANkI-C5AjFOcM5EaxxtTmPrnl4Q2Ki91Eyyz32y1Luyk44u4LUqEjr_ff3BaBb-MmOWu8Lw"
+      },
+      {
+        "id": "skin-00b8673938d7",
+        "name": "G3SG1 | Stinger",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "628",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1c_M2pO7dqcc-FB3eV09Fvte1lQD6MmRQguynLyo6rdH-RPAZ0D8chQeIL50TukdK2P-_rtFPejN8WmH34jylJvHtq5fFCD_TvHmnxYA"
+      },
+      {
+        "id": "skin-3795f6827a11",
+        "name": "M4A1-S | Flashback",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "631",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL9Jtu1oXCGxlB4sjDGMnYftb3yVPQFyDMB3EbJZ5xC4kNPvMOO35AHW3d1AnC_3iHlNuytqtuYDVfI7uvqAZWXE-YM"
+      },
+      {
+        "id": "skin-b935cdf1da4b",
+        "name": "Nova | Gila",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "634",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwiNW0PyhfqVSM_GdClicyOl-pK8wHnrrwU8hsW2DyoqgeSieblIkDJZwQu8Cs0TultLgP76051SPid9N02yg2S7-0Sao"
+      },
+      {
+        "id": "skin-95653cc7fb0e",
+        "name": "USP-S | Cyrex",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "637",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSI-WsG3SA_u1vouRxcCW6khUz_TjdzdmsJyiTZg8kX8N4ELUP5EPsw9G1YeLn5VTXjY0WxS6rhiIYuCd1o7FV2N83Spg"
+      },
+      {
+        "id": "skin-ea2876c00b6b",
+        "name": "FAMAS | Mecha Industries",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "626",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1c_M2oaalsM8-eC2SYwNF6ueZhW2ewwx4hsm3dz46heSjCPVUjC8chEOYMtxOwkNHiYb63swXY3Y9Nn32skGoXuc3DGOrc"
+      },
+      {
+        "id": "skin-6772919e8e84",
+        "name": "P90 | Shallow Grave",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "636",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf-jFk_6v-V7dlIfyfAXCvxvx3puRWQyC0nQlpsWzUyIqvcCiVPFQnW8YmEO4P5xi6xNS2Num35FbX34lCzX7_hytK5zErvbi02RizsA"
+      },
+      {
+        "id": "skin-9a257b12e3fd",
+        "name": "Sawed-Off | Wasteland Princess",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "638",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2tfZt6MM-AD3CVxeFwtt5lRi67gVMksWuEmduuIH2fPwUkWJojQuMP5xi8lNzlY-234lDag4xFnin_jihN8G81tH9UxALW"
+      },
+      {
+        "id": "skin-318f343e125d",
+        "name": "SSG 08 | Dragonfire",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "624",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1Y-s29e6M9eM-XHGaXzuBwufNscDqwmg0ijDGMnYftbyrFPVAoWcQjELQOuxO4k4e1N-nnsQfW2I5Mz3ivi3wb7Stj5ukAUKY7uvqAqS55_Pw"
+      },
+      {
+        "id": "skin-01d7c60eddbb",
+        "name": "M4A4 | Buzz Kill",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "632",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6afBSM_WQGmiC_uJ_t-l9AX22kBh0tm3Qn92qdS7GPARyW5t0QLQD4xi6w9XkZe3jsgDW3ogUnH3gznQeqfpfmso"
+      }
+    ],
+    "contains_rare": [
+      {
+        "id": "skin-de7d4238a5c9",
+        "name": "★ Bloodhound Gloves | Snakebite",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10007",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnJrv8iZT4OegbJtqLP-FC3Svw-J5v-VhQDy9kSI0vTyOn5zyKCX4PERxSdEfGb5d6lSmkoWzM-Pr4lfZ391Cny_8i38b7n1j4OYEV6ch-PeEjA_EYLNs6ZVQIOHnE0pIw_A_xw"
+      },
+      {
+        "id": "skin-4e17d497a43e",
+        "name": "★ Bloodhound Gloves | Bronzed",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10008",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnJrv8iZT4OegbJtqLP-FC3Svw-J5v-VhQDy9kSIqtimEloPwIhTLN1F4ToxzQ7MM40TswdyxY-Pm71SLj9kQy3-o3HhK5yo94-8FWPV3rKXWj13IL_RjtnXn1Ex6"
+      },
+      {
+        "id": "skin-c9241d03e33b",
+        "name": "★ Bloodhound Gloves | Charred",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10006",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnJrv8iZT4OegbJtqLP-FC3Svw-J5v-VhQDy9kSIlvzyGkbDqKCfRO0RPVssnHaMUsRa5l4buNOzm4FaLjo5AyyT2jyxJvC895r4GU6d3qKaDj12TZOU1t45DeqiL1ak6rA"
+      },
+      {
+        "id": "skin-cd619968abb9",
+        "name": "★ Bloodhound Gloves | Guerrilla",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10039",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnJrv8iZT4OegbJtqLP-FC3Svw-J5v-VhQDy9kSIgpjiXiIb1LSr4Ml93UtZuTO9fsRHukIXmN-u2sVTcjY5Dn3_6h3lB5ipst-oKVKJzqfWBjQrDMqp9v8fjZsxQlg"
+      },
+      {
+        "id": "skin-941014ee5a6e",
+        "name": "★ Driver Gloves | Crimson Weave",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t_JfSsAm6Xyfo46Oc_Si3nxk9x5m6ByYuvcnPGZ1UkWZt1F-RbskK4lNWxNLvm5VGKj5UFk3taaiA0LA"
+      },
+      {
+        "id": "skin-6875abfca574",
+        "name": "★ Driver Gloves | Convoy",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10015",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5tgKfyaGmaC2NF6ueZhW2exkEV35TjUn42qcn2QalQjAsRzRuYJthG8w9bvYr-27lCKgotCmC_5kGoXucFeQ3ir"
+      },
+      {
+        "id": "skin-e8384ee7aa31",
+        "name": "★ Driver Gloves | Lunar Weave",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10013",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5tvLPGQBVicyOl-pK8wHyzgkEoi5T-Ant_4eSqWbQUiXpt2E7MJ4Ri7w9LmMOvl5FaMjYlM02yg2SXHqyW4"
+      },
+      {
+        "id": "skin-52a9a70cdd76",
+        "name": "★ Driver Gloves | Diamondback",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10040",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t-LvGYC3SbyOBJqeRlQyakqhEutDWR1ImqIn3FPQcpDsAlR-EN4BmwktPuM77h5wOMi4hDmXiq234c6Ss4suYcEf1yDBgIyqc"
+      },
+      {
+        "id": "skin-1f6ac4772c2b",
+        "name": "★ Hand Wraps | Slaughter",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10021",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_vxztN56QyimkhUzti-6kor4NzKJb1ApCMF1Q-IDuhG6l4ezMbzm7lSLj95Gmyis3yId73s5sOtXA6Ihq7qX0V98CWoovg"
+      },
+      {
+        "id": "skin-71c8a21234d4",
+        "name": "★ Hand Wraps | Badlands",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10036",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_uh3svNgTBa8hxwptDi6mY70LhTPO1dmQ4xzE-NZuhexldeyZb-xtQLf2ItMzCr-i3hP5nlvse8CUKsn_aLX3g_HL_Rjto7xyDZk"
+      },
+      {
+        "id": "skin-e757fd7191f9",
+        "name": "★ Hand Wraps | Spruce DDPAT",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10010",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_u13ve5WSDu2jCIvtjyTg8GpIHyUOlB2CcdwQOUKs0btx4W0ZbngtgOM2I5Fn3n-iyob6y5p4ucGT-N7rQg4EtBM"
+      },
+      {
+        "id": "skin-fb30d56f4210",
+        "name": "★ Hand Wraps | Leather",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10009",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_uJzsfVhSjuqqhUisiuc1I2gIHmXOwAgXJF1R-NYs0G-m4fnM76wtgTWid5GmC__j35JvSpu5OscEf1yQQiiO2k"
+      },
+      {
+        "id": "skin-510d868c343b",
+        "name": "★ Moto Gloves | Cool Mint",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10028",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJpPNgTie0mRgYsTGQn7D1KCzPKhhzWMR4RLEO4xTqloCyM7i0tFbf3dgQzCz-3ypPvX1tsOZTVaoh-KLQkUifZknjyZK_"
+      },
+      {
+        "id": "skin-b3e2c06aad05",
+        "name": "★ Moto Gloves | Boom!",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10027",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJve5nQBaxmhIqjDGMnYftby-RbFUoX8d0QOJbsBfpltLgYryz41ffjowWmCj_3C4cvH4-6-ZUVqc7uvqAYlGEDh0"
+      },
+      {
+        "id": "skin-a363d8de9765",
+        "name": "★ Moto Gloves | Spearmint",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10026",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJvehnWxanhxQmvTqJn7DxJCrRJxhzWZZ2ROJcsUa5ltexZbjgsgSLi98UzCX9jigf6Htv470GAqEm_aPWkUifZsrSdwA0"
+      },
+      {
+        "id": "skin-d8671b33d6d9",
+        "name": "★ Moto Gloves | Eclipse",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10024",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJsuB6RiqMlxEmsDa6kor4NzKJblQlCJFxRuVetUK-kNaxNumztAXe2tkUzy_6h3sY7Chp5bwCBaRz8rqX0V8A8nSa1Q"
+      },
+      {
+        "id": "skin-5766610447f3",
+        "name": "★ Specialist Gloves | Crimson Kimono",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10033",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJu-hkQCe8qhkusjCKlIvqHjnCOml8U8UoAflZtxCwkdPvP-LltQCMj4lMzC2qiiJJuic-te4FUKcgqfXUjFnFZ-I6_9Bdc7JW0NLH"
+      },
+      {
+        "id": "skin-844038d20265",
+        "name": "★ Specialist Gloves | Emerald Web",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10034",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJtexsXSi_kSIwtj-6lob-KT-JPAElC8QmQOMI4BPrlIWyM-njs1HdiI1Ezn39hntM7Co4srpUWPItqbqX0V-1wZ7Sew"
+      },
+      {
+        "id": "skin-fabc9079a914",
+        "name": "★ Specialist Gloves | Forest DDPAT",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10030",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJtOV5Tj2Mkg8itjO6mY70LhTLN1F4Tox5ROcO4BW9kIGyZLvr4wWIgotEySyv235KvXo65e4BVKp3rvbfjAjCL_Rjtk6lU7Gx"
+      },
+      {
+        "id": "skin-d0749a0d812b",
+        "name": "★ Specialist Gloves | Foundation",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10035",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJv_NoQS62qgovuimApYPwJiPTcFMkDJt2Q-5e5hmwkdLnZb7r4wHbjopNmy32iiwc7Xlt5L4EUaUi8qHJz1aWLtM2Af4"
+      },
+      {
+        "id": "skin-562a47f22d9c",
+        "name": "★ Sport Gloves | Superconductor",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10018",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_yaCW-E_ux6peRWQyC0nQlpt2jVyI2pcHrFOwIkA8RxQ-dYsEXpk9K1MOyxslDcjN4XzySo2iJI7TErvbirYWRUUA"
+      },
+      {
+        "id": "skin-b05ee2bf4f0d",
+        "name": "★ Sport Gloves | Hedge Maze",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10038",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_eBC2Ke_uJ_t-l9AX7lwUtytmjXzdb4IHLEbwYkCpMkReQO4RKxm9fhZe3r4lDf2dlFyHngznQegziTGLs"
+      },
+      {
+        "id": "skin-96fe89fd41f9",
+        "name": "★ Sport Gloves | Arid",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10019",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_2aAm6EwPxvj-1gSCGn2xsh5z7TnNyscHuUbgYoD8FzE-UM4Ri5wIG0MOmztlPdgtkQyyX43SJXrnE8V_Lyt3Y"
+      },
+      {
+        "id": "skin-e506270deff6",
+        "name": "★ Sport Gloves | Pandora's Box",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10037",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H-CGHHecxNF6ueZhW2fklEgm4GXXyY6oeCjCOlIpA5Z3Qe9ctUHrwdTjP-6z41aL349CnCv9kGoXuTdQTyQr"
+      }
+    ],
+    "market_hash_name": "Glove Case",
+    "rental": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHcVuPaoafU1JqiVWWSVkux15OQ8Giiylk0k5mvTnIqpd3PCaQIhWMYkE_lK7EcNeCKW-w",
+    "model_player": "models/props/crates/csgo_drop_crate_glove.vmdl",
+    "loot_list": {
+      "name": "★ Gloves ★",
+      "footer": "or the Exceedingly Rare Gloves!",
+      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/default_rare_item_png.png"
+    },
+    "original": {
+      "item_name": "#CSGO_crate_community_15",
+      "image_inventory": "econ/weapon_cases/crate_community_15"
+    }
+  },
+  "crate-4323": {
+    "id": "crate-4323",
+    "name": "Atlanta 2017 Legends (Holo/Foil)",
+    "description": "This capsule contains a single Atlanta 2017 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4323",
+    "type": "Sticker Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1739",
+        "name": "Astralis (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVj0VQ_Olpns8mwK7qP9OqJsdPLCWDOVwLgltrc-HCzrxUhxtWuDn4mtIHvFag5zA8R4W6dU5bClXV6s"
+      },
+      {
+        "id": "sticker-1751",
+        "name": "Flipsid3 Tactics (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_rSA3Olpns8mwK66D5afRsefXGCmHHkuoj6bA7HXnjwRlytz7cntmsdCqSZldzXsQhW6dU5SR8SdnV"
+      },
+      {
+        "id": "sticker-1755",
+        "name": "Fnatic (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_pVR7Olpns8mxf7vH6PfY6JKfKCjORxbou5bFrHHjmlhtx42jXzNqqci2QagEpW8d0W6dU5aP0NeAY"
+      },
+      {
+        "id": "sticker-1763",
+        "name": "Gambit Gaming (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV7mTB_Olpns8mwPuaX5PqY7IaPHDDLGk7ogsrRsGnvlx0sisW6ByIz9dyjEZlApA8YlW6dU5W1J4x6y"
+      },
+      {
+        "id": "sticker-1779",
+        "name": "Natus Vincere (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfmVxTOlpns8mxevKX9PqU9cPKVXDHImb8n4eA6SnrhlE4ktmnTntuvc3LFZ1ImDZZyW6dU5ZCH35QS"
+      },
+      {
+        "id": "sticker-1791",
+        "name": "SK Gaming (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUrsfhX-kpmu-3ELuaqvafI_c6DHWzaUmLYl4rRqSyjnzUp-tW_Qno37eC-fZ1N2DowwG7DelMUj4w"
+      },
+      {
+        "id": "sticker-1795",
+        "name": "Team Liquid (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVXuUCL5kZrvs3ZfuPSrOqI9daLFWz7Dxbdw4bJvFy_hxBt-t2XWnN_6ci7EOAFyApBuBbld7x34dGc"
+      },
+      {
+        "id": "sticker-1799",
+        "name": "Virtus.Pro (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpU_3fhX-kpmurHcI6vesOvA8JfaXDTLJkrlw4LY9GXrhkE1_tTjVmNr_cnjBOg8gXowwG7BmlpkApA"
+      },
+      {
+        "id": "sticker-1803",
+        "name": "ELEAGUE (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVzrRBz2i5Pf9S1X4Lz6PKc0eaaRXmHDxbsvtrE5HC2yzUx25DyBwt__JCrBaVQiApR4RuVfrFDmxWWxPZQ-"
+      },
+      {
+        "id": "sticker-1740",
+        "name": "Astralis (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVj0VQ_OmJnp8WwPt6OsOfFsIaLGXTHCkLclsrJtF3Dnw0tx4DyAyd-pcinDZlN1D5clW6dU5VDckpDP"
+      },
+      {
+        "id": "sticker-1752",
+        "name": "Flipsid3 Tactics (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_rSA3OmJnp8WwPvqX7PaE_c_TECGaRkrwusuQ-HiixxB4jt2zRydn7cyiePAJ2D5NwW6dU5frWmpPg"
+      },
+      {
+        "id": "sticker-1756",
+        "name": "Fnatic (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_pVR7OmJnp8Wxdv6P5Pac1cfWVXjbAkL4k5bBqHXqxwBh24Wzdn92odCqRP1N1A5d1W6dU5V7TECbs"
+      },
+      {
+        "id": "sticker-1764",
+        "name": "Gambit Gaming (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV7mTB_OmJnp8WwCt6SsbfVoI_aXW2aTlbsh5uIxHXHkkxl_t2mHytv_ci3CPwQjX8ciW6dU5cFSKPIy"
+      },
+      {
+        "id": "sticker-1780",
+        "name": "Natus Vincere (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfmVxTOmJnp8WwC7qP3bfNvI6SRVmKWkLki4uUxTHHhlkUj5mzQzomoJC-TawYjA5t1W6dU5X_TdE_o"
+      },
+      {
+        "id": "sticker-1792",
+        "name": "SK Gaming (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUrsfhv-l5qu-HEJ66P3avc0IqaWDDCWmO1zs-IwHnrrzE4msWTWyt6uJC6WbQIgDYwwG7AbNEh-9A"
+      },
+      {
+        "id": "sticker-1796",
+        "name": "Team Liquid (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVXuUCL3kZ_ss3UPt_P9bvw9JqnCWjDIwrcu4-NrFi_qwBlx4GqDw92rcy6VbQMlDZtuBbldck8daK8"
+      },
+      {
+        "id": "sticker-1800",
+        "name": "Virtus.Pro (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpU_3fhv-l5qu-yBdv6f_P_c_dPTAWTLGkLZ06bYwGXvrkU1-5DzUzIn_dHrFPVUmCowwG7C2n_aGTw"
+      },
+      {
+        "id": "sticker-1804",
+        "name": "ELEAGUE (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVzrRBz2i5Pf-y1S47z2aqY4JqSWV2PIlO0l5rg6HnvgxBgktj-Ew9j_cXmSOFN1DJUmR7JYrFDmxT9mjTt6"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Atlanta 2017 Legends (Holo-Foil)",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvkb844bVoHS_rxh4k5muDmNuoIn7CPFV0X8BxTbIItEWwxNK2Zuix5gLaiJUFk3vSn3SDmg",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_sticker_pack_atlanta2017_legends",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_01"
+    }
+  },
+  "crate-4324": {
+    "id": "crate-4324",
+    "name": "Atlanta 2017 Challengers (Holo/Foil)",
+    "description": "This capsule contains a single Atlanta 2017 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4324",
+    "type": "Sticker Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1743",
+        "name": "Team EnVyUs (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfxfhX-kpmu-SMP66D-O_c6cKPFDWbIk7gls7hrHH6wzUpz4DyEyt2gcHmUblVzX4wwG7CVLYB8dQ"
+      },
+      {
+        "id": "sticker-1747",
+        "name": "FaZe Clan (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_mWxjOlpns8mwI6vb2PfI-ePbLWmbHxO1ws7loGSjiwk0k4Wzcn437ci6TbFUlDpcmW6dU5RcxrUNT"
+      },
+      {
+        "id": "sticker-1759",
+        "name": "G2 Esports (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV61fhX-kpmurSAJuPf4aqY5cfaVDGXDkbYutuRrTn_nxBt152zVntuodimTaAMpXowwG7ADsD3Kow"
+      },
+      {
+        "id": "sticker-1767",
+        "name": "GODSENT (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV7oRSL5kZrvs3ZYvvb6a_JsIvPKWTCSk7xz57ZoS3_kl090sTnUy9-seS6UaA8hAsNuBbldce17EwM"
+      },
+      {
+        "id": "sticker-1771",
+        "name": "HellRaisers (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVHrUyL5kZrvsyEOu6v5P_09caHKVjOUxbkhteQ7SyrhwxxzsDzRmN6heX7BbVMhCsBuBbldRL0buKA"
+      },
+      {
+        "id": "sticker-1775",
+        "name": "mousesports (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVT0UiL5kZrvs3Be7vT9avc7JfbECDTClbkl57NqSi_lzR9xtm3cn4mheS6UPAF1CsZuBbld_yOHOaA"
+      },
+      {
+        "id": "sticker-1783",
+        "name": "North (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfoUyL5kZrvs3ZfvaWqbaZpcKeSWTHCxLgi6eQ9TCy3wU8l5mjcytmqcXKeOAVzXsZuBbldoejzrJk"
+      },
+      {
+        "id": "sticker-1787",
+        "name": "OpTic Gaming (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVb3VR7Olpns8mwIt6OtbfI9IaSXCDTFxeois7c5SXjqxEh25WXSmdb8cS2Taw9xD8Z0W6dU5XqAh_b3"
+      },
+      {
+        "id": "sticker-1803",
+        "name": "ELEAGUE (Holo) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVzrRBz2i5Pf9S1X4Lz6PKc0eaaRXmHDxbsvtrE5HC2yzUx25DyBwt__JCrBaVQiApR4RuVfrFDmxWWxPZQ-"
+      },
+      {
+        "id": "sticker-1744",
+        "name": "Team EnVyUs (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfxfhv-l5qu_iEMtqT4a_ZrJqHCWDHEk-8g5bc6THjllxh_tWiEm9mocXifZwAkXowwG7BoitfRuw"
+      },
+      {
+        "id": "sticker-1748",
+        "name": "FaZe Clan (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_mWxjOmJnp8WxZ7qatPaJrefPGXjHCxO0n6bdvHXjgwB8ltjzVnt-gcHOWOlQlWcdxW6dU5RAEBuJ8"
+      },
+      {
+        "id": "sticker-1760",
+        "name": "G2 Esports (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV61fhv-l5qu_HIPuaOqMPA5cPbCXTHHlrsusec_G37jl0wl4z_UytihJXKVagYgAowwG7AdMe5owQ"
+      },
+      {
+        "id": "sticker-1768",
+        "name": "GODSENT (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV7oRSL3kZ_ss3AIv_CqPvE_JaWXDzDJkrsv6OM4FnGyxE9zsGWBm9v8JC2fOAUoDpRuBbldSiANOQw"
+      },
+      {
+        "id": "sticker-1772",
+        "name": "HellRaisers (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVHrUyL3kZ_ss3YJ7fP4aqVrdaORVz_Dw-93tLA7FnG2w0km4T7cyd-sI3KSPAB1XJduBbldX6EipEY"
+      },
+      {
+        "id": "sticker-1776",
+        "name": "mousesports (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVT0UiL3kZ_ss3UL7fH5PaI1dfPGCDaWkL0n57U4Gi3rxkx262_Qzov8Iy6RZwd2W8ZuBbldkpxRIZg"
+      },
+      {
+        "id": "sticker-1784",
+        "name": "North (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfoUyL3kZ_ss3oDuqKvbPFpIfHAW2bFmLwms7U9SSq3wB914WrRmdetJ33EPwJxX5puBbldXWOokac"
+      },
+      {
+        "id": "sticker-1788",
+        "name": "OpTic Gaming (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVb3VR7OmJnp8WwC7fP7OfM8JafBDzPBk70is7k4Hn7jwht15GnVzY7_dCjEOFckDpd2W6dU5XEMrTRS"
+      },
+      {
+        "id": "sticker-1804",
+        "name": "ELEAGUE (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVzrRBz2i5Pf-y1S47z2aqY4JqSWV2PIlO0l5rg6HnvgxBgktj-Ew9j_cXmSOFN1DJUmR7JYrFDmxT9mjTt6"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Atlanta 2017 Challengers (Holo-Foil)",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvkbw4tbNsHnG2zRkk4z6HnoqgJS_DOgN1D5txQeUKsxPtxtXvYbvj7wLZj5UFk3sQ2wlziQ",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_sticker_pack_atlanta2017_challengers",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_02"
+    }
+  },
+  "crate-4325": {
+    "id": "crate-4325",
+    "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
+    "description": "This capsule contains a single Foil sticker autographed by one of the players from Challengers teams at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4325",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1854",
+        "name": "apEX (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwjpP4wiRU5v7gP6c-JaaVVjXBmOogtblvGHzmxxt25jzdydypIC2SPVcmC8d0TLMCsA74zINuXCBGgg"
+      },
+      {
+        "id": "sticker-1857",
+        "name": "Happy (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL5n4bw5B1d4PuiJvw5daKSX2GTxb5ztbZsSSzjwEl2t23QzNv4InyUb1AkWZYkELZY50Gm0oqwIeoFJ4o"
+      },
+      {
+        "id": "sticker-1860",
+        "name": "SIXER (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLil47l7x1d4PuiJvI8I_TACjaWlL1w6eBsHHq1wU9z4zjSz9j6eXmWaAAgXJFxQeZZuxWm0oqwA4Vt3gk"
+      },
+      {
+        "id": "sticker-1863",
+        "name": "kennyS (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6m5ju5DFk6f2nZOo9JKbHXzTBke8l5eU-G3-xxUlztj6An96uI36QOwd2ApRyRbUL5EW7jJS5YCPcmEXc"
+      },
+      {
+        "id": "sticker-1866",
+        "name": "NBK- (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL_nJ3f-y1S47z6OfxoJfHKCjWVlLdy6bc7Syrqx0p2tTvTwtupd37GbwAkWMFxTbMPrFDmxcNYwLPR"
+      },
+      {
+        "id": "sticker-1899",
+        "name": "aizy (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwl4z5wiRU5v7gPfY8cKaSD2bHmOtz5eA4HHzixER0sm2AntmoeH6fagIhWJp3TOMPuw74zIO3f05iCw"
+      },
+      {
+        "id": "sticker-1902",
+        "name": "allu (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwkpr1wiRU5v7gOaI-dKfGWDGRmOoiseAxHXuwkERy5m3Uwtj9dH7COAMhA5ZyR7MDsg74zIP6-ZwGqQ"
+      },
+      {
+        "id": "sticker-1905",
+        "name": "kioShiMa (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6l5nz9StW7s2oZ61hbqSVCzTDxLd0tLRtGXzizR4jsj_Xytz8eH_BOFUkW5pyTOJcuxDpxoX5d7S1838iBBg"
+      },
+      {
+        "id": "sticker-1908",
+        "name": "rain (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLjn5_uwiRU5v7gMfQ1IqORXjOSmOgk4Lk8THriwhwhsjvSn977cHyTa1IkW5IlROUM5A74zIPrykf6FA"
+      },
+      {
+        "id": "sticker-1911",
+        "name": "karrigan (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6n4Ty9CVa4c2oZ61hbqCSWjDJkep04uBtG3i3zUgi4WzRntmvdy_CbQQpD8B1Q-ID4BXqwdX5d7S1SDvgXiI"
+      },
+      {
+        "id": "sticker-2004",
+        "name": "bodyy (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLzkZL55B1d4PuiJqBvJPTLDzTIwLxy5LY4GSi3kEt3t2_Uz9j_JCqRbAAlDMMjFO9b5Bmm0oqwNwCQF_w"
+      },
+      {
+        "id": "sticker-2007",
+        "name": "RpK (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLjjp3f-y1S47yoPqE6IvSQCGPGkrdw5eA9GS-3l0Ul6jnVzYyqeSqTaQUoCsF3TeAMrFDmxfAK__mV"
+      },
+      {
+        "id": "sticker-2010",
+        "name": "ScreaM (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLinYTl_C9k6f2nZOprIqOWVmLBkupwtLg8HiuxxB8h4WjXyomuJ3rEagMjW8F4TOdZukG8jJS5YBO61VAF"
+      },
+      {
+        "id": "sticker-2013",
+        "name": "shox (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLilpn4wiRU5v7gbfJsdPOSV2bGx7omtuVtGC_gzUoj5mnWwtmuICjCZwIhC8BwF-ENug74zIMcPtf14g"
+      },
+      {
+        "id": "sticker-2016",
+        "name": "SmithZz (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLik5_09ThB0PShYagjIvPGDDTFkbYh57JrG3nqlkx3sGvSmYv6InrGb1cpCMcjROEJ4RW-wcqnab0szkB2BA"
+      },
+      {
+        "id": "sticker-1959",
+        "name": "znajder (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLrkJfq-SdJ0PShYagjcKeVVzLBlu9ysrMwHijmkR5ytmrcmNysdH2XZwIlDcdyR-QC4xWwl8qnab3tT_gBeA"
+      },
+      {
+        "id": "sticker-1962",
+        "name": "Lekr0 (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL9m53y8h1d4PuiJqdscKeRVzGVkOty47c5THjkzU8k52_WzN2rdn-eZwMgCsdyQbEI5hWm0oqwYVa01L0"
+      },
+      {
+        "id": "sticker-1965",
+        "name": "pronax (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLhjJnu_Dpk6f2nZOo1IaaSXzGTke9147hrFyvjwE4isWrXz9moeHyWPFIhA5F1F7UCskbsjJS5YF7lcvxu"
+      },
+      {
+        "id": "sticker-1968",
+        "name": "JW (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL7ianm8itXoaurMfw-c_PKVmTBk-pytbVqHXvmw0xzsjjQw9urcXifaAQjWZYmReMU8k7vh5rjrbw"
+      },
+      {
+        "id": "sticker-1971",
+        "name": "flusha (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3koPz9SNk6f2nZOppIaWQWWbClO8n6ONoSXzrw0R-4GrVzY2odHrGaFUpAsR1E7IP5xjsjJS5YNsHuWiw"
+      },
+      {
+        "id": "sticker-1824",
+        "name": "STYKO (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLiio_r8h1d4PuiJvc0daiXX2HIxLkg4OQ6FnGwxxsi4m3Ry9-qeSmVb1QgCZskEOAD4ESm0oqwH1a1-KI"
+      },
+      {
+        "id": "sticker-1827",
+        "name": "Zero (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLrm4TvwiRU5v7gPvZsI6aVWjWRl7hy6LE8Tiiwlkoh5j-BnN3_JC7CbwYhWcMkTLYDsg74zIO_yx1Jrg"
+      },
+      {
+        "id": "sticker-1830",
+        "name": "DeadFox (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m5fk-y1D0PShYagjeKWVCmLBwr4ltLI-GijmwUkh5GyDm47_JC6TbwV2CZMiFuFe5hjsw8qnab1Va5STSA"
+      },
+      {
+        "id": "sticker-1833",
+        "name": "bondik (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLzkZjk9Clk6f2nZOppcvORDDCSkL8mtuBtTHrqlx90sGjVn9apdXnBPAIjCZR2E-YO5xLujJS5YFfNYA-v"
+      },
+      {
+        "id": "sticker-1836",
+        "name": "ANGE1 (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwkJHl8R1d4PuiJv04IqTDCzLAluty4bU4H3jmk0QhsWrXzdqqdijDaVBzDcEjR7QP4xim0oqwFHzwp1g"
+      },
+      {
+        "id": "sticker-1929",
+        "name": "chrisJ (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLyloTp7ihk6f2nZOo8cqGRWmTAk-onteQ-Tnzgwxx3t2rUm9-oJ3LDbQEpC5d1F-JetRTrjJS5YN4C7KHj"
+      },
+      {
+        "id": "sticker-1932",
+        "name": "denis (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m5jp7h1d4PuiJvQ7JvHACzHFxeom5uI-HyqxwU9_4TvSmIv4dX_GaFAmDsN5F-Zc4RKm0oqw_Fu812I"
+      },
+      {
+        "id": "sticker-1935",
+        "name": "Spiidi (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLijp_p-Stk6f2nZOo7JPLGWWXJxewj6LY4TSzrzU5y5DzTzo6gIn6XO1UpDMNxROcO50S4jJS5YCqNczkZ"
+      },
+      {
+        "id": "sticker-1938",
+        "name": "loWel (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL9kYHl8R1d4PuiJqFud6jEX2KTle9ztOM6TH_rl0536juDytv8I3zBagZxWMdyQO8NsxOm0oqwXg8LeJg"
+      },
+      {
+        "id": "sticker-1941",
+        "name": "NiKo (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL_l53vwiRU5v7gOvw4I6XHXjDAwrwhtLg5TH7mwB5-tWiEyIuhIHOQbVckXsd0F-IDtQ74zIPC5Ufjdg"
+      },
+      {
+        "id": "sticker-1974",
+        "name": "cajunb (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLyn5z18yBk6f2nZOpvdPXHCzSWlusl47loGC3rxBsl5GnSmNevcC-RaFJzA8FwR-ZZukbrjJS5YDeDVGyx"
+      },
+      {
+        "id": "sticker-1977",
+        "name": "MSL (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8jZrf-y1S47z4Mfw0cqTLDGHHmOou5bk8FnjlwR9z4j6Az96hc3nCalIgX8RxQrUMrFDmxdIEncXa"
+      },
+      {
+        "id": "sticker-1980",
+        "name": "Magisk (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8n5Hp7ilk6f2nZOo5eaSWVjPFw-1357Q-SS-3zUt24DjRz4yqIi3EawEoCMElFLMIskPsjJS5YOuJR2J_"
+      },
+      {
+        "id": "sticker-1983",
+        "name": "RUBINO (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLji5Tp8y1k6f2nZOo8dvTEXjXFw7gi5-BsHXnlxEwl4mjWzYn9dCrEb1MjW8F2Q7MMtkLrjJS5YDcrKwVV"
+      },
+      {
+        "id": "sticker-1986",
+        "name": "k0nfig (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6zpjm9CVk6f2nZOpud6aRVjeWx-8j47RsSnHqxkl_sDzTw4uuIy6XPQ4jW5EjTeAJsBjpjJS5YNQBJ61b"
+      },
+      {
+        "id": "sticker-1839",
+        "name": "tarik (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLln4Tp9h1d4PuiJvI7JfTLXGPHk7YmsuRrTXvmlkly62_Sm939d3uVbQJyW5R1FOYDuxam0oqwzoelxuE"
+      },
+      {
+        "id": "sticker-1842",
+        "name": "mixwell (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8l473-C5X0PShYagjIvHCW2GVmb4n5LQ9GC-ykRlw4mvXz9v8cn_GawEpXsMkRuUNtRG6l8qnab1308njPQ"
+      },
+      {
+        "id": "sticker-1845",
+        "name": "NAF (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL_n5Df-y1S47z6aaE5cvGSVmSWmLp157M-Fnjjwkh34WzQw93_cyqTOwd0WMRxTOULrFDmxT9-m0Ke"
+      },
+      {
+        "id": "sticker-1848",
+        "name": "RUSH (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLji4XowiRU5v7gPPFpefWXDDeWl7516OVoTizixUQhsmrTmdn4dC2Vb1UlCpYjQeAIsQ74zIMrwjAc_A"
+      },
+      {
+        "id": "sticker-1851",
+        "name": "stanislaw (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLiipfu9DFX7uWRbqtkLL6XVj_Il7p057M_GX7qwhkl62rQzImrICjBZw4iDJN5R7YJ4BGxx9XiKaq8sFv37bNE"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_group_1",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_group_1"
+    }
+  },
+  "crate-4326": {
+    "id": "crate-4326",
+    "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
+    "description": "This capsule contains a single Foil sticker autographed by one of the players from Legends teams at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4326",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-2019",
+        "name": "gla1ve (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL2kpex6ydk6f2nZOpsd_LHD2THlu8mtbRqFnzmwE9wt2TSwo2hJSnFaQQkAsQkQuUD4xm4jJS5YAUOzDtf"
+      },
+      {
+        "id": "sticker-2022",
+        "name": "device (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m4Dp_idk6f2nZOpsdKGSWjCWxewitrJqTXCxzU0isWjVnNz8c3OTaAYiW5oiRuYJtETsjJS5YIxqPXRT"
+      },
+      {
+        "id": "sticker-2025",
+        "name": "dupreeh (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1i4by-CdT0PShYagjefPLXjCTwL8vtrFsGyuwwUVz5mrcyoz4dSjBag4hCZJ2Qe9Z4Rbrmsqnab14SfopTw"
+      },
+      {
+        "id": "sticker-2028",
+        "name": "Kjaerbye (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6lJfl7yBC6s2oZ61hbqPAV2PHkLoh5rlvTn_nlh5-4mnTyNr9ci2fa1coXsBwQLYPtUTsx9T5d7S170qVaws"
+      },
+      {
+        "id": "sticker-2031",
+        "name": "Xyp9x (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLph4a55R1d4PuiJqE0dqXBXWXHkb50trg4FyuwzUp-tm3dzIuocijFO1cjWZAjF-5YukSm0oqwMyHgDTY"
+      },
+      {
+        "id": "sticker-1869",
+        "name": "B1ad3 (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLzz5fkrh1d4PuiJvdpcajGWzbJk75wsbY_HC3llxxxsm3TnImhIHPDOg91CZtwQ-dYsxGm0oqwtAdR32A"
+      },
+      {
+        "id": "sticker-1872",
+        "name": "wayLander (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLmn4_s_Cxf6uCRbqtkLL7HWjHEwOgh6bhsGSzgk0p14GiEwtypcHPCagYhDZZ0FOELsxi5lNPgKaq8sNGWWFrb"
+      },
+      {
+        "id": "sticker-1875",
+        "name": "electronic (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL0kpPj6TBU4futV6JiKfzdVjHAkuwvtOQ5HX21wEpw62_WmY7_cnrGOwcjW5ZwQ7YOsRi-xoLhM_SiuVKI-l2L2w"
+      },
+      {
+        "id": "sticker-1878",
+        "name": "markeloff (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8n4Tr-C5U6fSRbqtkLL6XWj-Sxesl5eNoGXzhkBklsmiAz9yocC_EP1dzCcFxTbZbuhG8lYXgKaq8sFAyUd6m"
+      },
+      {
+        "id": "sticker-1881",
+        "name": "WorldEdit (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLmkYTs-Sdf5uaRbqtkLL7KDD_IlOsiteA6Gyzjw0R24mTWyd79dn3EZwJ2D8N1R-AOsxLtxIfnKaq8sL46uuLY"
+      },
+      {
+        "id": "sticker-1884",
+        "name": "twist (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLliZ_z6R1d4PuiJv1pdfSVCDOVlrt06bAxFyjhl0505mzSno2oJHjCbAEiCpZ5Q7YL5xSm0oqw38s98-g"
+      },
+      {
+        "id": "sticker-1887",
+        "name": "disco doplan (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1l4Xj8iZU__6vZptrL_mfQDPBwOwj57g5Tnu3x0wh5GnRm9f6cn-XPQUoDsN1EOVbsUKwk9TnNOv8p1uJmAcT614"
+      },
+      {
+        "id": "sticker-1890",
+        "name": "KRIMZ (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6jJ_t5x1d4PuiJv1uJqLKXjXJwugg5LAxHSvgkUl16zzcn96udi-ebgQhDcFxTOELsEOm0oqw8_HCT_0"
+      },
+      {
+        "id": "sticker-1893",
+        "name": "olofmeister (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL-kpnm8CdS_OareptrL_mfQGaSkuou5OMwSn7ixkkksGnQmdr8cXKTbQUgCsB0FucLsBWxxIXiMuP8p1uJ3Y90490"
+      },
+      {
+        "id": "sticker-1896",
+        "name": "dennis (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m5ju9DFk6f2nZOo1cfLKWTTCl7Z3suc8SX_gwkgi5zvXyNv_JHiVPVRxDZQjQ-JZuha-jJS5YHK0V6pJ"
+      },
+      {
+        "id": "sticker-2034",
+        "name": "Zeus (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLrm4PzwiRU5v7gafE5dKWQWDHHkLkh4rgwHii3xUt-62zVwo2sdHyfPQ8iC5tzQe5Y4Q74zIPKfxJO4A"
+      },
+      {
+        "id": "sticker-2037",
+        "name": "Dosia (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1kYXp_B1d4PuiJvZucqfBWmaUk7ov6LFqSXzqxE8l5mjTw438c3OSOA91XJQkFO4Ctkam0oqw_h3x5tg"
+      },
+      {
+        "id": "sticker-2040",
+        "name": "Hobbit (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL5kZTi9DZk6f2nZOo4c6DDVzfCx7p06LE9GX3kkE1y5mrTw9v6JXjDbwBxX8B2TLFYsBC_jJS5YESR5V2O"
+      },
+      {
+        "id": "sticker-2043",
+        "name": "mou (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8kYPf-y1S47ysPvc6dvbAWGXBwrcksbM6Tn63xU1z6mmHmd_7eS3BbQEjDJImQbNcrFDmxTebNplR"
+      },
+      {
+        "id": "sticker-2046",
+        "name": "AdreN (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwmoTl8ylB0PShYagjJKmXXWTBl-t04uQ5HnGwxUwh42_Sz9mqdCnCZgB0W5ByTLYKshK_wcqnab25zmStsg"
+      },
+      {
+        "id": "sticker-1944",
+        "name": "Edward (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL0moHh7yZk6f2nZOo1JaCRXTLIx7d15-M7SivlkUQhtjmBz9n9JXPCaFJ2XMElQuAPsES9jJS5YJmicRrT"
+      },
+      {
+        "id": "sticker-1947",
+        "name": "flamie (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3kpft9Cdk6f2nZOo7cfPBWzbJkOt14uUwHyq1wEV-6mjTnt-rd3qfalBxWcNzEeZZuhPsjJS5YASfllYo"
+      },
+      {
+        "id": "sticker-1950",
+        "name": "GuardiaN (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL2i5fy-Sta4c2oZ61hbvTHXGSUkbh3s7ExS3i3x0gi5GzTzNihdnnBPwd2A5p5FO9ftxW5ktf5d7S1tdCMdi0"
+      },
+      {
+        "id": "sticker-1953",
+        "name": "seized (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLim5_6-CZk6f2nZOpucqSVDTCWl7cu5bE5GX-yzEl-tm6GwtmpIHzEOw8mD8B1E7MKskbqjJS5YKDn86C1"
+      },
+      {
+        "id": "sticker-1956",
+        "name": "s1mple (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLiz5vw8Sdk6f2nZOo-IqHHDWPClb5w5udrTXHlkx9_t2WBzIv8dHzCZgQoX5RzF-8J4UO6jJS5YMvCvkYk"
+      },
+      {
+        "id": "sticker-1914",
+        "name": "coldzera (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLykZrk5ydJ7s2oZ61hbqiWXDHIk-8k47gwGivmw05xsGXRztqveHOVZlVxApR5E7ULtBOww4b5d7S1ipAuA80"
+      },
+      {
+        "id": "sticker-1917",
+        "name": "FalleN (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3n5rs-Cxk6f2nZOo6daWSC2WSxb4is7I-SXvqw08m4WiGw9uoc3zFPw51WcB5RuZc5xjujJS5YA9EhVoD"
+      },
+      {
+        "id": "sticker-1920",
+        "name": "fer (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3m4Tf-y1S47z2PvRvdabLD2XGl7ohsbcwTnnqwx5-t2TTwo74IHLBPwYoX5IjR7NYrFDmxYXoqpdz"
+      },
+      {
+        "id": "sticker-1923",
+        "name": "fox (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3kY7f-y1S47z2OfZscPWQXmbBw71ysbE_HSi3zR4l5GzdztmgdnjBOFQlDJV1EOMDrFDmxa9WcrgP"
+      },
+      {
+        "id": "sticker-1926",
+        "name": "TACO (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLln5XvwiRU5v7gbPE7IanCXDaUwOxw47A5TSqylxx04GjVmNv9Iy6XawNxD5d4RbJbtg74zINarTBmug"
+      },
+      {
+        "id": "sticker-1989",
+        "name": "jdm64 (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL7mpu2qR1d4PuiJvRvIvOXXmKWwrp16bE_Fiu2kRsl4WSDm9utJy7CaVNyXMZ2EbIKuhem0oqwe2IdQzE"
+      },
+      {
+        "id": "sticker-1992",
+        "name": "EliGE (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL0kp_n-B1d4PuiJqduIqaXDGKSmboj47BoTnvixB915m6Az4z4J3OXalQmDZYmFuZbtEam0oqwuudJu_A"
+      },
+      {
+        "id": "sticker-1995",
+        "name": "Pimp (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLhl5vwwiRU5v7gOv07dqjKXz-Sk7xztbFrG3Gww08m6jzXw9updyiWP1QoWMckEbYP5g74zINMBIBHdg"
+      },
+      {
+        "id": "sticker-1998",
+        "name": "Hiko (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL5l53vwiRU5v7gOPJodPWRVjHAwLcns7ZoSi_hwxkj4GWGw46gcSqUbgYnXpZzF-Ff5g74zIO8ivW9AA"
+      },
+      {
+        "id": "sticker-2001",
+        "name": "nitr0 (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL_l4Ly8h1d4PuiJvNrc_bLCz7ImO1wsuVoG3rjlxx052qAzdz9JSmROAN1C8Z3TbQK5BGm0oqwSq3bEpg"
+      },
+      {
+        "id": "sticker-2049",
+        "name": "byali (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLzh5fs9B1d4PuiJvNocKTFWDCRlr8j4edqTXrnl05-sGnXydj7cirCawYkCJp4E-9ftBOm0oqwLENE8Dk"
+      },
+      {
+        "id": "sticker-2052",
+        "name": "NEO (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL_m5nf-y1S47ysMf09dfSVWWGSwLt05LhqFn7qwBsi5jvWwtqocHqSbFRyXpYhTOMIrFDmxY2topv2"
+      },
+      {
+        "id": "sticker-2055",
+        "name": "pashaBiceps (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLhn4Xo_B1d4PuiJv1pc_ORWDGWxLhwtuU6Gy_rk0sk5GrXzIyqIHjFOg8gCZNxROIOukKm0oqwR2zbs2w"
+      },
+      {
+        "id": "sticker-2058",
+        "name": "Snax (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLikJf4wiRU5v7gPKJodaTEDGHJk-wi5OBsF3Gxkxwlt2vVztmoIC6ePA9yAsB1Fu5Yug74zIMzwDc2fQ"
+      },
+      {
+        "id": "sticker-2061",
+        "name": "TaZ (Foil) | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLln4zf-y1S47z2avNrePaRD2HIk7ogtrZsSXDmlhwk5W-EyYuoci7CO1AoCZUkRLQLrFDmxYzBCGml"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHWe3wEh252Tcmd36dnqSawAlDpEhTbIDs0TqldXnZLmx4Q2I399CmSX7kGoXuUIbHrUy",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_group_2",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_group_2"
+    }
+  },
+  "crate-4327": {
+    "id": "crate-4327",
+    "name": "Autograph Capsule | Astralis | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from Astralis at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4327",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-2018",
+        "name": "gla1ve | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL2kpex6ycVuvf2PPVsdaaSCz-WmOomtbRsTHDrlxx24GqDmYmvdCrGPwN0DJt4Q_lK7EeWXn-pwg"
+      },
+      {
+        "id": "sticker-2021",
+        "name": "device | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m4Dp_icVu6OtbvBocKSXWGPCw70gs7c-SXnlkUp2smrUyYysdHvEa1cnW5FwQPlK7EckmNgxeQ"
+      },
+      {
+        "id": "sticker-2024",
+        "name": "dupreeh | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1i4by-CdToaOra_NvJaCXC2GVw78i47k_F3jnlBx1tzmEw9b8dXKeagEgWZZ5TbQU8k7vN7SMPkw"
+      },
+      {
+        "id": "sticker-2027",
+        "name": "Kjaerbye | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6lJfl7yBC6rz-MaU4I_PDCzXAmLxztORtH3m3xEty5znczo6tdi-XbVUpXMR2F7UCrFDmxZGhg7vk"
+      },
+      {
+        "id": "sticker-2030",
+        "name": "Xyp9x | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLph4a55WwPtqOsavFoIfaQD2HBl7ku4bQ4Fy_hxBh-5TvSmd38eHiWawQlWJEhW6dU5Rd-Wxgb"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | Astralis | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiLwjYLysyBfu6OqbfU1dPaSDDGRx-gis-BtTX3kx0xxtm7cydr7JyqXOg8jCsBuBbld3CDP5TY",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_astr",
+      "image_inventory": "econ/weapon_cases/atlanta2017_astr"
+    }
+  },
+  "crate-4328": {
+    "id": "crate-4328",
+    "name": "Autograph Capsule | Team EnVyUs | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from Team EnVyUs at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4328",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1853",
+        "name": "apEX | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwjpP4s3cJuPCtaaBvI6TCCmPCkewi6OcwGyzik0t_tj-GyIugcCiSOFUpD8duBbldUuPpmL8"
+      },
+      {
+        "id": "sticker-1856",
+        "name": "Happy | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL5n4bw5GwM7aP5OfA-cPPDCjeUxbZ36Lg6HSvjkUx3sG_Qm9asc3qValN2XsZxW6dU5TU2coTq"
+      },
+      {
+        "id": "sticker-1859",
+        "name": "SIXER | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLil47l72wLvveoOPBpIfOXXjSRwrgutOA_TXC3lE5x4jvdydb6c3_DaVAmW5Z0W6dU5V5_ykbV"
+      },
+      {
+        "id": "sticker-1862",
+        "name": "kennyS | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6m5ju5DEV6_aoMf1sdKiXD2OVmOgj57hsSn21lBlwsWyAwt6tcXuWPwFyW5oiFPlK7EcvTlATtg"
+      },
+      {
+        "id": "sticker-1865",
+        "name": "NBK- | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL_nJ2uqnoDuvP6MKU1IaaSWmXEl-xw4uBtSSy1wxx36znRwomsd3_EPQd2C4wwG7DdYYdN-Q"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | Team EnVyUs | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL_iNi5qCECuaSvOfE7cvPGDzfBlushteU7THzhlEl35mrTm42hIn_Da1ApFNIuEvPA0X4j",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_nv",
+      "image_inventory": "econ/weapon_cases/atlanta2017_nv"
+    }
+  },
+  "crate-4329": {
+    "id": "crate-4329",
+    "name": "Autograph Capsule | FaZe Clan | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from FaZe Clan at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4329",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1898",
+        "name": "aizy | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwl4z5syQI6qD9bqI6JaSWWTLGw7536LI6F3jhxx8k5zjdzNqgcS2QPw4hWcFuBbld3jAEIjI"
+      },
+      {
+        "id": "sticker-1901",
+        "name": "allu | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwkpr1syBYvvOrPvA0JKTCXGOVxLt347E7GX63xEUl6jvTztj8eS6XbFVxXMFuBbldQtbwJAc"
+      },
+      {
+        "id": "sticker-1904",
+        "name": "kioShiMa | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6l5nz9StW7rz9bPFrI6bEDT_CmOh35LE9TS-1xhhx5WWGmNitc3yWalAiWZF5Q-ZYrFDmxfqRp4Tu"
+      },
+      {
+        "id": "sticker-1907",
+        "name": "rain | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLjn5_usyAJtqusPfE4d6eVVzbIme8l6eA9Si_ix0wl6zmEn9mod3ufbVUjD5BuBbld6RRCnaw"
+      },
+      {
+        "id": "sticker-1910",
+        "name": "karrigan | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6n4Ty9CVa4bz5PPM8I_PBWzDDlrpwtrk-Fy3ix08jtzvcnNysci-ePQYpDJR2ELUMrFDmxfmQgZp9"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | FaZe Clan | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL3n4zls3YLt6aoPfA5JvKRWDXAkL0j5rg9GnnjzRl-5muAwt_4cniQalMkD8BuBbldBr1_iQM",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_faze",
+      "image_inventory": "econ/weapon_cases/atlanta2017_faze"
+    }
+  },
+  "crate-4330": {
+    "id": "crate-4330",
+    "name": "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from Flipsid3 Tactics at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4330",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1868",
+        "name": "B1ad3 | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLzz5fkrmwLuqv8Mfc8daaXCjeSmLgks7VqHXywx0ol4G3Rz4r6J3-UOA8mCZN5W6dU5WEsCkoK"
+      },
+      {
+        "id": "sticker-1871",
+        "name": "wayLander | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLmn4_s_Cxf6uDgO_M1JfOSXz7AmOsj5LI-Gy-3lh4k5WrTm9ipJSqQOFAhCZclROJbsA74zIPsN8Q2Cg"
+      },
+      {
+        "id": "sticker-1874",
+        "name": "electronic | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL0kpPj6TBU4futJqFrI6jKDTGVk7pwsuc7Gyi3w0R24m_Wzdr_cXKSaFQnWMAmF-BYtUKm0oqwxhwEsGI"
+      },
+      {
+        "id": "sticker-1877",
+        "name": "markeloff | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8n4Tr-C5U6fTgbfI7JvaVDzCWwOgisrRqFn_ikR8l5T-AwompcyqRalIiWZp3EbJb5w74zIPoGdPwpA"
+      },
+      {
+        "id": "sticker-1880",
+        "name": "WorldEdit | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLmkYTs-Sdf5ubgbPA1IaGWDWXHw79w5OU4GXrgxURwtT-EzIuhI36VP1ckCZEhRuBb4w74zIPrYFVBUA"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL3kp_wsyMN6vGoPvY-cKPECmKWl7xw6bU4Sn-ykEV_4G3dnturIi2fPQRxC5FuBbldPeeryYk",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_flip",
+      "image_inventory": "econ/weapon_cases/atlanta2017_flip"
+    }
+  },
+  "crate-4331": {
+    "id": "crate-4331",
+    "name": "Autograph Capsule | Fnatic | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from Fnatic at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4331",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1883",
+        "name": "twist | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLliZ_z6WwC7PD_OfdpcvTEDGHGx-wmsbIxSn3glBx2tznRyomodXnGOlVxAsZwW6dU5TbKPoVs"
+      },
+      {
+        "id": "sticker-1886",
+        "name": "disco doplan | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1l4Xj8iZU__6vZuo-IqORWjXDw70usrBsSn2wzEgk5Dzdwtj6dSiXPAEgCJAjQOQDuxS9jJS5YPxGLHhB"
+      },
+      {
+        "id": "sticker-1889",
+        "name": "KRIMZ | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL6jJ_t52wMtvH6a6BoJfLAC2GVkexy4rZsTnDhx0gk4GmBzdyvIHLEbA5zX8Z0W6dU5bFGD5AE"
+      },
+      {
+        "id": "sticker-1892",
+        "name": "olofmeister | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL-kpnm8CdS_Oareuo5IqHBXjbFlO9y4bAxGCyxlkh352-GyoutciifbFIlCJQlEbUCuka_jJS5YIuWYcR5"
+      },
+      {
+        "id": "sticker-1895",
+        "name": "dennis | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m5ju9DEVvPavbfM5IajGWGTEmLwltec4TC3lxUkktWWDztv_InnGawV1C5dzQ_lK7EcEbGyhOg"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | Fnatic | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL3kILjsyAM66GoPvc5JaCVXDDJxOwltOBsSiuywE0h5WiBzNevcnLFaVNzDpFuBbldUoPmQwM",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_fntc",
+      "image_inventory": "econ/weapon_cases/atlanta2017_fntc"
+    }
+  },
+  "crate-4332": {
+    "id": "crate-4332",
+    "name": "Autograph Capsule | G2 Esports | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from G2 Esports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4332",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-2003",
+        "name": "bodyy | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLzkZL55GwC7Kr6aqI0JKSQDzHIxbp0tbk-Gnzqlhl0sWncm46uJS6UPVclDJZ4W6dU5al_N_UO"
+      },
+      {
+        "id": "sticker-2006",
+        "name": "RpK | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLjjp2urHRa7fb4MaI5cfSRDT7Glbh3s7VvHn61wRwk4zjXz9ivcS2RbA4mCYwwG7BYOICjyA"
+      },
+      {
+        "id": "sticker-2009",
+        "name": "ScreaM | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLinYTl_C8VuaL5OPY0JvKSWjPHkLsmteA7FnDmlksksDjdmdiuJHyRbQQnW5ZzRPlK7Ee6gQ4EJA"
+      },
+      {
+        "id": "sticker-2012",
+        "name": "shox | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLilpn4s3EKuKOtOPc0cqmXW2HFkbdz57Q9G3rjwBl34mrRmIz4eH3DPVJ2WMFuBbld6EMcpN0"
+      },
+      {
+        "id": "sticker-2015",
+        "name": "SmithZz | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLik5_09ThBofGsMfE1dqeSDDXAlbtwsec_Sy_kk0h-4WWBy42sJ3iSZgcnC5R4ReIU8k7vwEA2h14"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | G2 Esports | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL2zNjjpHVe7vf3PvA1d_aRXTKVlr135rdsG3myx05x5DvSyY2seHqWOwAiFNIuEmsYRccz",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_g2",
+      "image_inventory": "econ/weapon_cases/atlanta2017_g2"
+    }
+  },
+  "crate-4333": {
+    "id": "crate-4333",
+    "name": "Autograph Capsule | Gambit Gaming | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from Gambit Gaming at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4333",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-2033",
+        "name": "Zeus | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLrm4Pzs3Nfu6GoMac0JfHHWjSWkrdw6LA8GX6wxx4k42TQw46rd3uUZ1BxCZRuBbld5Q4PxjE"
+      },
+      {
+        "id": "sticker-2036",
+        "name": "Dosia | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1kYXp_GxY66f6OvY6eKjBX2WRx-p15ORoGi2ww04msWvTy4ysdSrDagAiD8R1W6dU5U4tFyG0"
+      },
+      {
+        "id": "sticker-2039",
+        "name": "Hobbit | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL5kZTi9DYV66v4O_c6IanEWGPFw-0h4bY7HHuxw0x052mDz4yrcXufOAMlX5p1F_lK7EcIOBgd-Q"
+      },
+      {
+        "id": "sticker-2042",
+        "name": "mou | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL8kYOupHUD6_P-afE8I6eRX2aSxbsl5-Q-FnDglk5w5G7Xydr7Ii6VZgAnCowwG7BtC74dnw"
+      },
+      {
+        "id": "sticker-2045",
+        "name": "AdreN | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwmoTl8ylBoaSrOPM-dvaQXTPJlrYi6bgwFnGwlEpz52yEmY6rcymVb1N1DJNzFuEU8k7v8WhM2v8"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | Gambit Gaming | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL2n5visyRe7qevaaI4IqeXXTWRx7gu5-IwH3Dmwh5ysGzUn479J3qfPQRzC8RuBbldfXm8lN8",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_gamb",
+      "image_inventory": "econ/weapon_cases/atlanta2017_gamb"
+    }
+  },
+  "crate-4334": {
+    "id": "crate-4334",
+    "name": "Autograph Capsule | GODSENT | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from GODSENT at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4334",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1958",
+        "name": "znajder | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLrkJfq-SdJoaeoOKdpI6CSDGWWlbki47E_Syrnl0Ul62TWzdz9dy6QZw8hDpZ1E-AU8k7v-dy74hM"
+      },
+      {
+        "id": "sticker-1961",
+        "name": "Lekr0 | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL9m53y8mxYuqOqPKBoePLKXT_Akbon6bI4SXrgx0hzt2jXn96sd3zCbFJ1CZpyW6dU5QvLBMFN"
+      },
+      {
+        "id": "sticker-1964",
+        "name": "pronax | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLhjJnu_DoV7KL5PaE8dKeXWDHAxehy5LBrFn7gx08l5mnQnNn8cn_Db1QpA5VzRPlK7Edb3tZZdQ"
+      },
+      {
+        "id": "sticker-1967",
+        "name": "JW | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL7idjj_3ILu6utOvU8I6nGCmaWlLt16eQ7F3nkx00l4jiGm9yuICjCZg8kFNIuEu2S8sn-"
+      },
+      {
+        "id": "sticker-1970",
+        "name": "flusha | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL3koPz9SMVvqD3OKc0efHKVzSSw-8g47EwFyvlk0l3t23WwoqrJCqeOAFzCZBzRvlK7EegGCAIiQ"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | GODSENT | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL2kZKu-ydf6aGsOKE7d6WRDWLCkrog47I4SX7nzEwisGiDyNeqdyqUOlJyDYwwG7BpmW6HMg",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_god",
+      "image_inventory": "econ/weapon_cases/atlanta2017_god"
+    }
+  },
+  "crate-4335": {
+    "id": "crate-4335",
+    "name": "Autograph Capsule | HellRaisers | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from HellRaisers at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4335",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1823",
+        "name": "STYKO | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLiio_r8mxY6vb_PqA7I6LHXWbGxLh16LQxG3riwx8isDzUnoysIHiTZ1UiXpYiW6dU5edLPj_I"
+      },
+      {
+        "id": "sticker-1826",
+        "name": "Zero | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLrm4Tvs3oO7fH4PvQ6dfOVWmKRwL0gtrQxGyrmwkUl4TnSmdigci_GOFN1W8RuBbldXd3VQA8"
+      },
+      {
+        "id": "sticker-1829",
+        "name": "DeadFox | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m5fk-y1Doaf-MPU9IqnGXWHDkr904LY6Si3qxUpwt2rWn43_IHiVOwZ1X5QmF-QU8k7vZTCOmoA"
+      },
+      {
+        "id": "sticker-1832",
+        "name": "bondik | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLzkZjk9CkVuaL2afJoePXHWT7DxblztuQ9TnDqw091sTyBm96oJ3KeZw50DcdxE_lK7EdmUgg2JQ"
+      },
+      {
+        "id": "sticker-1835",
+        "name": "ANGE1 | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLwkJHl8WwDvKv4bP1sJfaXXWaUkrwj6bk5H3Hhkx9-5TnXntj4cHzEagV2D8AkW6dU5YXB579h"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | HellRaisers | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL5koSuq3YK7qKrPfE9dvTDD2bAkLgi47I5HX7llE916mmEzd-rIi-eZwAnCYwwG7BNLaG_Ig",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_hlr",
+      "image_inventory": "econ/weapon_cases/atlanta2017_hlr"
+    }
+  },
+  "crate-4336": {
+    "id": "crate-4336",
+    "name": "Autograph Capsule | mousesports | Atlanta 2017",
+    "description": "This capsule contains a single sticker autographed by one of the players from mousesports at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4336",
+    "type": "Autograph Capsule",
+    "first_sale_date": "2017-01-10",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-1928",
+        "name": "chrisJ | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLyloTp7igVuqX6bfY5IaOXWzTCwuhys-BqSy3rwk4m4DuAztmrJ3-Vb1UgXJF2R_lK7Ec3Obv-og"
+      },
+      {
+        "id": "sticker-1931",
+        "name": "denis | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL1m5jp7mwK6_OoMPVuIfPBXj6Tl74h5uM5Fy_jkE93tz-DzYn9dH_FagIgX5EkW6dU5bn9Ahhr"
+      },
+      {
+        "id": "sticker-1934",
+        "name": "Spiidi | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiLijp_p-SsVvaGoPPBpJKnHC2LCl-8n5uVrGnG1zB5x5Tncwt2qI3yTaQQgXpN0E_lK7Efha4YPcw"
+      },
+      {
+        "id": "sticker-1937",
+        "name": "loWel | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL9kYHl8WxYuqP-P6ZvdKiQCGPAmLku47dvTSq2kRkl4DvTmYusIi6QZwYhXpJ2W6dU5fdZ8sfC"
+      },
+      {
+        "id": "sticker-1940",
+        "name": "NiKo | Atlanta 2017",
+        "rarity": {
+          "id": "rarity_rare",
+          "name": "High Grade",
+          "color": "#4b69ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpUruRiL_l53vsyNdvaT6OqJvIvSQDGWTmb0mtbJqGXqylk515m6Dz9epIi3FPQNxAsduBbldwjyCBBw"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Autograph Capsule | mousesports | Atlanta 2017",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL8jYWu_3QJuaqsafc0d6iSVzfCxO0u5eQ-S3yyk0witzuGm4ygdi6Taw5zCowwG7AXM-6Z9g",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_signature_pack_atlanta2017_mss",
+      "image_inventory": "econ/weapon_cases/atlanta2017_mss"
+    }
+  }
+}

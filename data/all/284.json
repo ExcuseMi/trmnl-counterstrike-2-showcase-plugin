@@ -1,0 +1,3138 @@
+{
+  "skin-16044409b9f9_1_so": {
+    "id": "skin-16044409b9f9_1_so",
+    "skin_id": "skin-16044409b9f9",
+    "name": "Souvenir MP7 | Anodized Navy (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "an_navy",
+      "name": "Anodized Navy"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "28",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "Souvenir MP7 | Anodized Navy (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 4,
+      "name": "Anodized",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#anodized"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_Cxk4fO4cZthKfebGinIw-0v5-cxS33kwEh2tz-HyYugJC7FZwVyXJZ2FO4CtBa4xtPkN-nn-UWA3HYryggq",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_an_navy_light"
+    }
+  },
+  "skin-0789e14af0b1_0": {
+    "id": "skin-0789e14af0b1_0",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "MP7 | Armor Core (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Armor Core (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-1gSCGn2xhw6zjSzYysICiUOgV0Cpd1TORe5BW9w922Nrux5gKLitpGz3irhnlXrnE866qixJk",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_light"
+    }
+  },
+  "skin-0789e14af0b1_1": {
+    "id": "skin-0789e14af0b1_1",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "MP7 | Armor Core (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Armor Core (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-1gSCGn2xhw6zjSzYysICiUOgV0Cpd1TORe5BW9w922Nrux5gKLitpGz3irhnlXrnE866qixJk",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_light"
+    }
+  },
+  "skin-0789e14af0b1_2": {
+    "id": "skin-0789e14af0b1_2",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "MP7 | Armor Core (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Armor Core (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-xsSyCmmFN062zQmI2tJSjDZgQiCMRwQLMDshPsxtDmPuriswbaiNlHmSv4jXgd8G81tMBKhPbN",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_medium"
+    }
+  },
+  "skin-0789e14af0b1_3": {
+    "id": "skin-0789e14af0b1_3",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "MP7 | Armor Core (Well-Worn)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Armor Core (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-xsSyCmmFN062zQmI2tJSjDZgQiCMRwQLMDshPsxtDmPuriswbaiNlHmSv4jXgd8G81tMBKhPbN",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_medium"
+    }
+  },
+  "skin-0789e14af0b1_4": {
+    "id": "skin-0789e14af0b1_4",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "MP7 | Armor Core (Battle-Scarred)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Armor Core (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-lsTj-q2x534D_dzo6sI36VZlAgAsBxR7VftEW7l4K1Zb-041CLg91AzXqoiitXrnE82KEWOkU",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_heavy"
+    }
+  },
+  "skin-0789e14af0b1_0_st": {
+    "id": "skin-0789e14af0b1_0_st",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "StatTrak™ MP7 | Armor Core (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Armor Core (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-1gSCGn2xhw6zjSzYysICiUOgV0Cpd1TORe5BW9w922Nrux5gKLitpGz3irhnlXrnE866qixJk",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_light"
+    }
+  },
+  "skin-0789e14af0b1_1_st": {
+    "id": "skin-0789e14af0b1_1_st",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "StatTrak™ MP7 | Armor Core (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Armor Core (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-1gSCGn2xhw6zjSzYysICiUOgV0Cpd1TORe5BW9w922Nrux5gKLitpGz3irhnlXrnE866qixJk",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_light"
+    }
+  },
+  "skin-0789e14af0b1_2_st": {
+    "id": "skin-0789e14af0b1_2_st",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "StatTrak™ MP7 | Armor Core (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Armor Core (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-xsSyCmmFN062zQmI2tJSjDZgQiCMRwQLMDshPsxtDmPuriswbaiNlHmSv4jXgd8G81tMBKhPbN",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_medium"
+    }
+  },
+  "skin-0789e14af0b1_3_st": {
+    "id": "skin-0789e14af0b1_3_st",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "StatTrak™ MP7 | Armor Core (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Armor Core (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-xsSyCmmFN062zQmI2tJSjDZgQiCMRwQLMDshPsxtDmPuriswbaiNlHmSv4jXgd8G81tMBKhPbN",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_medium"
+    }
+  },
+  "skin-0789e14af0b1_4_st": {
+    "id": "skin-0789e14af0b1_4_st",
+    "skin_id": "skin-0789e14af0b1",
+    "name": "StatTrak™ MP7 | Armor Core (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with black oil-based paint and given brushed stainless steel parts and inlay.\\n\\n<i>Perfect for the Operator that values sophistication as well as firepower - Booth, Arms Dealer</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_mp7_ultramodern",
+      "name": "Armor Core"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "423",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Armor Core (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 8,
+      "name": "Patina",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-lsTj-q2x534D_dzo6sI36VZlAgAsBxR7VftEW7l4K1Zb-041CLg91AzXqoiitXrnE82KEWOkU",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_aq_mp7_ultramodern_heavy"
+    }
+  },
+  "skin-cab4b847a978_0": {
+    "id": "skin-cab4b847a978_0",
+    "skin_id": "skin-cab4b847a978",
+    "name": "MP7 | Urban Hazard (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Urban Hazard (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F6ueZhW2fgx0gl4WTczdj7I3LFaQYjDcQiE-Beuhe6xIXnP-_l41eKi9pEyH79kGoXuW6iY_I1",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_light"
+    }
+  },
+  "skin-cab4b847a978_1": {
+    "id": "skin-cab4b847a978_1",
+    "skin_id": "skin-cab4b847a978",
+    "name": "MP7 | Urban Hazard (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Urban Hazard (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F6ueZhW2fgx0gl4WTczdj7I3LFaQYjDcQiE-Beuhe6xIXnP-_l41eKi9pEyH79kGoXuW6iY_I1",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_light"
+    }
+  },
+  "skin-cab4b847a978_2": {
+    "id": "skin-cab4b847a978_2",
+    "skin_id": "skin-cab4b847a978",
+    "name": "MP7 | Urban Hazard (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Urban Hazard (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F7teVgWiT9wExz52nVyIysJCmePVIhApMkEO8Nuheww9PuMe3h5w2K3oxHz3r22jQJsHiZ9Gbu9w",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_medium"
+    }
+  },
+  "skin-cab4b847a978_3": {
+    "id": "skin-cab4b847a978_3",
+    "skin_id": "skin-cab4b847a978",
+    "name": "MP7 | Urban Hazard (Well-Worn)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Urban Hazard (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F7teVgWiT9wExz52nVyIysJCmePVIhApMkEO8Nuheww9PuMe3h5w2K3oxHz3r22jQJsHiZ9Gbu9w",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_medium"
+    }
+  },
+  "skin-cab4b847a978_4": {
+    "id": "skin-cab4b847a978_4",
+    "skin_id": "skin-cab4b847a978",
+    "name": "MP7 | Urban Hazard (Battle-Scarred)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Urban Hazard (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F-teB_Vmfhx0R05W7Ty4n6dCmWZ1MhCJZ1FLMD4Bm5kdLjNO637gyKg90UyX_2kGoXuWBhAQPl",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_heavy"
+    }
+  },
+  "skin-cab4b847a978_0_st": {
+    "id": "skin-cab4b847a978_0_st",
+    "skin_id": "skin-cab4b847a978",
+    "name": "StatTrak™ MP7 | Urban Hazard (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F6ueZhW2fgx0gl4WTczdj7I3LFaQYjDcQiE-Beuhe6xIXnP-_l41eKi9pEyH79kGoXuW6iY_I1",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_light"
+    }
+  },
+  "skin-cab4b847a978_1_st": {
+    "id": "skin-cab4b847a978_1_st",
+    "skin_id": "skin-cab4b847a978",
+    "name": "StatTrak™ MP7 | Urban Hazard (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F6ueZhW2fgx0gl4WTczdj7I3LFaQYjDcQiE-Beuhe6xIXnP-_l41eKi9pEyH79kGoXuW6iY_I1",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_light"
+    }
+  },
+  "skin-cab4b847a978_2_st": {
+    "id": "skin-cab4b847a978_2_st",
+    "skin_id": "skin-cab4b847a978",
+    "name": "StatTrak™ MP7 | Urban Hazard (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F7teVgWiT9wExz52nVyIysJCmePVIhApMkEO8Nuheww9PuMe3h5w2K3oxHz3r22jQJsHiZ9Gbu9w",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_medium"
+    }
+  },
+  "skin-cab4b847a978_3_st": {
+    "id": "skin-cab4b847a978_3_st",
+    "skin_id": "skin-cab4b847a978",
+    "name": "StatTrak™ MP7 | Urban Hazard (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F7teVgWiT9wExz52nVyIysJCmePVIhApMkEO8Nuheww9PuMe3h5w2K3oxHz3r22jQJsHiZ9Gbu9w",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_medium"
+    }
+  },
+  "skin-cab4b847a978_4_st": {
+    "id": "skin-cab4b847a978_4_st",
+    "skin_id": "skin-cab4b847a978",
+    "name": "StatTrak™ MP7 | Urban Hazard (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7-commander",
+      "name": "Urban Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "354",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F-teB_Vmfhx0R05W7Ty4n6dCmWZ1MhCJZ1FLMD4Bm5kdLjNO637gyKg90UyX_2kGoXuWBhAQPl",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7-commander_heavy"
+    }
+  },
+  "skin-3994ae535237_0": {
+    "id": "skin-3994ae535237_0",
+    "skin_id": "skin-3994ae535237",
+    "name": "MP7 | Special Delivery (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Special Delivery (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJvOhuRz39xRhytjuBm9n4d3yXbQF1XJAhQLID4BTskobhZb-35wXZ2toTySz2jTQJsHhDRFQUDw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_light"
+    }
+  },
+  "skin-3994ae535237_1": {
+    "id": "skin-3994ae535237_1",
+    "skin_id": "skin-3994ae535237",
+    "name": "MP7 | Special Delivery (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Special Delivery (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJvOhuRz39xRhytjuBm9n4d3yXbQF1XJAhQLID4BTskobhZb-35wXZ2toTySz2jTQJsHhDRFQUDw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_light"
+    }
+  },
+  "skin-3994ae535237_2": {
+    "id": "skin-3994ae535237_2",
+    "skin_id": "skin-3994ae535237",
+    "name": "MP7 | Special Delivery (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Special Delivery (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJveRtRjy-2xh362SDw4v7dymRbA90CsF5TeYJ4BS8mtyzZevg51CKjINCnn-vh39XrnE8devuM34",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_medium"
+    }
+  },
+  "skin-3994ae535237_3": {
+    "id": "skin-3994ae535237_3",
+    "skin_id": "skin-3994ae535237",
+    "name": "MP7 | Special Delivery (Well-Worn)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Special Delivery (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJveRtRjy-2xh362SDw4v7dymRbA90CsF5TeYJ4BS8mtyzZevg51CKjINCnn-vh39XrnE8devuM34",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_medium"
+    }
+  },
+  "skin-3994ae535237_4": {
+    "id": "skin-3994ae535237_4",
+    "skin_id": "skin-3994ae535237",
+    "name": "MP7 | Special Delivery (Battle-Scarred)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "MP7 | Special Delivery (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJuORoWTD9zE0mtWndwo34JX6SagEoWZclE-YN4Bm-xNyzNbnl51Tcg4JHy336hjQJsHioE1dxGg",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_heavy"
+    }
+  },
+  "skin-3994ae535237_0_st": {
+    "id": "skin-3994ae535237_0_st",
+    "skin_id": "skin-3994ae535237",
+    "name": "StatTrak™ MP7 | Special Delivery (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Special Delivery (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJvOhuRz39xRhytjuBm9n4d3yXbQF1XJAhQLID4BTskobhZb-35wXZ2toTySz2jTQJsHhDRFQUDw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_light"
+    }
+  },
+  "skin-3994ae535237_1_st": {
+    "id": "skin-3994ae535237_1_st",
+    "skin_id": "skin-3994ae535237",
+    "name": "StatTrak™ MP7 | Special Delivery (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Special Delivery (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJvOhuRz39xRhytjuBm9n4d3yXbQF1XJAhQLID4BTskobhZb-35wXZ2toTySz2jTQJsHhDRFQUDw",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_light"
+    }
+  },
+  "skin-3994ae535237_2_st": {
+    "id": "skin-3994ae535237_2_st",
+    "skin_id": "skin-3994ae535237",
+    "name": "StatTrak™ MP7 | Special Delivery (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Special Delivery (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJveRtRjy-2xh362SDw4v7dymRbA90CsF5TeYJ4BS8mtyzZevg51CKjINCnn-vh39XrnE8devuM34",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_medium"
+    }
+  },
+  "skin-3994ae535237_3_st": {
+    "id": "skin-3994ae535237_3_st",
+    "skin_id": "skin-3994ae535237",
+    "name": "StatTrak™ MP7 | Special Delivery (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Special Delivery (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJveRtRjy-2xh362SDw4v7dymRbA90CsF5TeYJ4BS8mtyzZevg51CKjINCnn-vh39XrnE8devuM34",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_medium"
+    }
+  },
+  "skin-3994ae535237_4_st": {
+    "id": "skin-3994ae535237_4_st",
+    "skin_id": "skin-3994ae535237",
+    "name": "StatTrak™ MP7 | Special Delivery (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_classified",
+      "name": "Special Delivery"
+    },
+    "min_float": 0,
+    "max_float": 0.62,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "500",
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Special Delivery (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJuORoWTD9zE0mtWndwo34JX6SagEoWZclE-YN4Bm-xNyzNbnl51Tcg4JHy336hjQJsHioE1dxGg",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_classified_heavy"
+    }
+  },
+  "skin-335f1a313262_0": {
+    "id": "skin-335f1a313262_0",
+    "skin_id": "skin-335f1a313262",
+    "name": "MP7 | Abyssal Apparition (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "MP7 | Abyssal Apparition (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsAm6Xyfo45uc9GnnnzBh-5zzTw9n9I3mQPAEgD5YlFuIOthC6wNK1MeKwsgHeiZUFk3vcOiyhPQ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_light"
+    }
+  },
+  "skin-335f1a313262_1": {
+    "id": "skin-335f1a313262_1",
+    "skin_id": "skin-335f1a313262",
+    "name": "MP7 | Abyssal Apparition (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "MP7 | Abyssal Apparition (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsAm6Xyfo45uc9GnnnzBh-5zzTw9n9I3mQPAEgD5YlFuIOthC6wNK1MeKwsgHeiZUFk3vcOiyhPQ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_light"
+    }
+  },
+  "skin-335f1a313262_2": {
+    "id": "skin-335f1a313262_2",
+    "skin_id": "skin-335f1a313262",
+    "name": "MP7 | Abyssal Apparition (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "MP7 | Abyssal Apparition (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsA2KUyPt7_rBvFy2wx01xsjmDmdz4dH_EbFAoAptxQrNYtRjsm4CzPujn4wLW2otbjXKpALPBt8Y",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_medium"
+    }
+  },
+  "skin-335f1a313262_3": {
+    "id": "skin-335f1a313262_3",
+    "skin_id": "skin-335f1a313262",
+    "name": "MP7 | Abyssal Apparition (Well-Worn)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "MP7 | Abyssal Apparition (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsA2KUyPt7_rBvFy2wx01xsjmDmdz4dH_EbFAoAptxQrNYtRjsm4CzPujn4wLW2otbjXKpALPBt8Y",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_medium"
+    }
+  },
+  "skin-335f1a313262_4": {
+    "id": "skin-335f1a313262_4",
+    "skin_id": "skin-335f1a313262",
+    "name": "MP7 | Abyssal Apparition (Battle-Scarred)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "MP7 | Abyssal Apparition (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsBmKR1_c45-drHSrgzBxytWTUn9igc3uSZg8hCsEkF-Nc5hjrktK2Purq4A3YiJUFk3tDqNy7tg",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_heavy"
+    }
+  },
+  "skin-335f1a313262_0_st": {
+    "id": "skin-335f1a313262_0_st",
+    "skin_id": "skin-335f1a313262",
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Abyssal Apparition (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsAm6Xyfo45uc9GnnnzBh-5zzTw9n9I3mQPAEgD5YlFuIOthC6wNK1MeKwsgHeiZUFk3vcOiyhPQ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_light"
+    }
+  },
+  "skin-335f1a313262_1_st": {
+    "id": "skin-335f1a313262_1_st",
+    "skin_id": "skin-335f1a313262",
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Abyssal Apparition (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsAm6Xyfo45uc9GnnnzBh-5zzTw9n9I3mQPAEgD5YlFuIOthC6wNK1MeKwsgHeiZUFk3vcOiyhPQ",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_light"
+    }
+  },
+  "skin-335f1a313262_2_st": {
+    "id": "skin-335f1a313262_2_st",
+    "skin_id": "skin-335f1a313262",
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Abyssal Apparition (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsA2KUyPt7_rBvFy2wx01xsjmDmdz4dH_EbFAoAptxQrNYtRjsm4CzPujn4wLW2otbjXKpALPBt8Y",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_medium"
+    }
+  },
+  "skin-335f1a313262_3_st": {
+    "id": "skin-335f1a313262_3_st",
+    "skin_id": "skin-335f1a313262",
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Abyssal Apparition (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsA2KUyPt7_rBvFy2wx01xsjmDmdz4dH_EbFAoAptxQrNYtRjsm4CzPujn4wLW2otbjXKpALPBt8Y",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_medium"
+    }
+  },
+  "skin-335f1a313262_4_st": {
+    "id": "skin-335f1a313262_4_st",
+    "skin_id": "skin-335f1a313262",
+    "name": "StatTrak™ MP7 | Abyssal Apparition (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job depicts abandoned souls falling into a pit of nightmares.\\n\\n<i>You cannot escape your destiny</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_fear",
+      "name": "Abyssal Apparition"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1133",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Abyssal Apparition (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsBmKR1_c45-drHSrgzBxytWTUn9igc3uSZg8hCsEkF-Nc5hjrktK2Purq4A3YiJUFk3tDqNy7tg",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_fear_heavy"
+    }
+  },
+  "skin-b40b6df277a2_0": {
+    "id": "skin-b40b6df277a2_0",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "MP7 | Guerrilla (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Guerrilla (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMWuZxuZi_uU7Hy22xE5x5TnWyYqvIi2SaVN0C8d1QeVf4RC-kdC0MOPl4Qbf2dhbjXKpOJ4z2JA",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_light"
+    }
+  },
+  "skin-b40b6df277a2_1": {
+    "id": "skin-b40b6df277a2_1",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "MP7 | Guerrilla (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Guerrilla (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMWuZxuZi_uU7Hy22xE5x5TnWyYqvIi2SaVN0C8d1QeVf4RC-kdC0MOPl4Qbf2dhbjXKpOJ4z2JA",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_light"
+    }
+  },
+  "skin-b40b6df277a2_2": {
+    "id": "skin-b40b6df277a2_2",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "MP7 | Guerrilla (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Guerrilla (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMWqVxedjva84TXzhwkV24jvWy4z_eH2Ubg5xCMB5Fu4C4BLpxtTiNr-3sgLWiYtG02yg2dNPrTvu",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_medium"
+    }
+  },
+  "skin-b40b6df277a2_3": {
+    "id": "skin-b40b6df277a2_3",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "MP7 | Guerrilla (Well-Worn)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Guerrilla (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMWqVxedjva84TXzhwkV24jvWy4z_eH2Ubg5xCMB5Fu4C4BLpxtTiNr-3sgLWiYtG02yg2dNPrTvu",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_medium"
+    }
+  },
+  "skin-b40b6df277a2_4": {
+    "id": "skin-b40b6df277a2_4",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "MP7 | Guerrilla (Battle-Scarred)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Guerrilla (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMW-VwPhv_uQ_HijmlER-sm6BnNepIH7COwElA8MlE-INsxnqmobhYerl5wXd3d1bjXKp2BPYfsk",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_heavy"
+    }
+  },
+  "skin-b40b6df277a2_0_st": {
+    "id": "skin-b40b6df277a2_0_st",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "StatTrak™ MP7 | Guerrilla (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Guerrilla (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMWuZxuZi_uU7Hy22xE5x5TnWyYqvIi2SaVN0C8d1QeVf4RC-kdC0MOPl4Qbf2dhbjXKpOJ4z2JA",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_light"
+    }
+  },
+  "skin-b40b6df277a2_1_st": {
+    "id": "skin-b40b6df277a2_1_st",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "StatTrak™ MP7 | Guerrilla (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Guerrilla (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMWuZxuZi_uU7Hy22xE5x5TnWyYqvIi2SaVN0C8d1QeVf4RC-kdC0MOPl4Qbf2dhbjXKpOJ4z2JA",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_light"
+    }
+  },
+  "skin-b40b6df277a2_2_st": {
+    "id": "skin-b40b6df277a2_2_st",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "StatTrak™ MP7 | Guerrilla (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Guerrilla (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMWqVxedjva84TXzhwkV24jvWy4z_eH2Ubg5xCMB5Fu4C4BLpxtTiNr-3sgLWiYtG02yg2dNPrTvu",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_medium"
+    }
+  },
+  "skin-b40b6df277a2_3_st": {
+    "id": "skin-b40b6df277a2_3_st",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "StatTrak™ MP7 | Guerrilla (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Guerrilla (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMWqVxedjva84TXzhwkV24jvWy4z_eH2Ubg5xCMB5Fu4C4BLpxtTiNr-3sgLWiYtG02yg2dNPrTvu",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_medium"
+    }
+  },
+  "skin-b40b6df277a2_4_st": {
+    "id": "skin-b40b6df277a2_4_st",
+    "skin_id": "skin-b40b6df277a2",
+    "name": "StatTrak™ MP7 | Guerrilla (Battle-Scarred)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_khaki",
+      "name": "Guerrilla"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1096",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Guerrilla (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMW-VwPhv_uQ_HijmlER-sm6BnNepIH7COwElA8MlE-INsxnqmobhYerl5wXd3d1bjXKp2BPYfsk",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_khaki_heavy"
+    }
+  },
+  "skin-5b44cad3a5da_0": {
+    "id": "skin-5b44cad3a5da_0",
+    "skin_id": "skin-5b44cad3a5da",
+    "name": "MP7 | Nemesis (Factory New)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with the image of a metallic monster.\\n\\n<i>It's coming for you</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_nemsis",
+      "name": "Nemesis"
+    },
+    "min_float": 0,
+    "max_float": 0.32,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "481",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "MP7 | Nemesis (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6poLeOaHVicyOl-pK87Hyu1kR5_5j_WntigcXmXOlBzCZUjQeMLtBG6x9HuNrvl4gCP2I1B02yg2TXalB0S",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_nemsis_light"
+    }
+  },
+  "skin-5b44cad3a5da_1": {
+    "id": "skin-5b44cad3a5da_1",
+    "skin_id": "skin-5b44cad3a5da",
+    "name": "MP7 | Nemesis (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with the image of a metallic monster.\\n\\n<i>It's coming for you</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_nemsis",
+      "name": "Nemesis"
+    },
+    "min_float": 0,
+    "max_float": 0.32,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "481",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "MP7 | Nemesis (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6poLeOaHVicyOl-pK87Hyu1kR5_5j_WntigcXmXOlBzCZUjQeMLtBG6x9HuNrvl4gCP2I1B02yg2TXalB0S",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_nemsis_light"
+    }
+  },
+  "skin-5b44cad3a5da_2": {
+    "id": "skin-5b44cad3a5da_2",
+    "skin_id": "skin-5b44cad3a5da",
+    "name": "MP7 | Nemesis (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with the image of a metallic monster.\\n\\n<i>It's coming for you</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_nemsis",
+      "name": "Nemesis"
+    },
+    "min_float": 0,
+    "max_float": 0.32,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "481",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "MP7 | Nemesis (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6poLeOaHVidxOp_pewnS3jikUV162mHmImudHzFbQYkWcAkROBZ5xDplN3nY-zk7lffithMyjK-0H3NhAnhYg",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_nemsis_medium"
+    }
+  },
+  "skin-5b44cad3a5da_0_st": {
+    "id": "skin-5b44cad3a5da_0_st",
+    "skin_id": "skin-5b44cad3a5da",
+    "name": "StatTrak™ MP7 | Nemesis (Factory New)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with the image of a metallic monster.\\n\\n<i>It's coming for you</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_nemsis",
+      "name": "Nemesis"
+    },
+    "min_float": 0,
+    "max_float": 0.32,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_0",
+      "name": "Factory New"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "481",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Nemesis (Factory New)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6poLeOaHVicyOl-pK87Hyu1kR5_5j_WntigcXmXOlBzCZUjQeMLtBG6x9HuNrvl4gCP2I1B02yg2TXalB0S",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_nemsis_light"
+    }
+  },
+  "skin-5b44cad3a5da_1_st": {
+    "id": "skin-5b44cad3a5da_1_st",
+    "skin_id": "skin-5b44cad3a5da",
+    "name": "StatTrak™ MP7 | Nemesis (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with the image of a metallic monster.\\n\\n<i>It's coming for you</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_nemsis",
+      "name": "Nemesis"
+    },
+    "min_float": 0,
+    "max_float": 0.32,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "481",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Nemesis (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6poLeOaHVicyOl-pK87Hyu1kR5_5j_WntigcXmXOlBzCZUjQeMLtBG6x9HuNrvl4gCP2I1B02yg2TXalB0S",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_nemsis_light"
+    }
+  },
+  "skin-5b44cad3a5da_2_st": {
+    "id": "skin-5b44cad3a5da_2_st",
+    "skin_id": "skin-5b44cad3a5da",
+    "name": "StatTrak™ MP7 | Nemesis (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with the image of a metallic monster.\\n\\n<i>It's coming for you</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_nemsis",
+      "name": "Nemesis"
+    },
+    "min_float": 0,
+    "max_float": 0.32,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "481",
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified",
+      "color": "#d32ce6"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Nemesis (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6poLeOaHVidxOp_pewnS3jikUV162mHmImudHzFbQYkWcAkROBZ5xDplN3nY-zk7lffithMyjK-0H3NhAnhYg",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_nemsis_medium"
+    }
+  },
+  "skin-5c41a3861543_0": {
+    "id": "skin-5c41a3861543_0",
+    "skin_id": "skin-5c41a3861543",
+    "name": "MP7 | Mischief (Minimal Wear)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A concerning black and white smile has been painted atop a red base.\\n\\n<i>Up to no good</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_racketeer",
+      "name": "Mischief"
+    },
+    "min_float": 0.1,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "847",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Mischief (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZsI_uWGmKV09F6ueZhW2fnlE5x52Tdz4mscn6XOAFzXppyQ7RZtkTpwNzuMejn5wyPjYoTy336kGoXuS747mDn",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_racketeer_light"
+    }
+  },
+  "skin-5c41a3861543_1": {
+    "id": "skin-5c41a3861543_1",
+    "skin_id": "skin-5c41a3861543",
+    "name": "MP7 | Mischief (Field-Tested)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A concerning black and white smile has been painted atop a red base.\\n\\n<i>Up to no good</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_racketeer",
+      "name": "Mischief"
+    },
+    "min_float": 0.1,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "847",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Mischief (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZsI_uWGmKV09F7teVgWiT9l0R3tjiAmN76J3_BalchWZp2TbEDsRWxkNXmN7vm4QPa390UxS773TQJsHh94_Jp3w",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_racketeer_medium"
+    }
+  },
+  "skin-5c41a3861543_2": {
+    "id": "skin-5c41a3861543_2",
+    "skin_id": "skin-5c41a3861543",
+    "name": "MP7 | Mischief (Well-Worn)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A concerning black and white smile has been painted atop a red base.\\n\\n<i>Up to no good</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_racketeer",
+      "name": "Mischief"
+    },
+    "min_float": 0.1,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "847",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Mischief (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZsI_uWGmKV09F7teVgWiT9l0R3tjiAmN76J3_BalchWZp2TbEDsRWxkNXmN7vm4QPa390UxS773TQJsHh94_Jp3w",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_racketeer_medium"
+    }
+  },
+  "skin-5c41a3861543_3": {
+    "id": "skin-5c41a3861543_3",
+    "skin_id": "skin-5c41a3861543",
+    "name": "MP7 | Mischief (Battle-Scarred)",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A concerning black and white smile has been painted atop a red base.\\n\\n<i>Up to no good</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_racketeer",
+      "name": "Mischief"
+    },
+    "min_float": 0.1,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_4",
+      "name": "Battle-Scarred"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "847",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "MP7 | Mischief (Battle-Scarred)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZsI_uWGmKV09F-teB_VmfhkBxz5WzSwtyoJH7EbgFxCJN4E7ELtBS-xN22Neqw5FDWjt8WnHj5kGoXuTdhhykK",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_racketeer_heavy"
+    }
+  },
+  "skin-5c41a3861543_0_st": {
+    "id": "skin-5c41a3861543_0_st",
+    "skin_id": "skin-5c41a3861543",
+    "name": "StatTrak™ MP7 | Mischief (Minimal Wear)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A concerning black and white smile has been painted atop a red base.\\n\\n<i>Up to no good</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_racketeer",
+      "name": "Mischief"
+    },
+    "min_float": 0.1,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_1",
+      "name": "Minimal Wear"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "847",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Mischief (Minimal Wear)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZsI_uWGmKV09F6ueZhW2fnlE5x52Tdz4mscn6XOAFzXppyQ7RZtkTpwNzuMejn5wyPjYoTy336kGoXuS747mDn",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_racketeer_light"
+    }
+  },
+  "skin-5c41a3861543_1_st": {
+    "id": "skin-5c41a3861543_1_st",
+    "skin_id": "skin-5c41a3861543",
+    "name": "StatTrak™ MP7 | Mischief (Field-Tested)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A concerning black and white smile has been painted atop a red base.\\n\\n<i>Up to no good</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_racketeer",
+      "name": "Mischief"
+    },
+    "min_float": 0.1,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_2",
+      "name": "Field-Tested"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "847",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Mischief (Field-Tested)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZsI_uWGmKV09F7teVgWiT9l0R3tjiAmN76J3_BalchWZp2TbEDsRWxkNXmN7vm4QPa390UxS773TQJsHh94_Jp3w",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_racketeer_medium"
+    }
+  },
+  "skin-5c41a3861543_2_st": {
+    "id": "skin-5c41a3861543_2_st",
+    "skin_id": "skin-5c41a3861543",
+    "name": "StatTrak™ MP7 | Mischief (Well-Worn)",
+    "description": "<span style='color:#99ccff;'>This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.</span><br/><br/><span style='color:#cf6a32;'>This item tracks Confirmed Kills.</span><br/><br/> Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A concerning black and white smile has been painted atop a red base.\\n\\n<i>Up to no good</i>",
+    "weapon": {
+      "id": "weapon_mp7",
+      "weapon_id": 33,
+      "name": "MP7"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp7_racketeer",
+      "name": "Mischief"
+    },
+    "min_float": 0.1,
+    "max_float": 1,
+    "wear": {
+      "id": "SFUI_InvTooltip_Wear_Amount_3",
+      "name": "Well-Worn"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "847",
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": "StatTrak™ MP7 | Mischief (Well-Worn)",
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "style": {
+      "id": 7,
+      "name": "Custom Paint Job",
+      "url": "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZsI_uWGmKV09F7teVgWiT9l0R3tjiAmN76J3_BalchWZp2TbEDsRWxkNXmN7vm4QPa390UxS773TQJsHh94_Jp3w",
+    "original": {
+      "name": "weapon_mp7",
+      "image_inventory": "econ/default_generated/weapon_mp7_cu_mp7_racketeer_medium"
+    }
+  }
+}

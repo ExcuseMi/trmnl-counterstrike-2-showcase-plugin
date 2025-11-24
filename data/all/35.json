@@ -1,0 +1,1801 @@
+{
+  "crate-4351": {
+    "id": "crate-4351",
+    "name": "Spectrum Case",
+    "description": null,
+    "def_index": "4351",
+    "type": "Case",
+    "first_sale_date": "2017-03-01",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "skin-f945b5be9ee1",
+        "name": "PP-Bizon | Jungle Slipstream",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "641",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9s2sYb5iLs-HAXWe_ulkteRncCW6khUz_WjQn9msInvFOlIjCZJyFuMKsEG-l4blY-zh5lDWi4lFnCr53S1Juip1o7FVTY_WZWI"
+      },
+      {
+        "id": "skin-2501d2df72d4",
+        "name": "SCAR-20 | Blueprint",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "642",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7OeRaqh4JeCBB2mE_v11sfNWQyC0nQlp4jvQn92oJX-VaVIgW5QkQuYM5kLswNTnNL-w4QaK2YNFmXqqjSxJuzErvbi8Z0332w"
+      },
+      {
+        "id": "skin-8f997b65f837",
+        "name": "Desert Eagle | Oxide Blaze",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "645",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKF-JeKHMWKRxuJzj-JmXTu8kRgpjDGMnYftb32UPwJxDJokRuUIsRi_lNPhM7izsgXZi49GySiq2nxNuCdttbtUB_A7uvqAjSk2l_c"
+      },
+      {
+        "id": "skin-32ee365f968a",
+        "name": "Five-SeveN | Capillary",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "646",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j_dsRieMmRQguynLmY79IinFbA90CZN2Q-Bc4UW6x9KyZLnjtQCMjo8WyXr7jy1O6Ck_sfFCD_SqR6qLvA"
+      },
+      {
+        "id": "skin-fa522c8e6ebb",
+        "name": "MP7 | Akoben",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "649",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk4uL5V7B_KfKSAliJxOJ6v_ZWQyC0nQlpsWmHyIquci7EPQQgCZMkE7FZsUXpx9y2Mu6wsgbWjINFyir9iXlNujErvbjY0_iNfw"
+      },
+      {
+        "id": "skin-bce064b53f43",
+        "name": "P250 | Ripple",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "650",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNW0OL8PfRSM-CGGmmZytF6ueZhW2fnlht-5juGyY2vIC2SalQjX8Z1RbVesUG4m9XlN-_ntQPa3YNBn332kGoXubXJFvZo"
+      },
+      {
+        "id": "skin-68e37aff8fd3",
+        "name": "Sawed-Off | Zander",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "655",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2veZt-IeeWCmiWx9Fsse9tSjvhqhEutDWR1N79dXrBbFUgXpt4QrJb5hfuktTgYuLrtAXXiNpGySuvjS8b6i9j4escEf1ycSPZoqI"
+      },
+      {
+        "id": "skin-1f899f97bd99",
+        "name": "Galil AR | Crimson Tsunami",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "647",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OG-V6NsLPmfMXCR1-tJvOhuRz39x0Qm6mjQzo6qeHLGOg8nXJUiE-UKtxa5mtPgZu3rtFGMiIwXxH-viDQJsHh48m4KFg"
+      },
+      {
+        "id": "skin-61f4c5cf38a6",
+        "name": "M249 | Emerald Poison Dart",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "648",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0P_8PP1SJuKcCVif0-dxue9oQxa_nBovp3PRzNb8JX2VO1IpDsclRrEPtxXtxNSxYuuw4QHai9gWyCT2j3gYuHlt_a9cBlcR8wa2"
+      },
+      {
+        "id": "skin-d3caeffc5ec8",
+        "name": "MAC-10 | Last Dive",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "651",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a7s2jaac8cM-HBmKvze9lpN5tRj-2qhEutDWR1N76Iy_BblUnCZd5QLFesEXrmtWzMui05wPc3o4TnnqojS8au3094ekcEf1ydsF2boo"
+      },
+      {
+        "id": "skin-b0c874f3f971",
+        "name": "UMP-45 | Scaffold",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "652",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1c_M27ZbRSIfKKHXSvzedxuPUnGi2ywBwhsmuDnNn9cX_EbA4mCcF1QbJZ5BPtm9fjZejnslDciNgUzTK-0H2MLp31Hw"
+      },
+      {
+        "id": "skin-bc2d596ca9ca",
+        "name": "XM1014 | Seasons",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "654",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7uORcKlSLPWSCFiWwOpzj-1gSCGn200i6mvRn4mpdCiVblRxDJd3FuILuxi7ktHuNb-04wzW2dpGzin-2ihXrnE8PcTco88"
+      },
+      {
+        "id": "skin-d85f6159fe4a",
+        "name": "AWP | Fever Dream",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "640",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJvOhuRz39kE1w4jiAzNiod3qTOgcgXpAlQ-ML5hjqxtHjZOrrtlHWit9EyCj9iDQJsHhCZP-wUg"
+      },
+      {
+        "id": "skin-d1f0620f06f3",
+        "name": "CZ75-Auto | Xiangliu",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "643",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1c_M2tcpt-LvGYC3Sv0ftkoO1scCW6khUz_WTcw9r7JH7BOgApApojQuBb5kO5lNO1ZO_h4VaM2o5Gm36s3HgbvH51o7FVgkdxNDg"
+      },
+      {
+        "id": "skin-7b3af96bd1e4",
+        "name": "M4A1-S | Decimator",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "644",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_eAMWrEwL9JtORqRiSygRI1jDGMnYftb3iUb1dxW5ImFLNftxCxktflZLm2tgaP2otGyn_-hytOvy9q5elQV_A7uvqA6CRSoZY"
+      },
+      {
+        "id": "skin-ba052cf18c66",
+        "name": "AK-47 | Bloodsport",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "639",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiVI0POlPPNSIvycAWOD0eFkpN5lRi67gVN15mmDw9egci_EPFAkDMQlTeZe4EXplNa0Yrvr5wbd345GyHioiC4b8G81tFuqg_k_"
+      },
+      {
+        "id": "skin-0770dabcd885",
+        "name": "USP-S | Neo-Noir",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "653",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSI-WsG3SA0tF4v-h7cCW6khUz_WXdmd-vI3uRPwEkApR4QuBcu0Xrk4biYr_mtQXdidlCz3r63Ska7Hx1o7FVWuokIcU"
+      }
+    ],
+    "contains_rare": [
+      {
+        "id": "skin-fcaadd7c92cc",
+        "name": "★ Bowie Knife | Marble Fade",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "413",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3vd5kTjuxmRgYtTyBn7D1KCzPKhgpXMdyTeBb5BPuktPvZOi2sgWM2d9HmSr-i3xAuidssO8HBKcsrvLXkUifZhxP_T8X"
+      },
+      {
+        "id": "skin-90d3cf089321",
+        "name": "★ Bowie Knife | Tiger Tooth",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "409",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3vt59Ri62hyIooTyLnYrGLSLANkI-XJJ0FLNY5BOxw4XjNu-zsQDd2IpFyy32jS0b7Ss95L5RVaIk_qyE3RaBb-Pz4OFuTg"
+      },
+      {
+        "id": "skin-3ca96a918c35",
+        "name": "★ Bowie Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "415",
+        "phase": "Ruby",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3vd57WiuqqhAmoT-Jn4bjJC_4Ml93UtZuQe5Y50O-wNzhMuji5w3e344Rny-q3H5K7iZtsekLU6El-6eBi1vHY6p9v8dqQrLELQ"
+      },
+      {
+        "id": "skin-dfd71b7017a4",
+        "name": "★ Bowie Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "416",
+        "phase": "Sapphire",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3vd56TjmjnRQ1tgKIm537LS7OJFN0Zc4pEr9OrBaxl4KxNr7r5VHZiYtBzH-qiShJ7y1v4roHAvZ2qfLTjlvDOLw_sMIdZKHwjx9VvzI"
+      },
+      {
+        "id": "skin-793b9eb6b4b7",
+        "name": "★ Bowie Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "417",
+        "phase": "Black Pearl",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3vd5rQyiwng0isi-JpYL4MynLO19qX8YfGb5d6lSmxt2yZeLq5QeI2dgWzSmsjiMauyxr5O4LB6Ej-6PXjVyQZLc54pZRJOHnE0pg4-kgmA"
+      },
+      {
+        "id": "skin-c458ae57ce73",
+        "name": "★ Bowie Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "418",
+        "phase": "Phase 1",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3vd5tQDmjmRg1jC2Nm5z8cBTLN1F4TowmEeFct0WxkIayNe7ksQOKiIwXyH35jCIb63xo47kAB6Vz8qPR2lmQL_Rjti6PPai2"
+      },
+      {
+        "id": "skin-f7693da65ea4",
+        "name": "★ Bowie Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "419",
+        "phase": "Phase 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3vd5tQDmjmRg1jC2Nm5z8cxTLN1F4TowiELQMtkG_ldDvNOri4VDXioMTxC6s2CJN7C1osOtXAqMk__eCiV2UL_RjtoCtKbyV"
+      },
+      {
+        "id": "skin-a03383d1c1a8",
+        "name": "★ Bowie Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "420",
+        "phase": "Phase 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3vd5tQDmjmRg1jC2Nm5z8chTLN1F4ToxwQ7FbtxXuldSyZuuztVHWiYlCxC75hnlO6ic_secAV6dxqaPQjQ3FL_RjtlsVJsRA"
+      },
+      {
+        "id": "skin-c9f45eb5657e",
+        "name": "★ Bowie Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "421",
+        "phase": "Phase 4",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3vd5tQDmjmRg1jC2Nm5z8dRTLN1F4Tox3E-cOukLuk9W0NLjr7g2Pj4lAzy782ytO6Sdv5e4GVKQl8qTRiQGSL_Rjtvx55ayw"
+      },
+      {
+        "id": "skin-7243492200ab",
+        "name": "★ Bowie Knife | Damascus Steel",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "411",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3od5tTiSyhh4yoALcyrD1KCzPKhhxX5RxTeYN4BnuxtPgMurg5Qbbjt4UxC2sjS1N7ntv5-lRB_YsqPHekUifZkcTPu2g"
+      },
+      {
+        "id": "skin-2a4a5474d917",
+        "name": "★ Bowie Knife | Ultraviolet",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "98",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNFlv955WjujmRgYvzSCkpu3dHKePw8oW8N5QOYLshW-wdC1N--0tAHajoNCmCj7iStI6Hw-tegBU71lpPP9HYRDsQ"
+      },
+      {
+        "id": "skin-556822409332",
+        "name": "★ Bowie Knife | Rust Coat",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "414",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3od56Wyy2mSIsvTSDn7D0JC_OK1s-C5F1RO4Ktka_kofuMevjtgWMjI8QmSj7iStM7itv6-hXUfEnqKHQ2xaBb-ObX0d6iA"
+      },
+      {
+        "id": "skin-c14ef2ceee15",
+        "name": "★ Butterfly Knife | Marble Fade",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "413",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2qvzO9ksu1scC-ykRgYvzSCkpu3JCrBPVMkCZIiFLUC40S-l9DkZerg4Qfc3Y9DzCuo3SlK6ydv5e9UA71lpPNwsjHPzA"
+      },
+      {
+        "id": "skin-9f5234d3821f",
+        "name": "★ Butterfly Knife | Tiger Tooth",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "409",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2mv1edxtfNWQDuymxoijDGMnYftb3mfOg8hAsFzRrYCtxKxxtPlZOnl5gaM3ogQmX_7jnkdvHppseoGVvI7uvqAJhUGkWs"
+      },
+      {
+        "id": "skin-e0c77218a563",
+        "name": "★ Butterfly Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "415",
+        "phase": "Ruby",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2qv0_t0qd5kTjuxmRguqTiBpYPwJiPTcAcnCsF0FLFcsRHtwNy0Neji41aKiNhAzyqsjyxK7X5o4u8GB_UmrPDJz1aWz8iftUI"
+      },
+      {
+        "id": "skin-e11ce6f6e025",
+        "name": "★ Butterfly Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "619",
+        "phase": "Sapphire",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2qv0u9moOlgXSyMmBw1sTGAk5X8JRTFAVp5Xco0W-ENtRXswYC1Mu_ks1fdjN9EyiqthiMbvHtv5btQBPck-KbT2gnHM-Ajoc5Ufn65u8U"
+      },
+      {
+        "id": "skin-89f34e17d8b4",
+        "name": "★ Butterfly Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "617",
+        "phase": "Black Pearl",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2qvw-J3s-p5SiihmSIqsi-HlorwOy7DAVRPVssnHaMUuhe9xIHlMuvqtgPf2IoTyC383Sod7CY-sr4DVfZ2qKPU3g-TNuE-545DeqjFvb87vg"
+      },
+      {
+        "id": "skin-fe2b6114d2ac",
+        "name": "★ Butterfly Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "418",
+        "phase": "Phase 1",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2qvxeFmoO1sXRajnRw0tmy6lob-KT-JOgRzAsZ3RuNfs0a5x9HhYuLj4gbbg99NySr6iy4d6C9t4r0EUqF0qLqX0V8wFp5G5A"
+      },
+      {
+        "id": "skin-c5c8a3b9df72",
+        "name": "★ Butterfly Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "618",
+        "phase": "Phase 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2qvxeFmoO1sXRajnRw0tm-6mLD1KCzPKhh2DMckEeYNshC6koe1Munq5AbbitgTyyX6jixL7i5qteYLA6Mh-vWGkUifZkSF3e67"
+      },
+      {
+        "id": "skin-9c3fcfde3cf3",
+        "name": "★ Butterfly Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "420",
+        "phase": "Phase 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2qvxeFmoO1sXRajnRw0tm66lob-KT-JaAJzD5FxELELtRa4lIe2M7mw7wLfjY9DzSj6jXxA6X0-5-wDAqst_bqX0V_xuMbXZA"
+      },
+      {
+        "id": "skin-c625bfd7788d",
+        "name": "★ Butterfly Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "421",
+        "phase": "Phase 4",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2qvxeFmoO1sXRajnRw0tmm6lob-KT-JPVQpA5d3Q7IM4Ra_ltLgN7jn4wKPi41Nyyir3CpK6H1vt7xWAKt0qLqX0V-7tNsN5g"
+      },
+      {
+        "id": "skin-da19db61f316",
+        "name": "★ Butterfly Knife | Damascus Steel",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "411",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD3avxe97sfJqWjqMzE0YvzSCkpu3J32VZgF1CZN1QLULsUWwkNTjNrnhtALYjo1Cnn762H4f5io9t-gBBL1lpPNt-MvFbw"
+      },
+      {
+        "id": "skin-0063b0378b5b",
+        "name": "★ Butterfly Knife | Ultraviolet",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "98",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsHWiv0ftkoO1scCW6khUz_WuHyor4cnLEPAMjD5F2FOcLt0O-ktLgMLvg7wbYjIJNmH-viX9A6351o7FVdgPZdkU"
+      },
+      {
+        "id": "skin-466c6dee0868",
+        "name": "★ Butterfly Knife | Rust Coat",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "414",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD3av0vpzte1WRCe6kxgYvjiBk5r0by7EbQMjDcdwF-UC4BG4l9C1ZO7q4VbYj49AySmt339LvH1ptupXUKA7uvqA1J4Dodk"
+      },
+      {
+        "id": "skin-cee45806a6bf",
+        "name": "★ Falchion Knife | Marble Fade",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "413",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SA1idwPx0vORWSSi3kCIrujqNjsGqdXrFbFIlA8QjTO8Lu0O7m921ZLy05gfXj99Aziz_2nscuic6sr4AT-N7rSTjmXt5"
+      },
+      {
+        "id": "skin-b5876a624edd",
+        "name": "★ Falchion Knife | Tiger Tooth",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "409",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SAFiEyOlzot5mXSi9khgYvzSCkpu3cCiRZwIiDcZ2ReEO4EW5xtXlMuO05weKjYNBxS-tjytOvC495u0BWb1lpPPh4hsqrQ"
+      },
+      {
+        "id": "skin-04fb5d07991f",
+        "name": "★ Falchion Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "415",
+        "phase": "Ruby",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SA1iC1Oxvj-xoXSu_kBQ9tjm6lob-KT-JagN2CZV4QbYPtBe9ktDvYeLrsgLaiYtCmyT2j38aunpq47sEUfVx-LqX0V96C3cwag"
+      },
+      {
+        "id": "skin-4376543d7181",
+        "name": "★ Falchion Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "416",
+        "phase": "Sapphire",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SA1iDwP5muOh7Sha-lA8lvziMgIr9HifOOV5kFMB1TeAIsxi5w4K0Y7_jtVTc3d1MzX_3iSxAuy85seYDA6Bxq6eCjV7fcepqbrrX6Yc"
+      },
+      {
+        "id": "skin-17a57bfea011",
+        "name": "★ Falchion Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "417",
+        "phase": "Black Pearl",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SA1iSze91u_FsTju_qhAmoT-Jn4bjJC_4Ml93UtZuQLECtxDrkIHlMem041aP2ohHmymsjSkaun49te9UAKp3-PWBjg-QNqp9v8frwaFCRg"
+      },
+      {
+        "id": "skin-01c43b6ae7d3",
+        "name": "★ Falchion Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "418",
+        "phase": "Phase 1",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SA1iUzv5mvOR7cDm7lA4i4gKJk4jxNWXBaQMpDZMjRu4ItxTsmoa0PrjrtQHWj4NNnH38hi1A7Xpt5-kBB_Zw5OSJ2M_vVPun"
+      },
+      {
+        "id": "skin-7f6c571d7493",
+        "name": "★ Falchion Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "419",
+        "phase": "Phase 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SA1iUzv5mvOR7cDm7lA4i4QKJk4jxNWXBaAEnX5R0ELJb5EK5moa1MOyw7gSNj4tBnyT4hi4d5idr4O4GA6px5OSJ2IVStUtw"
+      },
+      {
+        "id": "skin-b2a571ffd94e",
+        "name": "★ Falchion Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "420",
+        "phase": "Phase 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SA1iUzv5mvOR7cDm7lA4i4AKJk4jxNWXDPFV2CMckRLRc5BG5xIa1Ne3qtFfe2doTnC743yxL7Sxv6rtWVqst5OSJ2F-BiodS"
+      },
+      {
+        "id": "skin-f76fab053a4b",
+        "name": "★ Falchion Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "421",
+        "phase": "Phase 4",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SA1iUzv5mvOR7cDm7lA4i5wKJk4jxNWWWPFRyWZF0QbII5hDpl9fiNerh5gKKgt8Wyy6riC5Ov3tjsrsHBKR25OSJ2EkYY4Ju"
+      },
+      {
+        "id": "skin-ee8e81caeed3",
+        "name": "★ Falchion Knife | Damascus Steel",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "411",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SH1iUwON3o-J8XBbqxSIrujqNjsH7eXjGPwAkXJR2QLMJtRe5kN2xYu7k5QHcio0XyX-o3S4duH5u4eYFT-N7rR0fzt1P"
+      },
+      {
+        "id": "skin-2efdd1c3c3ba",
+        "name": "★ Falchion Knife | Ultraviolet",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "621",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-AAViA1PxmvORWSSi_lhUuvDO6lob-KT-JOAQiCpJyRu4PsxPsk4fkNerjs1bXjtpCyCqri39BuH094OgKWfUn-LqX0V-hhcTrMg"
+      },
+      {
+        "id": "skin-7ab6b7fb14f9",
+        "name": "★ Falchion Knife | Rust Coat",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "414",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SH1iD1etzvN5iQSC1kCIqtjmMj4K3Ii3DbgAnCMBwQbRZtEG9wILlZu_nswyI345FxCSvjyMc6XxvtrxTUr1lpPMD9UqAWA"
+      },
+      {
+        "id": "skin-618b9c495102",
+        "name": "★ Huntsman Knife | Marble Fade",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "413",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1idwPx0vORWSSi3kCIrujqNjsH8JXvCZgEiDZVwEeUK40W6ldaxZOnn7g3Zj4gUmySoi39A7SxqsrsET-N7rT4plPHN"
+      },
+      {
+        "id": "skin-243a437e4586",
+        "name": "★ Huntsman Knife | Tiger Tooth",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "409",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SAFiEyOlzot5mXSi9khgYvzSCkpu3JHmWZwFzWZB1R-RbtxC_kofvMLzg51SLj41Nmyuqjyoc5nxi5ekLUr1lpPOee5ognQ"
+      },
+      {
+        "id": "skin-255b6eff4914",
+        "name": "★ Huntsman Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "415",
+        "phase": "Ruby",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iC1Oxvj-xoXSu_kBQ9tjm6lob-KT-JaAV1W8ZzEecL4RXtwYHkZry25lSMj95GxCj_3CMc6is5sb4GAPBx-rqX0V9XRKLfoA"
+      },
+      {
+        "id": "skin-cb96c4362f57",
+        "name": "★ Huntsman Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "416",
+        "phase": "Sapphire",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iDwP5muOh7Sha-lA8lvziMgIr9HifOOV5kFMN5Qe8CshbrltLlNOqxsgLc2t8Uzyv9jSNLuC9r4-oEVfB2r_GFjg3fcepqRzB392E"
+      },
+      {
+        "id": "skin-76b081082456",
+        "name": "★ Huntsman Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "417",
+        "phase": "Black Pearl",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iSze91u_FsTju_qhAmoT-Jn4bjJC_4Ml93UtZuE7UDuhC-mtbnNb-xtFfZ3YtGzSv6hisauns-5b5WVqIgqKDfjwjEYKp9v8eb6jzRvA"
+      },
+      {
+        "id": "skin-0ccbf1273a6f",
+        "name": "★ Huntsman Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "418",
+        "phase": "Phase 1",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iUzv5mvOR7cDm7lA4i4gKJk4jxNWXEa1V1CpR1FOQD4xK4xNzhN-6w5AXX3opCn3ivjy1N6C9t67xUU_Jw5OSJ2AqihnPi"
+      },
+      {
+        "id": "skin-d8eb214e2fb6",
+        "name": "★ Huntsman Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "419",
+        "phase": "Phase 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iUzv5mvOR7cDm7lA4i4QKJk4jxNWXBag91D5JxRu8N5hC_mtflP-6x7gSMio5Nnius2i1Avypisr0CVadx5OSJ2A8DtsQk"
+      },
+      {
+        "id": "skin-d4901eccfb03",
+        "name": "★ Huntsman Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "420",
+        "phase": "Phase 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iUzv5mvOR7cDm7lA4i4AKJk4jxNWWROAEmX5omROIPskTtmobkZrvjtgzajIwRmSn723xK6Shr4LpXV6Yh5OSJ2Po9oSed"
+      },
+      {
+        "id": "skin-500ce7426a18",
+        "name": "★ Huntsman Knife | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "421",
+        "phase": "Phase 4",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SA1iUzv5mvOR7cDm7lA4i5wKJk4jxNWXBOFcmWMN0QLJbuxXrwNTiMejm7weKiIhEzCqo2i5JuClt5u0EBKZw5OSJ2Df-bXry"
+      },
+      {
+        "id": "skin-929cf4619d5d",
+        "name": "★ Huntsman Knife | Damascus Steel",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "411",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SH1iUwON3o-J8XBbqxSIrujqNjsGpIn_GbA8pA5J5Q7Jesxm5w9flZezi5FHXgo9Fzy_2iX8c7yhu47oCT-N7rcl4-qvl"
+      },
+      {
+        "id": "skin-96f043f8ad7c",
+        "name": "★ Huntsman Knife | Ultraviolet",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "620",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-QG1iA1PxmvORWRzy9gQ4qsjO6lob-KT-JbFQlC5YhFrQN4xe4m4ezNL7g4QyLiItFyS772C5I7ilq6rpWUaYh-rqX0V82KISxGQ"
+      },
+      {
+        "id": "skin-a074d7f6a461",
+        "name": "★ Huntsman Knife | Rust Coat",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "414",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-SH1iD1etzvN5iQSC1kCIqtjmMj4K3cXiUbFd1ApZwQ-Bb5Ba5kYfjMu3hslSI2oNDyi6shy4bvy1i5-hWU71lpPPSsstkpw"
+      },
+      {
+        "id": "skin-210ec6e164ee",
+        "name": "★ Shadow Daggers | Marble Fade",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "413",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VgH_2SHGWcxNFwseVscCW6khUz_T_dyI2tJXrFbQN2X5MjTLUCtEa5kYXnYuPh5QGLjowUxXitjixA7nl1o7FVu7_YRqU"
+      },
+      {
+        "id": "skin-ea86d4fa2fe4",
+        "name": "★ Shadow Daggers | Tiger Tooth",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "409",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VjH-SaCWKC_uFkse9uSha_nBovp3PUwt-uJHjFOgYlXpt4EbQJshS8loCxP7vr7gDZiItMnir-iC1O7X1s_a9cBp8PQ5hi"
+      },
+      {
+        "id": "skin-6c1f2c508ea4",
+        "name": "★ Shadow Daggers | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "415",
+        "phase": "Ruby",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VgH-KGDH6vzO9ksu1sRjO2kSIrujqNjsGgJXPFaA4kC8RxE7MPshO6lda0M-Kw7lPaiooWmX6sj35N7y495OdRT-N7remj_pWP"
+      },
+      {
+        "id": "skin-b6ff5d2a32c1",
+        "name": "★ Shadow Daggers | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "619",
+        "phase": "Sapphire",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VgH-OSHneYyPxzj-xoXSu_kBQ9tjm6mLD1KCzPKhghX5N4EOBfthfsw4LnYuvh5AbfioNHmyms3Cgf6Sk54e4CVvIl_qOEkUifZuDD3SRj"
+      },
+      {
+        "id": "skin-13ba5ff075a8",
+        "name": "★ Shadow Daggers | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "617",
+        "phase": "Black Pearl",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VgH_KfD2Sb0et3ou1WQiihlxEiuieAnrD7HifOOV5kFJZ2TbMNtES-xobhY-rj4lTd39gRny_2jiIf6C5u67oHBasm-PXRjADfcepqXuISEy4"
+      },
+      {
+        "id": "skin-9ba70ce83b22",
+        "name": "★ Shadow Daggers | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "418",
+        "phase": "Phase 1",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VgH_ScHnecxPxJoOloXCziqhEutDWR1Nmgd3yUZwMgCZQmRuVfthW8x9WxNOi05g2Ij48UnC323SxPu3s5t-ocEf1yJR6gz8E"
+      },
+      {
+        "id": "skin-04bf1ce6e381",
+        "name": "★ Shadow Daggers | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "618",
+        "phase": "Phase 2",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VgH_ScHnecxPxJoOloXCzhqh8YvzSCkpu3I37BOAAiCZR1RbUO5BLtwNzhZOy04VeKg44WmCWq3CJB73xp4rkFVr1lpPNoRdm_rA"
+      },
+      {
+        "id": "skin-2a1edbf6e60a",
+        "name": "★ Shadow Daggers | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "420",
+        "phase": "Phase 3",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VgH_ScHnecxPxJoOloXCzgqhEutDWR1N6vJ3yeOw91Dpp1TeMItRK7kYe0Yuyx7gDegtoQzXr43H8Y6Cdt4-ccEf1ysB-0XEk"
+      },
+      {
+        "id": "skin-11b9292c6907",
+        "name": "★ Shadow Daggers | Doppler",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "421",
+        "phase": "Phase 4",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VgH_ScHnecxPxJoOloXCznqhEutDWR1Nv9J3PDOFN1X5AmTO8NsRO4x9fuYe-07gLWgopDzH3_jnsYuilt4rscEf1y5zaZlV8"
+      },
+      {
+        "id": "skin-7672f2725a54",
+        "name": "★ Shadow Daggers | Damascus Steel",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "411",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6V8H_SSA2aDwvtlj7g5cCW6khUz_WvXz9j8JHjBaAZ2ApMhRLVZtUK4w9ziNerr4QDYjotBynmqjSlM7Ct1o7FVMY__Aoc"
+      },
+      {
+        "id": "skin-67ede78bc88d",
+        "name": "★ Shadow Daggers | Ultraviolet",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "98",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV7diH-CGHHecxNF6ueZhW2e2wk9y4jiBntn7cy2XPwMgD8BxF7MN4BK5l9KzZu3kswTaj4kTxST6kGoXuU3Nl_sm"
+      },
+      {
+        "id": "skin-aa2508738ee6",
+        "name": "★ Shadow Daggers | Rust Coat",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "414",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6V8H-OHC2Kc_uV4uedscCS2kRQyvnPQzdn6dSiUbw4jX8MmROdbskHpwde2Yu-x4VGKiYtBni__hisf63ti_a9cBjfCVlsL"
+      }
+    ],
+    "market_hash_name": "Spectrum Case",
+    "rental": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA",
+    "model_player": "models/props/crates/csgo_drop_crate_spectrum.vmdl",
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_community_16",
+      "image_inventory": "econ/weapon_cases/crate_community_16"
+    }
+  },
+  "crate-4352": {
+    "id": "crate-4352",
+    "name": "Operation Hydra Case",
+    "description": null,
+    "def_index": "4352",
+    "type": "Case",
+    "first_sale_date": "2017-04-21",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "skin-d2ff95e10b1f",
+        "name": "USP-S | Blueprint",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "657",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSI-WsG3SA0tF0vPRsXzu6mwkYvzSCkpu3IiqTZgAmCJIlRLEP5BXpxtPlMOOxswPZithFyyj3iyNPvCo96r1QBb1lpPPa5SpubA"
+      },
+      {
+        "id": "skin-72470f196aad",
+        "name": "FAMAS | Macabre",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "659",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I_82oaalsM8-eD2SRw_xzj-1gSCGn2xkm5myEzo2sdXPBagInW5pxTLICshnswdOxNrzj71fc2d5CzC76iSJXrnE8xi9ndzw"
+      },
+      {
+        "id": "skin-c254f71da49b",
+        "name": "M4A1-S | Briefing",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "663",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL9lj-xsWzu6gRg1sgKJk4jxNWWTZgclDpNzQ7FZsESxxNPgZujksVDf2dkTmS343S1M731t5OcLAvZ05OSJ2NaAMPYY"
+      },
+      {
+        "id": "skin-3f4120c9e552",
+        "name": "MAC-10 | Aloha",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "665",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2jaac8cM-SAmiYwNF6ueZhW2flxhsmtW3RnNiscnOWPA9xC5MiTeUKtRXqk9HgMOvh4wPd3tkQmXn6kGoXucQMChaB"
+      },
+      {
+        "id": "skin-f316468861b1",
+        "name": "MAG-7 | Hard Water",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "666",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0P-vb_NSI_GGHXOZwtF6ueZhW2eykx534j_VydygIi6fPQJ0DJcmQrIMukK7k9HvZO224FbajI8WnC-tkGoXudK2z8cj"
+      },
+      {
+        "id": "skin-83039fec2ec8",
+        "name": "Tec-9 | Cut Out",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "671",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wiNK0Oara_1SI_iSAmyv0e9ipOR7QRa_nBovp3OGnNb4dHiTaFdzX5EjRLVY5EG6mtOzYu7q4FDb2IxBynmvi34bvCo__a9cBktm4Qsf"
+      },
+      {
+        "id": "skin-289b0ffc81ae",
+        "name": "UMP-45 | Metal Flowers",
+        "rarity": {
+          "id": "rarity_rare_weapon",
+          "name": "Mil-Spec Grade",
+          "color": "#4b69ff"
+        },
+        "paint_index": "672",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1a_s27ZbQ5dc-VAmadxOh6v_ZsXRa_nBovp3PTnN2vc3zGaFAgWMZ4F-MDsBW7kNXhP7i04gCI2oNDyij8iSpI7S84_a9cBuxmxCPI"
+      },
+      {
+        "id": "skin-b54386e7c78c",
+        "name": "AK-47 | Orbit Mk01",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "656",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiVI0POlV6diLP-dFzfB_vxztN5lRi67gVMk4TmEn9n_c3PGPwZyDMckTO8JsEPuktG1ZOrjsgPX2IwUyiyv3S0f8G81tLnuvOvF"
+      },
+      {
+        "id": "skin-ebbde3e289ee",
+        "name": "P2000 | Woodsman",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "667",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMW-Fz_pzot5lRi67gVMi5GuBzo6sJXiSOAJxCMR2RuECthTskNG1Yrm3sgCM345CyCj32yJP8G81tLtUlzXH"
+      },
+      {
+        "id": "skin-a73d69feecaf",
+        "name": "P250 | Red Rock",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "668",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSIeiaAWqvzedxuPUnSizhkEh05zzQmIr8JX6UbAZ2DsMhTOEOthexl9e2NuLktAzaiIpGnjK-0H2BmRk7ww"
+      },
+      {
+        "id": "skin-73449301d7a3",
+        "name": "P90 | Death Grip",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "669",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk_6v-V6ZsMvWRAWmV0tF0vPRscCW6khUz_WqAy4z6cX2Tbg8hWJN2RLQMsRPplNDmYr63sVPciIkTyij3iX5M7yt1o7FVUmFnInA"
+      },
+      {
+        "id": "skin-d9516fc63729",
+        "name": "SSG 08 | Death's Head",
+        "rarity": {
+          "id": "rarity_mythical_weapon",
+          "name": "Restricted",
+          "color": "#8847ff"
+        },
+        "paint_index": "670",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1Y-s29e6M9eM-XC2aEyf1-teBtcCW6khUz_WTXyNipeX-QOlQhXpJwFuYO4xLqxobuN7vn4QaNgthBnHn7iSJPv351o7FVSPuLyfc"
+      },
+      {
+        "id": "skin-81ad76182a96",
+        "name": "Dual Berettas | Cobra Strike",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "658",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1c_M2qfaVhIvWBC3OEwP1Js-5rXSiMmRQguynLydn9JXmUOwMgCsN1EbMPsRHtxoDuZrzm4VTait4Tzn_-jn4f7ipu4fFCD_Qo-zseRg"
+      },
+      {
+        "id": "skin-99def93a5fe2",
+        "name": "Galil AR | Sugar Rush",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "661",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0PG7V6NsLPmfMWSRz-pvs-loQDqMmRQguynLyNqpJX_CPwUpXpEmEOMLs0K-kdPiN-uz4wfW2IgWyySr2ixKvCht4fFCD_QYspg1jQ"
+      },
+      {
+        "id": "skin-12d0c696aacd",
+        "name": "M4A4 | Hellfire",
+        "rarity": {
+          "id": "rarity_legendary_weapon",
+          "name": "Classified",
+          "color": "#d32ce6"
+        },
+        "paint_index": "664",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSKPWfAmGZ0-tJvOhuRz39zEp24GTXmImsInqWP1AkXpBwE7FetUTswdfkPu7h5QXXithBy32t2DQJsHhDPmtuAA"
+      },
+      {
+        "id": "skin-06e2ad662c73",
+        "name": "Five-SeveN | Hyper Beast",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "660",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-lwXyyhlxgmoCm6lob-KT-JO1QgWZVyELEPu0W4l9KzYbzn5Fbf3YkTzn_8hihIvXxtsOoFUKYirLqX0V_f6-eqCw"
+      },
+      {
+        "id": "skin-cfaaa2fab447",
+        "name": "AWP | Oni Taiji",
+        "rarity": {
+          "id": "rarity_ancient_weapon",
+          "name": "Covert",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "662",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6xsLv6KD1icyOl-pK9vGCqwkx524G_WnNmsInyXOAVyXJJ0TbNb5EOxxIflYbzj4gDdiNlC02yg2XaKgrAq"
+      }
+    ],
+    "contains_rare": [
+      {
+        "id": "skin-de7d4238a5c9",
+        "name": "★ Bloodhound Gloves | Snakebite",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10007",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnJrv8iZT4OegbJtqLP-FC3Svw-J5v-VhQDy9kSI0vTyOn5zyKCX4PERxSdEfGb5d6lSmkoWzM-Pr4lfZ391Cny_8i38b7n1j4OYEV6ch-PeEjA_EYLNs6ZVQIOHnE0pIw_A_xw"
+      },
+      {
+        "id": "skin-4e17d497a43e",
+        "name": "★ Bloodhound Gloves | Bronzed",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10008",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnJrv8iZT4OegbJtqLP-FC3Svw-J5v-VhQDy9kSIqtimEloPwIhTLN1F4ToxzQ7MM40TswdyxY-Pm71SLj9kQy3-o3HhK5yo94-8FWPV3rKXWj13IL_RjtnXn1Ex6"
+      },
+      {
+        "id": "skin-c9241d03e33b",
+        "name": "★ Bloodhound Gloves | Charred",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10006",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnJrv8iZT4OegbJtqLP-FC3Svw-J5v-VhQDy9kSIlvzyGkbDqKCfRO0RPVssnHaMUsRa5l4buNOzm4FaLjo5AyyT2jyxJvC895r4GU6d3qKaDj12TZOU1t45DeqiL1ak6rA"
+      },
+      {
+        "id": "skin-cd619968abb9",
+        "name": "★ Bloodhound Gloves | Guerrilla",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10039",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnJrv8iZT4OegbJtqLP-FC3Svw-J5v-VhQDy9kSIgpjiXiIb1LSr4Ml93UtZuTO9fsRHukIXmN-u2sVTcjY5Dn3_6h3lB5ipst-oKVKJzqfWBjQrDMqp9v8fjZsxQlg"
+      },
+      {
+        "id": "skin-941014ee5a6e",
+        "name": "★ Driver Gloves | Crimson Weave",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t_JfSsAm6Xyfo46Oc_Si3nxk9x5m6ByYuvcnPGZ1UkWZt1F-RbskK4lNWxNLvm5VGKj5UFk3taaiA0LA"
+      },
+      {
+        "id": "skin-6875abfca574",
+        "name": "★ Driver Gloves | Convoy",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10015",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5tgKfyaGmaC2NF6ueZhW2exkEV35TjUn42qcn2QalQjAsRzRuYJthG8w9bvYr-27lCKgotCmC_5kGoXucFeQ3ir"
+      },
+      {
+        "id": "skin-e8384ee7aa31",
+        "name": "★ Driver Gloves | Lunar Weave",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10013",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5tvLPGQBVicyOl-pK8wHyzgkEoi5T-Ant_4eSqWbQUiXpt2E7MJ4Ri7w9LmMOvl5FaMjYlM02yg2SXHqyW4"
+      },
+      {
+        "id": "skin-52a9a70cdd76",
+        "name": "★ Driver Gloves | Diamondback",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10040",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t-LvGYC3SbyOBJqeRlQyakqhEutDWR1ImqIn3FPQcpDsAlR-EN4BmwktPuM77h5wOMi4hDmXiq234c6Ss4suYcEf1yDBgIyqc"
+      },
+      {
+        "id": "skin-1f6ac4772c2b",
+        "name": "★ Hand Wraps | Slaughter",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10021",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_vxztN56QyimkhUzti-6kor4NzKJb1ApCMF1Q-IDuhG6l4ezMbzm7lSLj95Gmyis3yId73s5sOtXA6Ihq7qX0V98CWoovg"
+      },
+      {
+        "id": "skin-71c8a21234d4",
+        "name": "★ Hand Wraps | Badlands",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10036",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_uh3svNgTBa8hxwptDi6mY70LhTPO1dmQ4xzE-NZuhexldeyZb-xtQLf2ItMzCr-i3hP5nlvse8CUKsn_aLX3g_HL_Rjto7xyDZk"
+      },
+      {
+        "id": "skin-e757fd7191f9",
+        "name": "★ Hand Wraps | Spruce DDPAT",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10010",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_u13ve5WSDu2jCIvtjyTg8GpIHyUOlB2CcdwQOUKs0btx4W0ZbngtgOM2I5Fn3n-iyob6y5p4ucGT-N7rQg4EtBM"
+      },
+      {
+        "id": "skin-fb30d56f4210",
+        "name": "★ Hand Wraps | Leather",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10009",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_uJzsfVhSjuqqhUisiuc1I2gIHmXOwAgXJF1R-NYs0G-m4fnM76wtgTWid5GmC__j35JvSpu5OscEf1yQQiiO2k"
+      },
+      {
+        "id": "skin-510d868c343b",
+        "name": "★ Moto Gloves | Cool Mint",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10028",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJpPNgTie0mRgYsTGQn7D1KCzPKhhzWMR4RLEO4xTqloCyM7i0tFbf3dgQzCz-3ypPvX1tsOZTVaoh-KLQkUifZknjyZK_"
+      },
+      {
+        "id": "skin-b3e2c06aad05",
+        "name": "★ Moto Gloves | Boom!",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10027",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJve5nQBaxmhIqjDGMnYftby-RbFUoX8d0QOJbsBfpltLgYryz41ffjowWmCj_3C4cvH4-6-ZUVqc7uvqAYlGEDh0"
+      },
+      {
+        "id": "skin-a363d8de9765",
+        "name": "★ Moto Gloves | Spearmint",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10026",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJvehnWxanhxQmvTqJn7DxJCrRJxhzWZZ2ROJcsUa5ltexZbjgsgSLi98UzCX9jigf6Htv470GAqEm_aPWkUifZsrSdwA0"
+      },
+      {
+        "id": "skin-d8671b33d6d9",
+        "name": "★ Moto Gloves | Eclipse",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10024",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJsuB6RiqMlxEmsDa6kor4NzKJblQlCJFxRuVetUK-kNaxNumztAXe2tkUzy_6h3sY7Chp5bwCBaRz8rqX0V8A8nSa1Q"
+      },
+      {
+        "id": "skin-5766610447f3",
+        "name": "★ Specialist Gloves | Crimson Kimono",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10033",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJu-hkQCe8qhkusjCKlIvqHjnCOml8U8UoAflZtxCwkdPvP-LltQCMj4lMzC2qiiJJuic-te4FUKcgqfXUjFnFZ-I6_9Bdc7JW0NLH"
+      },
+      {
+        "id": "skin-844038d20265",
+        "name": "★ Specialist Gloves | Emerald Web",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10034",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJtexsXSi_kSIwtj-6lob-KT-JPAElC8QmQOMI4BPrlIWyM-njs1HdiI1Ezn39hntM7Co4srpUWPItqbqX0V-1wZ7Sew"
+      },
+      {
+        "id": "skin-fabc9079a914",
+        "name": "★ Specialist Gloves | Forest DDPAT",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10030",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJtOV5Tj2Mkg8itjO6mY70LhTLN1F4Tox5ROcO4BW9kIGyZLvr4wWIgotEySyv235KvXo65e4BVKp3rvbfjAjCL_Rjtk6lU7Gx"
+      },
+      {
+        "id": "skin-d0749a0d812b",
+        "name": "★ Specialist Gloves | Foundation",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10035",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJv_NoQS62qgovuimApYPwJiPTcFMkDJt2Q-5e5hmwkdLnZb7r4wHbjopNmy32iiwc7Xlt5L4EUaUi8qHJz1aWLtM2Af4"
+      },
+      {
+        "id": "skin-562a47f22d9c",
+        "name": "★ Sport Gloves | Superconductor",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10018",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_yaCW-E_ux6peRWQyC0nQlpt2jVyI2pcHrFOwIkA8RxQ-dYsEXpk9K1MOyxslDcjN4XzySo2iJI7TErvbirYWRUUA"
+      },
+      {
+        "id": "skin-b05ee2bf4f0d",
+        "name": "★ Sport Gloves | Hedge Maze",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10038",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_eBC2Ke_uJ_t-l9AX7lwUtytmjXzdb4IHLEbwYkCpMkReQO4RKxm9fhZe3r4lDf2dlFyHngznQegziTGLs"
+      },
+      {
+        "id": "skin-96fe89fd41f9",
+        "name": "★ Sport Gloves | Arid",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10019",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_2aAm6EwPxvj-1gSCGn2xsh5z7TnNyscHuUbgYoD8FzE-UM4Ri5wIG0MOmztlPdgtkQyyX43SJXrnE8V_Lyt3Y"
+      },
+      {
+        "id": "skin-e506270deff6",
+        "name": "★ Sport Gloves | Pandora's Box",
+        "rarity": {
+          "id": "rarity_ancient",
+          "name": "Extraordinary",
+          "color": "#eb4b4b"
+        },
+        "paint_index": "10037",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H-CGHHecxNF6ueZhW2fklEgm4GXXyY6oeCjCOlIpA5Z3Qe9ctUHrwdTjP-6z41aL349CnCv9kGoXuTdQTyQr"
+      }
+    ],
+    "market_hash_name": "Operation Hydra Case",
+    "rental": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHUVt_b6PfY1JfOSXDXJxbgjtLFqHnDqx0Qmtm_Vzdf4ICmUZlJ2C5F2TPlK7EdjN0FcPg",
+    "model_player": "models/props/crates/csgo_drop_crate_hydra.vmdl",
+    "loot_list": {
+      "name": "★ Gloves ★",
+      "footer": "or the Exceedingly Rare Gloves!",
+      "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/default_rare_item_png.png"
+    },
+    "original": {
+      "item_name": "#CSGO_crate_community_17",
+      "image_inventory": "econ/weapon_cases/crate_community_17"
+    }
+  },
+  "crate-4391": {
+    "id": "crate-4391",
+    "name": "Krakow 2017 Legends (Holo/Foil)",
+    "description": "This capsule contains a single Krakow 2017 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4391",
+    "type": "Sticker Capsule",
+    "first_sale_date": "2017-07-05",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-2064",
+        "name": "Astralis (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC760rzUyL5kZrvs3sC7KX-bvNoc6fHDDTIwLsv4eJqFyi1xRtwtjzcm96qd3-VOwB0ApVuBbldM2AsYnw"
+      },
+      {
+        "id": "sticker-2068",
+        "name": "Virtus.Pro (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7_EnYSRL9kdi1_HAO7vb-bvVrd_THDTPDw79z5ONoTnnilBgh5mvQyIugeCqSbFInFNIuEmPjyZ3z"
+      },
+      {
+        "id": "sticker-2072",
+        "name": "Fnatic (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77FfzQiL5kZrvs3Ra7KCoPfM8cfWSCjLDl-tz47FsHC_ilxl34mXQnI6hdXiQbAImD5puBbld4vejQWw"
+      },
+      {
+        "id": "sticker-2076",
+        "name": "SK Gaming (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-VLYSRL9kdi1ryMIuKGvOvQ0c_LDDTbHk7Zw6LE6Gn7ix0Ujsjvcz9v6cniRbgZ0FNIuElUvT0E6"
+      },
+      {
+        "id": "sticker-2080",
+        "name": "Natus Vincere (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC75FjxSCL5kZrvsyRd7qWsO_dpJajDDzSWxL1y5LVvTnDgkxwisDiDytusJHOSPVMmDpNuBbldSbkLn2o"
+      },
+      {
+        "id": "sticker-2084",
+        "name": "Gambit (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77VjqQyL5kZrvsyRd7fevPaBrcaHDWWORkL0jtuM4GHG1lxl2t2vXn96uJHyQOlByApRuBbld1QJkmQs"
+      },
+      {
+        "id": "sticker-2088",
+        "name": "North (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC75Fb1fhX-kpmu_HID7ab2OfNvdvaWDWbIl7p0s7M5HCuxlEx24mvdzIugIHqeOAEnA4wwG7BDukaM1Q"
+      },
+      {
+        "id": "sticker-2092",
+        "name": "FaZe Clan (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77Fj9RCL5kZrvs3RY7aCsOfU6eafCCzXCmLgh6eRqTXzrwk9xt2rVm936di-RagJzWZFuBbldnrnHe6c"
+      },
+      {
+        "id": "sticker-2128",
+        "name": "PGL (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-l7rfhX-kpmuqSFY7aSoPqE1cfbCCj7Bmbl147A4SXi1wxt1tjvUztarc3iQP1NzC4wwG7AC5IvZUA"
+      },
+      {
+        "id": "sticker-2065",
+        "name": "Astralis (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC760rzUyL3kZ_ss3II6vf3Pfw6JfTHXDHFk79ysbk5SnnqwExy52uGyd2rdi3COwIgW5FuBbld-48MYVw"
+      },
+      {
+        "id": "sticker-2069",
+        "name": "Virtus.Pro (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7_EnYRxL4ktiy_CdYtvSvMfM8JqOVDzLFmLd14uQ6SnrmzR9w5jzdw9f4JXiUOgEiFNIuEqONrru_"
+      },
+      {
+        "id": "sticker-2073",
+        "name": "Fnatic (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77FfzQiL3kZ_ss3MN6qv7PKI5IqXAWjeTw-0k6Lg9TSvik0915T7WnN2tdH2WOlN1ApVuBbld_Khrz4w"
+      },
+      {
+        "id": "sticker-2077",
+        "name": "SK Gaming (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-VLYRxL4ktix_nMCv6SoMKI7c_HBDz-TxLt04rU-SniwlBkisGWDn9asdy_BPFckFNIuEmoZhL9F"
+      },
+      {
+        "id": "sticker-2081",
+        "name": "Natus Vincere (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC75FjxSCL3kZ_ss3cC6qD9bvU8IvPLWjDIkegi57EwTivkzR5w5TiEn9_6eCiQaQR2AptuBbld4oG5oKc"
+      },
+      {
+        "id": "sticker-2085",
+        "name": "Gambit (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77VjqQyL3kZ_ss3oJu_eoafNpcqCQXzTJlrdys-VoSn3lxEpytzzdzNiqJ3yVZlQkWMRuBbldy6x0IPM"
+      },
+      {
+        "id": "sticker-2089",
+        "name": "North (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC75Fb1fhv-l5qu_3QK7aL8MaI4cfKRVjLAleoutLI6SXqxxxgj5TiEzd_9cC-UbwUoA4wwG7BGTgHsIw"
+      },
+      {
+        "id": "sticker-2093",
+        "name": "FaZe Clan (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77Fj9RCL3kZ_ss3JevaX9P_c8IaWSXzCTl-x15eA4TnHjlkR04WzVnt-pc3LFblQjX5ZuBbld5Wzw-g8"
+      },
+      {
+        "id": "sticker-2129",
+        "name": "PGL (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-l7rfhv-l5qurnQL6qT7P6BvefbGDzXBkb0jtrVrGnuxkUxzsD_QzI7_IH2WPVVzXowwG7DSSzyMoA"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Krakow 2017 Legends (Holo-Foil)",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5OCvY6t6cqDCWVjAkKBy47VrTXHjwxt-t27Uyt6udy2SbVQmWMdxEeYM50G5x9yxMbnm4AyNlcsbmsdbKaG4",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_sticker_pack_krakow2017_legends",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_01"
+    }
+  },
+  "crate-4392": {
+    "id": "crate-4392",
+    "name": "Krakow 2017 Challengers (Holo/Foil)",
+    "description": "This capsule contains a single Krakow 2017 participant Holo or Foil sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "4392",
+    "type": "Sticker Capsule",
+    "first_sale_date": "2017-07-05",
+    "rarity": {
+      "id": "rarity_common",
+      "name": "Base Grade",
+      "color": "#b0c3d9"
+    },
+    "contains": [
+      {
+        "id": "sticker-2096",
+        "name": "mousesports (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC750r0fhX-kpmurXBZuaSrbfxpcKTKW2TFkewntLM_GH3lwEt3523UydaqeS7CZgcjXowwG7BxoCEuLQ"
+      },
+      {
+        "id": "sticker-2100",
+        "name": "G2 Esports (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77QvYSRL9kdjmqSMN6_P_MPQ0cqTAWTLGwLd157U_TnrjkB9wtzmAm9-gcy2XPQUoFNIuEnntK5yG"
+      },
+      {
+        "id": "sticker-2104",
+        "name": "BIG (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC76FDgfhX-kpmu-SMCvqP7bPQ6dKbBCDOSl-wv6eQ8FirmzU5z4Djdw479c3jBZg8oW4wwG7DZkCADlg"
+      },
+      {
+        "id": "sticker-2108",
+        "name": "Cloud9 (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC76QDYSRL9kdi2qnFduaX9PqBsdKLLWWbIxL0mtrhoGXDklEty5z-GmNahI3jCOw52FNIuEvTNvU-z"
+      },
+      {
+        "id": "sticker-2112",
+        "name": "PENTA Sports (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-lzpVRzOlpns8mxd7vH_PvVreKiXVz_DwLdy4OUxGHDjzU1x6mzdzd6pdnufbgF0DpQkW6dU5Z4qf38e"
+      },
+      {
+        "id": "sticker-2116",
+        "name": "Flipsid3 Tactics (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77FXuUSL5kZrvsyADu6P5MKA-IvHGWjTGlL4j4uU5GnnlwUp15DyGnNysIn-ebVInA5ZuBbldCV8yHmg"
+      },
+      {
+        "id": "sticker-2120",
+        "name": "Immortals (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC741TzfhX-kpmurnNd7KT3MfBsdaXFDGSVlrcv47Q8H3C2xUki5D6DyI6hc3mQOAYoCIwwG7CJ35ry9Q"
+      },
+      {
+        "id": "sticker-2124",
+        "name": "Vega Squadron (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7_FzgQCL5kZrvs3cOvPT6OvZpIqXCVz-Rw-t0sbcwHHHkwEVy4DnVzdb8Ii_BblclCcBuBbldVWDbRvE"
+      },
+      {
+        "id": "sticker-2128",
+        "name": "PGL (Holo) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_mythical",
+          "name": "Remarkable",
+          "color": "#8847ff"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-l7rfhX-kpmuqSFY7aSoPqE1cfbCCj7Bmbl147A4SXi1wxt1tjvUztarc3iQP1NzC4wwG7AC5IvZUA"
+      },
+      {
+        "id": "sticker-2097",
+        "name": "mousesports (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC750r0fhv-l5qu_nVd6aD9OqY7dqLBCjfFmet0tuNqFnDixEt_5mnVn4n7J3uVaVAgWIwwG7Ba9_sGaA"
+      },
+      {
+        "id": "sticker-2101",
+        "name": "G2 Esports (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77QvYRxL4ktiyqHFevqL7O6FrJqPCVzLHkbcns7M5HS_jw0x_4mncmdr8dC2ebwckFNIuEt1AtONs"
+      },
+      {
+        "id": "sticker-2105",
+        "name": "BIG (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC76FDgfhv-l5qurHQD7qX4afU7I6PFVzbAkOtz57FtTX23zE4j5mTQz9mgdi-TbVVxDYwwG7DB1DHjFg"
+      },
+      {
+        "id": "sticker-2109",
+        "name": "Cloud9 (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC76QDYRxL4ktjkqiQCv_atavBpdaaWWGKRx71z5LNtTHHklhh1tjmEmd2geH6eOFBxFNIuEpe5iCq0"
+      },
+      {
+        "id": "sticker-2113",
+        "name": "PENTA Sports (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-lzpVRzOmJnp8Wxet6CrMfNuJfXEDGLBwLt05uMxGCu1xU515mWEzN2sd3qTawJzA8AmW6dU5avchBeP"
+      },
+      {
+        "id": "sticker-2117",
+        "name": "Flipsid3 Tactics (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC77FXuUSL3kZ_ssyQP6fH6afBpIvPHD2LDmL0g5bg8Siznwk5w6mjQntutdX-RPwMjC5puBbldRwS3_kE"
+      },
+      {
+        "id": "sticker-2121",
+        "name": "Immortals (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC741Tzfhv-l5qu_CcCu_CrPvFrcKbFCGPAlbZ34LhtTX7hxU8k52XWm9mqdC-WPQ8gW4wwG7CTTFG0Gw"
+      },
+      {
+        "id": "sticker-2125",
+        "name": "Vega Squadron (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7_FzgQCL3kZ_ss3cOtvf7OaU_cKXDVz7Hxehw5Lk6SXDmzRlwtTvRztiseSnGOgJ1WcBuBbldyk-mOSU"
+      },
+      {
+        "id": "sticker-2129",
+        "name": "PGL (Foil) | Krakow 2017",
+        "rarity": {
+          "id": "rarity_legendary",
+          "name": "Exotic",
+          "color": "#d32ce6"
+        },
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGzNHCY8gQlpdC7-l7rfhv-l5qurnQL6qT7P6BvefbGDzXBkb0jtrVrGnuxkUxzsD_QzI7_IH2WPVVzXowwG7DSSzyMoA"
+      }
+    ],
+    "contains_rare": [],
+    "market_hash_name": "Krakow 2017 Challengers (Holo-Foil)",
+    "rental": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5OCvY6t6cqDCWVjAk6B35bA9Gizmlk504D6Ew42ucn7DZlcgDZJ1F-YJ4xfqwYHmMenr5AbWlcsbmpEnSmyx",
+    "model_player": null,
+    "loot_list": null,
+    "original": {
+      "item_name": "#CSGO_crate_sticker_pack_krakow2017_challengers",
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_02"
+    }
+  }
+}
