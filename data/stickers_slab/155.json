@@ -1,9 +1,1732 @@
 [
   {
-    "id": "sticker_slab-9549",
-    "name": "Sticker Slab | Passion UA | Budapest 2025",
+    "id": "sticker_slab-9468",
+    "name": "Sticker Slab | Cutie (Holo)",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9549",
+    "def_index": "9468",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Cutie (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2mZ6hiH_OGGm6V_r8l5bRWHH79zEQit2nTzdn8eS_CagNzXpIhTbULuhi-k9ThYuOxsQDXjIgWzi2siTQJsHhirmbc8Q",
+    "original": {
+      "name": "holo_cutie",
+      "image_inventory": "econ/stickers/community/community_2025/holo_cutie_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9469",
+    "name": "Sticker Slab | Evidence (Holo)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9469",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Evidence (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2mZ6hiH_WFB2OVz-1zj7A6GnyMxkpptmzUyN__eC6WaQJxDpslQrQDukGxltTlNLvq5gSI2YkUyX72hiMbvzErvbiNakPN8Q",
+    "original": {
+      "name": "holo_evidence",
+      "image_inventory": "econ/stickers/community/community_2025/holo_evidence_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9470",
+    "name": "Sticker Slab | Froggles (Holo)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9470",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Froggles (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2mZ6hiH_aBAWCXzetlj7A6GnyMxkpp5m-GzoqveXnEaA51DpBwQ7IIsRjpxNzhYbzr4QKKiN9Nzin62Cgd7TErvbjGUA4cZg",
+    "original": {
+      "name": "holo_froggles",
+      "image_inventory": "econ/stickers/community/community_2025/holo_froggles_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9471",
+    "name": "Sticker Slab | Ain't A Rental (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9471",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Ain't A Rental (Foil)",
+    "effect": "Foil",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/community_2025/foil_aint_a_rental_1355_37.d3c2ffd1e5236df6edb687217738cbf9da1ce7b4.png",
+    "original": {
+      "name": "foil_aint_a_rental",
+      "image_inventory": "econ/stickers/community/community_2025/foil_aint_a_rental_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9472",
+    "name": "Sticker Slab | Eyes In The Sky (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9472",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Eyes In The Sky (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2oZ61hH_WKC3Sv0uVvj7A6GnyMxkpp5DjSm9f6ci2XP1QgXpBxRecDt0a9w4fjMb63s1GNgt9Fn3n23Swc7DErvbjsVWCLkA",
+    "original": {
+      "name": "foil_eyes_sky",
+      "image_inventory": "econ/stickers/community/community_2025/foil_eyes_sky_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9473",
+    "name": "Sticker Slab | Good As New (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9473",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Good As New (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2oZ61hH_ecAWOvwP1JvuR-cHjgwEgY4GrLytmpI3yfO1JyWcZyTOAP5EW5x4a0MuOz4QWPj4NHzH2viilM7y5j4fFCD_T-q_dlwQ",
+    "original": {
+      "name": "foil_good_as_new",
+      "image_inventory": "econ/stickers/community/community_2025/foil_good_as_new_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9474",
+    "name": "Sticker Slab | Hands Off (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9474",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Hands Off (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2oZ61hH_iSAGOD_uFwtt44HHzmqk5w_TyAy9qgcCqWOg5zDcd2RrIJ4UXsltfgY-O0sQTfio9DnHn6j3xK6il1o7FVZzReqKc",
+    "original": {
+      "name": "foil_hands_off",
+      "image_inventory": "econ/stickers/community/community_2025/foil_hands_off_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9475",
+    "name": "Sticker Slab | King Crasswater (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9475",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | King Crasswater (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2oZ61hH_uaAGCvwvx3o_J-Tj22hyJ24GjQpdyuby_CO1IjCsR2E-IJthLtwNPlMem37wCKj45Hmyv-3SJAuCo4suhXBPU7uvqAsLBQQE8",
+    "original": {
+      "name": "foil_king_crasswater",
+      "image_inventory": "econ/stickers/community/community_2025/foil_king_crasswater_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9476",
+    "name": "Sticker Slab | Queen Ava (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9476",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Queen Ava (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2oZ61hH-GGC2Ke_u9gsd44HHzmqk5w_W6Bn9mteS7GOwAiDMF0TOIMtkW6m4blNurr7wCLithDmSn_jnhJ6nl1o7FVjAs-HU8",
+    "original": {
+      "name": "foil_queen_ava",
+      "image_inventory": "econ/stickers/community/community_2025/foil_queen_ava_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9477",
+    "name": "Sticker Slab | Digi-Strike (Lenticular)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9477",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Digi-Strike (Lenticular)",
+    "effect": "Lenticular",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2ibap5KfOGAmaC_up_t-h6Wzu6nhgY4m7Qz7CqdmXBbgIjC8N3RO4OtRW-ktOxZrjgswyIidoQzX3-ii4bvS0-6rwHVaIi5OSJ2OpH96Td",
+    "original": {
+      "name": "lenticular_digistrike",
+      "image_inventory": "econ/stickers/community/community_2025/lenticular_digistrike_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9478",
+    "name": "Sticker Slab | Neon MVP (Lenticular)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9478",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Neon MVP (Lenticular)",
+    "effect": "Lenticular",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2ibap5KfOGAmaC_uBzv-9kWTmMxE5y5gLWzcH4cH7EaQEiXpQlReVY5xa5wYGyP-jj5QHX2dlHmX_5jSxB7Ho54egBT-N7rTf8nLbF",
+    "original": {
+      "name": "lenticular_neonmvp",
+      "image_inventory": "econ/stickers/community/community_2025/lenticular_neonmvp_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9479",
+    "name": "Sticker Slab | BullHit (Lenticular)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9479",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-community-2025",
+        "name": "2025 Community Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_community_2025.280d945244b90804541bf84784796793fd3bad00.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | BullHit (Lenticular)",
+    "effect": "Lenticular",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj35VTqVBP4io_fr3IJur2ibap5KfOGAmaC_uxjvO1hRj2MxE5y5gLWzcGpcHmfPVUoD8B4RrVf4xjrldTnMr6w41aL2olFzH-tjH5AvSY5tukFT-N7rVUbrn7z",
+    "original": {
+      "name": "lenticular_bullhit",
+      "image_inventory": "econ/stickers/community/community_2025/lenticular_bullhit_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9480",
+    "name": "Sticker Slab | Clavis",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9480",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-sugarface2",
+        "name": "Sugarface 2 Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_sugarface2.2cb2d789be9fd3a0784335cf2453438a3c0f5ee7.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Clavis",
+    "effect": "Other",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/sugarface2/paper_clavis_1355_37.51f052605b0d7a6e058bdebbc05e6106e49df725.png",
+    "original": {
+      "name": "paper_clavis",
+      "image_inventory": "econ/stickers/community/sugarface2/paper_clavis_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9481",
+    "name": "Sticker Slab | Lorena",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9481",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-sugarface2",
+        "name": "Sugarface 2 Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_sugarface2.2cb2d789be9fd3a0784335cf2453438a3c0f5ee7.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Lorena",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjn_17mUxvwnZOysjJa__e8V6hiMvWdD1jBkrsjj7I-AXDkwkp_5DuDydb8JXKVblQmWZR1Q7IO5xLtwNDiMe-2tlTai4tGynjgznQeTH-8OAo",
+    "original": {
+      "name": "paper_lorena",
+      "image_inventory": "econ/stickers/community/sugarface2/paper_lorena_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9482",
+    "name": "Sticker Slab | Lucas",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9482",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-sugarface2",
+        "name": "Sugarface 2 Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_sugarface2.2cb2d789be9fd3a0784335cf2453438a3c0f5ee7.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Lucas",
+    "effect": "Other",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjn_17mUxvwnZOysjJa__e8V6h4I_GAMTbDlLtJ47YnFnvmxEgi5znXy9-vcSifZlBxWZNyQbIDtUSxm4CzN-63sQPXiYsUxDK-0H0UGa0czQ",
+    "original": {
+      "name": "paper_lucas",
+      "image_inventory": "econ/stickers/community/sugarface2/paper_lucas_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9483",
+    "name": "Sticker Slab | Clavis (Holo)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9483",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-sugarface2",
+        "name": "Sugarface 2 Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_sugarface2.2cb2d789be9fd3a0784335cf2453438a3c0f5ee7.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Clavis (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjn_17mUxvwnZOysipU4_2Ra6hsNvmAMTbDlLtJ47YnTC22wBsmtjzRwtyoJ3OTaAYkCJdzR-4DukO6lIbjY-vg4QXY2Y5BnDK-0H0Xm7X4rA",
+    "original": {
+      "name": "holo_clavis",
+      "image_inventory": "econ/stickers/community/sugarface2/holo_clavis_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9484",
+    "name": "Sticker Slab | Lorena (Holo)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9484",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-sugarface2",
+        "name": "Sugarface 2 Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_sugarface2.2cb2d789be9fd3a0784335cf2453438a3c0f5ee7.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Lorena (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjn_17mUxvwnZOysipU4_2RZKt_Jf6SMTbDlLtJ47YnFiywzUUismTQmI36JHiXaVQkD5Z2ReIKthG7m9y2Ye7ntgfa39oXyzK-0H07G3x05g",
+    "original": {
+      "name": "holo_lorena",
+      "image_inventory": "econ/stickers/community/sugarface2/holo_lorena_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9485",
+    "name": "Sticker Slab | Lucas (Holo)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9485",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-sugarface2",
+        "name": "Sugarface 2 Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_sugarface2.2cb2d789be9fd3a0784335cf2453438a3c0f5ee7.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Lucas (Holo)",
+    "effect": "Holo",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjn_17mUxvwnZOysipU4_2RZLFuIeOsXzTFlNEl5684H3_qxksjtm_Un92qci3CbQ92CsN0R-9ZtkSwld2xYry0tgLcjo9N02yg2auPmyut",
+    "original": {
+      "name": "holo_lucas",
+      "image_inventory": "econ/stickers/community/sugarface2/holo_lucas_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9486",
+    "name": "Sticker Slab | Clavis (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9486",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-sugarface2",
+        "name": "Sugarface 2 Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_sugarface2.2cb2d789be9fd3a0784335cf2453438a3c0f5ee7.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Clavis (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjn_17mUxvwnZOysiRU5v6Ra6hsNvmAMTbDlLtJ47YnTCq3wB5ztWSEwtisJHiTa1dyDJR4RbMM4RLqx9CyMb7m4VHW34IXyDK-0H1QMZV0VQ",
+    "original": {
+      "name": "foil_clavis",
+      "image_inventory": "econ/stickers/community/sugarface2/foil_clavis_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9487",
+    "name": "Sticker Slab | Lorena (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9487",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-sugarface2",
+        "name": "Sugarface 2 Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_sugarface2.2cb2d789be9fd3a0784335cf2453438a3c0f5ee7.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Lorena (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjn_17mUxvwnZOysiRU5v6RZKt_Jf6SMTbDlLtJ47YnSXC1xk8hsWXUzNehc33CagEkDsAmQrQNsxXqw9PmNenq4geKj95BnDK-0H00wk5I5g",
+    "original": {
+      "name": "foil_lorena",
+      "image_inventory": "econ/stickers/community/sugarface2/foil_lorena_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9488",
+    "name": "Sticker Slab | Lucas (Foil)",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9488",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [
+      {
+        "id": "collection-set-sugarface2",
+        "name": "Sugarface 2 Sticker Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_sugarface2.2cb2d789be9fd3a0784335cf2453438a3c0f5ee7.png"
+      }
+    ],
+    "type": "Other",
+    "market_hash_name": "Sticker Slab | Lucas (Foil)",
+    "effect": "Foil",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjn_17mUxvwnZOysiRU5v6RZLFuIeOsXzTFlNEl568_GS3mzEom52nWmdetI3KeagEkDsZxTeJY4RW-wdfuMOq3sQDc3d0R02yg2eYnqlyh",
+    "original": {
+      "name": "foil_lucas",
+      "image_inventory": "econ/stickers/community/sugarface2/foil_lucas_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9489",
+    "name": "Sticker Slab | FURIA | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9489",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | FURIA | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 85,
+      "tag": "FURI",
+      "geo": "US",
+      "name": "FURIA"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM68pLm42a2EkikocW3s3RdvKL3PvQ5JqfKWD_Gwrxz47FoSn_qwRx1tj6En43_dX7GZlIpD5NuBbldfNo8tgI",
+    "original": {
+      "name": "bud2025_team_furi",
+      "image_inventory": "econ/stickers/bud2025/furi_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9490",
+    "name": "Sticker Slab | FURIA (Embroidered) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9490",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | FURIA (Embroidered) | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 85,
+      "tag": "FURI",
+      "geo": "US",
+      "name": "FURIA"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM68pLm42biTB_jkZ_k-DBe683_O_E4H6PEQGTEk-si5rhrHy3ixhgh4miEntn6IymRZgZzA8cjEO9ftxbuwdTlNeP8p1uJLzOaIYE",
+    "original": {
+      "name": "bud2025_team_furi_embroidered",
+      "image_inventory": "econ/stickers/bud2025/furi_embroidered_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9491",
+    "name": "Sticker Slab | FURIA (Holo) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9491",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | FURIA (Holo) | Budapest 2025",
+    "effect": "Holo",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 85,
+      "tag": "FURI",
+      "geo": "US",
+      "name": "FURIA"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM68pLm42bvThH-ocezqHdkvKXgbKA4JfOVCjLAkrtz4LhrS32wwkwj623XyIqocHjCaFUoCZp5TOMMtw74zIO9-mTQww",
+    "original": {
+      "name": "bud2025_team_furi_holo",
+      "image_inventory": "econ/stickers/bud2025/furi_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9492",
+    "name": "Sticker Slab | FURIA (Gold) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9492",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | FURIA (Gold) | Budapest 2025",
+    "effect": "Gold",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 85,
+      "tag": "FURI",
+      "geo": "US",
+      "name": "FURIA"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM68pLm42bgThH1ocezqHdkvKXgPPQ5JfTEWmbFw7gktLZtH3vqkUxw5GSBnon7Ii-RZwB0X5d3Q-Bfuw74zIPQPisTrA",
+    "original": {
+      "name": "bud2025_team_furi_gold",
+      "image_inventory": "econ/stickers/bud2025/furi_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9493",
+    "name": "Sticker Slab | Vitality | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9493",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Vitality | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 89,
+      "tag": "VITA",
+      "geo": "FR",
+      "name": "Vitality"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM64o7g62a2EkikocW3s3Zft_SqbfxodKKXWjTDl75ws7QwTnzgwEwl4jvSmdn7cCiXPQAiWcBuBbldBPAr_CU",
+    "original": {
+      "name": "bud2025_team_vita",
+      "image_inventory": "econ/stickers/bud2025/vita_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9494",
+    "name": "Sticker Slab | Vitality (Embroidered) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9494",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Vitality (Embroidered) | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 89,
+      "tag": "VITA",
+      "geo": "FR",
+      "name": "Vitality"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM64o7g62biTB_jkZ_k-DBe683_O_E4H6PEQDDFxewjsbRrGn7gl0x-6jmGzNaheH2Raw9yXsFxQecN4ES5ldzmN7v8p1uJnGp98Cc",
+    "original": {
+      "name": "bud2025_team_vita_embroidered",
+      "image_inventory": "econ/stickers/bud2025/vita_embroidered_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9495",
+    "name": "Sticker Slab | Vitality (Holo) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9495",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Vitality (Holo) | Budapest 2025",
+    "effect": "Holo",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 89,
+      "tag": "VITA",
+      "geo": "FR",
+      "name": "Vitality"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM64o7g62bvThH-ocezqHdkvKXgOPw7IaHFV2XBlrols7Y-GnqylEQjtmrcwtyrcCnFZlV2CZV4E-Fbsw74zIPbQ1IhZQ",
+    "original": {
+      "name": "bud2025_team_vita_holo",
+      "image_inventory": "econ/stickers/bud2025/vita_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9496",
+    "name": "Sticker Slab | Vitality (Gold) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9496",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Vitality (Gold) | Budapest 2025",
+    "effect": "Gold",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 89,
+      "tag": "VITA",
+      "geo": "FR",
+      "name": "Vitality"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM64o7g62bgThH1ocezqHdkvKXgbvM5JPOXVzXFlrki5rcxHXyxwRlztmqAyY39IHjGalAjDpchEbMNtQ74zIOWvdc3ZA",
+    "original": {
+      "name": "bud2025_team_vita_gold",
+      "image_inventory": "econ/stickers/bud2025/vita_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9497",
+    "name": "Sticker Slab | Falcons | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9497",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Falcons | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM68ob41Qi0FEjOzcGupSFZvqWtOKE7cvWRX2XBlrYgteNqHivnzEsjtmqAmd-gcy3FbwcmCYwwG7A6x5mgSg",
+    "original": {
+      "name": "bud2025_team_fal",
+      "image_inventory": "econ/stickers/bud2025/fal_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9498",
+    "name": "Sticker Slab | Falcons (Embroidered) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9498",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Falcons (Embroidered) | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM68ob41VzqQw_-l5Ll7ydf0KP9PfFSc6fdWzPEx7gm5rQ5Snrkl0QisDjUmI77c3OVa1VxWcd4TO4MtRKxx9DvNvSiuVL9H0J2GQ",
+    "original": {
+      "name": "bud2025_team_fal_embroidered",
+      "image_inventory": "econ/stickers/bud2025/fal_embroidered_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9499",
+    "name": "Sticker Slab | Falcons (Holo) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9499",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Falcons (Holo) | Budapest 2025",
+    "effect": "Holo",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM68ob41VHoTRLOz8W1qB0IuLysOPFsdKTGXWGSlOshsrVrHH2yzR906zuHzIv4InyWOwFyCpRwF7FcrFDmxY4arqCX",
+    "original": {
+      "name": "bud2025_team_fal_holo",
+      "image_inventory": "econ/stickers/bud2025/fal_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9500",
+    "name": "Sticker Slab | Falcons (Gold) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9500",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Falcons (Gold) | Budapest 2025",
+    "effect": "Gold",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/fal_gold_1355_37.f327b9c6b05ab1d95be8004b5a71e92ed536c453.png",
+    "original": {
+      "name": "bud2025_team_fal_gold",
+      "image_inventory": "econ/stickers/bud2025/fal_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9501",
+    "name": "Sticker Slab | The Mongolz | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9501",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | The Mongolz | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 122,
+      "tag": "MNGZ",
+      "name": "The MongolZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6-Ynz8Ga2EkikocW3sycD7av-a_dvd6LAXmLEk7Yg5bM4HHvjk05x4G-DntuueXzCb1VyX8RuBbldJR7JAgk",
+    "original": {
+      "name": "bud2025_team_mngz",
+      "image_inventory": "econ/stickers/bud2025/mngz_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9502",
+    "name": "Sticker Slab | The Mongolz (Embroidered) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9502",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | The Mongolz (Embroidered) | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 122,
+      "tag": "MNGZ",
+      "name": "The MongolZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6-Ynz8GbiTB_jkZ_k-DBe683_O_E4H6PEQDXGwusj6bE8HnHqk01_4jjXwtiuI3iVaQF0DMAlRrMK50K-xtXgYuz8p1uJdW1rZl8",
+    "original": {
+      "name": "bud2025_team_mngz_embroidered",
+      "image_inventory": "econ/stickers/bud2025/mngz_embroidered_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9503",
+    "name": "Sticker Slab | The Mongolz (Holo) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9503",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | The Mongolz (Holo) | Budapest 2025",
+    "effect": "Holo",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 122,
+      "tag": "MNGZ",
+      "name": "The MongolZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6-Ynz8GbvThH-ocezqHdkvKXgO_VuJqXECj6UxbZ3tbQ4Fnu1wE52tjzSydmveHmRaA8mDcF1QLMLuw74zINbt0AIKg",
+    "original": {
+      "name": "bud2025_team_mngz_holo",
+      "image_inventory": "econ/stickers/bud2025/mngz_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9504",
+    "name": "Sticker Slab | The Mongolz (Gold) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9504",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | The Mongolz (Gold) | Budapest 2025",
+    "effect": "Gold",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 122,
+      "tag": "MNGZ",
+      "name": "The MongolZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6-Ynz8GbgThH1ocezqHdkvKXgPP1oJKnCXj-Slbgv5rk7GiznlEh0sGXUzd6pdy6WZwd2W5QlRbUItQ74zIM7OLq6DA",
+    "original": {
+      "name": "bud2025_team_mngz_gold",
+      "image_inventory": "econ/stickers/bud2025/mngz_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9505",
+    "name": "Sticker Slab | MOUZ | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9505",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | MOUZ | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 106,
+      "tag": "MOUZ",
+      "geo": "EU",
+      "name": "MOUZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6-Yjh8Ga2EkikocW3s3Be66f4Ovw9IqLKCzLIwux15bdvGnDqwUt2sj7Vwt2tc3yePQIhDpNuBbldkuWA6-k",
+    "original": {
+      "name": "bud2025_team_mouz",
+      "image_inventory": "econ/stickers/bud2025/mouz_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9506",
+    "name": "Sticker Slab | MOUZ (Embroidered) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9506",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | MOUZ (Embroidered) | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 106,
+      "tag": "MOUZ",
+      "geo": "EU",
+      "name": "MOUZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6-Yjh8GbiTB_jkZ_k-DBe683_O_E4H6PEQGWWw74u4uQ_FnzgzRhx5T_Xztn4cSjCZwFxC8EjTeQLuxmxw9XvMen8p1uJJHw_suY",
+    "original": {
+      "name": "bud2025_team_mouz_embroidered",
+      "image_inventory": "econ/stickers/bud2025/mouz_embroidered_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9507",
+    "name": "Sticker Slab | MOUZ (Holo) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9507",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | MOUZ (Holo) | Budapest 2025",
+    "effect": "Holo",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 106,
+      "tag": "MOUZ",
+      "geo": "EU",
+      "name": "MOUZ"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/mouz_holo_1355_37.b0f37465a79d2fc2ea8f236c97d95d421f3353c3.png",
+    "original": {
+      "name": "bud2025_team_mouz_holo",
+      "image_inventory": "econ/stickers/bud2025/mouz_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9508",
+    "name": "Sticker Slab | MOUZ (Gold) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9508",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | MOUZ (Gold) | Budapest 2025",
+    "effect": "Gold",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 106,
+      "tag": "MOUZ",
+      "geo": "EU",
+      "name": "MOUZ"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6-Yjh8GbgThH1ocezqHdkvKXgO_Q7IvbGVzDHxbkgsbA9TiywxEsj52WAz4qseC2faVNxDMMjQOBftg74zIO4MlOq8A",
+    "original": {
+      "name": "bud2025_team_mouz_gold",
+      "image_inventory": "econ/stickers/bud2025/mouz_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9509",
+    "name": "Sticker Slab | Team Spirit | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9509",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team Spirit | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 81,
+      "tag": "SPIR",
+      "geo": "RU",
+      "name": "Team Spirit"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM655f9-Ga2EkikocW3syMPuqL2avc7d6XCDTaSkesn5bM9HnjgwRl25DvWmdisJy_FPQZxWJFuBbldrmo1bTE",
+    "original": {
+      "name": "bud2025_team_spir",
+      "image_inventory": "econ/stickers/bud2025/spir_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9510",
+    "name": "Sticker Slab | Team Spirit (Embroidered) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9510",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team Spirit (Embroidered) | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 81,
+      "tag": "SPIR",
+      "geo": "RU",
+      "name": "Team Spirit"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM655f9-GbiTB_jkZ_k-DBe683_O_E4H6PEQDSTl-pzsuJqTH63wU1w5DvTnI6gd3KeOlMpCpJxFOBbsUWwxtziZO_8p1uJrDCvhJ8",
+    "original": {
+      "name": "bud2025_team_spir_embroidered",
+      "image_inventory": "econ/stickers/bud2025/spir_embroidered_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9511",
+    "name": "Sticker Slab | Team Spirit (Holo) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9511",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team Spirit (Holo) | Budapest 2025",
+    "effect": "Holo",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 81,
+      "tag": "SPIR",
+      "geo": "RU",
+      "name": "Team Spirit"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM655f9-GbvThH-ocezqHdkvKXgaqc4cqbEXjTJkO106eJtHXznkEVxt2Xcntb4eXyTPFIiCscmRbUI5A74zINFlfD4Ig",
+    "original": {
+      "name": "bud2025_team_spir_holo",
+      "image_inventory": "econ/stickers/bud2025/spir_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9512",
+    "name": "Sticker Slab | Team Spirit (Gold) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9512",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team Spirit (Gold) | Budapest 2025",
+    "effect": "Gold",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 81,
+      "tag": "SPIR",
+      "geo": "RU",
+      "name": "Team Spirit"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM655f9-GbgThH1ocezqHdkvKXgbaI4JKDBDTDDlO1ytbE_Sy3iwB4k6jvQz9eoIynEOgZzA5IjE7IDtQ74zIOaJ1ApBg",
+    "original": {
+      "name": "bud2025_team_spir_gold",
+      "image_inventory": "econ/stickers/bud2025/spir_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9513",
+    "name": "Sticker Slab | G2 esports | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9513",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | G2 esports | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/g2_1355_37.7b54ac48e0bac746198b59e21a4bd3ab13787452.png",
+    "original": {
+      "name": "bud2025_team_g2",
+      "image_inventory": "econ/stickers/bud2025/g2_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9514",
+    "name": "Sticker Slab | G2 esports (Embroidered) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9514",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | G2 esports (Embroidered) | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM689XL71TlUxL4mpPy-CZkvqH7PZs-d76SWmLCwLtw6LA8GXyxwBtx6jjdnIupcHnBZwQiDJp3RO5Z5xaww4CzKaq8sArKdd50",
+    "original": {
+      "name": "bud2025_team_g2_embroidered",
+      "image_inventory": "econ/stickers/bud2025/g2_embroidered_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9515",
+    "name": "Sticker Slab | G2 esports (Holo) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9515",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | G2 esports (Holo) | Budapest 2025",
+    "effect": "Holo",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM689XL4lbrTiKgzcO1wnEMofH2PaE7cKDAXWKSl-0isbBoHCrgw0p0tjyHmNz7cXuRawYiDZp4TOEU8k7vEHsgplo",
+    "original": {
+      "name": "bud2025_team_g2_holo",
+      "image_inventory": "econ/stickers/bud2025/g2_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9516",
+    "name": "Sticker Slab | G2 esports (Gold) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9516",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | G2 esports (Gold) | Budapest 2025",
+    "effect": "Gold",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM689XL7VbrRSKgzcO1wnEMoaT6afJsJaDCDGSRmLkl6bg7S3Hnwhh15W-EyNf9JH2RbAUnCsAmEOAU8k7v6zFB9G8",
+    "original": {
+      "name": "bud2025_team_g2_gold",
+      "image_inventory": "econ/stickers/bud2025/g2_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9517",
+    "name": "Sticker Slab | paiN Gaming | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9517",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | paiN Gaming | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 102,
+      "tag": "PAIN",
+      "geo": "BR",
+      "name": "paiN Gaming"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM65Ib95Ga2EkikocW3s3sItqOqO_M5c_WXWDbDkL5w4bU_HHG1kEh-tjmAmYn8InKWbgYhD5puBbldqsDK69g",
+    "original": {
+      "name": "bud2025_team_pain",
+      "image_inventory": "econ/stickers/bud2025/pain_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9518",
+    "name": "Sticker Slab | paiN Gaming (Embroidered) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9518",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | paiN Gaming (Embroidered) | Budapest 2025",
+    "effect": "Other",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 102,
+      "tag": "PAIN",
+      "geo": "BR",
+      "name": "paiN Gaming"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM65Ib95GbiTB_jkZ_k-DBe683_O_E4H6PEQD_AwLYis-A5GHqyzEhzsGjWnN_9IHqQa1V1CJsiQeVZuhm5xNHkNr_8p1uJyj65wU0",
+    "original": {
+      "name": "bud2025_team_pain_embroidered",
+      "image_inventory": "econ/stickers/bud2025/pain_embroidered_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9519",
+    "name": "Sticker Slab | paiN Gaming (Holo) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9519",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | paiN Gaming (Holo) | Budapest 2025",
+    "effect": "Holo",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 102,
+      "tag": "PAIN",
+      "geo": "BR",
+      "name": "paiN Gaming"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM65Ib95GbvThH-ocezqHdkvKXgbPA6c_bDWDeTxOol5uJsGXvgxxwksWiEzNn7cC-TaldyW5YhEOEM4Q74zIMfwcGPrQ",
+    "original": {
+      "name": "bud2025_team_pain_holo",
+      "image_inventory": "econ/stickers/bud2025/pain_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9520",
+    "name": "Sticker Slab | paiN Gaming (Gold) | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9520",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-5216",
+        "name": "Budapest 2025 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJvORuSie3hlMj5GWGyNn_cimfbgMhW8d3Q-cOtRnpxIHlZu3htlGMi9hMz3333CMb8G81tC_mVj8j"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | paiN Gaming (Gold) | Budapest 2025",
+    "effect": "Gold",
+    "tournament": {
+      "id": 25,
+      "name": "StarLadder Budapest 2025"
+    },
+    "team": {
+      "id": 102,
+      "tag": "PAIN",
+      "geo": "BR",
+      "name": "paiN Gaming"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/pain_gold_1355_37.dbb7351922a7ae02632fd41d26880ca5aab20001.png",
+    "original": {
+      "name": "bud2025_team_pain_gold",
+      "image_inventory": "econ/stickers/bud2025/pain_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-9521",
+    "name": "Sticker Slab | Aurora | Budapest 2025",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "9521",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -18,23 +1741,23 @@
     ],
     "collections": [],
     "type": "Team",
-    "market_hash_name": "Sticker Slab | Passion UA | Budapest 2025",
+    "market_hash_name": "Sticker Slab | Aurora | Budapest 2025",
     "effect": "Other",
     "tournament": {
       "id": 25,
       "name": "StarLadder Budapest 2025"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/psnu_1355_37.ab75f80c1e034e9aa2e6fbcd263298d9c35aaac7.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM69ZLm62a2EkikocW3s3INuab9OfM9c_ORWzbJmLsn4OQxG3rklE5y6zvRnoupI3qUaAN0DZNuBbldWn2-iqs",
     "original": {
-      "name": "bud2025_team_psnu",
-      "image_inventory": "econ/stickers/bud2025/psnu_1355_37"
+      "name": "bud2025_team_aura",
+      "image_inventory": "econ/stickers/bud2025/aura_1355_37"
     }
   },
   {
-    "id": "sticker_slab-9550",
-    "name": "Sticker Slab | Passion UA (Embroidered) | Budapest 2025",
+    "id": "sticker_slab-9522",
+    "name": "Sticker Slab | Aurora (Embroidered) | Budapest 2025",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9550",
+    "def_index": "9522",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -49,23 +1772,23 @@
     ],
     "collections": [],
     "type": "Team",
-    "market_hash_name": "Sticker Slab | Passion UA (Embroidered) | Budapest 2025",
+    "market_hash_name": "Sticker Slab | Aurora (Embroidered) | Budapest 2025",
     "effect": "Other",
     "tournament": {
       "id": 25,
       "name": "StarLadder Budapest 2025"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/psnu_embroidered_1355_37.c078bf49051d46483ce0f4a6db0458f323e838b9.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM69ZLm62biTB_jkZ_k-DBe683_O_E4H6PEQGLFxbgv6bYxGi3gzRl-5G_WzNb_JH7EbVUoCMdzQuAP4RjrlIW1Ybn8p1uJs79KLzY",
     "original": {
-      "name": "bud2025_team_psnu_embroidered",
-      "image_inventory": "econ/stickers/bud2025/psnu_embroidered_1355_37"
+      "name": "bud2025_team_aura_embroidered",
+      "image_inventory": "econ/stickers/bud2025/aura_embroidered_1355_37"
     }
   },
   {
-    "id": "sticker_slab-9551",
-    "name": "Sticker Slab | Passion UA (Holo) | Budapest 2025",
+    "id": "sticker_slab-9523",
+    "name": "Sticker Slab | Aurora (Holo) | Budapest 2025",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9551",
+    "def_index": "9523",
     "rarity": {
       "id": "rarity_legendary",
       "name": "Exotic",
@@ -80,23 +1803,23 @@
     ],
     "collections": [],
     "type": "Team",
-    "market_hash_name": "Sticker Slab | Passion UA (Holo) | Budapest 2025",
+    "market_hash_name": "Sticker Slab | Aurora (Holo) | Budapest 2025",
     "effect": "Holo",
     "tournament": {
       "id": 25,
       "name": "StarLadder Budapest 2025"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/psnu_holo_1355_37.b1c604078872a1b50cdf9650bbfdc6572cea9b74.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM69ZLm62bvThH-ocezqHdkvKXgOKBod6XCW2PFk-gg5LFvSyrgwB9y4jjVzdn7cnmXPQF2XsZxQe8Ltw74zIMvy7ahfQ",
     "original": {
-      "name": "bud2025_team_psnu_holo",
-      "image_inventory": "econ/stickers/bud2025/psnu_holo_1355_37"
+      "name": "bud2025_team_aura_holo",
+      "image_inventory": "econ/stickers/bud2025/aura_holo_1355_37"
     }
   },
   {
-    "id": "sticker_slab-9552",
-    "name": "Sticker Slab | Passion UA (Gold) | Budapest 2025",
+    "id": "sticker_slab-9524",
+    "name": "Sticker Slab | Aurora (Gold) | Budapest 2025",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9552",
+    "def_index": "9524",
     "rarity": {
       "id": "rarity_ancient",
       "name": "Extraordinary",
@@ -111,23 +1834,23 @@
     ],
     "collections": [],
     "type": "Team",
-    "market_hash_name": "Sticker Slab | Passion UA (Gold) | Budapest 2025",
+    "market_hash_name": "Sticker Slab | Aurora (Gold) | Budapest 2025",
     "effect": "Gold",
     "tournament": {
       "id": 25,
       "name": "StarLadder Budapest 2025"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/psnu_gold_1355_37.2fa885fcf90f0c472d32896fef0cc1ebc76e6c61.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM69ZLm62bgThH1ocezqHdkvKXgOPNsI_bHD2LGkrwl5-UwHn3lxhx-4jzWzteuIymebwJ1CsN0E7NZtw74zIMizUwyCA",
     "original": {
-      "name": "bud2025_team_psnu_gold",
-      "image_inventory": "econ/stickers/bud2025/psnu_gold_1355_37"
+      "name": "bud2025_team_aura_gold",
+      "image_inventory": "econ/stickers/bud2025/aura_gold_1355_37"
     }
   },
   {
-    "id": "sticker_slab-9553",
-    "name": "Sticker Slab | Legacy | Budapest 2025",
+    "id": "sticker_slab-9525",
+    "name": "Sticker Slab | Natus Vincere | Budapest 2025",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9553",
+    "def_index": "9525",
     "rarity": {
       "id": "rarity_rare",
       "name": "High Grade",
@@ -135,30 +1858,36 @@
     },
     "crates": [
       {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
+        "id": "crate-5217",
+        "name": "Budapest 2025 Challengers Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-loQyW2mxoioS7Lz4utc3vBOA5yWZFwTe8IsBPuwIXmMOvjs1SM2YIXnnqv2iJK7SZp5vFCD_R_SFKZ4Q"
       }
     ],
     "collections": [],
     "type": "Team",
-    "market_hash_name": "Sticker Slab | Legacy | Budapest 2025",
+    "market_hash_name": "Sticker Slab | Natus Vincere | Budapest 2025",
     "effect": "Other",
     "tournament": {
       "id": 25,
       "name": "StarLadder Budapest 2025"
     },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6-ID382a2EkikocW3s3tY6vb6OqE5dvTBXDXCl-x0srM-HXrkzUUj5zyAzI3_d32ePw52CpNuBbld3NliT-s",
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/navi_1355_37.9e95410261a67c598497110d428e4a95a61a763b.png",
     "original": {
-      "name": "bud2025_team_lgcy",
-      "image_inventory": "econ/stickers/bud2025/lgcy_1355_37"
+      "name": "bud2025_team_navi",
+      "image_inventory": "econ/stickers/bud2025/navi_1355_37"
     }
   },
   {
-    "id": "sticker_slab-9554",
-    "name": "Sticker Slab | Legacy (Embroidered) | Budapest 2025",
+    "id": "sticker_slab-9526",
+    "name": "Sticker Slab | Natus Vincere (Embroidered) | Budapest 2025",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9554",
+    "def_index": "9526",
     "rarity": {
       "id": "rarity_mythical",
       "name": "Remarkable",
@@ -166,1837 +1895,29 @@
     },
     "crates": [
       {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
+        "id": "crate-5217",
+        "name": "Budapest 2025 Challengers Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-loQyW2mxoioS7Lz4utc3vBOA5yWZFwTe8IsBPuwIXmMOvjs1SM2YIXnnqv2iJK7SZp5vFCD_R_SFKZ4Q"
       }
     ],
     "collections": [],
     "type": "Team",
-    "market_hash_name": "Sticker Slab | Legacy (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/lgcy_embroidered_1355_37.2099b58780ccbe75a429d547571271e91c400992.png",
-    "original": {
-      "name": "bud2025_team_lgcy_embroidered",
-      "image_inventory": "econ/stickers/bud2025/lgcy_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9555",
-    "name": "Sticker Slab | Legacy (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9555",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Legacy (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/lgcy_holo_1355_37.61a0ed3910e1c2be53ddc1908add88f0229efa83.png",
-    "original": {
-      "name": "bud2025_team_lgcy_holo",
-      "image_inventory": "econ/stickers/bud2025/lgcy_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9556",
-    "name": "Sticker Slab | Legacy (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9556",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Legacy (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/lgcy_gold_1355_37.12d5f71bba30625df413d91d3bd6e763f45e04ef.png",
-    "original": {
-      "name": "bud2025_team_lgcy_gold",
-      "image_inventory": "econ/stickers/bud2025/lgcy_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9557",
-    "name": "Sticker Slab | FaZe Clan | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9557",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FaZe Clan | Budapest 2025",
+    "market_hash_name": "Sticker Slab | Natus Vincere (Embroidered) | Budapest 2025",
     "effect": "Other",
     "tournament": {
       "id": 25,
       "name": "StarLadder Budapest 2025"
     },
     "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/faze_1355_37.052b5efb8bdeafd60ba239d1bd6fcffd41305d14.png",
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/navi_embroidered_1355_37.cecd04dac80658fdd91d4a8af7294507155ad35c.png",
     "original": {
-      "name": "bud2025_team_faze",
-      "image_inventory": "econ/stickers/bud2025/faze_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9558",
-    "name": "Sticker Slab | FaZe Clan (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9558",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FaZe Clan (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/faze_embroidered_1355_37.d247af03dd968a2fc39ab96ddd57b1053ff7eae2.png",
-    "original": {
-      "name": "bud2025_team_faze_embroidered",
-      "image_inventory": "econ/stickers/bud2025/faze_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9559",
-    "name": "Sticker Slab | FaZe Clan (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9559",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FaZe Clan (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/faze_holo_1355_37.161a2094c7b5213cce70f534055ea5836a433f78.png",
-    "original": {
-      "name": "bud2025_team_faze_holo",
-      "image_inventory": "econ/stickers/bud2025/faze_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9560",
-    "name": "Sticker Slab | FaZe Clan (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9560",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FaZe Clan (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 61,
-      "tag": "FAZE",
-      "geo": "EU",
-      "name": "FaZe Clan"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/faze_gold_1355_37.18c60f6022985fa6a6062884ddbdcdc7e44767e8.png",
-    "original": {
-      "name": "bud2025_team_faze_gold",
-      "image_inventory": "econ/stickers/bud2025/faze_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9561",
-    "name": "Sticker Slab | B8 | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9561",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | B8 | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/b8_1355_37.b615b0645814cfada0a413d6a361b5aca167f0d7.png",
-    "original": {
-      "name": "bud2025_team_b8",
-      "image_inventory": "econ/stickers/bud2025/b8_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9562",
-    "name": "Sticker Slab | B8 (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9562",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | B8 (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/b8_embroidered_1355_37.4279e0de844f1eb8ae5bf20ff464ca6476d479f3.png",
-    "original": {
-      "name": "bud2025_team_b8_embroidered",
-      "image_inventory": "econ/stickers/bud2025/b8_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9563",
-    "name": "Sticker Slab | B8 (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9563",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | B8 (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/b8_holo_1355_37.4ad360b077541db6c886e6aaec3468b517194054.png",
-    "original": {
-      "name": "bud2025_team_b8_holo",
-      "image_inventory": "econ/stickers/bud2025/b8_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9564",
-    "name": "Sticker Slab | B8 (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9564",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | B8 (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/b8_gold_1355_37.2a2060c03d7a92ae343f500223beae20f6c4c26e.png",
-    "original": {
-      "name": "bud2025_team_b8_gold",
-      "image_inventory": "econ/stickers/bud2025/b8_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9565",
-    "name": "Sticker Slab | GamerLegion | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9565",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | GamerLegion | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 115,
-      "tag": "GL",
-      "geo": "DE",
-      "name": "GamerLegion"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/gl_1355_37.8d77abe392c6c1eb1531752d84e9f3a08a0ab24f.png",
-    "original": {
-      "name": "bud2025_team_gl",
-      "image_inventory": "econ/stickers/bud2025/gl_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9566",
-    "name": "Sticker Slab | GamerLegion (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9566",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | GamerLegion (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 115,
-      "tag": "GL",
-      "geo": "DE",
-      "name": "GamerLegion"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/gl_embroidered_1355_37.330de424ad084861af83b96834b47d94e378b36a.png",
-    "original": {
-      "name": "bud2025_team_gl_embroidered",
-      "image_inventory": "econ/stickers/bud2025/gl_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9567",
-    "name": "Sticker Slab | GamerLegion (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9567",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | GamerLegion (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 115,
-      "tag": "GL",
-      "geo": "DE",
-      "name": "GamerLegion"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/gl_holo_1355_37.2e29a60a5378e083665d83544da136e7c5d405d6.png",
-    "original": {
-      "name": "bud2025_team_gl_holo",
-      "image_inventory": "econ/stickers/bud2025/gl_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9568",
-    "name": "Sticker Slab | GamerLegion (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9568",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | GamerLegion (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 115,
-      "tag": "GL",
-      "geo": "DE",
-      "name": "GamerLegion"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/gl_gold_1355_37.7909f32ca41b476bfc685ab57ff371fcef6ce287.png",
-    "original": {
-      "name": "bud2025_team_gl_gold",
-      "image_inventory": "econ/stickers/bud2025/gl_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9569",
-    "name": "Sticker Slab | fnatic | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9569",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | fnatic | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 6,
-      "tag": "Fntc",
-      "geo": "SE",
-      "name": "Fnatic"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/fntc_1355_37.6c106e01de1fbca4467d88cfc3de8b7d88c35a4d.png",
-    "original": {
-      "name": "bud2025_team_fntc",
-      "image_inventory": "econ/stickers/bud2025/fntc_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9570",
-    "name": "Sticker Slab | fnatic (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9570",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | fnatic (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 6,
-      "tag": "Fntc",
-      "geo": "SE",
-      "name": "Fnatic"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/fntc_embroidered_1355_37.8eaebc254a702edfa3ce91a75ec1e07d966382f7.png",
-    "original": {
-      "name": "bud2025_team_fntc_embroidered",
-      "image_inventory": "econ/stickers/bud2025/fntc_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9571",
-    "name": "Sticker Slab | fnatic (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9571",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | fnatic (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 6,
-      "tag": "Fntc",
-      "geo": "SE",
-      "name": "Fnatic"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/fntc_holo_1355_37.94d72597ad0fe9305ea4169550dfa4c310066bee.png",
-    "original": {
-      "name": "bud2025_team_fntc_holo",
-      "image_inventory": "econ/stickers/bud2025/fntc_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9572",
-    "name": "Sticker Slab | fnatic (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9572",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | fnatic (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 6,
-      "tag": "Fntc",
-      "geo": "SE",
-      "name": "Fnatic"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/fntc_gold_1355_37.9fbdd40c7c2dd7da09bbcced39a34963c51be5e3.png",
-    "original": {
-      "name": "bud2025_team_fntc_gold",
-      "image_inventory": "econ/stickers/bud2025/fntc_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9573",
-    "name": "Sticker Slab | PARIVISION | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9573",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | PARIVISION | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM65Ibm42a2EkikocW3s3BdufP-a_M0IvOVXz_HlLZy5bU8SnDhzRt-4DmEw4mvd3uQbQRzWZZuBbldqMDUG3o",
-    "original": {
-      "name": "bud2025_team_pari",
-      "image_inventory": "econ/stickers/bud2025/pari_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9574",
-    "name": "Sticker Slab | PARIVISION (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9574",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | PARIVISION (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/pari_embroidered_1355_37.a7ce60b5a033d6be504bed1bf98398cf3a961657.png",
-    "original": {
-      "name": "bud2025_team_pari_embroidered",
-      "image_inventory": "econ/stickers/bud2025/pari_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9575",
-    "name": "Sticker Slab | PARIVISION (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9575",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | PARIVISION (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/pari_holo_1355_37.d23e12c4f212209a4cbb6497f44a58a96cdcc6c4.png",
-    "original": {
-      "name": "bud2025_team_pari_holo",
-      "image_inventory": "econ/stickers/bud2025/pari_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9576",
-    "name": "Sticker Slab | PARIVISION (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9576",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | PARIVISION (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/pari_gold_1355_37.e4950e49b2cc98dfc00b1944e13a102a85daed57.png",
-    "original": {
-      "name": "bud2025_team_pari_gold",
-      "image_inventory": "econ/stickers/bud2025/pari_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9577",
-    "name": "Sticker Slab | Ninjas in Pyjamas | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9577",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 1,
-      "tag": "NiP",
-      "geo": "SE",
-      "name": "Ninjas in Pyjamas"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/nip_1355_37.d41aed81b3903df0d4170d388f9cfa047e576896.png",
-    "original": {
-      "name": "bud2025_team_nip",
-      "image_inventory": "econ/stickers/bud2025/nip_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9578",
-    "name": "Sticker Slab | Ninjas in Pyjamas (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9578",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 1,
-      "tag": "NiP",
-      "geo": "SE",
-      "name": "Ninjas in Pyjamas"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/nip_embroidered_1355_37.69fce44e515c3459a670aa63755f985869c0555b.png",
-    "original": {
-      "name": "bud2025_team_nip_embroidered",
-      "image_inventory": "econ/stickers/bud2025/nip_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9579",
-    "name": "Sticker Slab | Ninjas in Pyjamas (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9579",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 1,
-      "tag": "NiP",
-      "geo": "SE",
-      "name": "Ninjas in Pyjamas"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/nip_holo_1355_37.4182b5a248ab274f7a3168a766c09436900cdfc9.png",
-    "original": {
-      "name": "bud2025_team_nip_holo",
-      "image_inventory": "econ/stickers/bud2025/nip_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9580",
-    "name": "Sticker Slab | Ninjas in Pyjamas (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9580",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 1,
-      "tag": "NiP",
-      "geo": "SE",
-      "name": "Ninjas in Pyjamas"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/nip_gold_1355_37.2d8c19016f6d76fa8f60024e15554a6838d33b1c.png",
-    "original": {
-      "name": "bud2025_team_nip_gold",
-      "image_inventory": "econ/stickers/bud2025/nip_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9581",
-    "name": "Sticker Slab | Imperial Esports | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9581",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Imperial Esports | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 113,
-      "tag": "IMP",
-      "geo": "BR",
-      "name": "Imperial Esports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/imp_1355_37.d17571dba567613e4621584919ea430ec8dfff3b.png",
-    "original": {
-      "name": "bud2025_team_imp",
-      "image_inventory": "econ/stickers/bud2025/imp_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9582",
-    "name": "Sticker Slab | Imperial Esports (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9582",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Imperial Esports (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 113,
-      "tag": "IMP",
-      "geo": "BR",
-      "name": "Imperial Esports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/imp_embroidered_1355_37.780cd390991825def7b419f64dd6d4661a302a7d.png",
-    "original": {
-      "name": "bud2025_team_imp_embroidered",
-      "image_inventory": "econ/stickers/bud2025/imp_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9583",
-    "name": "Sticker Slab | Imperial Esports (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9583",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Imperial Esports (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 113,
-      "tag": "IMP",
-      "geo": "BR",
-      "name": "Imperial Esports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/imp_holo_1355_37.494bf732bfde23e2e5f8033a83be5caad9819cf3.png",
-    "original": {
-      "name": "bud2025_team_imp_holo",
-      "image_inventory": "econ/stickers/bud2025/imp_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9584",
-    "name": "Sticker Slab | Imperial Esports (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9584",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Imperial Esports (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 113,
-      "tag": "IMP",
-      "geo": "BR",
-      "name": "Imperial Esports"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/imp_gold_1355_37.18a337ed1b14584bf7755910942df87c164f59ee.png",
-    "original": {
-      "name": "bud2025_team_imp_gold",
-      "image_inventory": "econ/stickers/bud2025/imp_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9585",
-    "name": "Sticker Slab | FlyQuest | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9585",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FlyQuest | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/fq_1355_37.e431e5328bab2fc712064378cfa1bfa97323cc95.png",
-    "original": {
-      "name": "bud2025_team_fq",
-      "image_inventory": "econ/stickers/bud2025/fq_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9586",
-    "name": "Sticker Slab | FlyQuest (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9586",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FlyQuest (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/fq_embroidered_1355_37.1381e55b994aa5eef1e83a868457ae395afe2c1e.png",
-    "original": {
-      "name": "bud2025_team_fq_embroidered",
-      "image_inventory": "econ/stickers/bud2025/fq_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9587",
-    "name": "Sticker Slab | FlyQuest (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9587",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FlyQuest (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/fq_holo_1355_37.63ab0af84608ce2fa82da2120101a34321e1483d.png",
-    "original": {
-      "name": "bud2025_team_fq_holo",
-      "image_inventory": "econ/stickers/bud2025/fq_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9588",
-    "name": "Sticker Slab | FlyQuest (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9588",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FlyQuest (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/fq_gold_1355_37.525d7b132b97723fdfe08925c5cb73cb8dc849af.png",
-    "original": {
-      "name": "bud2025_team_fq_gold",
-      "image_inventory": "econ/stickers/bud2025/fq_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9589",
-    "name": "Sticker Slab | Lynn Vision | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9589",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Lynn Vision | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/lynn_1355_37.e34bdb554b085143f77d93fd1e83da7bf32b23af.png",
-    "original": {
-      "name": "bud2025_team_lynn",
-      "image_inventory": "econ/stickers/bud2025/lynn_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9590",
-    "name": "Sticker Slab | Lynn Vision (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9590",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Lynn Vision (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/lynn_embroidered_1355_37.e4e292cdcd10ce2fe560f9314f0023928c0b79c2.png",
-    "original": {
-      "name": "bud2025_team_lynn_embroidered",
-      "image_inventory": "econ/stickers/bud2025/lynn_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9591",
-    "name": "Sticker Slab | Lynn Vision (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9591",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Lynn Vision (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/lynn_holo_1355_37.e17af239b1bd0e6d444ffc03dcdb3a07d8538be3.png",
-    "original": {
-      "name": "bud2025_team_lynn_holo",
-      "image_inventory": "econ/stickers/bud2025/lynn_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9592",
-    "name": "Sticker Slab | Lynn Vision (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9592",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Lynn Vision (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/lynn_gold_1355_37.62d56c5ee12f7cdf0f3ca53acd9d32ea0a30c0af.png",
-    "original": {
-      "name": "bud2025_team_lynn_gold",
-      "image_inventory": "econ/stickers/bud2025/lynn_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9593",
-    "name": "Sticker Slab | M80 | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9593",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | M80 | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/m80_1355_37.a61b60705742cc67e5bb1655c100e729f7cc6066.png",
-    "original": {
-      "name": "bud2025_team_m80",
-      "image_inventory": "econ/stickers/bud2025/m80_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9594",
-    "name": "Sticker Slab | M80 (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9594",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | M80 (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/m80_embroidered_1355_37.3bd3535fa83b477c49e785b034369b7e9877c986.png",
-    "original": {
-      "name": "bud2025_team_m80_embroidered",
-      "image_inventory": "econ/stickers/bud2025/m80_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9595",
-    "name": "Sticker Slab | M80 (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9595",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | M80 (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/m80_holo_1355_37.d27a16ada311a934797aeadea394404947bb1de0.png",
-    "original": {
-      "name": "bud2025_team_m80_holo",
-      "image_inventory": "econ/stickers/bud2025/m80_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9596",
-    "name": "Sticker Slab | M80 (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9596",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | M80 (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/m80_gold_1355_37.57b6e0fcdaa7a0b8f81004d463e4479e36a18e66.png",
-    "original": {
-      "name": "bud2025_team_m80_gold",
-      "image_inventory": "econ/stickers/bud2025/m80_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9597",
-    "name": "Sticker Slab | Fluxo | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9597",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Fluxo | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 121,
-      "tag": "FLUX",
-      "name": "Fluxo"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM68ovh8ma2EkikocW3syEOu_P9afQ0dKDFWj6Rk-xz57BoSnvizR9xtzvWw4mgIHrDaANyX5VuBbldhmIt9ZQ",
-    "original": {
-      "name": "bud2025_team_flux",
-      "image_inventory": "econ/stickers/bud2025/flux_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9598",
-    "name": "Sticker Slab | Fluxo (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9598",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Fluxo (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 121,
-      "tag": "FLUX",
-      "name": "Fluxo"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/flux_embroidered_1355_37.93942d0df8138b24ef7ceb27e0f5a3539e3762ce.png",
-    "original": {
-      "name": "bud2025_team_flux_embroidered",
-      "image_inventory": "econ/stickers/bud2025/flux_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9599",
-    "name": "Sticker Slab | Fluxo (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9599",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Fluxo (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 121,
-      "tag": "FLUX",
-      "name": "Fluxo"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/flux_holo_1355_37.3ad762a64306e9a7ca646f05d8d16c3df19eec9c.png",
-    "original": {
-      "name": "bud2025_team_flux_holo",
-      "image_inventory": "econ/stickers/bud2025/flux_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9600",
-    "name": "Sticker Slab | Fluxo (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9600",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Fluxo (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "team": {
-      "id": 121,
-      "tag": "FLUX",
-      "name": "Fluxo"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/flux_gold_1355_37.5dcc6a351d7e14edc2dbfed22307296527b2b4a8.png",
-    "original": {
-      "name": "bud2025_team_flux_gold",
-      "image_inventory": "econ/stickers/bud2025/flux_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9601",
-    "name": "Sticker Slab | RED Canids | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9601",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | RED Canids | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/redc_1355_37.6924b6a91ba908b30393f280eed4ceea956e1779.png",
-    "original": {
-      "name": "bud2025_team_redc",
-      "image_inventory": "econ/stickers/bud2025/redc_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9602",
-    "name": "Sticker Slab | RED Canids (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9602",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | RED Canids (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/redc_embroidered_1355_37.254fa18c121d6efc9a0923f225ce346e569fda6e.png",
-    "original": {
-      "name": "bud2025_team_redc_embroidered",
-      "image_inventory": "econ/stickers/bud2025/redc_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9603",
-    "name": "Sticker Slab | RED Canids (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9603",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | RED Canids (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/redc_holo_1355_37.5567d6cbb10307b7d352997a7ede02c1b2d761ae.png",
-    "original": {
-      "name": "bud2025_team_redc_holo",
-      "image_inventory": "econ/stickers/bud2025/redc_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9604",
-    "name": "Sticker Slab | RED Canids (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9604",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | RED Canids (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/redc_gold_1355_37.1f879fe699d0d0d75955fb3b1607dbf842f2a79b.png",
-    "original": {
-      "name": "bud2025_team_redc_gold",
-      "image_inventory": "econ/stickers/bud2025/redc_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9605",
-    "name": "Sticker Slab | The Huns | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9605",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | The Huns | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/huns_1355_37.4f23def1ad0177ef49472d8607c0353dedc552cf.png",
-    "original": {
-      "name": "bud2025_team_huns",
-      "image_inventory": "econ/stickers/bud2025/huns_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9606",
-    "name": "Sticker Slab | The Huns (Embroidered) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9606",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | The Huns (Embroidered) | Budapest 2025",
-    "effect": "Other",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/huns_embroidered_1355_37.f8ffde09c62ab2186bac86ed873710ff222ca9b6.png",
-    "original": {
-      "name": "bud2025_team_huns_embroidered",
-      "image_inventory": "econ/stickers/bud2025/huns_embroidered_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9607",
-    "name": "Sticker Slab | The Huns (Holo) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9607",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | The Huns (Holo) | Budapest 2025",
-    "effect": "Holo",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/huns_holo_1355_37.b4bf30dc553a98533ee0f00c2a227676332c72e9.png",
-    "original": {
-      "name": "bud2025_team_huns_holo",
-      "image_inventory": "econ/stickers/bud2025/huns_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-9608",
-    "name": "Sticker Slab | The Huns (Gold) | Budapest 2025",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "9608",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-5218",
-        "name": "Budapest 2025 Contenders Sticker Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJs-5nWyy9kRg1oHPQnNuoc36ePQEgCsQlRrYN4BXtloa0N7nj71GIj9oQnHiq3C5Juic5_a9cBsUgZUjl"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | The Huns (Gold) | Budapest 2025",
-    "effect": "Gold",
-    "tournament": {
-      "id": 25,
-      "name": "StarLadder Budapest 2025"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bud2025/huns_gold_1355_37.d3a5791d93865cb0f131a74b86834ba1a0e43f97.png",
-    "original": {
-      "name": "bud2025_team_huns_gold",
-      "image_inventory": "econ/stickers/bud2025/huns_gold_1355_37"
+      "name": "bud2025_team_navi_embroidered",
+      "image_inventory": "econ/stickers/bud2025/navi_embroidered_1355_37"
     }
   }
 ]

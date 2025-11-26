@@ -1,5 +1,406 @@
 [
   {
+    "id": "sticker_slab-2680",
+    "name": "Sticker Slab | v4lde (Gold) | Boston 2018",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "2680",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4459",
+        "name": "Boston 2018 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0_WjUyYn8dyiSbwUmXsRyQeQP5hGwwdO2M-3n4VbZgoxMnij9jCJO7Ch1o7FVq6FnCr0"
+      },
+      {
+        "id": "crate-4479",
+        "name": "Boston 2018 Attending Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5lSi62mxk0jDORjMGpdH-fZlR1DZF0E-8Dt0O-kNXgZezl51Tb3Y1EniusjyNAu3pr5ewBT-N7rSVqlou9"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | v4lde (Gold) | Boston 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 68,
+      "tag": "NOR",
+      "geo": "DK",
+      "name": "North"
+    },
+    "player": {
+      "id": 154664140,
+      "name": "v4lde",
+      "code": "v4lde",
+      "dob": "1995-06-12",
+      "geo": "DK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_v4lde_gold_1355_37.72bd72e91be2d07703232b9b5511c4d0513bc0f0.png",
+    "original": {
+      "name": "boston2018_signature_v4lde_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_v4lde_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-2681",
+    "name": "Sticker Slab | apEX | Boston 2018",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "2681",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4460",
+        "name": "Boston 2018 Returning Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | apEX | Boston 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "player": {
+      "id": 29478439,
+      "name": "apEX",
+      "code": "apex",
+      "dob": "1993-02-22",
+      "geo": "FR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_apex_1355_37.1d43131a6eb6bd4371a0a01691cd9e7c279abd2b.png",
+    "original": {
+      "name": "boston2018_signature_apex",
+      "image_inventory": "econ/stickers/boston2018/sig_apex_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-2682",
+    "name": "Sticker Slab | apEX (Foil) | Boston 2018",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "2682",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4460",
+        "name": "Boston 2018 Returning Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | apEX (Foil) | Boston 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "player": {
+      "id": 29478439,
+      "name": "apEX",
+      "code": "apex",
+      "dob": "1993-02-22",
+      "geo": "FR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_apex_foil_1355_37.269d725cb25afbb15b711360a8fc311f9d1cf512.png",
+    "original": {
+      "name": "boston2018_signature_apex_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_apex_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-2683",
+    "name": "Sticker Slab | apEX (Gold) | Boston 2018",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "2683",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4460",
+        "name": "Boston 2018 Returning Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | apEX (Gold) | Boston 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "player": {
+      "id": 29478439,
+      "name": "apEX",
+      "code": "apex",
+      "dob": "1993-02-22",
+      "geo": "FR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_apex_gold_1355_37.0066d3ab575118fe65e67ee63b2e489ea8b64897.png",
+    "original": {
+      "name": "boston2018_signature_apex_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_apex_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-2684",
+    "name": "Sticker Slab | bodyy | Boston 2018",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "2684",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4460",
+        "name": "Boston 2018 Returning Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | bodyy | Boston 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "player": {
+      "id": 53029647,
+      "name": "bodyy",
+      "code": "bodyy",
+      "dob": "1997-01-08",
+      "geo": "FR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_bodyy_1355_37.38508ddd7f0fecd800d7d72b1206408615071f8a.png",
+    "original": {
+      "name": "boston2018_signature_bodyy",
+      "image_inventory": "econ/stickers/boston2018/sig_bodyy_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-2685",
+    "name": "Sticker Slab | bodyy (Foil) | Boston 2018",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "2685",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4460",
+        "name": "Boston 2018 Returning Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | bodyy (Foil) | Boston 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "player": {
+      "id": 53029647,
+      "name": "bodyy",
+      "code": "bodyy",
+      "dob": "1997-01-08",
+      "geo": "FR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_bodyy_foil_1355_37.647032cb43ea986b8653d1ece37634c655ce60cf.png",
+    "original": {
+      "name": "boston2018_signature_bodyy_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_bodyy_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-2686",
+    "name": "Sticker Slab | bodyy (Gold) | Boston 2018",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "2686",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4460",
+        "name": "Boston 2018 Returning Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | bodyy (Gold) | Boston 2018",
+    "effect": "Gold",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "player": {
+      "id": 53029647,
+      "name": "bodyy",
+      "code": "bodyy",
+      "dob": "1997-01-08",
+      "geo": "FR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_bodyy_gold_1355_37.7e82e3b889c8dbd69934f6652645c1d8bfa76179.png",
+    "original": {
+      "name": "boston2018_signature_bodyy_gold",
+      "image_inventory": "econ/stickers/boston2018/sig_bodyy_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-2687",
+    "name": "Sticker Slab | kennyS | Boston 2018",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "2687",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4460",
+        "name": "Boston 2018 Returning Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | kennyS | Boston 2018",
+    "effect": "Other",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "player": {
+      "id": 64640068,
+      "name": "kennyS",
+      "code": "kennys",
+      "dob": "1995-05-19",
+      "geo": "FR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_kennys_1355_37.9ba9c980a271ddd94d73ebaaf0b2b4adf3349691.png",
+    "original": {
+      "name": "boston2018_signature_kennys",
+      "image_inventory": "econ/stickers/boston2018/sig_kennys_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-2688",
+    "name": "Sticker Slab | kennyS (Foil) | Boston 2018",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "2688",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4460",
+        "name": "Boston 2018 Returning Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | kennyS (Foil) | Boston 2018",
+    "effect": "Foil",
+    "tournament": {
+      "id": 13,
+      "name": "2018 ELEAGUE Boston"
+    },
+    "team": {
+      "id": 59,
+      "tag": "G2",
+      "geo": "EU",
+      "name": "G2 Esports"
+    },
+    "player": {
+      "id": 64640068,
+      "name": "kennyS",
+      "code": "kennys",
+      "dob": "1995-05-19",
+      "geo": "FR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_kennys_foil_1355_37.77259ae35bcf737075d445c170f8bfa81bd7e702.png",
+    "original": {
+      "name": "boston2018_signature_kennys_foil",
+      "image_inventory": "econ/stickers/boston2018/sig_kennys_foil_1355_37"
+    }
+  },
+  {
     "id": "sticker_slab-2689",
     "name": "Sticker Slab | kennyS (Gold) | Boston 2018",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -389,7 +790,7 @@
       "dob": "1996-10-09",
       "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_autimatic_foil_1355_37.894cd02f292a6ced586e8f63a6369fe1ab213b67.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhzkip_t_DZS7M2oZ61hH6HAWzKvkrk46Lg9TC3jxxt16m-EzIz8JX6faFMoXJRzFOEJtBnux9W2Zejj5FfYjJUFk3s7woOVXQ",
     "original": {
       "name": "boston2018_signature_autimatic_foil",
       "image_inventory": "econ/stickers/boston2018/sig_autimatic_foil_1355_37"
@@ -1401,7 +1802,7 @@
       "dob": "1994-04-22",
       "geo": "FI"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_waylander_1355_37.2dc67ec02206905d6b205f94c3ddb3a97c439006.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfgrwh5rh8yZe_c3_O_E4H6PEQDWUwrghteI5HXvjw0R35jnTmN2pdC2ealUjXsYiRrYDtUO8kd3nN-z8p1uJqIrcjOY",
     "original": {
       "name": "boston2018_signature_waylander",
       "image_inventory": "econ/stickers/boston2018/sig_waylander_1355_37"
@@ -1709,7 +2110,7 @@
       "dob": "1987-12-28",
       "geo": "UA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_edward_foil_1355_37.052583d92afce0268502b823743937efdbfa6aa9.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMiuJm-Y6wQlpd-7-VDgfhj1iZfy-R1d4PuiV_U-daWsXTDekbsk5bk6S3DhlBsktm3XzNescXnFZgQjDZZzTOQN50bswIK2Mbuz7hue1dwuE0Vc5g",
     "original": {
       "name": "boston2018_signature_edward_foil",
       "image_inventory": "econ/stickers/boston2018/sig_edward_foil_1355_37"
@@ -1933,446 +2334,6 @@
     "original": {
       "name": "boston2018_signature_flamie",
       "image_inventory": "econ/stickers/boston2018/sig_flamie_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2733",
-    "name": "Sticker Slab | flamie (Foil) | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2733",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | flamie (Foil) | Boston 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 156257548,
-      "name": "flamie",
-      "code": "flamie",
-      "dob": "1997-04-05",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_flamie_foil_1355_37.530f1fbc661ce3fe3b5f100b6eda863dd3190632.png",
-    "original": {
-      "name": "boston2018_signature_flamie_foil",
-      "image_inventory": "econ/stickers/boston2018/sig_flamie_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2734",
-    "name": "Sticker Slab | flamie (Gold) | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2734",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | flamie (Gold) | Boston 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 156257548,
-      "name": "flamie",
-      "code": "flamie",
-      "dob": "1997-04-05",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_flamie_gold_1355_37.5cc0e2ab6cfe0e81719390a731640dedfc8b2ad7.png",
-    "original": {
-      "name": "boston2018_signature_flamie_gold",
-      "image_inventory": "econ/stickers/boston2018/sig_flamie_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2735",
-    "name": "Sticker Slab | s1mple | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2735",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | s1mple | Boston 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 73936547,
-      "name": "s1mple",
-      "code": "s1mple",
-      "dob": "1997-10-02",
-      "geo": "UA"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_s1mple_1355_37.49bf9b83735d6afd3f36d3dd9c36f4000a0fc238.png",
-    "original": {
-      "name": "boston2018_signature_s1mple",
-      "image_inventory": "econ/stickers/boston2018/sig_s1mple_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2736",
-    "name": "Sticker Slab | s1mple (Foil) | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2736",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | s1mple (Foil) | Boston 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 73936547,
-      "name": "s1mple",
-      "code": "s1mple",
-      "dob": "1997-10-02",
-      "geo": "UA"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_s1mple_foil_1355_37.dab616cdf13eae9d55265779bf4802a9fa6e0433.png",
-    "original": {
-      "name": "boston2018_signature_s1mple_foil",
-      "image_inventory": "econ/stickers/boston2018/sig_s1mple_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2737",
-    "name": "Sticker Slab | s1mple (Gold) | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2737",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | s1mple (Gold) | Boston 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 73936547,
-      "name": "s1mple",
-      "code": "s1mple",
-      "dob": "1997-10-02",
-      "geo": "UA"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_s1mple_gold_1355_37.e4b2000ddd4b6477c31b3d55b23dd8b80bd039b2.png",
-    "original": {
-      "name": "boston2018_signature_s1mple_gold",
-      "image_inventory": "econ/stickers/boston2018/sig_s1mple_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2738",
-    "name": "Sticker Slab | Zeus | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2738",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Zeus | Boston 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 59062744,
-      "name": "Zeus",
-      "code": "zeus",
-      "dob": "1987-08-10",
-      "geo": "UA"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_zeus_1355_37.4d76d0ac9d5f1c5108590369b085a3bf0b65ca0b.png",
-    "original": {
-      "name": "boston2018_signature_zeus",
-      "image_inventory": "econ/stickers/boston2018/sig_zeus_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2739",
-    "name": "Sticker Slab | Zeus (Foil) | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2739",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Zeus (Foil) | Boston 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 59062744,
-      "name": "Zeus",
-      "code": "zeus",
-      "dob": "1987-08-10",
-      "geo": "UA"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_zeus_foil_1355_37.a49cfe866990e64b8daaf3c662bd93934700cb22.png",
-    "original": {
-      "name": "boston2018_signature_zeus_foil",
-      "image_inventory": "econ/stickers/boston2018/sig_zeus_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2740",
-    "name": "Sticker Slab | Zeus (Gold) | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2740",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Zeus (Gold) | Boston 2018",
-    "effect": "Gold",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 12,
-      "tag": "NAVI",
-      "geo": "CC",
-      "name": "Natus Vincere"
-    },
-    "player": {
-      "id": 59062744,
-      "name": "Zeus",
-      "code": "zeus",
-      "dob": "1987-08-10",
-      "geo": "UA"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_zeus_gold_1355_37.de7e565b5558ccffeead3fcda75023d0cfc665e4.png",
-    "original": {
-      "name": "boston2018_signature_zeus_gold",
-      "image_inventory": "econ/stickers/boston2018/sig_zeus_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2741",
-    "name": "Sticker Slab | chrisJ | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2741",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | chrisJ | Boston 2018",
-    "effect": "Other",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 29,
-      "tag": "mss",
-      "geo": "EU",
-      "name": "mousesports"
-    },
-    "player": {
-      "id": 28273376,
-      "name": "chrisJ",
-      "code": "chrisj",
-      "dob": "1990-05-25",
-      "geo": "NL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_chrisj_1355_37.3f25fbf55e1b71fa2e2aea3ba108084615daece1.png",
-    "original": {
-      "name": "boston2018_signature_chrisj",
-      "image_inventory": "econ/stickers/boston2018/sig_chrisj_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-2742",
-    "name": "Sticker Slab | chrisJ (Foil) | Boston 2018",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "2742",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4460",
-        "name": "Boston 2018 Returning Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7f29fKtjcqDCVliX0-FjoN5qRyi_mRgptDiXicGpJHzDOgEpCpd3EO9YtxW6l93gNu-2tlDejItBnimth3lOuCo_6-gHT-N7rW8_-Vnb"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | chrisJ (Foil) | Boston 2018",
-    "effect": "Foil",
-    "tournament": {
-      "id": 13,
-      "name": "2018 ELEAGUE Boston"
-    },
-    "team": {
-      "id": 29,
-      "tag": "mss",
-      "geo": "EU",
-      "name": "mousesports"
-    },
-    "player": {
-      "id": 28273376,
-      "name": "chrisJ",
-      "code": "chrisj",
-      "dob": "1990-05-25",
-      "geo": "NL"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/boston2018/sig_chrisj_foil_1355_37.c0df29c17ad1867047748d21a69accd780039c93.png",
-    "original": {
-      "name": "boston2018_signature_chrisj_foil",
-      "image_inventory": "econ/stickers/boston2018/sig_chrisj_foil_1355_37"
     }
   }
 ]

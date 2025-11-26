@@ -1,5 +1,487 @@
 [
   {
+    "id": "sticker_slab-3465",
+    "name": "Sticker Slab | Avangar (Holo) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3465",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4586",
+        "name": "Katowice 2019 Minor Challengers (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u15vvVsQS22hw5p4Grcn9n8dijCPQIpCpVwQ7UM4xDtktbgP76241HY2t4XzH77j3xLujErvbgSeY4OMA"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Avangar (Holo) | Katowice 2019",
+    "effect": "Holo",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 75,
+      "tag": "AVG",
+      "geo": "KZ",
+      "name": "Avangar"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxbmVxrOlpns8h0KvKf7V_c6bvTFC2XCluwn4OA-G3vglEshtWyDwt36cSrBbA4gD5V4Re9ctUS4ldP5d7S13SlGO9w",
+    "original": {
+      "name": "katowice2019_team_avg_holo",
+      "image_inventory": "econ/stickers/katowice2019/avg_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3466",
+    "name": "Sticker Slab | Avangar (Foil) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3466",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4586",
+        "name": "Katowice 2019 Minor Challengers (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u15vvVsQS22hw5p4Grcn9n8dijCPQIpCpVwQ7UM4xDtktbgP76241HY2t4XzH77j3xLujErvbgSeY4OMA"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Avangar (Foil) | Katowice 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 75,
+      "tag": "AVG",
+      "geo": "KZ",
+      "name": "Avangar"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/avg_foil_1355_37.08946ab1b5f7376e07ef049d6f841c79b7932bea.png",
+    "original": {
+      "name": "katowice2019_team_avg_foil",
+      "image_inventory": "econ/stickers/katowice2019/avg_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3467",
+    "name": "Sticker Slab | Avangar (Gold) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3467",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 75,
+      "tag": "AVG",
+      "geo": "KZ",
+      "name": "Avangar"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/avg_gold_1355_37.53b21b465c379171024f55676540db5b1a23ddae.png",
+    "original": {
+      "name": "katowice2019_team_avg_gold",
+      "image_inventory": "econ/stickers/katowice2019/avg_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3468",
+    "name": "Sticker Slab | BIG | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3468",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | BIG | Katowice 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 69,
+      "tag": "BIG",
+      "geo": "DE",
+      "name": "BIG"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/big_1355_37.8115d31cf2d563d5056572a313ba02be98c42805.png",
+    "original": {
+      "name": "katowice2019_team_big",
+      "image_inventory": "econ/stickers/katowice2019/big_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3469",
+    "name": "Sticker Slab | BIG (Holo) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3469",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4584",
+        "name": "Katowice 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_uJzt-RnSzr9lx50smWGzoytdH_EPAcnC5clRudZ5xG7xtPvMLyztlaK3tpFxC-v2jQJsHiLvWrj0Q"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | BIG (Holo) | Katowice 2019",
+    "effect": "Holo",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 69,
+      "tag": "BIG",
+      "geo": "DE",
+      "name": "BIG"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/big_holo_1355_37.b34cf02912d9fcf8a7413db7cb34555d78604d98.png",
+    "original": {
+      "name": "katowice2019_team_big_holo",
+      "image_inventory": "econ/stickers/katowice2019/big_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3470",
+    "name": "Sticker Slab | BIG (Foil) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3470",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4584",
+        "name": "Katowice 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_uJzt-RnSzr9lx50smWGzoytdH_EPAcnC5clRudZ5xG7xtPvMLyztlaK3tpFxC-v2jQJsHiLvWrj0Q"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | BIG (Foil) | Katowice 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 69,
+      "tag": "BIG",
+      "geo": "DE",
+      "name": "BIG"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/big_foil_1355_37.4c8aa316bdf5cc1e5520f43c51169a654ab15c76.png",
+    "original": {
+      "name": "katowice2019_team_big_foil",
+      "image_inventory": "econ/stickers/katowice2019/big_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3471",
+    "name": "Sticker Slab | BIG (Gold) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3471",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 69,
+      "tag": "BIG",
+      "geo": "DE",
+      "name": "BIG"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/big_gold_1355_37.77c99e455b2e1af4a18bcda45f7d381a74bc85fb.png",
+    "original": {
+      "name": "katowice2019_team_big_gold",
+      "image_inventory": "econ/stickers/katowice2019/big_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3472",
+    "name": "Sticker Slab | Cloud9 | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3472",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Cloud9 | Katowice 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 33,
+      "tag": "C9",
+      "geo": "US",
+      "name": "Cloud9"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/c9_1355_37.cb80a4017d40967eae01cb6549634661ea471680.png",
+    "original": {
+      "name": "katowice2019_team_c9",
+      "image_inventory": "econ/stickers/katowice2019/c9_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3473",
+    "name": "Sticker Slab | Cloud9 (Holo) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3473",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4585",
+        "name": "Katowice 2019 Returning Challengers (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u1-se1lSie0kA80_W6Bz46qIimTOwUhCZcjQeEIuxLslte1Yeq05gbXjI5Hn375hyNA7nl1o7FVMdlnavk"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Cloud9 (Holo) | Katowice 2019",
+    "effect": "Holo",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 33,
+      "tag": "C9",
+      "geo": "US",
+      "name": "Cloud9"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxbkGCL5kZrvwnMIuqeRO_MjeaTGV2bIl-sv4ec5SSjjzElx5GqEw9z_JH6fZw5zDZohR-cI5xa8l8qnab28wqRLfw",
+    "original": {
+      "name": "katowice2019_team_c9_holo",
+      "image_inventory": "econ/stickers/katowice2019/c9_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3474",
+    "name": "Sticker Slab | Cloud9 (Foil) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3474",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4585",
+        "name": "Katowice 2019 Returning Challengers (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u1-se1lSie0kA80_W6Bz46qIimTOwUhCZcjQeEIuxLslte1Yeq05gbXjI5Hn375hyNA7nl1o7FVMdlnavk"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Cloud9 (Foil) | Katowice 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 33,
+      "tag": "C9",
+      "geo": "US",
+      "name": "Cloud9"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/c9_foil_1355_37.c63291d3b32d9e1730f44e1ef838f72938903cb5.png",
+    "original": {
+      "name": "katowice2019_team_c9_foil",
+      "image_inventory": "econ/stickers/katowice2019/c9_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3475",
+    "name": "Sticker Slab | Cloud9 (Gold) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3475",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 33,
+      "tag": "C9",
+      "geo": "US",
+      "name": "Cloud9"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/c9_gold_1355_37.860b055b30a1c10bb01d5c384ce94b36e4dfbb46.png",
+    "original": {
+      "name": "katowice2019_team_c9_gold",
+      "image_inventory": "econ/stickers/katowice2019/c9_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3476",
+    "name": "Sticker Slab | compLexity Gaming | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3476",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | compLexity Gaming | Katowice 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 3,
+      "tag": "CoL",
+      "geo": "US",
+      "name": "compLexity Gaming"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxbkThHOz8W1qB0IuLz6aqdrJfHCDzTElLx1tOM-FnDlxkQjt22EzomuI33FaVUiAsYkQeIOrFDmxcLinPCp",
+    "original": {
+      "name": "katowice2019_team_col",
+      "image_inventory": "econ/stickers/katowice2019/col_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3477",
+    "name": "Sticker Slab | compLexity Gaming (Holo) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3477",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4584",
+        "name": "Katowice 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_uJzt-RnSzr9lx50smWGzoytdH_EPAcnC5clRudZ5xG7xtPvMLyztlaK3tpFxC-v2jQJsHiLvWrj0Q"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | compLexity Gaming (Holo) | Katowice 2019",
+    "effect": "Holo",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 3,
+      "tag": "CoL",
+      "geo": "US",
+      "name": "compLexity Gaming"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/col_holo_1355_37.b7c0f88b0809b885fd500d003e4971846a017487.png",
+    "original": {
+      "name": "katowice2019_team_col_holo",
+      "image_inventory": "econ/stickers/katowice2019/col_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-3478",
+    "name": "Sticker Slab | compLexity Gaming (Foil) | Katowice 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "3478",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4584",
+        "name": "Katowice 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_uJzt-RnSzr9lx50smWGzoytdH_EPAcnC5clRudZ5xG7xtPvMLyztlaK3tpFxC-v2jQJsHiLvWrj0Q"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | compLexity Gaming (Foil) | Katowice 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 15,
+      "name": "2019 IEM Katowice"
+    },
+    "team": {
+      "id": 3,
+      "tag": "CoL",
+      "geo": "US",
+      "name": "compLexity Gaming"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/col_foil_1355_37.902f79010f7b4845d0a0a368022cfebef23c5c2d.png",
+    "original": {
+      "name": "katowice2019_team_col_foil",
+      "image_inventory": "econ/stickers/katowice2019/col_foil_1355_37"
+    }
+  },
+  {
     "id": "sticker_slab-3479",
     "name": "Sticker Slab | compLexity Gaming (Gold) | Katowice 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -92,7 +574,7 @@
       "geo": "FI",
       "name": "ENCE"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/ence_holo_1355_37.990dec59c2c61baadad3d7c41c930415a44f9360.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxbiTx70oZ7v8S1kvqH7PZs-d77KVzeUxO0j6eI7TH_ilxwmtzyByYuuIn-WPQ8jCpZxQLYOtkaxkdLnKaq8sIm4rFWO",
     "original": {
       "name": "katowice2019_team_ence_holo",
       "image_inventory": "econ/stickers/katowice2019/ence_holo_1355_37"
@@ -500,7 +982,7 @@
       "geo": "US",
       "name": "FURIA"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/furi_holo_1355_37.a32643c07adf6356384bf4815ab06110f2043208.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxbhVA_4oZ7v8S1kvqH7PZs-d76SXTXGlb114LZoSy_lxkhx4GXRmImteXqSP1QgDJNxRbEIshS7kNTvKaq8sAN2nmuI",
     "original": {
       "name": "katowice2019_team_furi_holo",
       "image_inventory": "econ/stickers/katowice2019/furi_holo_1355_37"
@@ -772,7 +1254,7 @@
       "geo": "AU",
       "name": "Grayhound Gaming"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/gray_holo_1355_37.bedfcc25e2779633d8952c798479575badcec1c5.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxbgUxzooZ7v8S1kvqH7PZs-d76RC2OWwu0k5eQ7GH7qw050t2Xcz936dnKfagEpD5V1F7Ze4UXrk4fiKaq8sH4VcGht",
     "original": {
       "name": "katowice2019_team_gray_holo",
       "image_inventory": "econ/stickers/katowice2019/gray_holo_1355_37"
@@ -1180,7 +1662,7 @@
       "geo": "CC",
       "name": "Natus Vincere"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/navi_holo_1355_37.575c91ae1f90c1f9d559020abaaee1829fc3df8e.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxbpQAv4oZ7v8S1kvqH7PZs-d77GWTKTmL93tbBvFnmwxBt-t2jQw9-rcSrFP1d1X5N4R-5c4RPsxNyyKaq8sNGEH7Ox",
     "original": {
       "name": "katowice2019_team_navi_holo",
       "image_inventory": "econ/stickers/katowice2019/navi_holo_1355_37"
@@ -1452,7 +1934,7 @@
       "geo": "US",
       "name": "NRG"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/nrg_holo_1355_37.bfc52cafa062e974a7223224b21042717fee6f20.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxbpUxrOlpns8h0KvKf7V_c6bvKVDTLCwu9wsbE_HSzqwkkm5G_Xyd2rdSmVbwYkCJVxQrFf5xbukNT5d7S1WeSDBko",
     "original": {
       "name": "katowice2019_team_nrg_holo",
       "image_inventory": "econ/stickers/katowice2019/nrg_holo_1355_37"
@@ -1489,7 +1971,7 @@
       "geo": "US",
       "name": "NRG"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/nrg_foil_1355_37.fa72f75a6826028a5b2668985d45dd48498305d1.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxbpUxrOmJnp8R0KvKf7V_c6bvaSWTWWlrt35rk7GXnhzRxysW_TzNegeX7DagN0XpZ4Qe4CsRC9xtX5d7S1PQG2Zfk",
     "original": {
       "name": "katowice2019_team_nrg_foil",
       "image_inventory": "econ/stickers/katowice2019/nrg_foil_1355_37"
@@ -1588,7 +2070,7 @@
       "geo": "AU",
       "name": "Renegades"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/ren_holo_1355_37.6f05d59049d9946679e94162d0ac4dcf82e98ad9.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMGgIXSA7FVwptelsxb1RBPOlpns8h0KvKf7V_c6bqaVXjKUlLcm5LhtFnDnw0tw6jjczt6vcy-XP1UkXsEmTeVfuxjpxt35d7S11I4qwvI",
     "original": {
       "name": "katowice2019_team_ren_holo",
       "image_inventory": "econ/stickers/katowice2019/ren_holo_1355_37"
@@ -1796,519 +2278,6 @@
     "original": {
       "name": "katowice2019_team_liq_gold",
       "image_inventory": "econ/stickers/katowice2019/liq_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3532",
-    "name": "Sticker Slab | Team Spirit | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3532",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team Spirit | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/spir_1355_37.f363ae21c338a4c9acb69d85eccfb69562b9a811.png",
-    "original": {
-      "name": "katowice2019_team_spir",
-      "image_inventory": "econ/stickers/katowice2019/spir_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3533",
-    "name": "Sticker Slab | Team Spirit (Holo) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3533",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4586",
-        "name": "Katowice 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u15vvVsQS22hw5p4Grcn9n8dijCPQIpCpVwQ7UM4xDtktbgP76241HY2t4XzH77j3xLujErvbgSeY4OMA"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team Spirit (Holo) | Katowice 2019",
-    "effect": "Holo",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/spir_holo_1355_37.2e40ab6b2c4fdd4aa68c8c62b6224775373671d3.png",
-    "original": {
-      "name": "katowice2019_team_spir_holo",
-      "image_inventory": "econ/stickers/katowice2019/spir_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3534",
-    "name": "Sticker Slab | Team Spirit (Foil) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3534",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4586",
-        "name": "Katowice 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u15vvVsQS22hw5p4Grcn9n8dijCPQIpCpVwQ7UM4xDtktbgP76241HY2t4XzH77j3xLujErvbgSeY4OMA"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team Spirit (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/spir_foil_1355_37.f77e7cf6cf4af5d8b102ffe6cc1d5a4c78107bfa.png",
-    "original": {
-      "name": "katowice2019_team_spir_foil",
-      "image_inventory": "econ/stickers/katowice2019/spir_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3535",
-    "name": "Sticker Slab | Team Spirit (Gold) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3535",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 81,
-      "tag": "SPIR",
-      "geo": "RU",
-      "name": "Team Spirit"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/spir_gold_1355_37.ba5546d3adf75d44f1da0b552d81004f3ac9ecd8.png",
-    "original": {
-      "name": "katowice2019_team_spir_gold",
-      "image_inventory": "econ/stickers/katowice2019/spir_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3536",
-    "name": "Sticker Slab | Tyloo | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3536",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Tyloo | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/tyl_1355_37.bea9b92e23d3dc624ae18f4520cb526885280a2f.png",
-    "original": {
-      "name": "katowice2019_team_tyl",
-      "image_inventory": "econ/stickers/katowice2019/tyl_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3537",
-    "name": "Sticker Slab | Tyloo (Holo) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3537",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4585",
-        "name": "Katowice 2019 Returning Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u1-se1lSie0kA80_W6Bz46qIimTOwUhCZcjQeEIuxLslte1Yeq05gbXjI5Hn375hyNA7nl1o7FVMdlnavk"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Tyloo (Holo) | Katowice 2019",
-    "effect": "Holo",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/tyl_holo_1355_37.7bdaaec811ea6c8110a9b7433b86dfab05332bcb.png",
-    "original": {
-      "name": "katowice2019_team_tyl_holo",
-      "image_inventory": "econ/stickers/katowice2019/tyl_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3538",
-    "name": "Sticker Slab | Tyloo (Foil) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3538",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4585",
-        "name": "Katowice 2019 Returning Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u1-se1lSie0kA80_W6Bz46qIimTOwUhCZcjQeEIuxLslte1Yeq05gbXjI5Hn375hyNA7nl1o7FVMdlnavk"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Tyloo (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/tyl_foil_1355_37.88f67981a713ec5e756903c2d70c759931810a66.png",
-    "original": {
-      "name": "katowice2019_team_tyl_foil",
-      "image_inventory": "econ/stickers/katowice2019/tyl_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3539",
-    "name": "Sticker Slab | Tyloo (Gold) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3539",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/tyl_gold_1355_37.e28aa9442094177376e87ba17a51dff74cf514f3.png",
-    "original": {
-      "name": "katowice2019_team_tyl_gold",
-      "image_inventory": "econ/stickers/katowice2019/tyl_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3540",
-    "name": "Sticker Slab | Vega Squadron | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3540",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Vega Squadron | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 70,
-      "tag": "VEGA",
-      "geo": "RU",
-      "name": "Vega Squadron"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vega_1355_37.ae2a2d615c7204cc623d586da695958b98f4877a.png",
-    "original": {
-      "name": "katowice2019_team_vega",
-      "image_inventory": "econ/stickers/katowice2019/vega_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3541",
-    "name": "Sticker Slab | Vega Squadron (Holo) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3541",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4585",
-        "name": "Katowice 2019 Returning Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u1-se1lSie0kA80_W6Bz46qIimTOwUhCZcjQeEIuxLslte1Yeq05gbXjI5Hn375hyNA7nl1o7FVMdlnavk"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Vega Squadron (Holo) | Katowice 2019",
-    "effect": "Holo",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 70,
-      "tag": "VEGA",
-      "geo": "RU",
-      "name": "Vega Squadron"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vega_holo_1355_37.33fcaa1680a6572b5b69d76bbe9656ec6fd7c05c.png",
-    "original": {
-      "name": "katowice2019_team_vega_holo",
-      "image_inventory": "econ/stickers/katowice2019/vega_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3542",
-    "name": "Sticker Slab | Vega Squadron (Foil) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3542",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4585",
-        "name": "Katowice 2019 Returning Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u1-se1lSie0kA80_W6Bz46qIimTOwUhCZcjQeEIuxLslte1Yeq05gbXjI5Hn375hyNA7nl1o7FVMdlnavk"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Vega Squadron (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 70,
-      "tag": "VEGA",
-      "geo": "RU",
-      "name": "Vega Squadron"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vega_foil_1355_37.2711cf17371925d465c5372d94c80aad0a62e895.png",
-    "original": {
-      "name": "katowice2019_team_vega_foil",
-      "image_inventory": "econ/stickers/katowice2019/vega_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3543",
-    "name": "Sticker Slab | Vega Squadron (Gold) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3543",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 70,
-      "tag": "VEGA",
-      "geo": "RU",
-      "name": "Vega Squadron"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vega_gold_1355_37.f74398a3b84bfbbb77f66773c01f5b066823a91b.png",
-    "original": {
-      "name": "katowice2019_team_vega_gold",
-      "image_inventory": "econ/stickers/katowice2019/vega_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3544",
-    "name": "Sticker Slab | ViCi Gaming | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3544",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | ViCi Gaming | Katowice 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 88,
-      "tag": "VICI",
-      "geo": "CN",
-      "name": "ViCi Gaming"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vici_1355_37.a952c27f68cb3bb2f29c957a1b4daa994c0eb9e5.png",
-    "original": {
-      "name": "katowice2019_team_vici",
-      "image_inventory": "econ/stickers/katowice2019/vici_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3545",
-    "name": "Sticker Slab | ViCi Gaming (Holo) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3545",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4586",
-        "name": "Katowice 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u15vvVsQS22hw5p4Grcn9n8dijCPQIpCpVwQ7UM4xDtktbgP76241HY2t4XzH77j3xLujErvbgSeY4OMA"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | ViCi Gaming (Holo) | Katowice 2019",
-    "effect": "Holo",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 88,
-      "tag": "VICI",
-      "geo": "CN",
-      "name": "ViCi Gaming"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vici_holo_1355_37.a38de525e597b1bd3ad415594e5637724eec0d7c.png",
-    "original": {
-      "name": "katowice2019_team_vici_holo",
-      "image_inventory": "econ/stickers/katowice2019/vici_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-3546",
-    "name": "Sticker Slab | ViCi Gaming (Foil) | Katowice 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "3546",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4586",
-        "name": "Katowice 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk5PO6Z7NkI_XBXjbJ_u15vvVsQS22hw5p4Grcn9n8dijCPQIpCpVwQ7UM4xDtktbgP76241HY2t4XzH77j3xLujErvbgSeY4OMA"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | ViCi Gaming (Foil) | Katowice 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 15,
-      "name": "2019 IEM Katowice"
-    },
-    "team": {
-      "id": 88,
-      "tag": "VICI",
-      "geo": "CN",
-      "name": "ViCi Gaming"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/katowice2019/vici_foil_1355_37.65a67c8a81ace9832d573e42217cc080cd27a09d.png",
-    "original": {
-      "name": "katowice2019_team_vici_foil",
-      "image_inventory": "econ/stickers/katowice2019/vici_foil_1355_37"
     }
   }
 ]
