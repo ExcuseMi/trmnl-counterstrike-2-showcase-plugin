@@ -1,5 +1,141 @@
 [
   {
+    "id": "sticker_slab-1741",
+    "name": "Sticker Slab | Astralis (Gold) | Atlanta 2017",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1741",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 11,
+      "name": "2017 ELEAGUE Atlanta"
+    },
+    "team": {
+      "id": 60,
+      "tag": "ASTR",
+      "geo": "DK",
+      "name": "Astralis"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/astr_gold_1355_37.eff0036893fa77452ce72586cf8d4116c722aafa.png",
+    "original": {
+      "name": "atlanta2017_team_astr_gold",
+      "image_inventory": "econ/stickers/atlanta2017/astr_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-1742",
+    "name": "Sticker Slab | Team EnVyUs | Atlanta 2017",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1742",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team EnVyUs | Atlanta 2017",
+    "effect": "Other",
+    "tournament": {
+      "id": 11,
+      "name": "2017 ELEAGUE Atlanta"
+    },
+    "team": {
+      "id": 46,
+      "tag": "NV",
+      "geo": "FR",
+      "name": "Team EnVyUs"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfxfkyiy8PfrnUVvPOoPaI5I6KWCz_Dwuwis-BoGHjqxBx24TzVzIqhdX3FPFBzXptzFPlK7EfHQDfILw",
+    "original": {
+      "name": "atlanta2017_team_nv",
+      "image_inventory": "econ/stickers/atlanta2017/nv_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-1743",
+    "name": "Sticker Slab | Team EnVyUs (Holo) | Atlanta 2017",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1743",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4324",
+        "name": "Atlanta 2017 Challengers (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvkbw4tbNsHnG2zRkk4z6HnoqgJS_DOgN1D5txQeUKsxPtxtXvYbvj7wLZj5UFk3sQ2wlziQ"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team EnVyUs (Holo) | Atlanta 2017",
+    "effect": "Holo",
+    "tournament": {
+      "id": 11,
+      "name": "2017 ELEAGUE Atlanta"
+    },
+    "team": {
+      "id": 46,
+      "tag": "NV",
+      "geo": "FR",
+      "name": "Team EnVyUs"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfxfhX-kpnfrHEOus39P-o9d6XGVmXBx7l1tbVqS3GwwUtx4jncnNatcC6QaVB1C8clE7UDtBWxjJS5YBNxP3r-",
+    "original": {
+      "name": "atlanta2017_team_nv_holo",
+      "image_inventory": "econ/stickers/atlanta2017/nv_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-1744",
+    "name": "Sticker Slab | Team EnVyUs (Foil) | Atlanta 2017",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1744",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4324",
+        "name": "Atlanta 2017 Challengers (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvkbw4tbNsHnG2zRkk4z6HnoqgJS_DOgN1D5txQeUKsxPtxtXvYbvj7wLZj5UFk3sQ2wlziQ"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Team EnVyUs (Foil) | Atlanta 2017",
+    "effect": "Foil",
+    "tournament": {
+      "id": 11,
+      "name": "2017 ELEAGUE Atlanta"
+    },
+    "team": {
+      "id": 46,
+      "tag": "NV",
+      "geo": "FR",
+      "name": "Team EnVyUs"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/nv_foil_1355_37.5794ec36c1bc00aaa90880ce8628d175988f50f0.png",
+    "original": {
+      "name": "atlanta2017_team_nv_foil",
+      "image_inventory": "econ/stickers/atlanta2017/nv_foil_1355_37"
+    }
+  },
+  {
     "id": "sticker_slab-1745",
     "name": "Sticker Slab | Team EnVyUs (Gold) | Atlanta 2017",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -92,7 +228,7 @@
       "geo": "EU",
       "name": "FaZe Clan"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/faze_holo_1355_37.e8f467a016f7696e772003a6be94ad5584cbe702.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_mWxjOlpns8h0KvKf7V_c6bvXLCDPGlu8m4bdvGH_qwxhw5G_Vytz4dynCZwJxXpd1TeNZ4EW_ktb5d7S1iQKgHRQ",
     "original": {
       "name": "atlanta2017_team_faze_holo",
       "image_inventory": "econ/stickers/atlanta2017/faze_holo_1355_37"
@@ -129,7 +265,7 @@
       "geo": "EU",
       "name": "FaZe Clan"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/faze_foil_1355_37.cd79839d05f6f9f1cfd673e6d08b9226d7c9afe3.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_mWxjOmJnp8R0KvKf7V_c6bvOXWT7Ikrdy4LRvGS_qk0wktTnTzdz8dy-XZlQpCJB2EeBZu0Hux9f5d7S1MFyKZVQ",
     "original": {
       "name": "atlanta2017_team_faze_foil",
       "image_inventory": "econ/stickers/atlanta2017/faze_foil_1355_37"
@@ -364,7 +500,7 @@
       "geo": "SE",
       "name": "Fnatic"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/fntc_holo_1355_37.9975feffbe9ebe3e3e3c44c076b51d395829ed3d.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpV_pVR7Olpns8h0KvKf7V_c6bqnKWTKWxOhwsuQwSiu2xhh0tm6Gztv6cXyRPAMhXpF5QO8Iu0XskYD5d7S1Or1p0s4",
     "original": {
       "name": "atlanta2017_team_fntc_holo",
       "image_inventory": "econ/stickers/atlanta2017/fntc_holo_1355_37"
@@ -1823,7 +1959,7 @@
       "geo": "PL",
       "name": "Virtus.Pro"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/vp_1355_37.55127e97576591bb91cee04d6caa05e69f2a805b.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpU_3fkyiy8PfrnUVuqf_OvNoeafGWTHFmL90srg4TCy2xUkj5T6Em9-sJH2eOARxApJ1F_lK7Ef3lbrOMA",
     "original": {
       "name": "atlanta2017_team_vp",
       "image_inventory": "econ/stickers/atlanta2017/vp_1355_37"
@@ -2098,214 +2234,6 @@
     "original": {
       "name": "atlanta2017_signature_styko",
       "image_inventory": "econ/stickers/atlanta2017/sig_styko_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1824",
-    "name": "Sticker Slab | STYKO (Foil) | Atlanta 2017",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1824",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | STYKO (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 25,
-      "tag": "HLR",
-      "geo": "EU",
-      "name": "HellRaisers"
-    },
-    "player": {
-      "id": 55928431,
-      "name": "STYKO",
-      "code": "styko",
-      "dob": "1996-02-23",
-      "geo": "SK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_styko_foil_1355_37.b7e802e8f32f0587717af66fb34a83c9abb8496a.png",
-    "original": {
-      "name": "atlanta2017_signature_styko_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_styko_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1825",
-    "name": "Sticker Slab | STYKO (Gold) | Atlanta 2017",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1825",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 25,
-      "tag": "HLR",
-      "geo": "EU",
-      "name": "HellRaisers"
-    },
-    "player": {
-      "id": 55928431,
-      "name": "STYKO",
-      "code": "styko",
-      "dob": "1996-02-23",
-      "geo": "SK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_styko_gold_1355_37.db3f17440e13ce5284d5a43ae38aced29fc2fac8.png",
-    "original": {
-      "name": "atlanta2017_signature_styko_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_styko_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1826",
-    "name": "Sticker Slab | Zero | Atlanta 2017",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1826",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4335",
-        "name": "Autograph Capsule | HellRaisers | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSW8Vp0-pP1uAm2FiL5koSuq3YK7qKrPfE9dvTDD2bAkLgi47I5HX7llE916mmEzd-rIi-eZwAnCYwwG7BNLaG_Ig"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Zero | Atlanta 2017",
-    "effect": "Other",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 25,
-      "tag": "HLR",
-      "geo": "EU",
-      "name": "HellRaisers"
-    },
-    "player": {
-      "id": 34322135,
-      "name": "Zero",
-      "code": "zero",
-      "dob": "1998-09-16",
-      "geo": "SK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_zero_1355_37.2556fcd9fd1ba3249857387b9e694d7c4fc8440e.png",
-    "original": {
-      "name": "atlanta2017_signature_zero",
-      "image_inventory": "econ/stickers/atlanta2017/sig_zero_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1827",
-    "name": "Sticker Slab | Zero (Foil) | Atlanta 2017",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1827",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4325",
-        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvxvx5pfFWHmfrwUxz4m3cw96heXyQaAImC5R3RuQJsUO5xNXhYbzhtAWP344XyCSqkGoXuUK_uX0T"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Zero (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 25,
-      "tag": "HLR",
-      "geo": "EU",
-      "name": "HellRaisers"
-    },
-    "player": {
-      "id": 34322135,
-      "name": "Zero",
-      "code": "zero",
-      "dob": "1998-09-16",
-      "geo": "SK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_zero_foil_1355_37.c27e62f72ce765a3add270500fc6ce9a632e7169.png",
-    "original": {
-      "name": "atlanta2017_signature_zero_foil",
-      "image_inventory": "econ/stickers/atlanta2017/sig_zero_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1828",
-    "name": "Sticker Slab | Zero (Gold) | Atlanta 2017",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1828",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 25,
-      "tag": "HLR",
-      "geo": "EU",
-      "name": "HellRaisers"
-    },
-    "player": {
-      "id": 34322135,
-      "name": "Zero",
-      "code": "zero",
-      "dob": "1998-09-16",
-      "geo": "SK"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/sig_zero_gold_1355_37.11d86b4fa80a73bf5eef7bf08e1a3d27998c47e0.png",
-    "original": {
-      "name": "atlanta2017_signature_zero_gold",
-      "image_inventory": "econ/stickers/atlanta2017/sig_zero_gold_1355_37"
     }
   }
 ]

@@ -1,5 +1,131 @@
 [
   {
+    "id": "sticker_slab-791",
+    "name": "Sticker Slab | Edward | Cluj-Napoca 2015",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "791",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4167",
+        "name": "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6UN_ptelv2bpQAv40M-4_HBe6aT6O6VrdqSSVz-Rmbou57hsF3vnw0x06m-Gzd-tcC2QaAI-Sswn58YGHwM"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Edward | Cluj-Napoca 2015",
+    "effect": "Other",
+    "tournament": {
+      "id": 8,
+      "name": "2015 DreamHack Cluj-Napoca"
+    },
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "player": {
+      "id": 23429534,
+      "name": "Edward",
+      "code": "edward",
+      "dob": "1987-12-28",
+      "geo": "UA"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/sig_edward_1355_37.6c5b8d0ebdba4a163447f873bf45526ae271c2aa.png",
+    "original": {
+      "name": "cluj2015_signature_edward",
+      "image_inventory": "econ/stickers/cluj2015/sig_edward_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-792",
+    "name": "Sticker Slab | Edward (Foil) | Cluj-Napoca 2015",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "792",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4159",
+        "name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P67YvY9caWsCXWf1P5J4q9vHXuxwERx4m2Em9_8eXPEPAYkDpUhF-cPuxnslNa1Zezg51Ta2YpN02yg2W0Kr2kl"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Edward (Foil) | Cluj-Napoca 2015",
+    "effect": "Foil",
+    "tournament": {
+      "id": 8,
+      "name": "2015 DreamHack Cluj-Napoca"
+    },
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "player": {
+      "id": 23429534,
+      "name": "Edward",
+      "code": "edward",
+      "dob": "1987-12-28",
+      "geo": "UA"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmtIHHFtQcgu5T97WbiRQrwjJLf-y1S483_O_E4H6PEQDeTl7ty5bE-HXvqwh534G6Hy96pJCrEOFB2A5p5E-EJ5kG5xIfgN7j8p1uJ0qBHies",
+    "original": {
+      "name": "cluj2015_signature_edward_foil",
+      "image_inventory": "econ/stickers/cluj2015/sig_edward_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-793",
+    "name": "Sticker Slab | Edward (Gold) | Cluj-Napoca 2015",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "793",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 8,
+      "name": "2015 DreamHack Cluj-Napoca"
+    },
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "player": {
+      "id": 23429534,
+      "name": "Edward",
+      "code": "edward",
+      "dob": "1987-12-28",
+      "geo": "UA"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/sig_edward_gold_1355_37.4f70b559daff9aea0f4072f8c7f3f456ba838201.png",
+    "original": {
+      "name": "cluj2015_signature_edward_gold",
+      "image_inventory": "econ/stickers/cluj2015/sig_edward_gold_1355_37"
+    }
+  },
+  {
     "id": "sticker_slab-794",
     "name": "Sticker Slab | flamie | Cluj-Napoca 2015",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -2391,132 +2517,6 @@
     "original": {
       "name": "cluj2015_signature_nitro_gold",
       "image_inventory": "econ/stickers/cluj2015/sig_nitro_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-851",
-    "name": "Sticker Slab | Ex6TenZ | Cluj-Napoca 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "851",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4171",
-        "name": "Autograph Capsule | Titan | Cluj-Napoca 2015",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6UN_ptelv2bzSAm_ncfl_CMOuaeqPKY8IvXADGGSku8m57JoSyvkwkVx6jiEntb_dX7FOhhgVMWGER11CQ"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Ex6TenZ | Cluj-Napoca 2015",
-    "effect": "Other",
-    "tournament": {
-      "id": 8,
-      "name": "2015 DreamHack Cluj-Napoca"
-    },
-    "team": {
-      "id": 27,
-      "tag": "TIT",
-      "geo": "FR",
-      "name": "Titan"
-    },
-    "player": {
-      "id": 11737333,
-      "name": "Ex6TenZ",
-      "code": "ex6tenz",
-      "dob": "1990-04-30",
-      "geo": "BE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/sig_ex6tenz_1355_37.8c57eae2eb2c3c0cc556977300b0bcd62b7e3d4d.png",
-    "original": {
-      "name": "cluj2015_signature_ex6tenz",
-      "image_inventory": "econ/stickers/cluj2015/sig_ex6tenz_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-852",
-    "name": "Sticker Slab | Ex6TenZ (Foil) | Cluj-Napoca 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "852",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4158",
-        "name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P67YvY9caWsCXWf1P5J4a8_Tn-xzE0hsW7VztqteX6ePwQlD8EhRrMLuhiww93mMuK0sVeIioNF02yg2X0SQ-6V"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Ex6TenZ (Foil) | Cluj-Napoca 2015",
-    "effect": "Foil",
-    "tournament": {
-      "id": 8,
-      "name": "2015 DreamHack Cluj-Napoca"
-    },
-    "team": {
-      "id": 27,
-      "tag": "TIT",
-      "geo": "FR",
-      "name": "Titan"
-    },
-    "player": {
-      "id": 11737333,
-      "name": "Ex6TenZ",
-      "code": "ex6tenz",
-      "dob": "1990-04-30",
-      "geo": "BE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/sig_ex6tenz_foil_1355_37.27e6e8bd50efea8111f6717060263a53d4f31070.png",
-    "original": {
-      "name": "cluj2015_signature_ex6tenz_foil",
-      "image_inventory": "econ/stickers/cluj2015/sig_ex6tenz_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-853",
-    "name": "Sticker Slab | Ex6TenZ (Gold) | Cluj-Napoca 2015",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "853",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 8,
-      "name": "2015 DreamHack Cluj-Napoca"
-    },
-    "team": {
-      "id": 27,
-      "tag": "TIT",
-      "geo": "FR",
-      "name": "Titan"
-    },
-    "player": {
-      "id": 11737333,
-      "name": "Ex6TenZ",
-      "code": "ex6tenz",
-      "dob": "1990-04-30",
-      "geo": "BE"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/sig_ex6tenz_gold_1355_37.623bf44e1c66735120fc4010445ebb03a95f9474.png",
-    "original": {
-      "name": "cluj2015_signature_ex6tenz_gold",
-      "image_inventory": "econ/stickers/cluj2015/sig_ex6tenz_gold_1355_37"
     }
   }
 ]

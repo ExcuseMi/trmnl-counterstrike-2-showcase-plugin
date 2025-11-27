@@ -1,5 +1,580 @@
 [
   {
+    "id": "sticker_slab-4023",
+    "name": "Sticker Slab | ENCE | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4023",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | ENCE | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/ence_1355_37.546e28b07cfced923e278374b49eef434d9e5dc1.png",
+    "original": {
+      "name": "berlin2019_team_ence",
+      "image_inventory": "econ/stickers/berlin2019/ence_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4024",
+    "name": "Sticker Slab | ENCE (Holo) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4024",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4654",
+        "name": "Berlin 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1icxOlzvuV6AXrgx0104T6Gn46ucnqXbAYgCptzELELsUbrlIezNeuz7gLe2o5ByirgznQeXISis2o"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | ENCE (Holo) | Berlin 2019",
+    "effect": "Holo",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd6771fkRCL5kZrvwnMIuqeRO_MjcKbCCmPJl713tbg4TirhlB8ktW_Xn4yvI37BPwVzWJp1EbMNtBi7xMqnab3Hwan_jw",
+    "original": {
+      "name": "berlin2019_team_ence_holo",
+      "image_inventory": "econ/stickers/berlin2019/ence_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4025",
+    "name": "Sticker Slab | ENCE (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4025",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4654",
+        "name": "Berlin 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1icxOlzvuV6AXrgx0104T6Gn46ucnqXbAYgCptzELELsUbrlIezNeuz7gLe2o5ByirgznQeXISis2o"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | ENCE (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd6771fkRCL3kZ_swnMIuqeRO_MjcqCXXzbEw7ly5LJoFnvqxkkmtm3Xw46vJHjEbQQnX8dxTe8I4EawlMqnab3xtwmo3w",
+    "original": {
+      "name": "berlin2019_team_ence_foil",
+      "image_inventory": "econ/stickers/berlin2019/ence_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4026",
+    "name": "Sticker Slab | ENCE (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4026",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 84,
+      "tag": "ENCE",
+      "geo": "FI",
+      "name": "ENCE"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/ence_gold_1355_37.3363829a97a814af0ac6b6b1404946c7b44cc187.png",
+    "original": {
+      "name": "berlin2019_team_ence_gold",
+      "image_inventory": "econ/stickers/berlin2019/ence_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4027",
+    "name": "Sticker Slab | MIBR | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4027",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | MIBR | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/mibr_1355_37.e5f682e7d814a1fb030c9b273fbcdf1c7f060a69.png",
+    "original": {
+      "name": "berlin2019_team_mibr",
+      "image_inventory": "econ/stickers/berlin2019/mibr_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4028",
+    "name": "Sticker Slab | MIBR (Holo) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4028",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4654",
+        "name": "Berlin 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1icxOlzvuV6AXrgx0104T6Gn46ucnqXbAYgCptzELELsUbrlIezNeuz7gLe2o5ByirgznQeXISis2o"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | MIBR (Holo) | Berlin 2019",
+    "effect": "Holo",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd6751DlUyL5kZrvwnMIuqeRO_Mjd_LKWj-TxL4n6LE-TH3kkEh_5GqEmYupc3yTOw8hWMZwR7Fc4xfplMqnab0Lph5J2A",
+    "original": {
+      "name": "berlin2019_team_mibr_holo",
+      "image_inventory": "econ/stickers/berlin2019/mibr_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4029",
+    "name": "Sticker Slab | MIBR (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4029",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4654",
+        "name": "Berlin 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1icxOlzvuV6AXrgx0104T6Gn46ucnqXbAYgCptzELELsUbrlIezNeuz7gLe2o5ByirgznQeXISis2o"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | MIBR (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd6751DlUyL3kZ_swnMIuqeRO_MjdaTFD2HBkbZ3tOQ8Sy22kBx34WjRmdugdnjBZlAiD5VzFOcCuxO_msqnab2fmVPQ7g",
+    "original": {
+      "name": "berlin2019_team_mibr_foil",
+      "image_inventory": "econ/stickers/berlin2019/mibr_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4030",
+    "name": "Sticker Slab | MIBR (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4030",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 80,
+      "tag": "MIBR",
+      "geo": "BR",
+      "name": "MIBR"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/mibr_gold_1355_37.fcafca836d33b7f3375ccdbd4feeba45305f6d7a.png",
+    "original": {
+      "name": "berlin2019_team_mibr_gold",
+      "image_inventory": "econ/stickers/berlin2019/mibr_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4031",
+    "name": "Sticker Slab | Natus Vincere | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4031",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Natus Vincere | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd675FjxSCKgzcO1wnEMoaavMKVudajKDTbBl7d36eJrHHvkkU0k4TuHzt38dC-SPVVyDpckTeYU8k7vxTb9_e4",
+    "original": {
+      "name": "berlin2019_team_navi",
+      "image_inventory": "econ/stickers/berlin2019/navi_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4032",
+    "name": "Sticker Slab | Natus Vincere (Holo) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4032",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4654",
+        "name": "Berlin 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1icxOlzvuV6AXrgx0104T6Gn46ucnqXbAYgCptzELELsUbrlIezNeuz7gLe2o5ByirgznQeXISis2o"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Natus Vincere (Holo) | Berlin 2019",
+    "effect": "Holo",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd675FjxSCL5kZrvwnMIuqeRO_Mjc_SVCmGSlesh5uQ7Gn6ww0xz4m_Un4z8dX6XOwEnDZZ5QONctBC_l8qnab0HPlzivA",
+    "original": {
+      "name": "berlin2019_team_navi_holo",
+      "image_inventory": "econ/stickers/berlin2019/navi_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4033",
+    "name": "Sticker Slab | Natus Vincere (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4033",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4654",
+        "name": "Berlin 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1icxOlzvuV6AXrgx0104T6Gn46ucnqXbAYgCptzELELsUbrlIezNeuz7gLe2o5ByirgznQeXISis2o"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Natus Vincere (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd675FjxSCL3kZ_swnMIuqeRO_MjcaTGXTaTl-sj57FqGn3mxB9252uEzNb6eX-TPQ8gAsYiFuQCu0brwcqnab353mjUKg",
+    "original": {
+      "name": "berlin2019_team_navi_foil",
+      "image_inventory": "econ/stickers/berlin2019/navi_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4034",
+    "name": "Sticker Slab | Natus Vincere (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4034",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 12,
+      "tag": "NAVI",
+      "geo": "CC",
+      "name": "Natus Vincere"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/navi_gold_1355_37.d91d3c3b7c9102917897aba801e1c25ba50fdb0f.png",
+    "original": {
+      "name": "berlin2019_team_navi_gold",
+      "image_inventory": "econ/stickers/berlin2019/navi_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4035",
+    "name": "Sticker Slab | Ninjas in Pyjamas | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4035",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/nip_1355_37.b6aeff97be3487c16d9da23e2bff68237bd0c329.png",
+    "original": {
+      "name": "berlin2019_team_nip",
+      "image_inventory": "econ/stickers/berlin2019/nip_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4036",
+    "name": "Sticker Slab | Ninjas in Pyjamas (Holo) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4036",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4654",
+        "name": "Berlin 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1icxOlzvuV6AXrgx0104T6Gn46ucnqXbAYgCptzELELsUbrlIezNeuz7gLe2o5ByirgznQeXISis2o"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas (Holo) | Berlin 2019",
+    "effect": "Holo",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd675FD3fhX-kpnfrHEOus39P-pvc_HBCz_Fw-om47I_F3C2zEsjsGvVmY2rdHmeOgMlC8EiFuEKsBmwjJS5YJISaaDZ",
+    "original": {
+      "name": "berlin2019_team_nip_holo",
+      "image_inventory": "econ/stickers/berlin2019/nip_holo_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4037",
+    "name": "Sticker Slab | Ninjas in Pyjamas (Foil) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4037",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4654",
+        "name": "Berlin 2019 Legends (Holo/Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1icxOlzvuV6AXrgx0104T6Gn46ucnqXbAYgCptzELELsUbrlIezNeuz7gLe2o5ByirgznQeXISis2o"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas (Foil) | Berlin 2019",
+    "effect": "Foil",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd675FD3fhv-l5rfrHEOus39P-psI6jFDTKTkuwjsbI6H3jrzE4ltjuDydyoJ3jGbANyXJRyTLEOuxC4jJS5YLwTWdVO",
+    "original": {
+      "name": "berlin2019_team_nip_foil",
+      "image_inventory": "econ/stickers/berlin2019/nip_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4038",
+    "name": "Sticker Slab | Ninjas in Pyjamas (Gold) | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4038",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/nip_gold_1355_37.5ce071006b2f09e75cc3aeb6598ecdc4268bcca2.png",
+    "original": {
+      "name": "berlin2019_team_nip_gold",
+      "image_inventory": "econ/stickers/berlin2019/nip_gold_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-4039",
+    "name": "Sticker Slab | FaZe Clan | Berlin 2019",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "4039",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | FaZe Clan | Berlin 2019",
+    "effect": "Other",
+    "tournament": {
+      "id": 16,
+      "name": "2019 StarLadder Berlin"
+    },
+    "team": {
+      "id": 61,
+      "tag": "FAZE",
+      "geo": "EU",
+      "name": "FaZe Clan"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/faze_1355_37.c9d7c7324c7fbc34e8a7e187dce394f010dc0784.png",
+    "original": {
+      "name": "berlin2019_team_faze",
+      "image_inventory": "econ/stickers/berlin2019/faze_1355_37"
+    }
+  },
+  {
     "id": "sticker_slab-4040",
     "name": "Sticker Slab | FaZe Clan (Holo) | Berlin 2019",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -203,7 +778,7 @@
       "geo": "US",
       "name": "Team Liquid"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/liq_foil_1355_37.4624926cb9300606e43e43855007569bfcc7121c.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd675lD2fhv-l5rfrHEOus39P-o5dqLHVzXGwuwv47E5GXnlkEl0tmnWwtqscXuQawApWMQjFuALsBHrjJS5YCHGyFyF",
     "original": {
       "name": "berlin2019_team_liq_foil",
       "image_inventory": "econ/stickers/berlin2019/liq_foil_1355_37"
@@ -710,7 +1285,7 @@
       "geo": "KZ",
       "name": "Avangar"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/avg_holo_1355_37.0010b767e66a91cca956b8d213498c169eb5b680.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd6760_gfhX-kpnfrHEOus39P-o9cKHDDDDGlusg5uAwHiqwlERy5T_dnt2ocn-eZlUhDJslF-JYtBi4jJS5YLtYs26t",
     "original": {
       "name": "berlin2019_team_avg_holo",
       "image_inventory": "econ/stickers/berlin2019/avg_holo_1355_37"
@@ -1666,618 +2241,6 @@
     "original": {
       "name": "berlin2019_team_tyl_holo",
       "image_inventory": "econ/stickers/berlin2019/tyl_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4089",
-    "name": "Sticker Slab | Tyloo (Foil) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4089",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4656",
-        "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iTzuBite9tSjug20Rw4j_Uyd6ueC3Cb1AmX8YiTbYDsxnslIezMLjl5Vfdi41HmXr823tXrnE83PKe3oY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Tyloo (Foil) | Berlin 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/tyl_foil_1355_37.4a4e3e65f082d4111600e1eeb8f1b7b1f87a4398.png",
-    "original": {
-      "name": "berlin2019_team_tyl_foil",
-      "image_inventory": "econ/stickers/berlin2019/tyl_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4090",
-    "name": "Sticker Slab | Tyloo (Gold) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4090",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 74,
-      "tag": "TYL",
-      "geo": "CN",
-      "name": "Tyloo"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/tyl_gold_1355_37.eb90087607f62ea2704fd0267c66b975d4289da0.png",
-    "original": {
-      "name": "berlin2019_team_tyl_gold",
-      "image_inventory": "econ/stickers/berlin2019/tyl_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4091",
-    "name": "Sticker Slab | FURIA | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4091",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FURIA | Berlin 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 85,
-      "tag": "FURI",
-      "geo": "US",
-      "name": "FURIA"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/furi_1355_37.5b82e53492d8b3bbe006bbb397cc6cd8e7b666ba.png",
-    "original": {
-      "name": "berlin2019_team_furi",
-      "image_inventory": "econ/stickers/berlin2019/furi_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4092",
-    "name": "Sticker Slab | FURIA (Holo) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4092",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4656",
-        "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iTzuBite9tSjug20Rw4j_Uyd6ueC3Cb1AmX8YiTbYDsxnslIezMLjl5Vfdi41HmXr823tXrnE83PKe3oY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FURIA (Holo) | Berlin 2019",
-    "effect": "Holo",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 85,
-      "tag": "FURI",
-      "geo": "US",
-      "name": "FURIA"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd677Ez1SCL5kZrvwnMIuqeRO_Mjd_XBWWWRxO8n5eBsFi-2kx935mvXyN7_cS6WaQcmDMRzRbID5BC-kMqnab3bnULAQA",
-    "original": {
-      "name": "berlin2019_team_furi_holo",
-      "image_inventory": "econ/stickers/berlin2019/furi_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4093",
-    "name": "Sticker Slab | FURIA (Foil) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4093",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4656",
-        "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iTzuBite9tSjug20Rw4j_Uyd6ueC3Cb1AmX8YiTbYDsxnslIezMLjl5Vfdi41HmXr823tXrnE83PKe3oY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | FURIA (Foil) | Berlin 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 85,
-      "tag": "FURI",
-      "geo": "US",
-      "name": "FURIA"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd677Ez1SCL3kZ_swnMIuqeRO_MjJaXFDGKSw-glsbI4Sn_mxx8j5WWAm9itJ3qTawYmCJtxTeJYsRK8x8qnab1f0TKj0g",
-    "original": {
-      "name": "berlin2019_team_furi_foil",
-      "image_inventory": "econ/stickers/berlin2019/furi_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4094",
-    "name": "Sticker Slab | FURIA (Gold) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4094",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 85,
-      "tag": "FURI",
-      "geo": "US",
-      "name": "FURIA"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/furi_gold_1355_37.291e1307990a4c1603dbb08ac8dcba6169284d82.png",
-    "original": {
-      "name": "berlin2019_team_furi_gold",
-      "image_inventory": "econ/stickers/berlin2019/furi_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4095",
-    "name": "Sticker Slab | CR4ZY | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4095",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | CR4ZY | Berlin 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 91,
-      "tag": "CR4Z",
-      "geo": "RS",
-      "name": "CR4ZY"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/cr4z_1355_37.9e204a227bbd81ea9adc0fb17f8cb4c1b8b7ed65.png",
-    "original": {
-      "name": "berlin2019_team_cr4z",
-      "image_inventory": "econ/stickers/berlin2019/cr4z_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4096",
-    "name": "Sticker Slab | CR4ZY (Holo) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4096",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4656",
-        "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iTzuBite9tSjug20Rw4j_Uyd6ueC3Cb1AmX8YiTbYDsxnslIezMLjl5Vfdi41HmXr823tXrnE83PKe3oY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | CR4ZY (Holo) | Berlin 2019",
-    "effect": "Holo",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 91,
-      "tag": "CR4Z",
-      "geo": "RS",
-      "name": "CR4ZY"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/cr4z_holo_1355_37.b3fb6210c172e07ae161f8d96018fd3d6e2b944b.png",
-    "original": {
-      "name": "berlin2019_team_cr4z_holo",
-      "image_inventory": "econ/stickers/berlin2019/cr4z_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4097",
-    "name": "Sticker Slab | CR4ZY (Foil) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4097",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4656",
-        "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iTzuBite9tSjug20Rw4j_Uyd6ueC3Cb1AmX8YiTbYDsxnslIezMLjl5Vfdi41HmXr823tXrnE83PKe3oY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | CR4ZY (Foil) | Berlin 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 91,
-      "tag": "CR4Z",
-      "geo": "RS",
-      "name": "CR4ZY"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/cr4z_foil_1355_37.0e5bc7bfa78714e152fb1de1c1085a42ce8aa03d.png",
-    "original": {
-      "name": "berlin2019_team_cr4z_foil",
-      "image_inventory": "econ/stickers/berlin2019/cr4z_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4098",
-    "name": "Sticker Slab | CR4ZY (Gold) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4098",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 91,
-      "tag": "CR4Z",
-      "geo": "RS",
-      "name": "CR4ZY"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/cr4z_gold_1355_37.95dcdb6ad395e710ec0cc32c0cf9707688012ad6.png",
-    "original": {
-      "name": "berlin2019_team_cr4z_gold",
-      "image_inventory": "econ/stickers/berlin2019/cr4z_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4099",
-    "name": "Sticker Slab | Syman Gaming | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4099",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Syman Gaming | Berlin 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 92,
-      "tag": "SYMA",
-      "geo": "KZ",
-      "name": "Syman Gaming"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/syma_1355_37.c4a97769fbb480d50d74c679ad8ecd3e27eed04d.png",
-    "original": {
-      "name": "berlin2019_team_syma",
-      "image_inventory": "econ/stickers/berlin2019/syma_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4100",
-    "name": "Sticker Slab | Syman Gaming (Holo) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4100",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4656",
-        "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iTzuBite9tSjug20Rw4j_Uyd6ueC3Cb1AmX8YiTbYDsxnslIezMLjl5Vfdi41HmXr823tXrnE83PKe3oY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Syman Gaming (Holo) | Berlin 2019",
-    "effect": "Holo",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 92,
-      "tag": "SYMA",
-      "geo": "KZ",
-      "name": "Syman Gaming"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/syma_holo_1355_37.74f0ec92e72dad0b19eb2e6ba271cd51696c31d7.png",
-    "original": {
-      "name": "berlin2019_team_syma_holo",
-      "image_inventory": "econ/stickers/berlin2019/syma_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4101",
-    "name": "Sticker Slab | Syman Gaming (Foil) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4101",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4656",
-        "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iTzuBite9tSjug20Rw4j_Uyd6ueC3Cb1AmX8YiTbYDsxnslIezMLjl5Vfdi41HmXr823tXrnE83PKe3oY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Syman Gaming (Foil) | Berlin 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 92,
-      "tag": "SYMA",
-      "geo": "KZ",
-      "name": "Syman Gaming"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/syma_foil_1355_37.5a0e53fd795e323a4e47f6e72dc982653f4a4898.png",
-    "original": {
-      "name": "berlin2019_team_syma_foil",
-      "image_inventory": "econ/stickers/berlin2019/syma_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4102",
-    "name": "Sticker Slab | Syman Gaming (Gold) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4102",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 92,
-      "tag": "SYMA",
-      "geo": "KZ",
-      "name": "Syman Gaming"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/syma_gold_1355_37.0bbcf434fdf64726bc0ee0fb27cfb9cee887f904.png",
-    "original": {
-      "name": "berlin2019_team_syma_gold",
-      "image_inventory": "econ/stickers/berlin2019/syma_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4103",
-    "name": "Sticker Slab | North | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4103",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | North | Berlin 2019",
-    "effect": "Other",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/nor_1355_37.b72980147b26b3fc7b51ce5aa893680cf78660e2.png",
-    "original": {
-      "name": "berlin2019_team_nor",
-      "image_inventory": "econ/stickers/berlin2019/nor_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4104",
-    "name": "Sticker Slab | North (Holo) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4104",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4656",
-        "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iTzuBite9tSjug20Rw4j_Uyd6ueC3Cb1AmX8YiTbYDsxnslIezMLjl5Vfdi41HmXr823tXrnE83PKe3oY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | North (Holo) | Berlin 2019",
-    "effect": "Holo",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd675Fb1fhX-kpnfrHEOus39P-ppdvWXXGbHkL4m4rlrGnDixUgj5mXWzYz7I3uVbQJxX8R4R-ALsESxjJS5YPtQYocH",
-    "original": {
-      "name": "berlin2019_team_nor_holo",
-      "image_inventory": "econ/stickers/berlin2019/nor_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4105",
-    "name": "Sticker Slab | North (Foil) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4105",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4656",
-        "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7fe8ZK1jcqDCV1iTzuBite9tSjug20Rw4j_Uyd6ueC3Cb1AmX8YiTbYDsxnslIezMLjl5Vfdi41HmXr823tXrnE83PKe3oY"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | North (Foil) | Berlin 2019",
-    "effect": "Foil",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJ3ee6wQlpd675Fb1fhv-l5rfrHEOus39P-o-JqHGVjKSmLchsecwTSi1wE5ytzjTnI6hInyUPQYoXMN2R7NctxXujJS5YOZGhJ5f",
-    "original": {
-      "name": "berlin2019_team_nor_foil",
-      "image_inventory": "econ/stickers/berlin2019/nor_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-4106",
-    "name": "Sticker Slab | North (Gold) | Berlin 2019",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "4106",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 16,
-      "name": "2019 StarLadder Berlin"
-    },
-    "team": {
-      "id": 68,
-      "tag": "NOR",
-      "geo": "DK",
-      "name": "North"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/berlin2019/nor_gold_1355_37.76027dfae6e1a4d0642991bb9123da2716d4aec7.png",
-    "original": {
-      "name": "berlin2019_team_nor_gold",
-      "image_inventory": "econ/stickers/berlin2019/nor_gold_1355_37"
     }
   }
 ]

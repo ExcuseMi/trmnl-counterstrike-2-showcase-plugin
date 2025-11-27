@@ -1,5 +1,104 @@
 [
   {
+    "id": "sticker_slab-911",
+    "name": "Sticker Slab | Ninjas in Pyjamas | Cluj-Napoca 2015",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "911",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas | Cluj-Napoca 2015",
+    "effect": "Other",
+    "tournament": {
+      "id": 8,
+      "name": "2015 DreamHack Cluj-Napoca"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/nip_1355_37.acc4f3f93a9ec6a27df1604d4e443adf62dd6597.png",
+    "original": {
+      "name": "cluj2015_team_nip",
+      "image_inventory": "econ/stickers/cluj2015/nip_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-912",
+    "name": "Sticker Slab | Ninjas in Pyjamas (Foil) | Cluj-Napoca 2015",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "912",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4156",
+        "name": "DreamHack Cluj-Napoca 2015 Legends (Foil)",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P67YvY9caWsXjbew7t3sbFvGyvqzBkk5zmGm42odXrBPwB0WcZ0QO8IsRG8ktbvY-Lq5Bue1dzA87MVmA"
+      }
+    ],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": "Sticker Slab | Ninjas in Pyjamas (Foil) | Cluj-Napoca 2015",
+    "effect": "Foil",
+    "tournament": {
+      "id": 8,
+      "name": "2015 DreamHack Cluj-Napoca"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmtIHHFtQcgu4n9-mbhThT9ocezqHdkvKXgbKc7JaXCWGLJlLkv6OJsHC3kwkh16mWAz4qsICnGPwd0XsB0QbRZtg74zIPdTEnIdQ",
+    "original": {
+      "name": "cluj2015_team_nip_foil",
+      "image_inventory": "econ/stickers/cluj2015/nip_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-913",
+    "name": "Sticker Slab | Ninjas in Pyjamas (Gold) | Cluj-Napoca 2015",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "913",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Team",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 8,
+      "name": "2015 DreamHack Cluj-Napoca"
+    },
+    "team": {
+      "id": 1,
+      "tag": "NiP",
+      "geo": "SE",
+      "name": "Ninjas in Pyjamas"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/nip_gold_1355_37.4e57c7beaa2821cc9a82f154bf24097fa7eeb2c7.png",
+    "original": {
+      "name": "cluj2015_team_nip_gold",
+      "image_inventory": "econ/stickers/cluj2015/nip_gold_1355_37"
+    }
+  },
+  {
     "id": "sticker_slab-914",
     "name": "Sticker Slab | Team Dignitas | Cluj-Napoca 2015",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -457,7 +556,7 @@
       "geo": "US",
       "name": "Team Liquid"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/liq_foil_1355_37.c6e2a6ed78638175b7f26831a76535c7f8147a07.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmtIHHFtQcgu4v9-2bhThT9ocezqHdkvKXga_JocvHFC2PHmbgl6LA-Givkk09x627Um9ivdHiSPQF2ApN0QrYKtQ74zIO8x0RnMg",
     "original": {
       "name": "cluj2015_team_liq_foil",
       "image_inventory": "econ/stickers/cluj2015/liq_foil_1355_37"
@@ -717,7 +816,7 @@
       "geo": "PL",
       "name": "Virtus.Pro"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/vp_1355_37.ec16b6c3981d20ee5a21d5572caa1c177652d5b5.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmtIHHFtQcgu5Hk1Qi0FEjOzcGu-CEKufD4a_c0eKGXXDeVxLt34rBtGnzkxx4msmyGy9iud36VOgNyD4wwG7C_aUT_Zg",
     "original": {
       "name": "cluj2015_team_vp",
       "image_inventory": "econ/stickers/cluj2015/vp_1355_37"
@@ -1150,7 +1249,7 @@
       "geo": "DK",
       "name": "Team SoloMid"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cluj2015/tsolo_foil_1355_37.23973dd236b710378f3fad85282414a0f5ce097f.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmtIHHFtQcgu5Pn5VXofhv-l5rfrHEOus39P-o_c6nEXWOUk70gsrY4H3rkzRt0tTyBwtqreXmTbwJxCsR1FrIKuxfujJS5YL8lwcZ9",
     "original": {
       "name": "cluj2015_team_tsolo_foil",
       "image_inventory": "econ/stickers/cluj2015/tsolo_foil_1355_37"
@@ -1753,7 +1852,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Ivette (Holo)",
     "effect": "Holo",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/pinups_capsule/ivette_holo_1355_37.57a3ace5612b72f739341bbbbba3fbba056afce3.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqoO26H9ml29Zfn_1XiDhTnm4L0-B1T4P6hV_U-daWsXTDelLl34-BqSnzlxE8l5G-Dzdygcn-WPFRyWMAhRrFY4EG4l9K2Ybm35Bue1dxpF2oXmQ",
     "original": {
       "name": "pinups_ivette_holo",
       "image_inventory": "econ/stickers/pinups_capsule/ivette_holo_1355_37"
@@ -1780,7 +1879,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Kimberly (Holo)",
     "effect": "Holo",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/pinups_capsule/kimberly_holo_1355_37.33693ae20b04087bd67699a90b36dce267a634ef.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqoO26H9ml29Zfn_1XiDhb4k5Tl7y5C0PqhZKtScaPGW1jDlqAl47cwHCi2x00l42nVwtj7JX2QaA8pW5twF-QM5kPtkNLgZuzh41CIlcsbmgchVSR5",
     "original": {
       "name": "pinups_kimberly_holo",
       "image_inventory": "econ/stickers/pinups_capsule/kimberly_holo_1355_37"
@@ -1807,7 +1906,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Martha (Holo)",
     "effect": "Holo",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/pinups_capsule/martha_holo_1355_37.434610e261c18e190972070f78bbbdf40303b1ec.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqoO26H9ml29Zfn_1XiDhDwjILo_B1T4P6hV_U-daWsXTDelb0i5rA5SnvlxB526zjUw9-gdnmXaQZ2DZoiF7Ve5BS4kdTkZeu3tBue1dyWYNl6ow",
     "original": {
       "name": "pinups_martha_holo",
       "image_inventory": "econ/stickers/pinups_capsule/martha_holo_1355_37"
@@ -1888,7 +1987,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Tamara (Holo)",
     "effect": "Holo",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/pinups_capsule/tamara_holo_1355_37.0044e8a2030180272e7fdaca1b84c75dc3c26741.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqoO26H9ml29Zfn_1XiDgnwk5fy_B1T4P6hV_U-daWsXTDekb4i5OQxTnvjxk12623Xzd38di3DP1VxC8B4QbQNt0TrkYflMe3m5hue1dw4Vn2Beg",
     "original": {
       "name": "pinups_tamara_holo",
       "image_inventory": "econ/stickers/pinups_capsule/tamara_holo_1355_37"
@@ -2027,114 +2126,6 @@
     "original": {
       "name": "slid3_countdown_holo",
       "image_inventory": "econ/stickers/slid3_capsule/countdown_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-979",
-    "name": "Sticker Slab | Countdown (Foil)",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "979",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4184",
-        "name": "Slid3 Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_P6nbPdSI_GDHXKcxKAms-M5Ti_lwhxztTvWzNivcyjCbVIlCcRzTOQD40PsxtPjY7uw5AXXlcsbmr-GUqzx"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Countdown (Foil)",
-    "effect": "Foil",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/slid3_capsule/countdown_foil_1355_37.559625b441a832e78122c41fecc9ed993fe311ad.png",
-    "original": {
-      "name": "slid3_countdown_foil",
-      "image_inventory": "econ/stickers/slid3_capsule/countdown_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-980",
-    "name": "Sticker Slab | Don't Worry",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "980",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4184",
-        "name": "Slid3 Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_P6nbPdSI_GDHXKcxKAms-M5Ti_lwhxztTvWzNivcyjCbVIlCcRzTOQD40PsxtPjY7uw5AXXlcsbmr-GUqzx"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Don't Worry",
-    "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/slid3_capsule/dontworryigotcha_1355_37.07a9e341660a4c60ab7ccaf49daee9f5d5b3fa90.png",
-    "original": {
-      "name": "slid3_dontworryigotcha",
-      "image_inventory": "econ/stickers/slid3_capsule/dontworryigotcha_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-981",
-    "name": "Sticker Slab | Don't Worry (Holo)",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "981",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4184",
-        "name": "Slid3 Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_P6nbPdSI_GDHXKcxKAms-M5Ti_lwhxztTvWzNivcyjCbVIlCcRzTOQD40PsxtPjY7uw5AXXlcsbmr-GUqzx"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Don't Worry (Holo)",
-    "effect": "Holo",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/slid3_capsule/dontworryigotcha_holo_1355_37.666ebde2ea51d2dd9647f3b49ec222737cf32f55.png",
-    "original": {
-      "name": "slid3_dontworryigotcha_holo",
-      "image_inventory": "econ/stickers/slid3_capsule/dontworryigotcha_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-982",
-    "name": "Sticker Slab | Don't Worry (Foil)",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "982",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4184",
-        "name": "Slid3 Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk_P6nbPdSI_GDHXKcxKAms-M5Ti_lwhxztTvWzNivcyjCbVIlCcRzTOQD40PsxtPjY7uw5AXXlcsbmr-GUqzx"
-      }
-    ],
-    "collections": [],
-    "type": "Other",
-    "market_hash_name": "Sticker Slab | Don't Worry (Foil)",
-    "effect": "Foil",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/slid3_capsule/dontworryigotcha_foil_1355_37.f4f328ed8f18c21a8764e822e11c4f6d2deabe14.png",
-    "original": {
-      "name": "slid3_dontworryigotcha_foil",
-      "image_inventory": "econ/stickers/slid3_capsule/dontworryigotcha_foil_1355_37"
     }
   }
 ]

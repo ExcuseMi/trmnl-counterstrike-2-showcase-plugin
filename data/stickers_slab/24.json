@@ -1,5 +1,131 @@
 [
   {
+    "id": "sticker_slab-1538",
+    "name": "Sticker Slab | MSL | Cologne 2016",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1538",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4273",
+        "name": "Autograph Capsule | Team Dignitas | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL1l5GuriRZvvGobPA9cqKVW2WUlewu4-BtFyjixUQj52jVmN37JX-SPQ4jC4wwG7B5BEBT-g"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | MSL | Cologne 2016",
+    "effect": "Other",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 24,
+      "tag": "DIG",
+      "geo": "DK",
+      "name": "Team Dignitas"
+    },
+    "player": {
+      "id": 24134891,
+      "name": "MSL",
+      "code": "msl",
+      "dob": "1994-12-06",
+      "geo": "DK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_msl_1355_37.519ca3076db77536df774e68aa6d2db96ecb0690.png",
+    "original": {
+      "name": "cologne2016_signature_msl",
+      "image_inventory": "econ/stickers/cologne2016/sig_msl_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-1539",
+    "name": "Sticker Slab | MSL (Foil) | Cologne 2016",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1539",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4256",
+        "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHmexwkUh5TvRz9_9dimebgF1WZYmFudYtkaxxtGyMurltg3Z2toXniv8kGoXudOlkdld"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | MSL (Foil) | Cologne 2016",
+    "effect": "Foil",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 24,
+      "tag": "DIG",
+      "geo": "DK",
+      "name": "Team Dignitas"
+    },
+    "player": {
+      "id": 24134891,
+      "name": "MSL",
+      "code": "msl",
+      "dob": "1994-12-06",
+      "geo": "DK"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL8jZrf-y1S483_O_E4H6PEQDPAwOghs7JtTnq1kRgmt2nQyN2tIiqWb1cpC5EmQ-UL5BW4m93lNbj8p1uJuV9Agl0",
+    "original": {
+      "name": "cologne2016_signature_msl_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_msl_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-1540",
+    "name": "Sticker Slab | MSL (Gold) | Cologne 2016",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1540",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 24,
+      "tag": "DIG",
+      "geo": "DK",
+      "name": "Team Dignitas"
+    },
+    "player": {
+      "id": 24134891,
+      "name": "MSL",
+      "code": "msl",
+      "dob": "1994-12-06",
+      "geo": "DK"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_msl_gold_1355_37.a3228e3ea594e9c1f7303cad7fb7bc49fc3290ae.png",
+    "original": {
+      "name": "cologne2016_signature_msl_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_msl_gold_1355_37"
+    }
+  },
+  {
     "id": "sticker_slab-1541",
     "name": "Sticker Slab | TENZKI | Cologne 2016",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -163,7 +289,7 @@
       "dob": "1994-03-21",
       "geo": "NO"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_rubino_1355_37.6cb8a37e434087e69a9c290f1f20821e8145b54d.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiLji5Tp8y1kvqH7PZs-d77FDWXIwL0htbU6G3nrwhhx6jzcmd2gcS2WOAQgApBxEO8LthXql9CzKaq8sKw9hDbp",
     "original": {
       "name": "cologne2016_signature_rubino",
       "image_inventory": "econ/stickers/cologne2016/sig_rubino_1355_37"
@@ -415,7 +541,7 @@
       "dob": "1990-05-20",
       "geo": "US"
     },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_jdm64_1355_37.5adde8d8d4b9a2cc284333dcaf3af1c59f67113d.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL7mpu2qR0KvKf7V_c6bqWSCmOVmeoutLVrFijhlh5162nWydz9IirBbVd2C8F1TLEMtRG5kYD5d7S1m-o7Wuo",
     "original": {
       "name": "cologne2016_signature_jdm64",
       "image_inventory": "econ/stickers/cologne2016/sig_jdm64_1355_37"
@@ -2391,132 +2517,6 @@
     "original": {
       "name": "cologne2016_signature_spaze_gold",
       "image_inventory": "econ/stickers/cologne2016/sig_spaze_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1598",
-    "name": "Sticker Slab | Dosia | Cologne 2016",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1598",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4261",
-        "name": "Autograph Capsule | Gambit Gaming | Cologne 2016",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL2n5vis3dZvfaoPvw_d_GWXjbDleov47VrSy22wURy6muHytquInyUbVBxDJRuBbldLEuKrLE"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Dosia | Cologne 2016",
-    "effect": "Other",
-    "tournament": {
-      "id": 10,
-      "name": "2016 ESL One Cologne"
-    },
-    "team": {
-      "id": 63,
-      "tag": "GAMB",
-      "geo": "CC",
-      "name": "Gambit Esports"
-    },
-    "player": {
-      "id": 146641530,
-      "name": "Dosia",
-      "code": "dosia",
-      "dob": "1988-06-19",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_dosia_1355_37.e1b14edb8d4778b7d40e141f70092f7bc9dbe711.png",
-    "original": {
-      "name": "cologne2016_signature_dosia",
-      "image_inventory": "econ/stickers/cologne2016/sig_dosia_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1599",
-    "name": "Sticker Slab | Dosia (Foil) | Cologne 2016",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1599",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4256",
-        "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHmexwkUh5TvRz9_9dimebgF1WZYmFudYtkaxxtGyMurltg3Z2toXniv8kGoXudOlkdld"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker Slab | Dosia (Foil) | Cologne 2016",
-    "effect": "Foil",
-    "tournament": {
-      "id": 10,
-      "name": "2016 ESL One Cologne"
-    },
-    "team": {
-      "id": 63,
-      "tag": "GAMB",
-      "geo": "CC",
-      "name": "Gambit Esports"
-    },
-    "player": {
-      "id": 146641530,
-      "name": "Dosia",
-      "code": "dosia",
-      "dob": "1988-06-19",
-      "geo": "RU"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL1kYXp_B1d4PuiV_U-daWsXTDew-pys-doTH_gx0gh4TzWzd6gcC6SaVMkX8AlE-QCthO9xNS2Nujj5hue1dxQsdgtzw",
-    "original": {
-      "name": "cologne2016_signature_dosia_foil",
-      "image_inventory": "econ/stickers/cologne2016/sig_dosia_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1600",
-    "name": "Sticker Slab | Dosia (Gold) | Cologne 2016",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1600",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 10,
-      "name": "2016 ESL One Cologne"
-    },
-    "team": {
-      "id": 63,
-      "tag": "GAMB",
-      "geo": "CC",
-      "name": "Gambit Esports"
-    },
-    "player": {
-      "id": 146641530,
-      "name": "Dosia",
-      "code": "dosia",
-      "dob": "1988-06-19",
-      "geo": "RU"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_dosia_gold_1355_37.9d064933d3a62d3eb32f57be197036fccecebf4c.png",
-    "original": {
-      "name": "cologne2016_signature_dosia_gold",
-      "image_inventory": "econ/stickers/cologne2016/sig_dosia_gold_1355_37"
     }
   }
 ]

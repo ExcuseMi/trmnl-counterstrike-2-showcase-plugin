@@ -1,5 +1,131 @@
 [
   {
+    "id": "sticker_slab-1598",
+    "name": "Sticker Slab | Dosia | Cologne 2016",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1598",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4261",
+        "name": "Autograph Capsule | Gambit Gaming | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU6lp684nxuAm2FyL2n5vis3dZvfaoPvw_d_GWXjbDleov47VrSy22wURy6muHytquInyUbVBxDJRuBbldLEuKrLE"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Dosia | Cologne 2016",
+    "effect": "Other",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
+    },
+    "player": {
+      "id": 146641530,
+      "name": "Dosia",
+      "code": "dosia",
+      "dob": "1988-06-19",
+      "geo": "RU"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_dosia_1355_37.e1b14edb8d4778b7d40e141f70092f7bc9dbe711.png",
+    "original": {
+      "name": "cologne2016_signature_dosia",
+      "image_inventory": "econ/stickers/cologne2016/sig_dosia_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-1599",
+    "name": "Sticker Slab | Dosia (Foil) | Cologne 2016",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1599",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4256",
+        "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7P2iZ6NjJaLDXzGvxvx5pfFWHmexwkUh5TvRz9_9dimebgF1WZYmFudYtkaxxtGyMurltg3Z2toXniv8kGoXudOlkdld"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker Slab | Dosia (Foil) | Cologne 2016",
+    "effect": "Foil",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
+    },
+    "player": {
+      "id": 146641530,
+      "name": "Dosia",
+      "code": "dosia",
+      "dob": "1988-06-19",
+      "geo": "RU"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNaipUruRiL1kYXp_B1d4PuiV_U-daWsXTDew-pys-doTH_gx0gh4TzWzd6gcC6SaVMkX8AlE-QCthO9xNS2Nujj5hue1dxQsdgtzw",
+    "original": {
+      "name": "cologne2016_signature_dosia_foil",
+      "image_inventory": "econ/stickers/cologne2016/sig_dosia_foil_1355_37"
+    }
+  },
+  {
+    "id": "sticker_slab-1600",
+    "name": "Sticker Slab | Dosia (Gold) | Cologne 2016",
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+    "def_index": "1600",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": null,
+    "effect": "Gold",
+    "tournament": {
+      "id": 10,
+      "name": "2016 ESL One Cologne"
+    },
+    "team": {
+      "id": 63,
+      "tag": "GAMB",
+      "geo": "CC",
+      "name": "Gambit Esports"
+    },
+    "player": {
+      "id": 146641530,
+      "name": "Dosia",
+      "code": "dosia",
+      "dob": "1988-06-19",
+      "geo": "RU"
+    },
+    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2016/sig_dosia_gold_1355_37.9d064933d3a62d3eb32f57be197036fccecebf4c.png",
+    "original": {
+      "name": "cologne2016_signature_dosia_gold",
+      "image_inventory": "econ/stickers/cologne2016/sig_dosia_gold_1355_37"
+    }
+  },
+  {
     "id": "sticker_slab-1601",
     "name": "Sticker Slab | hooch | Cologne 2016",
     "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -1055,7 +1181,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Max",
     "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sugarface_capsule/max_1355_37.14c784565f634c7d2c5b210bce5eb7352db1befa.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm0MnqF41d28bj360n0VBH00Zvh5R0KvKf7V_c6bqHHDTDIlbsg5ec_HH2wwhl1sGiHyN6pIyjCa1NyDZF1R7NYs0LtxIX5d7S1UCjuF5c",
     "original": {
       "name": "sugarface_max",
       "image_inventory": "econ/stickers/sugarface_capsule/max_1355_37"
@@ -1109,7 +1235,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Jack",
     "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sugarface_capsule/jack_1355_37.5b8fdc2bae98d29db0348c05ce3e8fbcf124dc0a.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm0MnqF41d28bj360n0VBH00Zzh_ilkvqH7PZs-d77GDD-Wxe0ksuBsFnG3x0QjsW3Wztf6cX7EOwV1AsQiFrELsBTswdS2Kaq8sBuu7HeM",
     "original": {
       "name": "sugarface_jack",
       "image_inventory": "econ/stickers/sugarface_capsule/jack_1355_37"
@@ -1298,7 +1424,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Jack (Holo)",
     "effect": "Holo",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sugarface_capsule/jack_holo_1355_37.1cfd906e1d9ae4ba398d7f88d343de586bd24cc8.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm0MnqF41d28bj360n0VBH00Zzh_ilk5_2iZ5s8c6XGMTTHj791tuUwH3-2xBl-sjjRmI6qeHPDaVAoAsZzQeRe5xWwlIazNe6xtA3Ay9USqodrdYs",
     "original": {
       "name": "sugarface_jack_holo",
       "image_inventory": "econ/stickers/sugarface_capsule/jack_holo_1355_37"
@@ -1325,7 +1451,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Perry (Holo)",
     "effect": "Holo",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/sugarface_capsule/perry_holo_1355_37.a14fa855bc4f12918b3cb1d47d6225dd0775f4a4.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm0MnqF41d28bj360n0VBH00Ybl7zBC0PqhZKtScaPGW1jDlqB34bVvTnHmwB8k5zvUyNaoeSmUPVQhXpZ3EeEIsBXsxtTgMO-041TalcsbmgfPgDBy",
     "original": {
       "name": "sugarface_perry_holo",
       "image_inventory": "econ/stickers/sugarface_capsule/perry_holo_1355_37"
@@ -1460,7 +1586,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Hippocamp",
     "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bestiary_capsule/hippocamp_1355_37.69a6811bbe67317b95293abc0d5df4d720f33d8d.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJm-e5ERsy4T1-kryTRi-lp_w7S1Y7v--V_U-daWsXTDel7d35rk4HiuxkEtw4GzSmNasc3KUP1RzCsZ1EbEO5he6koLkNL7qsxue1dwogQicUw",
     "original": {
       "name": "bestiary_hippocamp",
       "image_inventory": "econ/stickers/bestiary_capsule/hippocamp_1355_37"
@@ -1568,7 +1694,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Sphinx",
     "effect": "Other",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bestiary_capsule/sphinx_1355_37.721218fad93e3468ac2ca17aa9de45461e613f02.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJm-e5ERsy4T1-kryTRi-jYbo9CxD0KP9PfFSc6fdWTXBk78utuBtFnq2xklx6zyGyIz4cHzGPw90X5Z1QeEL5xa5kYLnNfSiuVI2KJRxbg",
     "original": {
       "name": "bestiary_sphinx",
       "image_inventory": "econ/stickers/bestiary_capsule/sphinx_1355_37"
@@ -1649,7 +1775,7 @@
     "type": "Other",
     "market_hash_name": "Sticker Slab | Pegasus (Holo)",
     "effect": "Holo",
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bestiary_capsule/pegasus_holo_1355_37.a2684e7f54e286f2ac097af08b0aabc4dd811176.png",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJm-e5ERsy4T1-kryTRi-jpPn_DFO_M2mZ6hiH6HAWzKvkrk4sbM_F322whty5zjXwtn_cyrEbg8nW8RwTbUK40HqwdCzY-Lj5gTZjZUFk3uecG9zqw",
     "original": {
       "name": "bestiary_pegasus_holo",
       "image_inventory": "econ/stickers/bestiary_capsule/pegasus_holo_1355_37"
@@ -2013,142 +2139,6 @@
     "original": {
       "name": "atlanta2017_team_astr_foil",
       "image_inventory": "econ/stickers/atlanta2017/astr_foil_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1741",
-    "name": "Sticker Slab | Astralis (Gold) | Atlanta 2017",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1741",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": null,
-    "effect": "Gold",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 60,
-      "tag": "ASTR",
-      "geo": "DK",
-      "name": "Astralis"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/astr_gold_1355_37.eff0036893fa77452ce72586cf8d4116c722aafa.png",
-    "original": {
-      "name": "atlanta2017_team_astr_gold",
-      "image_inventory": "econ/stickers/atlanta2017/astr_gold_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1742",
-    "name": "Sticker Slab | Team EnVyUs | Atlanta 2017",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1742",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team EnVyUs | Atlanta 2017",
-    "effect": "Other",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 46,
-      "tag": "NV",
-      "geo": "FR",
-      "name": "Team EnVyUs"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/nv_1355_37.3af5f4c2ee83cb4caa7191a12a06e846bbfcd93a.png",
-    "original": {
-      "name": "atlanta2017_team_nv",
-      "image_inventory": "econ/stickers/atlanta2017/nv_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1743",
-    "name": "Sticker Slab | Team EnVyUs (Holo) | Atlanta 2017",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1743",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4324",
-        "name": "Atlanta 2017 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvkbw4tbNsHnG2zRkk4z6HnoqgJS_DOgN1D5txQeUKsxPtxtXvYbvj7wLZj5UFk3sQ2wlziQ"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team EnVyUs (Holo) | Atlanta 2017",
-    "effect": "Holo",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 46,
-      "tag": "NV",
-      "geo": "FR",
-      "name": "Team EnVyUs"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu1OXqZ8VcnpNajpVfxfhX-kpnfrHEOus39P-o9d6XGVmXBx7l1tbVqS3GwwUtx4jncnNatcC6QaVB1C8clE7UDtBWxjJS5YBNxP3r-",
-    "original": {
-      "name": "atlanta2017_team_nv_holo",
-      "image_inventory": "econ/stickers/atlanta2017/nv_holo_1355_37"
-    }
-  },
-  {
-    "id": "sticker_slab-1744",
-    "name": "Sticker Slab | Team EnVyUs (Foil) | Atlanta 2017",
-    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
-    "def_index": "1744",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4324",
-        "name": "Atlanta 2017 Challengers (Holo/Foil)",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7uaiaap5IaLDXzCvkbw4tbNsHnG2zRkk4z6HnoqgJS_DOgN1D5txQeUKsxPtxtXvYbvj7wLZj5UFk3sQ2wlziQ"
-      }
-    ],
-    "collections": [],
-    "type": "Team",
-    "market_hash_name": "Sticker Slab | Team EnVyUs (Foil) | Atlanta 2017",
-    "effect": "Foil",
-    "tournament": {
-      "id": 11,
-      "name": "2017 ELEAGUE Atlanta"
-    },
-    "team": {
-      "id": 46,
-      "tag": "NV",
-      "geo": "FR",
-      "name": "Team EnVyUs"
-    },
-    "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/atlanta2017/nv_foil_1355_37.5794ec36c1bc00aaa90880ce8628d175988f50f0.png",
-    "original": {
-      "name": "atlanta2017_team_nv_foil",
-      "image_inventory": "econ/stickers/atlanta2017/nv_foil_1355_37"
     }
   }
 ]
