@@ -3,16 +3,22 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2025-11-28 06:33:46 UTC*
+*Last updated: 2025-11-29 06:30:56 UTC*
 
 
-## 🔒 Plugin ID: 180810
+## <img src="assets/plugin-images/180810_icon.png" alt="Counter-Strike 2 Item Showcase icon" width="32"/> [Counter-Strike 2 Item Showcase](https://usetrmnl.com/recipes/180810)
 
-**Status**: ⏳ Not yet published on TRMNL or API unavailable
+![Counter-Strike 2 Item Showcase screenshot](assets/plugin-images/180810_screenshot.png)
 
-This plugin is configured but either hasn't been published to the TRMNL marketplace yet or the API is temporarily unavailable.
+### Description
+Showcase every available item in Counter-Strike 2, including skins, crates, collectibles, music kits, and more.
 
-**Plugin URL**: https://usetrmnl.com/recipes/180810
+### 📊 Statistics
+
+| Metric | Value |
+|--------|-------|
+| Installs | 1 |
+| Forks | 3 |
 
 ---
 
