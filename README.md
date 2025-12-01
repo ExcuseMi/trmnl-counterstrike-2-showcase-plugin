@@ -3,7 +3,7 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2025-11-30 06:31:58 UTC*
+*Last updated: 2025-12-01 06:35:56 UTC*
 
 
 ## <img src="assets/plugin-images/180810_icon.png" alt="Counter-Strike 2 Item Showcase icon" width="32"/> [Counter-Strike 2 Item Showcase](https://usetrmnl.com/recipes/180810)
@@ -18,7 +18,7 @@ Showcase every available item in Counter-Strike 2, including skins, crates, coll
 | Metric | Value |
 |--------|-------|
 | Installs | 1 |
-| Forks | 3 |
+| Forks | 4 |
 
 ---
 
