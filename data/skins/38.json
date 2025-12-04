@@ -1,5 +1,72 @@
 [
   {
+    "id": "skin-9973f96c93b5",
+    "name": "MAC-10 | Storm Camo",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a solid blue camo pattern.\\n\\n<i>We all have to do things we don't like</i>",
+    "weapon": {
+      "id": "weapon_mac10",
+      "weapon_id": 17,
+      "name": "MAC-10"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "soo_mac10_blueberry",
+      "name": "Storm Camo"
+    },
+    "min_float": 0,
+    "max_float": 0.637288,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1269",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-cool",
+        "name": "The Ascent Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4P2RZaVucaCsDGuFxOxzovNwcCW6khUz_W7dz9qrJH2XZgYjC5UiQOADshC5x9W1ML_jsg3djIxCnC6oiSsduyx1o7FV5IlAGpg",
+    "original": {
+      "name": "weapon_mac10"
+    }
+  },
+  {
     "id": "skin-62d86c75d355",
     "name": "MAC-10 | Sienna Damask",
     "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A damask flower pattern has been spray-painted atop the weapon's tan-colored base.\\n\\n<i>Technically the best camouflages are the ones you don't notice...</i>",
@@ -94,7 +161,7 @@
       {
         "id": "crate-5220",
         "name": "Budapest 2025 Mirage Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1idyPx3t-QnSSzmkB5_5G3czt6udHzBZ1UlXpN4TLMPtES7xobnMbzmslTW3YhGzTK-0H1MalVC1A"
       }
     ],
     "team": {
@@ -654,7 +721,7 @@
       {
         "id": "crate-5220",
         "name": "Budapest 2025 Mirage Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1idyPx3t-QnSSzmkB5_5G3czt6udHzBZ1UlXpN4TLMPtES7xobnMbzmslTW3YhGzTK-0H1MalVC1A"
       }
     ],
     "team": {
@@ -1072,7 +1139,7 @@
       {
         "id": "crate-5219",
         "name": "Budapest 2025 Inferno Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iZz-hzou9mASjrkx5y4mSGntaodS_DbFR1WJMmELML5hbrloDhNLy34VHWi48XmX_gznQe8eXZM-w"
       }
     ],
     "team": {
@@ -2368,7 +2435,7 @@
       {
         "id": "crate-5224",
         "name": "Budapest 2025 Nuke Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1ie1OVz_uA7SS_ilEUm5mnXntv9JymQZlAhDZp3TLUD4BC-mtzjNLvns1Tb2YlbjXKp2Yke3b8"
       }
     ],
     "team": {
@@ -2377,79 +2444,6 @@
     },
     "legacy_model": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wipC0Py7a6hoIeKsBmiEzvx3vuZscCW6khUz_WzdnoyvIHvGPFJzD8B0QrINshPtw9fmYunrsw2PiNlEnC_5iy5L5y11o7FVg__4LKQ",
-    "original": {
-      "name": "weapon_mag7"
-    }
-  },
-  {
-    "id": "skin-78ea15f33e22",
-    "name": "MAG-7 | Resupply",
-    "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted to resemble an ammunition box.\\n\\n<i>Keep the receipt</i>",
-    "weapon": {
-      "id": "weapon_mag7",
-      "weapon_id": 27,
-      "name": "MAG-7"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_heavy",
-      "name": "Heavy"
-    },
-    "pattern": {
-      "id": "mag7_ammo_box",
-      "name": "Resupply"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1188",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-35",
-        "name": "The Fever Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-7007",
-        "name": "Fever Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frncVtqv7MPE8JaHHCj_Dl-wk4-NtFirikURy4jiGwo2udHqVaAEjDZp3EflK7EeSMnMs4w"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wi9a6KWRaalgL8-RAX-vzedxuPUnTHjgkxwj52SHyImqcX2fO1AhDMNxEe4I4RWwkIXgMO60sQPeiYgQmTK-0H2GsAjMqQ",
     "original": {
       "name": "weapon_mag7"
     }

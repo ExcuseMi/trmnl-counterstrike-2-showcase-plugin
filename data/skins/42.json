@@ -1,5 +1,133 @@
 [
   {
+    "id": "skin-f93016c04c3b",
+    "name": "MP9 | Setting Sun",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with a hydrographic pattern of nuclear hazards symbols.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "weapon_id": 34,
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_nuclear_pattern2_mp9",
+      "name": "Setting Sun"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "368",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-cache",
+        "name": "The Cache Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cache.1bdc24f9fbd7532a2eb3e26d6ac33e52fc4a0efc.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4026",
+        "name": "ESL One Cologne 2014 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2taadlJb7AWTOTwLhw6Lk9HijlwB5262TVnIyvJ3mTOARxCpp0FuIIsUXpm4LvKaq8sPTeGzME"
+      },
+      {
+        "id": "crate-4035",
+        "name": "DreamHack 2014 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2taadlJb7CVzbImL0g6bFqGi-3zR5z4m2Bm4mgcniXaQd1A8QmEOUI4Ba9l4HjKaq8sAL7emp8"
+      },
+      {
+        "id": "crate-4083",
+        "name": "ESL One Katowice 2015 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvwu91uOQnSnq3wR4msm7RyIyveHqTbFUgXMB1TLQLs0K5wIG2N-PjsQCM2I9BzDK-0H1by-7mfw"
+      },
+      {
+        "id": "crate-4136",
+        "name": "ESL One Cologne 2015 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iTwO1-ta9qFiq2lEQj426Gytb4eHmUawQkCZV5FuENshbukdziNrmxtALbi98T02yg2ZvtbtKo"
+      },
+      {
+        "id": "crate-4181",
+        "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtuIfObCynDw-gh6LYxGyjrkUsl52SHm939cC-eaw8hDcByELNesxa_x4LiMO2z-UWA3LPI9PnM"
+      },
+      {
+        "id": "crate-4230",
+        "name": "MLG Columbus 2016 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsDWaTyes4trFvHSrml013tT6Ewt2teX3GPwZ0WcEmTbUJ4RK6ktSzZezj7wfWgpUFk3tvzWKpPw"
+      },
+      {
+        "id": "crate-4278",
+        "name": "Cologne 2016 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-QD2SYxKAg4rI6SXC1lkh1sj6DytasdymVbVJzDsBxQ-9cukS-k9WzPrux71bZlcsbmhZVpERH"
+      },
+      {
+        "id": "crate-4348",
+        "name": "Atlanta 2017 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-QD2SYxKAgteI_HSvjzE90tm7Wztj_IC7BZg8hXpIhFrFcsBjpx9fgZeux5lSLlcsbmomGOWpb"
+      },
+      {
+        "id": "crate-4400",
+        "name": "Krakow 2017 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_OSDW-Vj-oktbg-Ti22zURxsmnXm4v7I3zBbwApCJIjEbJYu0PtldXlP-vi5QfAy9USAyhRW9o"
+      },
+      {
+        "id": "crate-4467",
+        "name": "Boston 2018 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_OSDW-Vj7t04-dsTijhw0l062yHmNr8JC-fOAYmWMR4FO9e5BXtxNKzMuPh5gbAy9USzSLZmlM"
+      },
+      {
+        "id": "crate-4544",
+        "name": "London 2018 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_OSDW-Vj-t1suVtGXCwzUh34m-Dn9n_cXLFZgUkApZ1QuVc4US8kdTuPurn4ATAy9USZV4vkGA"
+      },
+      {
+        "id": "crate-4594",
+        "name": "Katowice 2019 Cache Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsDWaTyes4trU8Hy21whl3tznSzdqscC-VOw5xDpV1TeAJtRa4kd3mPr6x7wDWiZUFk3sPJWbqoA"
+      }
+    ],
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9Ttk4eetZKFsMs-DD3OExPx44t5kX3CMmRQguynLyIqvdXiVbFN2CZMhQLRZ4RbumtXhPrji4gzfio5MyCr4in4a7nk_4PFCD_TmMRwm0Q",
+    "original": {
+      "name": "weapon_mp9"
+    }
+  },
+  {
     "id": "skin-f3da90fedb74",
     "name": "MP9 | Green Plaid",
     "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with a hydrographic in a taupe and blue-green plaid pattern.\\n\\n<i>It's not a bagpipe, but it plays a song before every funeral</i>",
@@ -176,7 +304,7 @@
       {
         "id": "crate-5219",
         "name": "Budapest 2025 Inferno Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iZz-hzou9mASjrkx5y4mSGntaodS_DbFR1WJMmELML5hbrloDhNLy34VHWi48XmX_gznQe8eXZM-w"
       }
     ],
     "team": {
@@ -846,7 +974,7 @@
       {
         "id": "crate-5222",
         "name": "Budapest 2025 Dust II Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iU1P1i4q8_HH-wkExx4Tndy9_4eX-QOgEnCpYiR7RZ5BHulN3vZezi5QCN2osX02yg2TQeOBRN"
       }
     ],
     "team": {
@@ -1952,7 +2080,7 @@
       {
         "id": "crate-5221",
         "name": "Budapest 2025 Overpass Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1if1-tkoOB6XGewx0534DvSy4yqeCjDOlVyX5R3QLNftUG8wIbkYbi04wONjYkUnyT-kGoXuX5b0_qi"
       }
     ],
     "team": {
@@ -2142,7 +2270,7 @@
       {
         "id": "crate-5224",
         "name": "Budapest 2025 Nuke Souvenir Package",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1ie1OVz_uA7SS_ilEUm5mnXntv9JymQZlAhDZp3TLUD4BC-mtzjNLvns1Tb2YlbjXKp2Yke3b8"
       }
     ],
     "team": {
@@ -2287,216 +2415,6 @@
     },
     "legacy_model": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1T9s2-YKtoLvmLMXORxv1JouRtcCW6khUz_WzTy96heC-VbwMkDJB0FLMPtBi7x9XlN76x5VfYg98UySv3h35A7yd1o7FV05NZ2dU",
-    "original": {
-      "name": "weapon_negev"
-    }
-  },
-  {
-    "id": "skin-2e26a69a85e0",
-    "name": "Negev | CaliCamo",
-    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
-    "weapon": {
-      "id": "weapon_negev",
-      "weapon_id": 28,
-      "name": "Negev"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_heavy",
-      "name": "Heavy"
-    },
-    "pattern": {
-      "id": "hy_varicamo_desert",
-      "name": "CaliCamo"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_uncommon_weapon",
-      "name": "Industrial Grade",
-      "color": "#5e98d9"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "240",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-mirage",
-        "name": "The Mirage Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_mirage_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
-      },
-      {
-        "id": "crate-4024",
-        "name": "ESL One Cologne 2014 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2jYbZsJ_XdV2XBlehyteM4HXi1lk124W3UydugdyiROwEoXMRxE-AIsxK5kdG1ZfSiuVL9KRVRdw"
-      },
-      {
-        "id": "crate-4033",
-        "name": "DreamHack 2014 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2jYbZsJ_XdCDCWxbontuA-Gi_gzEVw5mTQwtb6dSqTbA8oC8F2QuEDsRe7moLkN_SiuVLrQkv3xg"
-      },
-      {
-        "id": "crate-4081",
-        "name": "ESL One Katowice 2015 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvzOdkseZsAXqwxEt_5W7SnN34cH6XOw8lWJIiFuACtETrkdLjNujqtgPcjN9AmS3gznQeEFP9n20"
-      },
-      {
-        "id": "crate-4132",
-        "name": "ESL One Cologne 2015 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1idyPx3t-QnTC3lxk4k52_UwtavJ3qRa1ciD5V1R-cO5hnsl4LuN-Lm7gyPgopNnDK-0H0AmNuWng"
-      },
-      {
-        "id": "crate-4177",
-        "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtgKeKSCWLelexy5LlvSXjqwk5352SEnNmsJ36TbQ9zW5YkRe9Z5hm5xIblZeqx7hue1dxO7GJJCg"
-      },
-      {
-        "id": "crate-4226",
-        "name": "MLG Columbus 2016 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsA26CwOlz_uNrTXuxzUki5TnUzougJXyRbQIkDZckFLMOuhLpxoXkMuPl4FCP2ohbjXKpAQ1eHv4"
-      },
-      {
-        "id": "crate-4275",
-        "name": "Cologne 2016 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-eB3WRxus44rNoG37jxRh04G2HyYn7InyWaAdzC8B5TbQLsUHtx9yyY7-w5VePiJUFk3tIqaFIzQ"
-      },
-      {
-        "id": "crate-4345",
-        "name": "Atlanta 2017 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-eB3WRxus4tbU-G3q3zBwhtWyEmdivInPFOgMnWZB0QucM50KxwIbgMeLmsgCL2JUFk3s3nspkuw"
-      },
-      {
-        "id": "crate-4397",
-        "name": "Krakow 2017 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_2aHGaXxKB1tbg5HH_nxE5zsW7TzI2peS7EaAN2CpJ0TbVbsRLukdHjZuLrsQXZlcsbmlwpRn79"
-      },
-      {
-        "id": "crate-4464",
-        "name": "Boston 2018 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_2aHGaXxKAl5eI6Sn3rwB93tWTQz9qocC_GPQMlXpQmQbYCsxfpl9OyZum2tVDblcsbmhcGw3AW"
-      },
-      {
-        "id": "crate-4541",
-        "name": "London 2018 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_2aHGaXxKAm4LhtFnnik0Qm4W3RytiqJS_DO1cnC5NzFOIPtRftxNG2NOzisVbZlcsbmjApZVCi"
-      },
-      {
-        "id": "crate-4591",
-        "name": "Katowice 2019 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsA26CwOlz_uAxTXvqwxl05j7QntyvcimRa1UmX8dzTLFfu0LqkYLvYb-wslTc34hbjXKpsgcPS04"
-      },
-      {
-        "id": "crate-4661",
-        "name": "Berlin 2019 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_2aHGaXxKAn4OI5Hnqywkki4T7WzoyrIn6WPVInC5pzTe4N4BHukYLuN-3ntQfflcsbmlnJCBZK"
-      }
-    ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1T9s24abZkI_GeAViUxP1zovVWQyC0nQlptzzdzougeHmfaFJxWcZyTLVbtBTulNS0ZbjlsQTYjN1Dm3j8iX4c6DErvbiLvYVdBg",
-    "original": {
-      "name": "weapon_negev"
-    }
-  },
-  {
-    "id": "skin-e907b9590c86",
-    "name": "Negev | Boroque Sand",
-    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. An intricate, Italian inspired hydrographic pattern has been applied.\\n\\n<i>Last Supper is served</i>",
-    "weapon": {
-      "id": "weapon_negev",
-      "weapon_id": 28,
-      "name": "Negev"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_heavy",
-      "name": "Heavy"
-    },
-    "pattern": {
-      "id": "hy_veneto_tan",
-      "name": "Boroque Sand"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "920",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-canals",
-        "name": "The Canals Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_canals.56ae4549ece13ec63d017e7fa24dc0283572670f.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1T9s24bapoNP-sGmae_uJ_t-l9AX3glxh142zUzIz_dXiWPVMjX8EhF-MP40K8l9TiMr_j7lPXiYxGzyzgznQeGMlgK6w",
     "original": {
       "name": "weapon_negev"
     }

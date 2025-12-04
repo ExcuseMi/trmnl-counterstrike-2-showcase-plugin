@@ -1,0 +1,47 @@
+[
+  {
+    "id": "skin-vanilla-weapon_knife_kukri",
+    "name": "★ Kukri Knife",
+    "description": "Used in traditional rituals, such as weddings or stabbings.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_kukri",
+      "weapon_id": 526,
+      "name": "Kukri Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": null,
+    "min_float": null,
+    "max_float": null,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert",
+      "color": "#eb4b4b"
+    },
+    "stattrak": true,
+    "paint_index": null,
+    "crates": [
+      {
+        "id": "crate-4904",
+        "name": "Kilowatt Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnEVvqf_a6VoIfGSXz7Hlbwg57QwSS_mxhl15jiGyN37c3_GZw91W8BwRflK7EfKsa2sfw"
+      },
+      {
+        "id": "crate-7003",
+        "name": "Gallery Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnYVuPD5baE6IfTFCmSRme0j5eU5SXrjkRwmt2rWnoqhdnjEPQQiDpRxTflK7EePRV2-Kg"
+      }
+    ],
+    "team": {
+      "id": "both",
+      "name": "Both Teams"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2lfa9_Kb6VXmPGwuogsbNvSyi3zR4jsTnQztyqdS6QP1IoXpoiEeAC5Be5l9CxKaq8sIvgdE5J",
+    "original": {
+      "name": "weapon_knife_kukri"
+    }
+  }
+]
