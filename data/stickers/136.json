@@ -1,5 +1,93 @@
 [
   {
+    "id": "sticker-7515",
+    "name": "Sticker | xertioN | Copenhagen 2024",
+    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Dorian Berman playing for MOUZ at the PGL Copenhagen 2024 CS2 Major Championship.",
+    "def_index": "7515",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4937",
+        "name": "Copenhagen 2024 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF6teZsQS2g2xkkt2-AyN6sJX7BOgB1DpImF-UL4EG4xoC1Yr-35lbYjIhEzymshy9XrnE8aQftiTI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | xertioN | Copenhagen 2024",
+    "effect": "Other",
+    "tournament": {
+      "id": 22,
+      "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 106,
+      "tag": "MOUZ",
+      "geo": "EU",
+      "name": "MOUZ"
+    },
+    "player": {
+      "id": 232908406,
+      "name": "xertioN",
+      "code": "xertion",
+      "dob": "1970-01-01",
+      "geo": "IL"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1UHiUwn4kZiupCMNvvT8P_1rd6aRX2HGkbt35LBvGS3kxUlytj-Dwtz7dinBbVB1X4wwG7BNPXqkVg",
+    "original": {
+      "name": "cph2024_signature_xertion_2",
+      "image_inventory": "econ/stickers/cph2024/sig_xertion"
+    }
+  },
+  {
+    "id": "sticker-7516",
+    "name": "Sticker | xertioN (Glitter) | Copenhagen 2024",
+    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This glitter sticker was autographed by professional player Dorian Berman playing for MOUZ at the PGL Copenhagen 2024 CS2 Major Championship.",
+    "def_index": "7516",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4937",
+        "name": "Copenhagen 2024 Legends Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF6teZsQS2g2xkkt2-AyN6sJX7BOgB1DpImF-UL4EG4xoC1Yr-35lbYjIhEzymshy9XrnE8aQftiTI"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | xertioN (Glitter) | Copenhagen 2024",
+    "effect": "Glitter",
+    "tournament": {
+      "id": 22,
+      "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 106,
+      "tag": "MOUZ",
+      "geo": "EU",
+      "name": "MOUZ"
+    },
+    "player": {
+      "id": 232908406,
+      "name": "xertioN",
+      "code": "xertion",
+      "dob": "1970-01-01",
+      "geo": "IL"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1UHiUwn4kZjf-i5S--areuo6ePORXDaVxb8ls7dtH3yxlkkisWWHzNqscSmXPFUpC5YmTORbukXpjJS5YCX-8kOQ",
+    "original": {
+      "name": "cph2024_signature_xertion_2_glitter",
+      "image_inventory": "econ/stickers/cph2024/sig_xertion_glitter"
+    }
+  },
+  {
     "id": "sticker-7517",
     "name": "Sticker | xertioN (Holo) | Copenhagen 2024",
     "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This holographic sticker was autographed by professional player Dorian Berman playing for MOUZ at the PGL Copenhagen 2024 CS2 Major Championship.",
@@ -1977,94 +2065,6 @@
     "original": {
       "name": "cph2024_signature_goofy_1_holo",
       "image_inventory": "econ/stickers/cph2024/sig_goofy_holo"
-    }
-  },
-  {
-    "id": "sticker-7562",
-    "name": "Sticker | Goofy (Gold) | Copenhagen 2024",
-    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Krzysztof Górski playing for ENCE at the PGL Copenhagen 2024 CS2 Major Championship.",
-    "def_index": "7562",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4938",
-        "name": "Copenhagen 2024 Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF1uOBlQyy9khg1oHOAyN_6cCiTbVVxC5dyQeMO4xa-xoHhYrjgsVPa399FzCn_iylMuilt_a9cBuAzgFZD"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Goofy (Gold) | Copenhagen 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 22,
-      "name": "PGL Copenhagen 2024"
-    },
-    "team": {
-      "id": 84,
-      "tag": "ENCE",
-      "geo": "FI",
-      "name": "ENCE"
-    },
-    "player": {
-      "id": 300617878,
-      "name": "Goofy",
-      "code": "goofy",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1V7oThvooZHv8SYVufaoP_VrI6HGXjKRwrok4edqTCu1lB9_6zvcy4uhJCmVOwcgCcZ3E_lK7Ed00I-isg",
-    "original": {
-      "name": "cph2024_signature_goofy_1_gold",
-      "image_inventory": "econ/stickers/cph2024/sig_goofy_gold"
-    }
-  },
-  {
-    "id": "sticker-7563",
-    "name": "Sticker | Kylar | Copenhagen 2024",
-    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Kacper Walukiewicz playing for ENCE at the PGL Copenhagen 2024 CS2 Major Championship.",
-    "def_index": "7563",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4938",
-        "name": "Copenhagen 2024 Challengers Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF1uOBlQyy9khg1oHOAyN_6cCiTbVVxC5dyQeMO4xa-xoHhYrjgsVPa399FzCn_iylMuilt_a9cBuAzgFZD"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | Kylar | Copenhagen 2024",
-    "effect": "Other",
-    "tournament": {
-      "id": 22,
-      "name": "PGL Copenhagen 2024"
-    },
-    "team": {
-      "id": 84,
-      "tag": "ENCE",
-      "geo": "FI",
-      "name": "ENCE"
-    },
-    "player": {
-      "id": 116431013,
-      "name": "Kylar",
-      "code": "kylar",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1VL-TRzj0MLmrCNYvfGoOPE-JaGVXT_Ixe9157RoSnG1xRxwt23Sn9ercXOVbAM-Sswn-R1dLEQ",
-    "original": {
-      "name": "cph2024_signature_kylar_1",
-      "image_inventory": "econ/stickers/cph2024/sig_kylar"
     }
   }
 ]

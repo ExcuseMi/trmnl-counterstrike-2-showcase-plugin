@@ -1,5 +1,91 @@
 [
   {
+    "id": "sticker-7656",
+    "name": "Sticker | STYKO (Glitter) | Copenhagen 2024",
+    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This glitter sticker was autographed by professional player Martin Styk playing for Apeks at the PGL Copenhagen 2024 CS2 Major Championship.",
+    "def_index": "7656",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4938",
+        "name": "Copenhagen 2024 Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF1uOBlQyy9khg1oHOAyN_6cCiTbVVxC5dyQeMO4xa-xoHhYrjgsVPa399FzCn_iylMuilt_a9cBuAzgFZD"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | STYKO (Glitter) | Copenhagen 2024",
+    "effect": "Glitter",
+    "tournament": {
+      "id": 22,
+      "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 117,
+      "tag": "APEX",
+      "name": "Apeks"
+    },
+    "player": {
+      "id": 55928431,
+      "name": "STYKO",
+      "code": "styko",
+      "dob": "1996-02-23",
+      "geo": "SK"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1UrzWBb-oZHs9DZP6uDgbaI5ePWQDTCSmO0v6LI7F361wxkhsmTcy9ehci-Sbw8kWJpwTORZsw74zIP2TjIkPw",
+    "original": {
+      "name": "cph2024_signature_styko_1_glitter",
+      "image_inventory": "econ/stickers/cph2024/sig_styko_glitter"
+    }
+  },
+  {
+    "id": "sticker-7657",
+    "name": "Sticker | STYKO (Holo) | Copenhagen 2024",
+    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This holographic sticker was autographed by professional player Martin Styk playing for Apeks at the PGL Copenhagen 2024 CS2 Major Championship.",
+    "def_index": "7657",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4938",
+        "name": "Copenhagen 2024 Challengers Autograph Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF1uOBlQyy9khg1oHOAyN_6cCiTbVVxC5dyQeMO4xa-xoHhYrjgsVPa399FzCn_iylMuilt_a9cBuAzgFZD"
+      }
+    ],
+    "collections": [],
+    "type": "Autograph",
+    "market_hash_name": "Sticker | STYKO (Holo) | Copenhagen 2024",
+    "effect": "Holo",
+    "tournament": {
+      "id": 22,
+      "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 117,
+      "tag": "APEX",
+      "name": "Apeks"
+    },
+    "player": {
+      "id": 55928431,
+      "name": "STYKO",
+      "code": "styko",
+      "dob": "1996-02-23",
+      "geo": "SK"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1UrzWBb-oZ7v8S0VufT-OaE9cKPEDGbJkLgisbQ4TCrqwklwtW_Uzd2gcirGagUiW8MlRflK7EepbYvCzg",
+    "original": {
+      "name": "cph2024_signature_styko_1_holo",
+      "image_inventory": "econ/stickers/cph2024/sig_styko_holo"
+    }
+  },
+  {
     "id": "sticker-7658",
     "name": "Sticker | STYKO (Gold) | Copenhagen 2024",
     "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Martin Styk playing for Apeks at the PGL Copenhagen 2024 CS2 Major Championship.",
@@ -947,6 +1033,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 13492074,
       "name": "arrozdoce",
@@ -984,6 +1075,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 13492074,
@@ -1023,6 +1119,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 13492074,
       "name": "arrozdoce",
@@ -1060,6 +1161,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 13492074,
@@ -1099,6 +1205,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 302194534,
       "name": "ewjerkz",
@@ -1136,6 +1247,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 302194534,
@@ -1175,6 +1291,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 302194534,
       "name": "ewjerkz",
@@ -1212,6 +1333,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 302194534,
@@ -1251,6 +1377,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 37715442,
       "name": "MUTiRiS",
@@ -1288,6 +1419,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 37715442,
@@ -1327,6 +1463,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 37715442,
       "name": "MUTiRiS",
@@ -1364,6 +1505,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 37715442,
@@ -1403,6 +1549,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 34129763,
       "name": "roman",
@@ -1440,6 +1591,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 34129763,
@@ -1479,6 +1635,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 34129763,
       "name": "roman",
@@ -1516,6 +1677,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 34129763,
@@ -1555,6 +1721,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 105182632,
       "name": "story",
@@ -1592,6 +1763,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 105182632,
@@ -1631,6 +1807,11 @@
       "id": 22,
       "name": "PGL Copenhagen 2024"
     },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
+    },
     "player": {
       "id": 105182632,
       "name": "story",
@@ -1668,6 +1849,11 @@
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
+    },
+    "team": {
+      "id": 129,
+      "tag": "SAW",
+      "name": "SAW"
     },
     "player": {
       "id": 105182632,
@@ -1856,94 +2042,6 @@
     "original": {
       "name": "cph2024_signature_biguzera_4_gold",
       "image_inventory": "econ/stickers/cph2024/sig_biguzera_gold"
-    }
-  },
-  {
-    "id": "sticker-7703",
-    "name": "Sticker | kauez | Copenhagen 2024",
-    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Kaue Kaschuk playing for paiN Gaming at the PGL Copenhagen 2024 CS2 Major Championship.",
-    "def_index": "7703",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "High Grade",
-      "color": "#4b69ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4939",
-        "name": "Copenhagen 2024 Contenders Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF1v-99Sie3kA80_W3QmNuvICmeOwMmWMMlTe5bsxa8x9TkP-nrtVTc349Cm3793SgY7yZ1o7FVloVngOw"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | kauez | Copenhagen 2024",
-    "effect": "Other",
-    "tournament": {
-      "id": 22,
-      "name": "PGL Copenhagen 2024"
-    },
-    "team": {
-      "id": 102,
-      "tag": "PAIN",
-      "geo": "BR",
-      "name": "paiN Gaming"
-    },
-    "player": {
-      "id": 425391947,
-      "name": "kauez",
-      "code": "kauez",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1VLmVBjr0MDi_3ZduausPKc9cKjDWDbEkOsltbE_TS_nxkt_5TzTzoyhcS3FZlM-SswnWzNnpP4",
-    "original": {
-      "name": "cph2024_signature_kauez_4",
-      "image_inventory": "econ/stickers/cph2024/sig_kauez"
-    }
-  },
-  {
-    "id": "sticker-7704",
-    "name": "Sticker | kauez (Glitter) | Copenhagen 2024",
-    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This glitter sticker was autographed by professional player Kaue Kaschuk playing for paiN Gaming at the PGL Copenhagen 2024 CS2 Major Championship.",
-    "def_index": "7704",
-    "rarity": {
-      "id": "rarity_mythical",
-      "name": "Remarkable",
-      "color": "#8847ff"
-    },
-    "crates": [
-      {
-        "id": "crate-4939",
-        "name": "Copenhagen 2024 Contenders Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF1v-99Sie3kA80_W3QmNuvICmeOwMmWMMlTe5bsxa8x9TkP-nrtVTc349Cm3793SgY7yZ1o7FVloVngOw"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | kauez (Glitter) | Copenhagen 2024",
-    "effect": "Glitter",
-    "tournament": {
-      "id": 22,
-      "name": "PGL Copenhagen 2024"
-    },
-    "team": {
-      "id": 102,
-      "tag": "PAIN",
-      "geo": "BR",
-      "name": "paiN Gaming"
-    },
-    "player": {
-      "id": 425391947,
-      "name": "kauez",
-      "code": "kauez",
-      "dob": "1970-01-01",
-      "geo": "WORLD"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1VLmVBjroZHs9DZP6uDga_0-eaWXC2GVkLwltOJsGH3lzR8isDyDwtitJ3_EPQ90WZd3RuJfsQ74zIM83ySusA",
-    "original": {
-      "name": "cph2024_signature_kauez_4_glitter",
-      "image_inventory": "econ/stickers/cph2024/sig_kauez_glitter"
     }
   }
 ]

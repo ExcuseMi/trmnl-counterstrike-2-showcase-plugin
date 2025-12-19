@@ -1,5 +1,46 @@
 [
   {
+    "id": "sticker-7350",
+    "name": "Sticker | PGL | Copenhagen 2024",
+    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "def_index": "7350",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4923",
+        "name": "Copenhagen 2024 Legends Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-fC2CVz-pl_rZvTXDqzRxw523Rm4mocy6QOgUmDcR4Q-8Mu0O5wNPkNuLnsleL3tlbjXKpQyK7hjg"
+      },
+      {
+        "id": "crate-4924",
+        "name": "Copenhagen 2024 Challengers Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-QBmaczet4t-R7XGfrwEh_tW7TnNagcnyeOAF0DpV0TOAM5ka7ktflYuOz71Dc34hFnyT7kGoXuWbTjaik"
+      },
+      {
+        "id": "crate-4925",
+        "name": "Copenhagen 2024 Contenders Sticker Capsule",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-QAWmExOBytfN6ASzkkB4k4zvdz974In6VbQ8iW5RzFLYOtBC9ltzmMbi3sgHZgoJDmyvgznQeVz5AD80"
+      }
+    ],
+    "collections": [],
+    "type": "Event",
+    "market_hash_name": "Sticker | PGL | Copenhagen 2024",
+    "effect": "Other",
+    "tournament": {
+      "id": 22,
+      "name": "PGL Copenhagen 2024"
+    },
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI65ID4pFrhR0ilx5C5rXoI6aX4aqZpcfWSVmbAk7l0trE_GHjiwx9-5zjUn4q3MSXAPkkBAAI",
+    "original": {
+      "name": "cph2024_team_pgl",
+      "image_inventory": "econ/stickers/cph2024/pgl"
+    }
+  },
+  {
     "id": "sticker-7351",
     "name": "Sticker | PGL (Glitter) | Copenhagen 2024",
     "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
@@ -1968,94 +2009,6 @@
     "original": {
       "name": "cph2024_signature_hooxi_2_glitter",
       "image_inventory": "econ/stickers/cph2024/sig_hooxi_glitter"
-    }
-  },
-  {
-    "id": "sticker-7421",
-    "name": "Sticker | HooXi (Holo) | Copenhagen 2024",
-    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This holographic sticker was autographed by professional player Rasmus Nielsen playing for G2 Esports at the PGL Copenhagen 2024 CS2 Major Championship.",
-    "def_index": "7421",
-    "rarity": {
-      "id": "rarity_legendary",
-      "name": "Exotic",
-      "color": "#d32ce6"
-    },
-    "crates": [
-      {
-        "id": "crate-4937",
-        "name": "Copenhagen 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF6teZsQS2g2xkkt2-AyN6sJX7BOgB1DpImF-UL4EG4xoC1Yr-35lbYjIhEzymshy9XrnE8aQftiTI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | HooXi (Holo) | Copenhagen 2024",
-    "effect": "Holo",
-    "tournament": {
-      "id": 22,
-      "name": "PGL Copenhagen 2024"
-    },
-    "team": {
-      "id": 59,
-      "tag": "G2",
-      "geo": "EU",
-      "name": "G2 Esports"
-    },
-    "player": {
-      "id": 38661042,
-      "name": "HooXi",
-      "code": "hooxi",
-      "dob": "1995-05-21",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1VHoTgX4oZ7v8S0V7aasO6A-cPHFDzKWlO0g4bMwSS3qlEV3426Hwoz6cC6SaQVyCpp0RPlK7EcJA3TT0Q",
-    "original": {
-      "name": "cph2024_signature_hooxi_2_holo",
-      "image_inventory": "econ/stickers/cph2024/sig_hooxi_holo"
-    }
-  },
-  {
-    "id": "sticker-7422",
-    "name": "Sticker | HooXi (Gold) | Copenhagen 2024",
-    "description": "<span style='color:#ffd700;'>This item commemorates the PGL Copenhagen 2024 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Rasmus Nielsen playing for G2 Esports at the PGL Copenhagen 2024 CS2 Major Championship.",
-    "def_index": "7422",
-    "rarity": {
-      "id": "rarity_ancient",
-      "name": "Extraordinary",
-      "color": "#eb4b4b"
-    },
-    "crates": [
-      {
-        "id": "crate-4937",
-        "name": "Copenhagen 2024 Legends Autograph Capsule",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lDkShjjoYbh_ilk7OKmOvQ_dM-UHGiF0dF6teZsQS2g2xkkt2-AyN6sJX7BOgB1DpImF-UL4EG4xoC1Yr-35lbYjIhEzymshy9XrnE8aQftiTI"
-      }
-    ],
-    "collections": [],
-    "type": "Autograph",
-    "market_hash_name": "Sticker | HooXi (Gold) | Copenhagen 2024",
-    "effect": "Gold",
-    "tournament": {
-      "id": 22,
-      "name": "PGL Copenhagen 2024"
-    },
-    "team": {
-      "id": 59,
-      "tag": "G2",
-      "geo": "EU",
-      "name": "G2 Esports"
-    },
-    "player": {
-      "id": 38661042,
-      "name": "HooXi",
-      "code": "hooxi",
-      "dob": "1995-05-21",
-      "geo": "DK"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1VHoTgX4oZHv8SYVtvCsO_E9ePKQW2TDw7t347U9GHjrkUxysDiHzomhciqXbVAkD5d0EflK7EcLcb_EAQ",
-    "original": {
-      "name": "cph2024_signature_hooxi_2_gold",
-      "image_inventory": "econ/stickers/cph2024/sig_hooxi_gold"
     }
   }
 ]
