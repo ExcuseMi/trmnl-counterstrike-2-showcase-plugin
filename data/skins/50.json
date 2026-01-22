@@ -1,5 +1,1126 @@
 [
   {
+    "id": "skin-cbf2a44a9320",
+    "name": "Sawed-Off | Clay Ambush",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. A brown and tan hydrographic tiger pattern has been applied.\\n\\n<i>Normally solo predators, they'll make an exception for you</i>",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "weapon_id": 29,
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_tigers_tan",
+      "name": "Clay Ambush"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1014",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-t",
+        "name": "The Havoc Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcZt5KfeWHHSv1e94j-1gSCGn2093tmzRy92gI3-Qb1QjWcN2EOBb5xjqm4XgY-rq4w2LjI1DmC38hn9XrnE8CIO4W8k",
+    "original": {
+      "name": "weapon_sawedoff"
+    }
+  },
+  {
+    "id": "skin-5399c334e3b4",
+    "name": "Sawed-Off | Full Stop",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "weapon_id": 29,
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_varicamo_red",
+      "name": "Full Stop"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "250",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-italy",
+        "name": "The Italy Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_italy_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4006",
+        "name": "DreamHack 2013 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
+      },
+      {
+        "id": "crate-4013",
+        "name": "EMS One 2014 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcZt7IeKaDWadztFkteVWQyC0nQlp42yEyIr7cX6TaVN0XJsiQeYJ5BTplYDjYrnj7wPX3opHnHr93CJN7zErvbhNR0v1hQ",
+    "original": {
+      "name": "weapon_sawedoff"
+    }
+  },
+  {
+    "id": "skin-0b2ec5b2c5ef",
+    "name": "Sawed-Off | Crimson Batik",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. A crimson and black banana leaf pattern has been applied.\\n\\n<i>Moving targets</i>",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "weapon_id": 29,
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hye_batik_eyes",
+      "name": "Crimson Batik"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1391",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-exuberant",
+        "name": "The Harlequin Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_hye_batik_eyes_light_png.png",
+    "original": {
+      "name": "weapon_sawedoff"
+    }
+  },
+  {
+    "id": "skin-d0653c0aaf2f",
+    "name": "Sawed-Off | Analog Input",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been custom painted with diagonal bands of color and the letters \\\"X\\\", \\\"Y\\\", \\\"B\\\", and \\\"A\\\".\\n\\n<i>19 in 99</i>",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "weapon_id": 29,
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sawedoff_gamer",
+      "name": "Analog Input"
+    },
+    "min_float": 0,
+    "max_float": 0.61886,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1160",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-33",
+        "name": "The Kilowatt Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_33_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4904",
+        "name": "Kilowatt Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnEVvqf_a6VoIfGSXz7Hlbwg57QwSS_mxhl15jiGyN37c3_GZw91W8BwRflK7EfKsa2sfw"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29abNoJP-VCFiXwONzot5lRi67gVN3tWTdyNipdCiQPwdxCJV2RuBY4xa_wILgMLu37leK3otMzHmo3H5J8G81tFoL-ETi",
+    "original": {
+      "name": "weapon_sawedoff"
+    }
+  },
+  {
+    "id": "skin-279d95d3dd65",
+    "name": "Sawed-Off | Irradiated Alert",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been spray-painted with radiological warning hazard patterns.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "weapon_id": 29,
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_nukestripe_brown",
+      "name": "Irradiated Alert"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "171",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-nuke",
+        "name": "The Nuke Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_nuke_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4025",
+        "name": "ESL One Cologne 2014 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2gfa9obqCVXzWUmbp057k8FijixRt1t2jRydqqIymebVRxXpt0FOYN4xm_wYH5d7S1vukvMDk"
+      },
+      {
+        "id": "crate-4034",
+        "name": "DreamHack 2014 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2gfa9obqXAVjKTkbomsuBrHXDmxEol6j6Hm4r_I3vBaAVxXJdyQLEI5EK4loH5d7S15UcFkRI"
+      },
+      {
+        "id": "crate-4082",
+        "name": "ESL One Katowice 2015 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvz_t9ta8-THDlxkVx4TjRmdv4cymQZgVxWZZ1Te4JtBC5xoaxM-_g51fe2NoX02yg2RYsHAfT"
+      },
+      {
+        "id": "crate-4232",
+        "name": "MLG Columbus 2016 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsAHKbxKAhsbM6Hii2zRh_sTjUnoqvcCjEZwR1X5ckQ7RftES_wYDuYum37lbYlcsbmhoSWKPo"
+      },
+      {
+        "id": "crate-4280",
+        "name": "Cologne 2016 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-dG2yVj7lw47cwH3-ylEgmt2rSnNygInvGbwFxA8AjFucDuhjqm9GzMOzj4gLAy9US1XJ3_FA"
+      },
+      {
+        "id": "crate-4350",
+        "name": "Atlanta 2017 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-dG2yVj-gvs7JoGirqxE9ysmTQy96hcCiSbFIkCcB2F-YIsUW6k4DvMe3m4wXAy9USYq_ZvCQ"
+      },
+      {
+        "id": "crate-4402",
+        "name": "Krakow 2017 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_6GBWLexLgjsbY7GH-yxx5w4m_Vm9aqdyqVZlB0DJBwFu9b5hKxkYbvY-3j4hue1dxjrN-rUg"
+      },
+      {
+        "id": "crate-4469",
+        "name": "Boston 2018 Nuke Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_6GBWLemOou4-UwSnHnxBxwsm3Tn9-oInvEaVV1DpMiQ7ZctRC4kNKyMenm5Rue1dy5x8oQzw"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29eJtjNfuWHXOCyP5zj-N7QD69qhEutDWR1NquJHuXO1J2CMZ2TLEPtxe8wdLhMO_gsQ2PiolBzymojX5A6X054O4cEf1yT4AnDcQ",
+    "original": {
+      "name": "weapon_sawedoff"
+    }
+  },
+  {
+    "id": "skin-cec820187789",
+    "name": "Sawed-Off | Jungle Thicket",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been spray-painted with dark green palm fronds over a jungle colored camo.\\n\\n<i>From Aztec with love</i>",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "weapon_id": 29,
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_palm_green",
+      "name": "Jungle Thicket"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "870",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-stmarc",
+        "name": "The St. Marc Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_stmarc.00c570e3e140452c95e68bfa4868c9ce1c5dc1c4.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29eJt9IfyeMWCCxOt4j-1gSCGn2xhztj6Bn97_dnzBaQAoA5ciE-8PukG6k9fhZOi34gOPit9BxSz7hytXrnE8FOcrcRs",
+    "original": {
+      "name": "weapon_sawedoff"
+    }
+  },
+  {
+    "id": "skin-bacf6f1cd605",
+    "name": "Sawed-Off | Snake Camo",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been spray-painted using a snakeskin stencil in patches that have been outlined freehand.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "weapon_id": 29,
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_snake",
+      "name": "Snake Camo"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "30",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2",
+        "name": "The Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4006",
+        "name": "DreamHack 2013 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
+      },
+      {
+        "id": "crate-4013",
+        "name": "EMS One 2014 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
+      },
+      {
+        "id": "crate-4022",
+        "name": "ESL One Cologne 2014 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2qfbd5cr6XCD-VkroktrVoHi2wlBhx5mXXz4r8d3yVbQ5zAsF3RuYD5hO9kdXhKaq8sLHIAjYS"
+      },
+      {
+        "id": "crate-4031",
+        "name": "DreamHack 2014 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2qfbd5cr7CDTTIkLsg4-A-Fii3wU8k4TjUyov4dniWbVAmWJt3R-MI5xm_xta0Kaq8sO_IzfuM"
+      },
+      {
+        "id": "crate-4079",
+        "name": "ESL One Katowice 2015 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvxftlpLMnSS23wE504Grcm4mgJ3OfPAMlDpRxRLZZ5EK4lIfjPu3j4ATegtlGnzK-0H3UToJFDg"
+      },
+      {
+        "id": "crate-4131",
+        "name": "ESL One Cologne 2015 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iU1P1i4q9sTC2ylER05j7QnomsJHiQag4nApJwRu8DsULqloKxYrnl7wyP3t9G02yg2YmRsS6G"
+      },
+      {
+        "id": "crate-4176",
+        "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtpNeOHXCmUk7935rI_GXDlx010627Xztf8dC7Cagd1W8dwQuUJsUa-koa2NOLj-UWA3M6kNEKU"
+      },
+      {
+        "id": "crate-4225",
+        "name": "MLG Columbus 2016 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsCnKD1bw4s-c7FyrmlkR05W3dytmgeHKSbg9xDMMkFrIL4RC6wILkN-7g5leIg5UFk3uYze73pw"
+      },
+      {
+        "id": "crate-4274",
+        "name": "Cologne 2016 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-XG3SEk6B34uA_THmxkx92sTiBmNmrIirFaAQmX8BxTbEJ4UHqw4DuPri24gCNlcsbmh_qWnC9"
+      },
+      {
+        "id": "crate-4344",
+        "name": "Atlanta 2017 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-XG3SEk6Au4ec5HS3rw0p052qHn4mhJHjFbQckAsByROVc4xS8m4LmZbvj5ACNlcsbmgzIAi55"
+      },
+      {
+        "id": "crate-4542",
+        "name": "London 2018 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_SGHXPCj79ysbYwHi23k093tzvRy9isIi_GP1N0WZMjQeJZsxe8w4fnYbjitQTAy9USfZHe1a8"
+      },
+      {
+        "id": "crate-4592",
+        "name": "Katowice 2019 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsCnKD1bw45rA7GnHrk0hx42TXno79d3zCaVNzApBzReJet0W_lYazNLjj5gLfiZUFk3vpn6VvvA"
+      },
+      {
+        "id": "crate-4662",
+        "name": "Berlin 2019 Dust II Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_SGHXPCj7oj47Y4HyiwkUhy5j6Gzt2qcXrBPVBzA5Z4FOJY5hW7xNTvZeixsgDAy9USl0sSteY"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29eJt-LvGYC1icyOl-pK8xHnDixkt_52zdyYqudXjBb1dyDJIlEe5e50G_xN22Yb_qs1TZiN5A02yg2XLJgstT",
+    "original": {
+      "name": "weapon_sawedoff"
+    }
+  },
+  {
+    "id": "skin-358cc1547e49",
+    "name": "Sawed-Off | Sage Spray",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been spray-painted freehand with short, thick lines in contrasting colors.\\n\\n<i>Perfect for the insurgent on the go</i>",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "weapon_id": 29,
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_spray_desert_sage",
+      "name": "Sage Spray"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "119",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-overpass",
+        "name": "The Overpass Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_overpass.3b85a46ee2d4424367831a3f5994bf59f19f08bd.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4028",
+        "name": "ESL One Cologne 2014 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2hfqF_MPGAHSnIxLYi6bc9Fnrjlx90sT6Byt6qc3PCZ1NzA8ZxTeUOtEK_ktWzP-vn-UWA3B_cRugF"
+      },
+      {
+        "id": "crate-4037",
+        "name": "DreamHack 2014 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2hfqF_MPGAHSmVk74n4rFtHXvixB535mmAydytcC7EZwEjX5ZyRbUItxO-w4ezZOO3-UWA3FVu4DJF"
+      },
+      {
+        "id": "crate-4085",
+        "name": "ESL One Katowice 2015 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvzvhzovFoXDr9k0h26z-Bm9_8cn_Gb1chCJF0Q-cKu0G9xtS2NrnitlaIg9pDmHqqjjQJsHjDVQj_1A"
+      },
+      {
+        "id": "crate-4135",
+        "name": "ESL One Cologne 2015 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1if1-tkoOB6XGewlBkltWvcz9mqcS3FawQnX5VyE-FfsETulNzuZrvj7wOI2IgRn33-kGoXuaDtvDHd"
+      },
+      {
+        "id": "crate-4180",
+        "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtiNvWBHmaD0qB14eQ7Fnu2kBt-tzyAmY2uJHjGbQ9zXpFyQu4JuxCxxoWzYujltAzWlcsbmgdwiYOH"
+      },
+      {
+        "id": "crate-4229",
+        "name": "MLG Columbus 2016 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsAXGV0_53o_InGSqywxsmsjzSn9b7JXOfaw8pW8F5E7MPtBa-kNC1P-iz4wzcjogRnjK-0H0D3guCcQ"
+      },
+      {
+        "id": "crate-4277",
+        "name": "Cologne 2016 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-cGGKC0e9lo69oSn_rwh5xtmmHz92oIHKRbwF1A5pyTOYPsBa-k9HgZr-341bag9kT02yg2RFtcI4d"
+      },
+      {
+        "id": "crate-4347",
+        "name": "Atlanta 2017 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-cGGKC0e9lo688Fn3hwh4jtzzVz9n8JXqSalIkWZB5EbEMthG_w9ziNbzn4VTZ2o8X02yg2WaaSON0"
+      },
+      {
+        "id": "crate-4399",
+        "name": "Krakow 2017 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_-FC3WAwP1l_uQ9Tn-wlB934G_Tz9agInmSPAQpC5F1ReYJ4RPqkNa2Zri35VDW2YtbjXKp_KKsY4E"
+      },
+      {
+        "id": "crate-4466",
+        "name": "Boston 2018 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_-FC3WAwP1l_rE5GnuywERw4GyEzdaoc3qVP1QgCJMkQLEM5ELumtfuY7i34AWMiNlbjXKpg6q8eoQ"
+      },
+      {
+        "id": "crate-4543",
+        "name": "London 2018 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_-FC3WAwP1l_rg8Hii3xU4k5GzVw4r9dnORaw5yA5dxEbJYtRbqwIfgP-rq5wHc2otbjXKpw2xpipc"
+      },
+      {
+        "id": "crate-4593",
+        "name": "Katowice 2019 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsAXGV0_53o_InTC3qlxl24GzSyNuqIn-QZlUjW5J3R-EIs0Wwkd3vP7jh4FSMit8TzDK-0H2AZVR1nA"
+      },
+      {
+        "id": "crate-4663",
+        "name": "Berlin 2019 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_-FC3WAwP1l_rE5HSvjw0t2tm7UzYv7ICiVPwMhC8B5Redb4RDrxNHkYbjrsgfWi4pbjXKpWgdI9Xk"
+      },
+      {
+        "id": "crate-4812",
+        "name": "Stockholm 2021 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_-FC3WAwP1l_uA4G3jlkUxw6z7QzYuvcH3CPVMkDZYlRuECuhHpwdfuMuiz5lHWjY5bjXKp2XQFSpU"
+      },
+      {
+        "id": "crate-4838",
+        "name": "Antwerp 2022 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-cGGKC0e9lo69rG3CyxR4h4GyBzd6rcHqWOlAhXJB0R7ZY4xm7mtDgZOPr4gLYiY4R02yg2Tiu-RW9"
+      },
+      {
+        "id": "crate-4863",
+        "name": "Rio 2022 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6t7JeKDD3SDj-pz47A8SXnqw0t_5DvVzoyveSnDbQR2XsZzRLZfsBW9xtfvMuOxtgPAy9USE77L80k"
+      },
+      {
+        "id": "crate-4896",
+        "name": "Paris 2023 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSL-aWHHeR0v04s-BvHijgkxx1tmiDyt2qeXOVaA50WMYjQ7UN40Wxm9HgYbzhtVDe3pUFk3swwkQ4BA"
+      },
+      {
+        "id": "crate-4929",
+        "name": "Copenhagen 2024 Overpass Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6t7JeKDD3SDj-wjteAxH3zrwksksmjUyoysJ36fZw4kC5NzFOILsRG5kta2NevjslPAy9USrECBPak"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29eJt-MOKSF1iUxP1zovVWXCi0kCIrujqNjsH9eC_GblMpCMB4RLYJuhi8wdLiN7_qslaNjdkWyCmqjn9O5yk5sbwBT-N7rdc-87w7",
+    "original": {
+      "name": "weapon_sawedoff"
+    }
+  },
+  {
+    "id": "skin-51c3ca06a247",
+    "name": "SCAR-20 | Army Sheen",
+    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been covered in a metallic foil stamped with a camouflage pattern.\\n\\n<i>Remember your training</i>",
+    "weapon": {
+      "id": "weapon_scar20",
+      "weapon_id": 38,
+      "name": "SCAR-20"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_army_shine",
+      "name": "Army Sheen"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "298",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-chopshop",
+        "name": "The Chop Shop Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_chopshop.b6ed206d7164f48594212559a70312123a12f9b5.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7v-RabZgOc-ABm6exNF6ueZhW2fhzU9-sGrRn9j_d3_DPwVzWMAiQrUI4RGwltGxNOmwtA3Z3Y1Dyyn3kGoXuRBHX853",
+    "original": {
+      "name": "weapon_scar20"
+    }
+  },
+  {
+    "id": "skin-7120cef6b037",
+    "name": "SCAR-20 | Carbon Fiber",
+    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been painted using a carbon fiber hydrographic over a graphite base coat.\\n\\n<i>Just because I carried my team doesn't mean it wasn't a team effort - Rona Sabri, Rising Star</i>",
+    "weapon": {
+      "id": "weapon_scar20",
+      "weapon_id": 38,
+      "name": "SCAR-20"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_carbon_fiber",
+      "name": "Carbon Fiber"
+    },
+    "min_float": 0,
+    "max_float": 0.12,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "70",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train",
+        "name": "The Train Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4006",
+        "name": "DreamHack 2013 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
+      },
+      {
+        "id": "crate-4013",
+        "name": "EMS One 2014 Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
+      },
+      {
+        "id": "crate-4137",
+        "name": "ESL One Cologne 2015 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iE0-9_vq9oGC_gwBkk4TyDzNqrcinGOwQmAsRyEeUCu0awx9bjN-uxtAzdj4pN02yg2dPFwHIG"
+      },
+      {
+        "id": "crate-4182",
+        "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZt5MvGaACnAxbcmsbBoTSvrlkgm5DzcyNr6eH2TZw8jXMAlQLFZthm5xoayYe20-UWA3F5WW8hg"
+      },
+      {
+        "id": "crate-4231",
+        "name": "MLG Columbus 2016 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsGnWRyOA46OQ_S36ywB5w427Um9__cnyTOgMmDZMlE-VZsRS7ktHlNu7m5A3fiJUFk3vtXhyvnQ"
+      },
+      {
+        "id": "crate-4279",
+        "name": "Cologne 2016 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-HHGaZz6AvtLE-HHjilxx3tWXVn9n_eHyRa1BzCsElQbIIsxmwx4DjMb7htAPclcsbmlu8ougM"
+      },
+      {
+        "id": "crate-4349",
+        "name": "Atlanta 2017 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-HHGaZz6Am6bVtF362xBhy6j7Uy9evIi6Ub1VzCZRxR-YP5xm7xoa2ZO-24Q2KlcsbmrTvx_5P"
+      },
+      {
+        "id": "crate-4401",
+        "name": "Krakow 2017 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH-SBD26ej7wn6OA9H3qxxU4k5mjUntj7dSmUbVMpW5tyRLENshW_k9TuMuOx41HAy9USulmIlu0"
+      },
+      {
+        "id": "crate-4468",
+        "name": "Boston 2018 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH-SBD26ej7olsrQ5HS3qxBlz5D7Qyd_9dC2VOlUgCJojRuZY4xS6x4fiN-Ow4VPAy9USQH44qjM"
+      },
+      {
+        "id": "crate-4545",
+        "name": "London 2018 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH-SBD26ej-witLhtSnq1kE526jyDy9yhJHmTbgBxApV4FLQOtBGwxoW1Yr_r5wLAy9USI1Aa0as"
+      },
+      {
+        "id": "crate-4595",
+        "name": "Katowice 2019 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsGnWRyOA45-JsTnvnlE93tWWHntj8d3iXPw5zC5EiEeBcuxO6x4fkYeixtVfeipUFk3vbEfzb_w"
+      },
+      {
+        "id": "crate-4664",
+        "name": "Berlin 2019 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH-SBD26ej-9y5rI8HHzqlEly4G3QzI6qJHPDPw8mWMAjRLRctkTpwdPjY-nh7wLAy9US6FlZaBQ"
+      }
+    ],
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7v-Ra6V_Iv-dMWGZw-tkj-1gSCGn20xx4mXRyd79eHPBbgQiXJpyQrMLuhfqm4LkNu7htQWI2d9CzSX9jShXrnE8-xTDFeg",
+    "original": {
+      "name": "weapon_scar20"
+    }
+  },
+  {
+    "id": "skin-c37053974593",
+    "name": "SCAR-20 | Emerald",
+    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. This memento from Chinatown has been painted with a chrome base coat and candied in transparent emerald anodized effect paint.\\n\\n<i>This is what the great Sebastien Hennequet has been reduced to? A nagging school marm?  What happened to you... - The Teacher and The Iconoclast Part 2</i>",
+    "weapon": {
+      "id": "weapon_scar20",
+      "weapon_id": 38,
+      "name": "SCAR-20"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "an_emerald_bravo",
+      "name": "Emerald"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "196",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-ii",
+        "name": "The Alpha Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bravo_ii_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7vyRbaloMvGfCliS0-9gv95lRi67gVMh5WuDyY2qeH7CbQ8jDMR0RuQDuhOwxtCzZL_ksVTe3otByyz3inkY8G81tKuEs31W",
+    "original": {
+      "name": "weapon_scar20"
+    }
+  },
+  {
+    "id": "skin-80d93cecc826",
+    "name": "SCAR-20 | Brass",
+    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. Parts of the weapon have been replaced with brass.\\n\\n<i>Fool's gold</i>",
+    "weapon": {
+      "id": "weapon_scar20",
+      "weapon_id": 38,
+      "name": "SCAR-20"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "aq_brass",
+      "name": "Brass"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "159",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-norse",
+        "name": "The Norse Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7uORarZsM-OsAm6Xyfo457MwH3zlzEwh6mXWw9qpdniQO1MmCJZ5QeBe5xa5wdfvZO234lOI3pUFk3uBClMh1w",
+    "original": {
+      "name": "weapon_scar20"
+    }
+  },
+  {
+    "id": "skin-d38eab775911",
+    "name": "SCAR-20 | Grotto",
+    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been sponged and brush-painted with blue metallic effect paints.\\n\\n<i>The founder of Season Corporation had this piece commissioned after being rescued by renowned Operator Kotaro Izaki</i>",
+    "weapon": {
+      "id": "weapon_scar20",
+      "weapon_id": 38,
+      "name": "SCAR-20"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "aq_scar20_leak",
+      "name": "Grotto"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "406",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-6",
+        "name": "The Chroma Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_6_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
+      }
+    ],
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "legacy_model": true,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7uORe6dsMqLDMWuVwOVJvOhuRz39zRtx62uGm9z8JHnFaFR0AsAjRuQI40Sww9HvNunqtQTego5MmSX4izQJsHiOao_ijg",
+    "original": {
+      "name": "weapon_scar20"
+    }
+  },
+  {
     "id": "skin-2501d2df72d4",
     "name": "SCAR-20 | Blueprint",
     "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been hand painted using a blue theme to resemble an architect's blueprint.\\n\\n<i>The best-laid plans are drawn to scale</i>",
@@ -1140,6 +2261,73 @@
     }
   },
   {
+    "id": "skin-493c652caf29",
+    "name": "SCAR-20 | Zinc",
+    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. A grayscale pattern has been applied.\\n\\n<i>A ripple in time</i>",
+    "weapon": {
+      "id": "weapon_scar20",
+      "weapon_id": 38,
+      "name": "SCAR-20"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hye_chrome_ripple",
+      "name": "Zinc"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1371",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-achroma",
+        "name": "The Achroma Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "counter-terrorists",
+      "name": "Counter-Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_hye_chrome_ripple_light_png.png",
+    "original": {
+      "name": "weapon_scar20"
+    }
+  },
+  {
     "id": "skin-03f6e200c8b6",
     "name": "SCAR-20 | Trail Blazer",
     "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been custom painted with a monochrome black design and silver inlays.\\n\\n<i>FOR USE BY AUTHORIZED CT AGENTS ONLY</i>",
@@ -1428,1208 +2616,6 @@
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_P2ReKluH_yaCW-Ej7914-I_HHznx0lz4jmDwtaoJXOebgMlApt0EeJbt0W7xIG0Muzl5wTAy9USD_fgAo4",
     "original": {
       "name": "weapon_scar20"
-    }
-  },
-  {
-    "id": "skin-ed03b471eb9e",
-    "name": "SCAR-20 | Storm",
-    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has individual parts spray-painted solid colors in a stormy color scheme.\\n\\n<i>It will be waiting for you at the monorail</i>",
-    "weapon": {
-      "id": "weapon_scar20",
-      "weapon_id": 38,
-      "name": "SCAR-20"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "so_stormfront",
-      "name": "Storm"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "100",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-cobblestone",
-        "name": "The Cobblestone Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_cobblestone.7f470f4ad76920182d29cafc4a7fcbbb5de0e3ec.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4027",
-        "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2taqZhJb7GCmXDwLp057U8SSiwkxt1tz_Sw46qJC6RZgcpXJJwQrVf5xe7lIfnKaq8sA1qTP9C"
-      },
-      {
-        "id": "crate-4036",
-        "name": "DreamHack 2014 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2taqZhJb7AWWPFwrZy5rY4THq2xEV2tjzcwtutIi-fbwInX5Z1QbZfsBjtkILuKaq8sCWS9maH"
-      },
-      {
-        "id": "crate-4084",
-        "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvwux0vOQnF3_mxRx34zjdztf9dH-QPAcnCZJ3Q7MP4UTtlNzvNb-x4wHaithGzDK-0H0u36KbMw"
-      },
-      {
-        "id": "crate-4134",
-        "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iTw-x6ta8_HXjgzUl05ziHm4r7dy7FOlUkXsYmRe4MthfqxN2zNu3h7gfXi49N02yg2UbpOSb2"
-      },
-      {
-        "id": "crate-4179",
-        "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtuIvKfCynBxOp16bZtSXu1w0hy62rWnIz4IijDO1MhD8MmFrIOsBWwk4ezY7ix-UWA3MFLe-ZR"
-      },
-      {
-        "id": "crate-4228",
-        "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsDWWSzes44-JvGi-2zUQi5DiBm4z4cSrEOAUhDsB2QrRe5hGwwdbuZrnl7wCKjpUFk3tWzbEgYA"
-      },
-      {
-        "id": "crate-4276",
-        "name": "Cologne 2016 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-QDGWcxKBzsuBqGX3gwxly6mjRz4qhd3LBbw8jX8MiF-JYtRC8xNLlY-jlsQbelcsbmrqh8sbQ"
-      },
-      {
-        "id": "crate-4346",
-        "name": "Atlanta 2017 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-QDGWcxKAm4eNsHy_lkxhx52XSytmsIyiQaVcoXJJzR-4IskPrk93lY-nh4w2KlcsbmtkBg_k4"
-      },
-      {
-        "id": "crate-4398",
-        "name": "Krakow 2017 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_-FjsTgqjzse3wjJJ4P-hV6BoH_ORDGuVj7h0s7Q5GHvgxB5062XTztmuIHKVZlQjDJEhReUDthi7xoWxMerk4VDAy9UScHnfGeo"
-      },
-      {
-        "id": "crate-4465",
-        "name": "Boston 2018 Cobblestone Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj25UrzThOjzse4wjJJ4P-hV6BoH_ORDGuVj-gi57M5TXzqx0pwsj_UzIv4dHufOAEmApZ1E-8P5BXsxIHnY-O2sQPAy9USiW38NTw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_P2Re7BiMv2VHGie1dF6ueZhW2fjxBgl5jyAntytc3ifO1AjXpslRLFft0PtxoXkMuKwslaPg49MmHj6kGoXuUn7n6Ef",
-    "original": {
-      "name": "weapon_scar20"
-    }
-  },
-  {
-    "id": "skin-0147ca1550c4",
-    "name": "SCAR-20 | Sand Mesh",
-    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
-    "weapon": {
-      "id": "weapon_scar20",
-      "weapon_id": 38,
-      "name": "SCAR-20"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_mesh_sand",
-      "name": "Sand Mesh"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "116",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-dust-2",
-        "name": "The Dust 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
-      },
-      {
-        "id": "crate-4022",
-        "name": "ESL One Cologne 2014 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2qfbd5cr6XCD-VkroktrVoHi2wlBhx5mXXz4r8d3yVbQ5zAsF3RuYD5hO9kdXhKaq8sLHIAjYS"
-      },
-      {
-        "id": "crate-4031",
-        "name": "DreamHack 2014 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2qfbd5cr7CDTTIkLsg4-A-Fii3wU8k4TjUyov4dniWbVAmWJt3R-MI5xm_xta0Kaq8sO_IzfuM"
-      },
-      {
-        "id": "crate-4079",
-        "name": "ESL One Katowice 2015 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvxftlpLMnSS23wE504Grcm4mgJ3OfPAMlDpRxRLZZ5EK4lIfjPu3j4ATegtlGnzK-0H3UToJFDg"
-      },
-      {
-        "id": "crate-4131",
-        "name": "ESL One Cologne 2015 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iU1P1i4q9sTC2ylER05j7QnomsJHiQag4nApJwRu8DsULqloKxYrnl7wyP3t9G02yg2YmRsS6G"
-      },
-      {
-        "id": "crate-4176",
-        "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtpNeOHXCmUk7935rI_GXDlx010627Xztf8dC7Cagd1W8dwQuUJsUa-koa2NOLj-UWA3M6kNEKU"
-      },
-      {
-        "id": "crate-4225",
-        "name": "MLG Columbus 2016 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsCnKD1bw4s-c7FyrmlkR05W3dytmgeHKSbg9xDMMkFrIL4RC6wILkN-7g5leIg5UFk3uYze73pw"
-      },
-      {
-        "id": "crate-4274",
-        "name": "Cologne 2016 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-XG3SEk6B34uA_THmxkx92sTiBmNmrIirFaAQmX8BxTbEJ4UHqw4DuPri24gCNlcsbmh_qWnC9"
-      },
-      {
-        "id": "crate-4344",
-        "name": "Atlanta 2017 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-XG3SEk6Au4ec5HS3rw0p052qHn4mhJHjFbQckAsByROVc4xS8m4LmZbvj5ACNlcsbmgzIAi55"
-      },
-      {
-        "id": "crate-4542",
-        "name": "London 2018 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_SGHXPCj79ysbYwHi23k093tzvRy9isIi_GP1N0WZMjQeJZsxe8w4fnYbjitQTAy9USfZHe1a8"
-      },
-      {
-        "id": "crate-4592",
-        "name": "Katowice 2019 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsCnKD1bw45rA7GnHrk0hx42TXno79d3zCaVNzApBzReJet0W_lYazNLjj5gLfiZUFk3vpn6VvvA"
-      },
-      {
-        "id": "crate-4662",
-        "name": "Berlin 2019 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_SGHXPCj7oj47Y4HyiwkUhy5j6Gzt2qcXrBPVBzA5Z4FOJY5hW7xNTvZeixsgDAy9USl0sSteY"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_OKRZaF-KM-AD2mU_uJ_t-l9AXHhwxwi5zyDmIqoeCmWaAUhXpUiRrFZsBHsxNXvM-jl5lTdgotDySzgznQefYC7ilk",
-    "original": {
-      "name": "weapon_scar20"
-    }
-  },
-  {
-    "id": "skin-ecf5e0801def",
-    "name": "SCAR-20 | Palm",
-    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
-    "weapon": {
-      "id": "weapon_scar20",
-      "weapon_id": 38,
-      "name": "SCAR-20"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_palm",
-      "name": "Palm"
-    },
-    "min_float": 0.06,
-    "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_uncommon_weapon",
-      "name": "Industrial Grade",
-      "color": "#5e98d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "157",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-dust",
-        "name": "The Dust Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_OKReKVhLc-fB2CY1aAl6eM_GyuxlEh0tm6Eztj4dCiWbw92DppyTeYP4xDrkt3gZejn4ATZlcsbmiqh02Pr",
-    "original": {
-      "name": "weapon_scar20"
-    }
-  },
-  {
-    "id": "skin-6bff4afdb6f2",
-    "name": "SCAR-20 | Torn",
-    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been spray-painted with a randomized stripe pattern.\\n\\n<i>To shreds...</i>",
-    "weapon": {
-      "id": "weapon_scar20",
-      "weapon_id": 38,
-      "name": "SCAR-20"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_scar20_striker_dust",
-      "name": "Torn"
-    },
-    "min_float": 0,
-    "max_float": 0.45,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "896",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-23",
-        "name": "The Shattered Web Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_23_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4620",
-        "name": "Shattered Web Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3EVvKD6MKU_cKPKXWHFxLkls7FsSnDqwUl_sWTczoqheHifbwMmD5F1RvlK7Ec_KL6Q_A"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_OKRe6dsMqLDMXSE0-d9tfNWSzyggSIrujqNjsH6eHiSOwZ0XsdxFrEIthfpx9W0Yuux4QDe34pFni-s3SpK7Hs6570KT-N7re2tWema",
-    "original": {
-      "name": "weapon_scar20"
-    }
-  },
-  {
-    "id": "skin-2c6b935bb4eb",
-    "name": "SCAR-20 | Poultrygeist",
-    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been spray-painted with a pattern depicting chickens on a battlefield.\\n\\n<i>A chicken rides a shark into battle...</i>",
-    "weapon": {
-      "id": "weapon_scar20",
-      "weapon_id": 38,
-      "name": "SCAR-20"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "sp_scar_chickenfight",
-      "name": "Poultrygeist"
-    },
-    "min_float": 0,
-    "max_float": 0.57,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1139",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-30",
-        "name": "The Dreams & Nightmares Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_30_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4818",
-        "name": "Dreams & Nightmares Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnIV7Kb5OaU-JqfHDzXFle0u4LY8Gy_kkRgisGzcm4v4J3vDOAQmDMdyRvlK7EcmeCU3yw"
-      }
-    ],
-    "team": {
-      "id": "counter-terrorists",
-      "name": "Counter-Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_OKRe6dsMs-QBm6Tyut4tuhuRz2MmRQguynLno2pdnnGOw9xWcFwEbMCtkHsmoXuNe23tVGNiINCyyv6iylJuyZi5_FCD_Tlwp1EIg",
-    "original": {
-      "name": "weapon_scar20"
-    }
-  },
-  {
-    "id": "skin-7f4d0f478610",
-    "name": "SG 553 | Desert Blossom",
-    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been spray-painted with vibrant flowers atop a dry, cracked base.\\n\\n<i>Nature always wins</i>",
-    "weapon": {
-      "id": "weapon_sg556",
-      "weapon_id": 39,
-      "name": "SG 553"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "aa_desert_bloom_bright",
-      "name": "Desert Blossom"
-    },
-    "min_float": 0,
-    "max_float": 0.49,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "765",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-mirage-2021",
-        "name": "The 2021 Mirage Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4810",
-        "name": "Stockholm 2021 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_2aHGaXxKB0s7dtHiu3lkl1sTyEyN_7eHmTaA92Dsd4TbQP5hGxxNWzZei05FTalcsbmo3RwBXU"
-      },
-      {
-        "id": "crate-4836",
-        "name": "Antwerp 2022 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-eB3WRxus45udtF3C2wh92sjzcw42teHKXZgNyCcclQbML4EOxwIW1YuO05wTagpUFk3vrzNKexg"
-      },
-      {
-        "id": "crate-4861",
-        "name": "Rio 2022 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6lkMvGUCynAmL5w4bk5F3_qzUwjtW6BmIr7InnCZgMhXJV5ReVctEKxkNfvZOmx-UWA3EHNY_eN"
-      },
-      {
-        "id": "crate-4894",
-        "name": "Paris 2023 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSLfmBD2CVj75z6LM_S322w0l04G7QmYypcX-TZlAoCcN2RLEMukXsk4LvMO2wsVDAy9USqEumK38"
-      },
-      {
-        "id": "crate-4927",
-        "name": "Copenhagen 2024 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6lkMvGUCynAxLxw5rQ-TnywwUQj5GnVnNj9dCjFb1cjWZJ1TO4Itxm6ldbvY--x-UWA3At843U9"
-      },
-      {
-        "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1idyPx3t-QnFy-2lh9x5miEz9ioIHOSbgFzCcMmFrVeshSwxNO2P-Pi4QHZj9pGyjK-0H36I6RBSg"
-      },
-      {
-        "id": "crate-5121",
-        "name": "Austin 2025 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1idyPx3t-QnHH2xkUQk62uBntitdn3DPAdyCJR4RedY5kS_m4W2MLjq51De2YwWzzK-0H0bzeKCgA"
-      },
-      {
-        "id": "crate-5220",
-        "name": "Budapest 2025 Mirage Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1idyPx3t-QnSSzmkB5_5G3czt6udHzBZ1UlXpN4TLMPtES7xobnMbzmslTW3YhGzTK-0H1MalVC1A"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a7s2qbbdoMuSsDGufzuNJsvNgSCGnqhEutDWR1N_8JXPBagZ0WZUiRu4PukaxxNDjNb_mtQCPiYwRyymt2yhIuyc46-kcEf1yx7sEwjI",
-    "original": {
-      "name": "weapon_sg556"
-    }
-  },
-  {
-    "id": "skin-a1cba4e82b7b",
-    "name": "SG 553 | Lush Ruins",
-    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. Ancient gods are obscured in the background of this foliage-adorned pattern.\\n\\n<i>\\\"Eyes up everyone—we're being watched...\\\"</i>",
-    "weapon": {
-      "id": "weapon_sg556",
-      "weapon_id": 39,
-      "name": "SG 553"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "aa_ruins_green",
-      "name": "Lush Ruins"
-    },
-    "min_float": 0,
-    "max_float": 0.7,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "1022",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-op10-ancient",
-        "name": "The Ancient Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_ancient.e90a2018381216be882d96c9e6c314d99f5097fa.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4813",
-        "name": "Stockholm 2021 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH_GdDW6Vz_o44rg5F3y2xBx0sWjRz9aucSmTOAUiCZt5TOYMu0S_k9W2MOnk4AaKiZUFk3u4B9Q2Rw"
-      },
-      {
-        "id": "crate-4839",
-        "name": "Antwerp 2022 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-SAGSZxOBi_uNsFi3kkU905W_SwtipJXqWZg8jW5YkEe9btxfpktLkZL-x5wKMi4hbjXKpvT4lPfc"
-      },
-      {
-        "id": "crate-4864",
-        "name": "Rio 2022 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV6VjI_mWAHPel7wu5bBqHnrkxEt14zuByd-pd3yfagYgCZB4QuMPtBHsl4bnZu-25Bue1dy_oUuJtA"
-      },
-      {
-        "id": "crate-4897",
-        "name": "Paris 2023 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSIf6QB2Ke1aAltrFtG3nkxxx14DyDnomudCiUOA52W8R3Ru5euhWwkNGzY7_rsgKNlcsbmthZYkok"
-      },
-      {
-        "id": "crate-4930",
-        "name": "Copenhagen 2024 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6VjI_mWAHPew-1w5-RvTC3lwUoj4G2AyougcirDbwMgDpAlQrIN4EPukNzlYuvg7hue1dxsvyYF4A"
-      },
-      {
-        "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iRz-1_te99ASvjlEomsmiBn9-oeHOTbVB0CpAjQbZf4Ra_m4W1Mbzm71ON3d1MmCngznQeaU350-c"
-      },
-      {
-        "id": "crate-5124",
-        "name": "Austin 2025 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iRz-1_te99AXy1wEpxtWnVnIr6JC_CaQQoX5MjF7QMsxC7w4XnP-y2sgCIjohFyCngznQep6hFES4"
-      },
-      {
-        "id": "crate-5223",
-        "name": "Budapest 2025 Ancient Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iRz-1_te99AX23l0l-4WTWy9yrJH2ROA9yA5R0EOVZtha9w9WzNLy24FGKitlGxSrgznQe9a3peFc"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a7s28fa1jM8-UHGKVz9F6ueZhW2fmkU4jtTzSw42pc3LEOgJ2ApZ4FORZ50XtxoXiPr-z5FDcit9ExXqvkGoXubXo--Tz",
-    "original": {
-      "name": "weapon_sg556"
-    }
-  },
-  {
-    "id": "skin-4be502157e9f",
-    "name": "SG 553 | Hypnotic",
-    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been painted with a pearl base coat, then spray-painted black through a stencil in a graphic pattern.\\n\\n<i>You're not getting sleepy, you're passing out from blood loss</i>",
-    "weapon": {
-      "id": "weapon_sg556",
-      "weapon_id": 39,
-      "name": "SG 553"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "aa_vertigo",
-      "name": "Hypnotic"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "61",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-op10-t",
-        "name": "The Havoc Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_op10_t.18b6dd49906d15a5f44f1477ca6139c7ab491197.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a7s24bbZ5KfecMWuZxuZi_rJrF3DlkEUl5GTdy4yudHyRZgYnWZskFucO4RO_kIK0PuOxtVPb2d5bjXKpAmuHKUk",
-    "original": {
-      "name": "weapon_sg556"
-    }
-  },
-  {
-    "id": "skin-9971505b1e6e",
-    "name": "SG 553 | Army Sheen",
-    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been covered in a metallic foil stamped with a camouflage pattern.\\n\\n<i>Remember your training</i>",
-    "weapon": {
-      "id": "weapon_sg556",
-      "weapon_id": 39,
-      "name": "SG 553"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "am_army_shine",
-      "name": "Army Sheen"
-    },
-    "min_float": 0,
-    "max_float": 0.3,
-    "rarity": {
-      "id": "rarity_common_weapon",
-      "name": "Consumer Grade",
-      "color": "#b0c3d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "298",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-bank",
-        "name": "The Bank Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bank_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a4s2veql0H-ObB2mV_uJ_t-l9AS3qxBgh4jnTyNr4eHKRbwEoWZd0F-RZtkG-lN3gMeix41Tdi98RyXrgznQeaSRFZ6A",
-    "original": {
-      "name": "weapon_sg556"
-    }
-  },
-  {
-    "id": "skin-9556d6c4e652",
-    "name": "SG 553 | Anodized Navy",
-    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
-    "weapon": {
-      "id": "weapon_sg556",
-      "weapon_id": 39,
-      "name": "SG 553"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "an_navy",
-      "name": "Anodized Navy"
-    },
-    "min_float": 0,
-    "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "28",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-lake",
-        "name": "The Lake Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_lake_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": false,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a4c2gabJ0H_yaCW-Ej7ons-AwG37hzUQj5z_Tw9esIHnCZ1UiW5ojQuYJtBO6kNzgNrjitQXAy9USYrEgg8s",
-    "original": {
-      "name": "weapon_sg556"
-    }
-  },
-  {
-    "id": "skin-473110a625aa",
-    "name": "SG 553 | Damascus Steel",
-    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has some damascus steel parts.",
-    "weapon": {
-      "id": "weapon_sg556",
-      "weapon_id": 39,
-      "name": "SG 553"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "aq_damascus_sg553",
-      "name": "Damascus Steel"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "247",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-dust-2",
-        "name": "The Dust 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_dust_2_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4006",
-        "name": "DreamHack 2013 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62EiLhjJnt8mxevfSqbqVsJaHKWGWVmOwi5eJtGX7jzUsi6mTXzNb_d3rDPQZzW5okW6dU5dbJcrqx"
-      },
-      {
-        "id": "crate-4013",
-        "name": "EMS One 2014 Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx50q2FSLhjJnt8mxavfH_bPRvd_GSCzHBxbZ0tLY6Gy3kkRl0tW7cy4n4dXnFOFN1DJZzW6dU5V8ClnPH"
-      },
-      {
-        "id": "crate-4022",
-        "name": "ESL One Cologne 2014 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VW2FSLhjJnt8h1f6s2qfbd5cr6XCD-VkroktrVoHi2wlBhx5mXXz4r8d3yVbQ5zAsF3RuYD5hO9kdXhKaq8sLHIAjYS"
-      },
-      {
-        "id": "crate-4031",
-        "name": "DreamHack 2014 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjw4k62FSLhjJnt8h1f6s2qfbd5cr7CDTTIkLsg4-A-Fii3wU8k4TjUyov4dniWbVAmWJt3R-MI5xm_xta0Kaq8sO_IzfuM"
-      },
-      {
-        "id": "crate-4079",
-        "name": "ESL One Katowice 2015 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXsQAn-iZ_j-HALvqeReLZiLf-sCmKvxftlpLMnSS23wE504Grcm4mgJ3OfPAMlDpRxRLZZ5EK4lIfjPu3j4ATegtlGnzK-0H3UToJFDg"
-      },
-      {
-        "id": "crate-4131",
-        "name": "ESL One Cologne 2015 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjx-VXkThH-mZjlr3IKus2-eqtgL8-XC1iU1P1i4q9sTC2ylER05j7QnomsJHiQag4nApJwRu8DsULqloKxYrnl7wyP3t9G02yg2YmRsS6G"
-      },
-      {
-        "id": "crate-4176",
-        "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35kztE02gy6nw7y1W4M2qbZtpNeOHXCmUk7935rI_GXDlx010627Xztf8dC7Cagd1W8dwQuUJsUa-koa2NOLj-UWA3M6kNEKU"
-      },
-      {
-        "id": "crate-4225",
-        "name": "MLG Columbus 2016 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXyTB_kjcSwrHRk_-ChZatSJPWsCnKD1bw4s-c7FyrmlkR05W3dytmgeHKSbg9xDMMkFrIL4RC6wILkN-7g5leIg5UFk3uYze73pw"
-      },
-      {
-        "id": "crate-4274",
-        "name": "Cologne 2016 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VXoRhP0zMaxqx1L_f2jZ5tpJc-XG3SEk6B34uA_THmxkx92sTiBmNmrIirFaAQmX8BxTbEJ4UHqw4DuPri24gCNlcsbmh_qWnC9"
-      },
-      {
-        "id": "crate-4344",
-        "name": "Atlanta 2017 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj1_lXmTwnwzMaxqh1L_f2jZ5tpJc-XG3SEk6Au4ec5HS3rw0p052qHn4mhJHjFbQckAsByROVc4xS8m4LmZbvj5ACNlcsbmgzIAi55"
-      },
-      {
-        "id": "crate-4542",
-        "name": "London 2018 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj45VfjThOjzse4wjJJ4P-hV6BoH_SGHXPCj79ysbYwHi23k093tzvRy9isIi_GP1N0WZMjQeJZsxe8w4fnYbjitQTAy9USfZHe1a8"
-      },
-      {
-        "id": "crate-4592",
-        "name": "Katowice 2019 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj_603oVhTym8SwrHtk_-ChZatSJPWsCnKD1bw45rA7GnHrk0hx42TXno79d3zCaVNzApBzReJet0W_lYazNLjj5gLfiZUFk3vpn6VvvA"
-      },
-      {
-        "id": "crate-4662",
-        "name": "Berlin 2019 Dust II Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj270vrSBOjzse5wjJJ4P-hV6BoH_SGHXPCj7oj47Y4HyiwkUhy5j6Gzt2qcXrBPVBzA5Z4FOJY5hW7xNTvZeixsgDAy9USl0sSteY"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a_s2qaalsM_OGHViDxrsj495lRi67gVMj4miGzteseXjBbAJxXsEjEOQK50axk9C1ZuPi4wbX39gRnC33iipJ8G81tD-xNff9",
-    "original": {
-      "name": "weapon_sg556"
-    }
-  },
-  {
-    "id": "skin-b00ed3c3e226",
-    "name": "SG 553 | Traveler",
-    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been custom painted in a stripe design inspired by vintage luggage, and had some parts wrapped in brown leather.\\n\\n<i>Everyone has a story, and Javier will pry it out before he kills you</i>",
-    "weapon": {
-      "id": "weapon_sg556",
-      "weapon_id": 39,
-      "name": "SG 553"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "cu_luggage_sg553",
-      "name": "Traveler"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_uncommon_weapon",
-      "name": "Industrial Grade",
-      "color": "#5e98d9"
-    },
-    "stattrak": false,
-    "souvenir": false,
-    "paint_index": "363",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-baggage",
-        "name": "The Baggage Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_baggage_png.png"
-      }
-    ],
-    "crates": [],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s2ifaNqIfeWMXSXlLslj-1gSCGn20905myGzIn6cyqePQUpA8FxRLVetRK_lYbkMrmx7wbWjIkXzi2t2HtXrnE8Nea-0H8",
-    "original": {
-      "name": "weapon_sg556"
-    }
-  },
-  {
-    "id": "skin-f7201f00d647",
-    "name": "SG 553 | Aerial",
-    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been painted with silver and yellow and given a white wing decal.\\n\\n<i>Establish air superiority</i>",
-    "weapon": {
-      "id": "weapon_sg556",
-      "weapon_id": 39,
-      "name": "SG 553"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "cu_sg553_aerial",
-      "name": "Aerial"
-    },
-    "min_float": 0,
-    "max_float": 0.6,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "598",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-13",
-        "name": "The Gamma Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_13_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4236",
-        "name": "Gamma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-SC3WZwOJJvOhuRz39wkQj4TzXw9igJXrEbAJ1C5VyQeVZ5hHslIXjMOyz41begt9Myiiq3zQJsHi7xfgn5g",
-    "original": {
-      "name": "weapon_sg556"
-    }
-  },
-  {
-    "id": "skin-b86e591b7a8e",
-    "name": "SG 553 | Atlas",
-    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been given a modern camouflage hydrographic.\\n\\n<i>It was once a design earmarked for the Coalition Taskforce, but Huxley engaged in corporate espionage to make it a Phoenix exclusive</i>",
-    "weapon": {
-      "id": "weapon_sg556",
-      "weapon_id": 39,
-      "name": "SG 553"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_rifles",
-      "name": "Rifles"
-    },
-    "pattern": {
-      "id": "cu_sg553_atlas",
-      "name": "Atlas"
-    },
-    "min_float": 0,
-    "max_float": 0.81,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "553",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-12",
-        "name": "The Chroma 3 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_12_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4233",
-        "name": "Chroma 3 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHAVuKf7PaJucPLHW2TExb9z4OdvHirixEomtW7cyduvci2VZ1AiCsR2Q_lK7EdW_VBhrw"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-SGmuR0tF6ueZhW2fgkxt_tTndn46rJX6QOAEoC5QhEe5f5hHqltfgMeO0tQHY2IsTyyyokGoXuYh0VG-5",
-    "original": {
-      "name": "weapon_sg556"
     }
   }
 ]

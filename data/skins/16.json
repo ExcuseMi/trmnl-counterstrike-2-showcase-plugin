@@ -1,5 +1,721 @@
 [
   {
+    "id": "skin-1caaee847d10",
+    "name": "Galil AR | Acid Dart",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A green and yellow hydrographic pattern has been applied\\n\\n<i>Let it rip</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hye_yellow_usaf",
+      "name": "Acid Dart"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1296",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-neutral",
+        "name": "The Boreal Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0Pq3bZt0JfyfAXCv1P13tt5lRi67gVNwtzvRzIv8dn_CZgBzXMMjRuZbsxe_lYbjNOzg71fajI8WnC2qjH9L8G81tK7k0ppc",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
+    "id": "skin-bf9a7895026e",
+    "name": "Galil AR | Green Apple",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has individual parts spray-painted solid colors in a green and black color scheme.\\n\\n<i>An apple a day keeps insurance premiums high</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_green",
+      "name": "Green Apple"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "294",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train-2025",
+        "name": "The Train 2025 Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-5126",
+        "name": "Austin 2025 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iE0-9_vq9sHS3qlkUl62TTw9z8dC6TPAV2DMEmFuVcsxPuwd3jNePh4VCLiItB02yg2VepJYOn"
+      },
+      {
+        "id": "crate-5225",
+        "name": "Budapest 2025 Train Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOnIPkr3IJus2-eqtgL8-XC1iE0-9_vq87G3HhwU1x4WrTz9evdnmXbwAkXJZzTbRYsxnrm9LiP-q2tAzb2ItH02yg2d3fjhEF"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OGhV6N_JfWdMWuZxuZi_rI5H3_iwR9_4GSHmNuhcinDPQQgWZd5QLEJuka6koK1Mu6z7wDf2YhbjXKp2JcVlJI",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
+    "id": "skin-8019620598a2",
+    "name": "Galil AR | Tuxedo",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has individual parts spray-painted solid colors in a black and white color scheme.\\n\\n<i>For when combat is a black tie affair</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_orca",
+      "name": "Tuxedo"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "297",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bank",
+        "name": "The Bank Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_bank_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OGhV6t_I_GsAm6Xyfo45ONqGHC2kE1y42jWz9uscXmfbQQlCsZzFOACuxawl4GxMevj4QPfg5UFk3uvmVba9Q",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
+    "id": "skin-233856ab2e43",
+    "name": "Galil AR | Tornado",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has individual parts spray-painted solid colors in a tornado color scheme.\\n\\n<i>Don't be fooled by its simplicity</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_tornado",
+      "name": "Tornado"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "101",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-norse",
+        "name": "The Norse Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_norse.d91172d71b95efb4e334d194cf6b0a5ab9621e8c.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OGhV7BiMv6SCmivzedxuPUnGHGywEtysm7Xy9qudXqWbwZ1XsRxQeIDs0W7mtbkM-ux4VCL3oxCmDK-0H3kO6HdPw",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
+    "id": "skin-6d3d5d849392",
+    "name": "Galil AR | Grey Smoke",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A grayscale graphic pattern has been applied.\\n\\n<i>\\\"Do you know how much color cartridges cost?!\\\"</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "soch_blorb_bw_galilar",
+      "name": "Grey Smoke"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade",
+      "color": "#b0c3d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1275",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-cool",
+        "name": "The Ascent Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OGha6xSIvycHGWvw_lJt-BlRiWyhyIrujqNjsH9dimTZgAmCMMhRuEL5xCxkNa0Pum3sgzX3osWyH362ixL7HlqtehUT-N7rUWzKN8P",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
+    "id": "skin-41452c191f44",
+    "name": "Galil AR | O-Ranger",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. Its metallic brown base is finished with high vis orange accents.\\n\\n<i>Rule number one: always know what is behind your target</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "soe_orange_flick",
+      "name": "O-Ranger"
+    },
+    "min_float": 0,
+    "max_float": 0.75,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1314",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-warm",
+        "name": "The Radiant Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OGhbZtiMvGdCWKvx-J_s-pWQyC0nQlp4jjRyYuhdy2WOgBzWZFxQrMP4RCwldbhM7jj5VDZi4IWzin7inwd5jErvbhrB4cQjg",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
+    "id": "skin-69fcaf121180",
+    "name": "Galil AR | Robin's Egg",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been painted using robins egg blue and finished with silver accents.\\n\\n<i>A harbinger of new beginnings</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "soe_robinsegg",
+      "name": "Robin's Egg"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade",
+      "color": "#5e98d9"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1264",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-timed-drops-cool",
+        "name": "The Ascent Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+      }
+    ],
+    "crates": [],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OGhbZt_L_KaAHSVxulJvOhuRz39kRl04ziAwouhInmTaQMlCcNxReFZ5xTqmtO1PuLntFDX3d8QyST_jjQJsHiwz7gI3Q",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
+    "id": "skin-ea691ab700a8",
+    "name": "Galil AR | Akoben",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A rust-colored pattern has been spray painted over a white base.\\n\\n<i>Your personal battle cry</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_galil_akoben",
+      "name": "Akoben"
+    },
+    "min_float": 0,
+    "max_float": 0.75,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade",
+      "color": "#4b69ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "842",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-22",
+        "name": "The Prisma Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_22_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4598",
+        "name": "Prisma Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3AV6aD8O6BpdKKQVmPEwr1zs-c8Tnngl09w52zTmY2sc3jBag8jXpohE_lK7Ede7E2Kfw"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OG-V6NsLPmfMWabzuxzvt5lRi67gVMlt2_dzd6qcH2TOgN0CpIlE7Ve5hbukdW0MrixslPW2IgQzyv8jypI8G81tJzCUipD",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
+    "id": "skin-807c0ef26d8e",
+    "name": "Galil AR | CAUTION!",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been spray painted with high contrast black and yellow chevrons.\\n\\n<i>Take comfort in feeling uncomfortable</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_galil_caution",
+      "name": "CAUTION!"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1071",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-vertigo-2021",
+        "name": "The 2021 Vertigo Collection",
+        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4815",
+        "name": "Stockholm 2021 Vertigo Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjn_lbkShWjzsSxwjJJ4P-hV6BoH-aWHHOZxuE457ExHy3lw0114TzSm4qodXKTagQnA8FwEOdesUW5lNPnZb7r41HX2JUFk3sAS6M-4w"
+      },
+      {
+        "id": "crate-4841",
+        "name": "Antwerp 2022 Vertigo Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15E3wRA_hzMayrx1L_f2jZ5tpJc-FC3WEyOl5_uM_F3zhlEhzsj_QyoyscnuSZ1IoXpUhTOcDuxjtl9TnMeLgswbe2d5bjXKpW0kdc8A"
+      },
+      {
+        "id": "crate-4866",
+        "name": "Rio 2022 Vertigo Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjm41a1EU-joYby8i9U0ParV7JoMuSaCWjelu0k47hsHXznxBxw5W6Gm4mhcnqTPFIhDJFwF-IN5EO9m4buZevqsxue1dxAqsnDRA"
+      },
+      {
+        "id": "crate-4899",
+        "name": "Paris 2023 Vertigo Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSNvWBGm6XzqBysbM_TCzhlEVz5WyAnNarJXyWPFclW8NwFOEPshLpm9LjMbyw5AbYlcsbmueqdWue"
+      },
+      {
+        "id": "crate-4932",
+        "name": "Copenhagen 2024 Vertigo Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV7JoMuSaCWjemOtysrU8H3iyx08msTnWyYr4JHOTb1MhDcEjQ-II4BC6k9C0ZuqztRue1dzI2NbPyg"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iGxPxiueZmASy3wU9y5z-HyN2pcHqVZ1dzA5IhFuAK5hexlNDjP--04QfWiIhHmH7gznQe8uF5Wjg"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OG-V6NsLPmfMWSR1Pp_v-9WQyC0nQlpsmnQwoqgIHuWa1QnC5EjRuJcsRi6lNfvPuvi7wPajo9Bziys23xIujErvbiCbfcatA",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
+    "id": "skin-1f899f97bd99",
+    "name": "Galil AR | Crimson Tsunami",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A spray-painted, blue wave pattern sits atop a maroon base.\\n\\n<i>Westward breaks</i>",
+    "weapon": {
+      "id": "weapon_galilar",
+      "weapon_id": 13,
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_galil_wave",
+      "name": "Crimson Tsunami"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted",
+      "color": "#8847ff"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "647",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-16",
+        "name": "The Spectrum Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_16_png.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHQV7qCra_JscqPGCzLCl78ktuAxHSzmzUh_sjvWzdqoI33CaQF2DscjR_lK7EeF3oM7TA"
+      }
+    ],
+    "team": {
+      "id": "terrorists",
+      "name": "Terrorist"
+    },
+    "legacy_model": false,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OG-V6NsLPmfMXCR1-tJvOhuRz39x0Qm6mjQzo6qeHLGOg8nXJUiE-UKtxa5mtPgZu3rtFGMiIwXxH-viDQJsHh48m4KFg",
+    "original": {
+      "name": "weapon_galilar"
+    }
+  },
+  {
     "id": "skin-d2bf9bb223d5",
     "name": "Galil AR | Hunting Blind",
     "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been spray-painted freehand using mesh fabric as a stencil.",
@@ -1941,683 +2657,6 @@
     },
     "legacy_model": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK6HLMXCVwP1zvN5lRi67gVN_4j7Qzdj8dimQblQkX8YkTeNe5Bmxkd2zNr_j5QbdjthCzX-qjylI8G81tDMJpR5Y",
-    "original": {
-      "name": "weapon_glock"
-    }
-  },
-  {
-    "id": "skin-db73213412f6",
-    "name": "Glock-18 | Catacombs",
-    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been painted using a hydrographic of skulls over a silver metallic paint base.\\n\\n<i>Intimidation is the sincerest form of flattery</i>",
-    "weapon": {
-      "id": "weapon_glock",
-      "weapon_id": 4,
-      "name": "Glock-18"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_glock_deathtoll",
-      "name": "Catacombs"
-    },
-    "min_float": 0,
-    "max_float": 0.5,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "399",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-6",
-        "name": "The Chroma Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_6_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4061",
-        "name": "Chroma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fq2wP7qr6bqI5cvHDCzfBlbcv57JqF3zrxRkj4W6Dwo34dy6QPQAoC5ZyW6dU5cxvklfG"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-XC2aEyfp5vO1WQyC0nQlptWWDzIz8dy6QalMgXsMiQbEJtRjskdW2M7nn71Dcj49Fm3qsiClB7jErvbhnnfwjgw",
-    "original": {
-      "name": "weapon_glock"
-    }
-  },
-  {
-    "id": "skin-6e390882e9a0",
-    "name": "Glock-18 | Vogue",
-    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A pair of eyes grace the slide of this custom painted, Pop art inspired Glock.\\n\\n<i>\\\"Look at me while I'm shooting at you!\\\"</i>",
-    "weapon": {
-      "id": "weapon_glock",
-      "weapon_id": 4,
-      "name": "Glock-18"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_glock_eyecontact",
-      "name": "Vogue"
-    },
-    "min_float": 0,
-    "max_float": 0.75,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "963",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-26",
-        "name": "The Fracture Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_26_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4698",
-        "name": "Fracture Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3QV7aD7OP01IfbGDzPCmbsm4LU5GnvkzUsi4WvUmIqtci_CPQNyApsjE_lK7EfrhW545A"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-WF2KTzuBiseJ9cCW6khUz_T-GyNavdCqRawN1CMFwTOcO5hO7loXiY-zmsQKPi44QzHj22ikcvy11o7FVfFOBmfY",
-    "original": {
-      "name": "weapon_glock"
-    }
-  },
-  {
-    "id": "skin-dbf88f552c6d",
-    "name": "Glock-18 | Sacrifice",
-    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. This custom paint job pays homage to olofmeister's burning defuse on Overpass at ESL One Cologne 2014.\\n\\n<i>\\\"The defuse is coming in—he's still going!\\\"</i>",
-    "weapon": {
-      "id": "weapon_glock",
-      "weapon_id": 4,
-      "name": "Glock-18"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_glock_hero",
-      "name": "Sacrifice"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "918",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-24",
-        "name": "The CS20 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_24_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4669",
-        "name": "CS20 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3YVvfD9aqVveKaQDDKSl7134bg_HH3hlBty6z7Vn9v6eXmeZgBxWJd0EflK7Efs4hZiKQ"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-bC3Wf_uJ_t-l9AXHixRlytW7Ty4queH_DZlMlX5UjF-dZsUPqk9LhY-Lk5waMjdlCmSzgznQeEFBQhB0",
-    "original": {
-      "name": "weapon_glock"
-    }
-  },
-  {
-    "id": "skin-bd5f006d65a3",
-    "name": "Glock-18 | Off World",
-    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been hand painted with multiple coats of blue paint.\\n\\n<i>The topcoat is still drying</i>",
-    "weapon": {
-      "id": "weapon_glock",
-      "weapon_id": 4,
-      "name": "Glock-18"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_glock_indigo",
-      "name": "Off World"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_rare_weapon",
-      "name": "Mil-Spec Grade",
-      "color": "#4b69ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "680",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-18",
-        "name": "The Spectrum 2 Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_18_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4403",
-        "name": "Spectrum 2 Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHoVu6D7PaA0JaDACjKUwOom47VrTSzrw0Vx4W_Sydz9JC7FZgckCZYjRPlK7EcPuDAQzw"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-aAGOZxuFJvOhuRz39xRly4WSDm4z9dHvCOg8iC5pxQrZethbsk4C1MbnnsQTag4pFyy_9hzQJsHjSW_TM0g",
-    "original": {
-      "name": "weapon_glock"
-    }
-  },
-  {
-    "id": "skin-99526dbb85e6",
-    "name": "Glock-18 | Umbral Rabbit",
-    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with a dreamlike scene of a mystical rabbit hopping before a full moon.\\n\\n<i>Take a leap of faith</i>",
-    "weapon": {
-      "id": "weapon_glock",
-      "weapon_id": 4,
-      "name": "Glock-18"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_glock_moon_rabbit",
-      "name": "Umbral Rabbit"
-    },
-    "min_float": 0,
-    "max_float": 0.75,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1227",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_32_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4880",
-        "name": "Revolution Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnAVvfb6aqduc_TFVjTCxbx05OU4S3jilE9w4DzRnImtIy2Sa1JzDJEhRPlK7EcO4U8gfA"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-eAWie_vx3suNgWxa_nBovp3PXyo76Ii_FPAQmDMYiTLYDthm_kdbmZry2slCLjoMQzC7_3y1J7nts_a9cBi_qumx0",
-    "original": {
-      "name": "weapon_glock"
-    }
-  },
-  {
-    "id": "skin-7127818b09a6",
-    "name": "Glock-18 | Neo-Noir",
-    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with a stylized blue-magenta woman over a grayscale background.\\n\\n<i>\\\"Things were starting to turn and she began to feel hope—then she looked up\\\"</i>",
-    "weapon": {
-      "id": "weapon_glock",
-      "weapon_id": 4,
-      "name": "Glock-18"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_glock_noir",
-      "name": "Neo-Noir"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "988",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-27",
-        "name": "The Operation Broken Fang Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_27_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3UVu6P-MPQ0dKbCVzLGx7wgtbM6S3jhw0V25m-EnNj7JS7GaQ4nD8QiRflK7EfH0YGFHg"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-dAW6C_uJ_t-l9AXznwh9zsjjSn9j9dH-eb1V0CsF3QrNZ4xW8ltPlM-7h4QbYit5NzyzgznQecekkTuo",
-    "original": {
-      "name": "weapon_glock"
-    }
-  },
-  {
-    "id": "skin-9967f102e7ca",
-    "name": "Glock-18 | Ramese's Reach",
-    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. The Nile river has been custom painted on the slide and the grip depicts Ramesses I, the founding pharaoh of ancient Egypt's 19th Dynasty.\\n\\n<i>\\\"My people reach for their Gods, and I am here to connect them\\\"</i>",
-    "weapon": {
-      "id": "weapon_glock",
-      "weapon_id": 4,
-      "name": "Glock-18"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_glock_ramzes",
-      "name": "Ramese's Reach"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_mythical_weapon",
-      "name": "Restricted",
-      "color": "#8847ff"
-    },
-    "stattrak": false,
-    "souvenir": true,
-    "paint_index": "1240",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_anubis_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4882",
-        "name": "Anubis Collection Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj15EzlSA7OjYLv7ydL_f2jZ-o7daKQCzeWkugh4OcwHXjmwkh-4jzXw4uqJHiROARzX8AjFuUN5Ba8jJS5YMSRiKqp"
-      },
-      {
-        "id": "crate-4895",
-        "name": "Paris 2023 Anubis Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bjk60vuUk-hzMXf7TBU4v2RbKFSIf6GDG6Dj-t047Q_GXrrwBlz5W2Bnt6scHvCblAhDpUkTOEDuhO4m4LiZe3i5gTAy9USL1dHC6A"
-      },
-      {
-        "id": "crate-4928",
-        "name": "Copenhagen 2024 Anubis Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj3-lG1EU-loYby8i9U0ParV6VjNfKaHSmUkLd36bkxHSrqxBsmtT6EzIn6cCjDOw4nX8F1FOJc4xLsk4HuN-uz-UWA3HCx5SQN"
-      },
-      {
-        "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemif5AQlptO76UvmVRjOjZ7hr3IJu82-eqtgL8-XC1iRz_t0ufInTXHizBh26m7Ryt_7dy2WP1clC5YjELQMtkTpxoHnNeyx4gLbjo5NyDK-0H3Lvu_stA"
-      },
-      {
-        "id": "crate-5122",
-        "name": "Austin 2025 Anubis Souvenir Package",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenqC9gQlptK76UvmVRjOn4Pzr3IJus2-eqtgL8-XC1iRz_t0ufInTHvlkR8k42_cnI3_dC3EagJyWMByTOcC50awlYXhM-jq4FGP2ogQyDK-0H3Nl39_xA"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-BD2qKxP1JvOhuRz39kUkk42TcztmuIHOVb1cpCcZ1EeBY5BLtkIDgNOqwtALXjI0Un3r4jDQJsHidobtL7w",
-    "original": {
-      "name": "weapon_glock"
-    }
-  },
-  {
-    "id": "skin-cf4887fb0502",
-    "name": "Glock-18 | Snack Attack",
-    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted to resemble junk food trinkets suspended in resin.\\n\\n<i>The snack that fights back</i>",
-    "weapon": {
-      "id": "weapon_glock",
-      "weapon_id": 4,
-      "name": "Glock-18"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_glock_snackattack",
-      "name": "Snack Attack"
-    },
-    "min_float": 0,
-    "max_float": 1,
-    "rarity": {
-      "id": "rarity_legendary_weapon",
-      "name": "Classified",
-      "color": "#d32ce6"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "1100",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-29",
-        "name": "The Operation Riptide Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_29_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4790",
-        "name": "Operation Riptide Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_fr3sVtvD2O_Q9dqfEXTWSlepz4bA5THnikx915z6BytmuIHiXaAdyDpEhTflK7EdW-TaRMg"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-AAGaTyu9ipOBqRBa_nBovp3PQyomrcHKSaQYkCcRwQe8LukHswYHhN-Kz7lOM3YoUni6tjn5K7C5u_a9cBhxPlKk2",
-    "original": {
-      "name": "weapon_glock"
-    }
-  },
-  {
-    "id": "skin-73cc8d5fcd85",
-    "name": "Glock-18 | Wasteland Rebel",
-    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been distressed, block printed, and painted with graffiti.\\n\\n<i>Pay tribute</i>",
-    "weapon": {
-      "id": "weapon_glock",
-      "weapon_id": 4,
-      "name": "Glock-18"
-    },
-    "category": {
-      "id": "csgo_inventory_weapon_category_pistols",
-      "name": "Pistols"
-    },
-    "pattern": {
-      "id": "cu_glock_wasteland_rebel",
-      "name": "Wasteland Rebel"
-    },
-    "min_float": 0,
-    "max_float": 0.54,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
-    "stattrak": true,
-    "souvenir": false,
-    "paint_index": "586",
-    "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
-    ],
-    "collections": [
-      {
-        "id": "collection-set-community-13",
-        "name": "The Gamma Collection",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_13_png.png"
-      }
-    ],
-    "crates": [
-      {
-        "id": "crate-4236",
-        "name": "Gamma Case",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frHEVtvP5bPZrd6XECmOSxe0v4bRoTnnjwBkitWrRm4yoeX3GagMnCZZ2FPlK7EcEv22BnQ"
-      }
-    ],
-    "team": {
-      "id": "terrorists",
-      "name": "Terrorist"
-    },
-    "legacy_model": true,
-    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-ED3SExOJ3vuVWXSyxkBEYvzSCkpu3Iy7GPFUnC5t3EO4I4Bm6w4DmNu3k4lCN3YNNniz23HsY6Xxv5rwCU71lpPMpvj9PCw",
     "original": {
       "name": "weapon_glock"
     }
