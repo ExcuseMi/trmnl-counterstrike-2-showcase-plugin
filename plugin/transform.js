@@ -2,9 +2,14 @@ function transform(input) {
   const items = input.data;
   if (!items || !items.length) return { data: [] };
 
-  const raw = items[Math.floor(Math.random() * items.length)];
+  const count = Math.min(30, items.length);
+  const pool = [...items];
+  for (let i = pool.length - 1; i > pool.length - count - 1; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j], pool[i]];
+  }
 
-  const item = {
+  const data = pool.slice(pool.length - count).map(raw => ({
     name: raw.name,
     image: raw.image,
     description: raw.description,
@@ -15,7 +20,7 @@ function transform(input) {
     crates: raw.crates?.map(c => ({ name: c.name })),
     contains: raw.contains,
     exclusive_to: raw.exclusive_to,
-  };
+  }));
 
-  return { data: [item] };
+  return { data };
 }

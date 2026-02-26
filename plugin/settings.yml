@@ -13,9 +13,9 @@ custom_fields:
   name: About This Plugin
   field_type: author_bio
   category: games
+  help_text: TRMNL X Ready
   github_url: https://github.com/ExcuseMi/trmnl-counterstrike-2-showcase-plugin
   description: Showcase every available item in Counter-Strike 2, including skins, crates, collectibles, music kits, and more.
-  help_text: TRMNL X Ready
 - keyname: item_types
   field_type: select
   name: Item Types to Display
