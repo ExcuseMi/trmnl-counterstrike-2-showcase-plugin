@@ -1,0 +1,155 @@
+<style>
+</style>
+{% template property_array %}
+{% if include_column %}<div class="column border--v-2 pl--2">{% endif %}
+  <div class="item w--min-32 w--full">
+    <div class="content">
+      <span class="label label--underline lg:label--large">{{name}}</span>
+      <div class="description lg:description--large" data-clamp="8">
+        {% for value in values %}
+        {{ value.name }}<br />
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+{% if include_column %}</div>{% endif %}
+
+{% endtemplate %}
+{% template property %}
+{% if include_column %}<div class="column border--v-2 pl--2">{% endif %}
+  <div class="item w--min-32 w--full">
+    <div class="content">
+      <span class="label label--underline lg:label--large">{{name}}</span>
+      <span class="description lg:description--large" data-clamp="3">{{value}}</span>
+    </div>
+  </div>
+{% if include_column %}</div>{% endif %}
+
+{% endtemplate %}
+{% template item %}
+{% if item %}
+<div class="layout layout--col layout--stretch layout--center"  data-overflow="true">
+  <div class="flex flex--col" data-overflow="true">
+    <!-- IMAGE AND DESCRIPTION ROW -->
+    <div class="flex {% if vertical == true%}flex--col{%else%}flex--row portrait:flex--col{%endif%} no-shrink gap">
+      <div class="flex flex--center-y ">
+        <img class="image image-dither image--contain {{image_class}} image-filter"
+          src="{{item.image}}" />
+      </div>
+      {% if item.description %}
+      <div class="flex flex--center-y stretch">
+        <div class="item">
+          <div class="content">
+            <span class="description  lg:description--large" data-clamp="10"  data-clamp-lg="12">
+              {{ item.description
+              | replace: "\n", "<br />"
+              | newline_to_br
+              | replace: "<i>", ""
+                | replace: "</i>", ""
+              | replace: '\"', '"'
+              | replace: "\'", "'"
+              }}
+            </span>
+          </div>
+      </div>
+      </div>
+      {% endif %}
+    </div>
+    <div class="{{metadata_class}} stretch">
+    <div class="{{horizontal_metadata_class}}">
+      {% if item.rarity %}
+      {% render "property", name:"Rarity", value:item.rarity.name, include_column:true %}
+      {% endif %}
+      
+      {% if item.collections and item.collections.size > 0 %}
+      {% render "property_array", name:"Collection(s)", values: item.collections, include_column:true %}
+      {% endif %}
+
+      {% if item.wears and item.wears.size > 0 %}
+      {% render "property_array", name:"Wears", values: item.wears, include_column:true  %}
+      {% endif %}
+      
+      {% if item.type %}
+      {% render "property", name:"Type", value:item.rarity.type, include_column:true %}
+      {% endif %}
+
+      {% if item.pattern %}
+      {% render "property", name:"Pattern", value:item.pattern.name, include_column:true %}
+      {% endif %}
+
+      {% if item.crates and item.crates.size > 0 %}
+      {% render "property_array", name:"Crates", values: item.crates, include_column:true %}
+      {% endif %}
+      
+      {% if item.contains %}
+      {% render "property_array", name:"Contains", values: item.Contains, include_column:true %}
+      {% endif %}
+      
+      {% if item.exclusive_to %}
+      {% render "property", name:"Exclusive To", value:item.exclusive_to, include_column:true %}
+      {% endif %}
+    </div>
+    <div class="flex--col hidden w--full {{vertical_metadata_class}} " data-overflow="true">
+      <div class="divider mb--8"></div>
+      {% if item.rarity %}
+      {% render "property", name:"Rarity", value:item.rarity.name, include_column:false %}
+      {% endif %}
+      
+      {% if item.collections and item.collections.size > 0 %}
+      {% render "property_array", name:"Collection(s)", values: item.collections, include_column:false %}
+      {% endif %}
+
+      {% if item.wears and item.wears.size > 0 %}
+      {% render "property_array", name:"Wears", values: item.wears, include_column:false %}
+      {% endif %}
+      
+      {% if item.type %}
+      {% render "property", name:"Type", value:item.rarity.type, include_column:false %}
+      {% endif %}
+
+      {% if item.pattern %}
+      {% render "property", name:"Pattern", value:item.pattern.name, include_column:false %}
+      {% endif %}
+
+      {% if item.crates and item.crates.size > 0 %}
+      {% render "property_array", name:"Crates", values: item.crates, include_column:false %}
+      {% endif %}
+      
+      {% if item.contains %}
+      {% render "property_array", name:"Contains", values: item.Contains, include_column:false %}
+      {% endif %}
+      
+      {% if item.exclusive_to %}
+      {% render "property", name:"Exclusive To", value:item.exclusive_to, include_column:false %}
+      {% endif %}
+    </div>
+  </div>
+  </div>
+</div>
+
+{% else %}
+<div class="layout">
+  <div class="flex flex--col">
+    <div class="item item--emphasis-1">
+      <div class="content">
+        <span class="description  lg:description--large">No data available</span>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+{% if titlebar %}
+<div class="title_bar">
+  <span class="title">{{item.name}}</span>
+  {% unless titlebarimage == false %}
+  <span class="instance">  
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Counter-Strike_2_logo.svg/1112px-Counter-Strike_2_logo.svg.png?20230324180109" />                        
+  </span>
+  {% endunless %}
+</div>
+{% endif %}
+
+{% endtemplate %}
+{%- assign data_size = IDX_0.data.size | default: 0 -%}
+{%- assign random_index = "now" | date: "%s" | modulo: data_size -%}
+{%- assign item = IDX_0.data[random_index] -%}

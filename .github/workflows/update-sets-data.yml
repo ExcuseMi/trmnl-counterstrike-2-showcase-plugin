@@ -1,4 +1,4 @@
-name: Update Rebrickable Sets Data
+name: Update Counterstrike items
 
 permissions:
   contents: write
@@ -34,7 +34,7 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "🧱 Update Rebrickable data and plugin options [automated]"
+          commit_message: "🧱 Update Counterstrike data and plugin options [automated]"
           commit_author: "GitHub Actions <actions@github.com>"
           file_pattern: |
             data/*

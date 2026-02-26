@@ -1,0 +1,41 @@
+---
+strategy: polling
+no_screen_padding: 'no'
+dark_mode: 'no'
+static_data: ''
+polling_verb: get
+polling_url: "{%- assign cleaned = item_types\r\n  | replace: '[', ''\r\n  | replace: ']', ''\r\n  | replace: '\"', ''\r\n  | replace: ' ', '' -%}\r\n\r\n{%- assign item_types_list = cleaned | split: \",\" -%}\r\n\r\n{%- assign random_index = \"now\" | date: \"%s\" | modulo: item_types_list.size -%}\r\n{%- assign item_type = item_types_list[random_index] -%}\r\n{%- assign parts =  cleaned | split: \"|\" -%}\r\n{%- assign item =  parts  | first -%}\r\n{% assign file_count = parts | last | plus:0 %}\r\n\r\n{%- assign random_index=  trmnl.system.timestamp_utc | modulo: file_count -%}\r\nhttps://raw.githubusercontent.com/ExcuseMi/trmnl-counterstrike-2-showcase-plugin/refs/heads/main/data/{{item}}/{{random_index}}.json\r\n\r\nhttps://usetrmnl.com/custom_plugin_example_data.json"
+polling_headers: ''
+polling_body: ''
+id: 180810
+custom_fields:
+- keyname: about
+  name: About This Plugin
+  field_type: author_bio
+  category: games
+  github_url: https://github.com/ExcuseMi/trmnl-counterstrike-2-showcase-plugin
+  description: Showcase every available item in Counter-Strike 2, including skins, crates, collectibles, music kits, and more.
+- keyname: item_types
+  field_type: select
+  name: Item Types to Display
+  description: Select all the item types you want to display.
+  options:
+  - Agents: agents|2
+  - Base Weapons: base_weapons|1
+  - Collectibles: collectibles|5
+  - Collections: collections|14
+  - Crates: crates|94
+  - Graffiti: graffiti|23
+  - Highlights: highlights|7
+  - Keychains: keychains|1
+  - Keys: keys|1
+  - Music Kits: music_kits|3
+  - Patches: patches|1
+  - Skins: skins|59
+  - Stickers: stickers|191
+  - Sticker Slabs: stickers_slab|168
+  - Tools: tools|1
+  multiple: true
+  help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> or <kbd>Ctrl</kbd>+<kbd>click</kbd> to select multiple item types.<br />Leave empty to show all item types.
+name: Counter-Strike 2 Item Showcase
+refresh_interval: 60
