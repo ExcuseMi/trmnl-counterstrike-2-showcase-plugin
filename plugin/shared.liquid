@@ -4,8 +4,8 @@
 {% if include_column %}<div class="column border--v-2 pl--2">{% endif %}
   <div class="item w--min-32 w--full">
     <div class="content">
-      <span class="label label--underline lg:label--large">{{name}}</span>
-      <div class="description lg:description--large" data-clamp="8">
+      <span class="label label--underline lg:label--xlarge">{{name}}</span>
+      <div class="description lg:description--xlarge" data-clamp="6">
         {% for value in values %}
         {{ value.name }}<br />
         {% endfor %}
@@ -19,8 +19,8 @@
 {% if include_column %}<div class="column border--v-2 pl--2">{% endif %}
   <div class="item w--min-32 w--full">
     <div class="content">
-      <span class="label label--underline lg:label--large">{{name}}</span>
-      <span class="description lg:description--large" data-clamp="3">{{value}}</span>
+      <span class="label label--underline lg:label--xlarge">{{name}}</span>
+      <span class="description lg:description--xlarge" data-clamp="3">{{value}}</span>
     </div>
   </div>
 {% if include_column %}</div>{% endif %}
@@ -40,7 +40,7 @@
       <div class="flex flex--center-y stretch">
         <div class="item">
           <div class="content">
-            <span class="description  lg:description--large" data-clamp="10"  data-clamp-lg="12">
+            <span class="description  lg:description--xlarge" data-clamp="10"  data-clamp-lg="12">
               {{ item.description
               | replace: "\n", "<br />"
               | newline_to_br
@@ -132,7 +132,7 @@
   <div class="flex flex--col">
     <div class="item item--emphasis-1">
       <div class="content">
-        <span class="description  lg:description--large">No data available</span>
+        <span class="description  lg:description--xlarge">No data available</span>
       </div>
     </div>
   </div>
