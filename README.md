@@ -3,7 +3,7 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2026-06-12 10:15:16 UTC*
+*Last updated: 2026-06-13 09:17:55 UTC*
 
 
 ## <img src="assets/plugin-images/180810_icon.png" alt="Counter-Strike 2 Item Showcase icon" width="32"/> [Counter-Strike 2 Item Showcase](https://usetrmnl.com/recipes/180810)
