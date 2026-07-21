@@ -4,10 +4,32 @@ no_screen_padding: 'no'
 dark_mode: 'no'
 static_data: ''
 polling_verb: get
+framework_version: 2.3.7
+serverless_language: node
 polling_url: "{%- if item_types.size > 0 -%}{%- assign idx = trmnl.system.timestamp_utc | modulo: item_types.size -%}{%- assign selected = item_types[idx] -%}{%- else -%}{%- assign all_types = 'agents,base_weapons,collectibles,collections,crates,graffiti,highlights,keychains,keys,music_kits,patches,skins,stickers,stickers_slab,tools' | split: ',' -%}{%- assign idx = trmnl.system.timestamp_utc | modulo: all_types.size -%}{%- assign selected = all_types[idx] -%}{%- endif -%}https://raw.githubusercontent.com/ByMykel/CSGO-API/refs/heads/main/public/api/en/{{selected}}.json"
 polling_headers: ''
 polling_body: ''
 id: 180810
+oauth_enabled: 'false'
+oauth_pkce_enabled: 'no'
+oauth_authorize_url: ''
+oauth_token_url: ''
+oauth_scopes: ''
+oauth_scope_separator: ''
+oauth_refresh_url: ''
+oauth_auth_params: ''
+oauth_token_headers: ''
+oauth_token_site: ''
+oauth_token_params: ''
+oauth_token_request_auth_method: ''
+oauth_body_format: ''
+oauth_token_response_metadata: ''
+oauth_authorization_method: ''
+oauth_refresh_params: ''
+oauth_token_field_name: ''
+oauth_expiry_field_name: ''
+oauth_expiry_strategy: ''
+oauth_fixed_expiry_ms: ''
 custom_fields:
 - keyname: about
   name: About This Plugin
